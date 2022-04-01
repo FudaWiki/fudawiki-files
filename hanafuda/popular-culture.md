@@ -2,10 +2,10 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2020-10-09T04:10:40.500Z
+date: 2022-04-01T19:07:18.638Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-17T13:06:51.858Z
+dateCreated: 2022-04-01T17:56:34.399Z
 ---
 
 A list of popular media that contains Hanafuda. Intentionally excluded from this list are video games where playing a Hanafuda game is the primary purpose (i.e. Koi-Koi Japan) and video games that are presented as a collection of games where one of the games is a Hanafuda game (i.e. 51 Worldwide Games). For more information on such video games, please view the [Hanafuda Video Game list](/en/hanafuda/video-games).
@@ -36,3 +36,6 @@ Media in which Hanafuda is made reference to
 * [Yu-Gi-Oh! Flower Cardians](https://yugioh.fandom.com/wiki/Flower_Cardian) (花札衛)  
   A Trading Card game and animated television series (Yu-Gi-Oh! ARC-V, 遊☆戯☆王ＡＲＣ－Ⅴ)  
   The Yu-Gi-Oh Flower Cardians are parodies of Hanafuda cards.
+  
+* [Nisemonogatari](https://bakemonogatari.fandom.com/wiki/Nisemonogatari)
+  The game [Koi-Koi](/en/hanafuda/games/koi-koi) is played between Araragi Koyomi and Suruga Kanbaru.  Araragi, or perhaps the author, laments that hanafuda is not more popular.
