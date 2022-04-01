@@ -2,10 +2,10 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-03-24T14:07:11.079Z
+date: 2022-04-01T19:24:02.330Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:31:51.436Z
+dateCreated: 2022-04-01T17:56:54.442Z
 ---
 
 The following is a list of known hanafuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
@@ -20,6 +20,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Rabbit's Oichi (<span lang='ja'>おいちょうさぎ</span>)](/en/hanafuda/video-games/android/rabbits-oichi)
 * [Rabbit’s Hanafuda 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
 * [Rabbit’s Hanafuda Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
+* [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo)
 ## Android/iOS
 * [Hanafuda gēmu dai shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo)
 * [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
