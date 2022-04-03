@@ -2,10 +2,10 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-03-18T01:20:46.010Z
+date: 2022-04-03T14:25:03.091Z
 tags: kabufuda
 editor: markdown
-dateCreated: 2021-08-16T18:39:55.141Z
+dateCreated: 2022-04-01T17:57:10.313Z
 ---
 
 # Traditional Games
@@ -17,5 +17,5 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |:---|:---:|:---:|---:|
 |[Gomai-Kabu](/en/kabufuda/games/gomai-kabu)|2-8|Showdown|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-10|Showdown|Japan|
-|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
+|[Oicho-Kabu](/en/hanafuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
 
