@@ -2,12 +2,11 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-04-05T01:34:10.267Z
+date: 2022-04-10T15:23:12.817Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
 ---
-
 
 Six Hundred - 六百間 [ろっぴゃっけん, *roppyakken*] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) card as a de-facto Bright card.
 
