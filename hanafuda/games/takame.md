@@ -2,10 +2,10 @@
 title: Takame
 description: A simple hanafuda betting game with a 50-50 chance of winning or losing.
 published: true
-date: 2021-04-26T06:22:37.847Z
+date: 2022-04-10T15:21:40.211Z
 tags: hanafuda games, showdown games
 editor: markdown
-dateCreated: 2021-04-26T06:22:37.847Z
+dateCreated: 2022-04-01T18:03:42.233Z
 ---
 
 **Takame** [高目 - たかめ] is a strictly luck-based 2-player game, and perhaps the simplest of all [hanafuda](/en/hanafuda) gambling games.

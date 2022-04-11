@@ -1,4 +1,14 @@
 ---
+title: shinji-and-good-friends-second-hanafuda-impact
+description: 
+published: true
+date: 2022-04-10T15:35:49.828Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:37:14.658Z
+---
+
+---
 title: Shinji and Good Friends: Second Hanafuda Impact
 description: 
 published: true

@@ -1,4 +1,14 @@
 ---
+title: at-enta-taisen-hanafuda-koi-koi-kassen
+description: 
+published: true
+date: 2022-04-10T15:26:49.674Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:27:34.783Z
+---
+
+---
 title: at Enta! Taisen Hanafuda: Koi Koi Kassen
 description: 
 published: true

@@ -1,4 +1,14 @@
 ---
+title: color-version-hanafuda-high-resolution
+description: 
+published: true
+date: 2022-04-10T15:30:12.203Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:31:04.167Z
+---
+
+---
 title: Color Version: Hanafuda (High Resolution)
 description: 
 published: true

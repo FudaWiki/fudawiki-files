@@ -2,10 +2,10 @@
 title: Liste des Jeux Hanafuda
 description: Une liste de jeux hanafuda connus, autant traditionnels que modernes
 published: true
-date: 2021-03-01T22:56:50.899Z
+date: 2022-04-10T15:20:09.074Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-01T15:24:54.206Z
+dateCreated: 2022-04-01T17:59:40.827Z
 ---
 
 # Jeux Traditionnels

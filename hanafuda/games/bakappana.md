@@ -2,10 +2,10 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-30T02:34:34.942Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:17.093Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2020-09-20T22:31:01.682Z
+dateCreated: 2022-04-01T18:00:01.267Z
 ---
 
 *Bakappana* [馬鹿っ花 - ばかっぱな, lit. "foolish flowers"] is a name applied to simplified hanafuda fishing games. As with the name "Hana-Awase," it may refer to a number of different games, depending on the source and time period in question.

@@ -2,10 +2,10 @@
 title: Paulownia
 description: La douzième suite du Hanafuda, qui représente Décembre ou le numéro 12
 published: true
-date: 2021-02-26T11:23:27.223Z
+date: 2022-04-10T15:23:33.521Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-26T11:23:27.223Z
+dateCreated: 2022-04-01T18:09:31.547Z
 ---
 
 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Le Paulownia [桐 - きり, *kiri*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la douzième suite, représentant le mois de Décembre [十二月 - じゅうにがつ - *jūnigatsu*] ou le numéro 12. Les cartes dans cette suite comportent toutes de larges feuilles de paulownia avec des fleurs violettes et des capsules. Il s'agit de la seule suite comportant trois cartes normales, et elle comporte aussi une carte Lumière. 

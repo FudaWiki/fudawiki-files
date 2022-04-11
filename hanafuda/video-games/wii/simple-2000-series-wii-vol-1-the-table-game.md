@@ -1,4 +1,14 @@
 ---
+title: simple-2000-series-wii-vol-1-the-table-game
+description: 
+published: true
+date: 2022-04-10T15:33:57.504Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:09.680Z
+---
+
+---
 title: Simple 2000 Series Wii Vol. 1: The Table Game
 description: 
 published: true

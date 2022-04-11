@@ -1,4 +1,14 @@
 ---
+title: bargain-5-pack-go-shogi-mahjong-hanafuda-playing-cards-new
+description: 
+published: true
+date: 2022-04-10T15:34:10.120Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:26.576Z
+---
+
+---
 title: Bargain 5-Pack: Go, Shogi, Mahjong, Hanafuda, Playing Cards NEW
 description: 
 published: true

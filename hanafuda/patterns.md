@@ -2,7 +2,7 @@
 title: List of Hanafuda Patterns
 description: A list of known traditional card patterns
 published: true
-date: 2022-04-01T19:01:20.428Z
+date: 2022-04-10T15:18:17.021Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z

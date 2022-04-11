@@ -2,10 +2,10 @@
 title: Ichi-Ni-San
 description: A 3-player hanafuda game with simple rules and few yaku
 published: true
-date: 2021-04-18T20:23:06.149Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:43.523Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2021-04-16T04:54:50.990Z
+dateCreated: 2022-04-01T18:00:47.214Z
 ---
 
 Ichi-Ni-San (一二三, lit. "One-Two-Three") is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for three players, with simple gambling rules. It is thought that the name of the game is in reference to the 1, 2, or 3 shares that are at stake each round, depending on how the round ends.

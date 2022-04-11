@@ -2,6 +2,16 @@
 title: Koi Koi Shimasho 2: Super Real Hanafuda
 description: 
 published: true
+date: 2022-04-10T15:25:45.665Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-03T15:34:55.218Z
+---
+
+---
+title: Koi Koi Shimasho 2: Super Real Hanafuda
+description: 
+published: true
 date: 2022-04-03T15:34:55.218Z
 tags: 
 editor: markdown

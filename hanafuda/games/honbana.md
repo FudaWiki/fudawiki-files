@@ -2,10 +2,10 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2021-04-18T07:39:21.512Z
-tags: alternate suit order, fishing games, hanafuda games, stripped deck
+date: 2022-04-10T15:20:41.034Z
+tags: hanafuda games, fishing games, alternate suit order, stripped deck
 editor: markdown
-dateCreated: 2020-10-26T03:11:27.576Z
+dateCreated: 2022-04-01T18:00:41.306Z
 ---
 
 **Hon-Bana** - 本花 [ほんばな] is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 Department of Justice document as being the most typical hana-awase game of the region. As with other games from Nagoya, it uses an alternate [suit](/en/hanafuda/suits) ordering from what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.

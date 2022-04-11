@@ -2,10 +2,10 @@
 title: Koi Koi
 description: 
 published: true
-date: 2021-09-25T09:46:56.566Z
+date: 2022-04-10T15:30:24.747Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:49:47.341Z
+dateCreated: 2022-04-01T18:23:26.606Z
 ---
 
 _Koi Koi_ (<span lang='ja'>コイコイ</span>) is a PC-88 game published by Kukuju Electric Co..

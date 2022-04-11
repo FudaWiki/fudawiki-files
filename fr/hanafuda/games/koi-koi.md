@@ -2,10 +2,10 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-13T21:25:16.497Z
+date: 2022-04-10T15:23:07.404Z
 tags: jeu, jeu de pêche
 editor: markdown
-dateCreated: 2021-03-10T16:04:14.557Z
+dateCreated: 2022-04-01T18:08:29.706Z
 ---
 
 Le **Koi-Koi** [こいこい] fait partie des jeux hanafuda les plus **populaires** en dehors du Japon. C'est un jeu de pêche pour deux joueurs. Son nom vient d'une mécanique de jeu qui permet aux joueurs de décider de continuer le tour (en disant *"koi-koi"*, lit. "allez!") et de risquer leurs points pour avoir la chance d'améliorer leur score, ou de terminer leur tour (en disant *"shōbu”* [勝負 - しょうぶ], lit. “jeu” ou “match”) et conserver les points qu'ils ont actuellement. 

@@ -1,4 +1,14 @@
 ---
+title: bishoujo-hanafuda-club-vol-1-oicho-kabu-hen
+description: 
+published: true
+date: 2022-04-10T15:27:00.273Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:27:47.364Z
+---
+
+---
 title: Bishoujo Hanafuda Club Vol. 1: Oicho-Kabu-hen
 description: 
 published: true

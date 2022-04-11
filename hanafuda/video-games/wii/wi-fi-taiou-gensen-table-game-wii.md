@@ -1,4 +1,14 @@
 ---
+title: wi-fi-taiou-gensen-table-game-wii
+description: 
+published: true
+date: 2022-04-10T15:34:00.249Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:13.686Z
+---
+
+---
 title: Wi-Fi Taiou: Gensen Table Game Wii
 description: 
 published: true

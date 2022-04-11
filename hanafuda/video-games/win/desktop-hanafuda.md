@@ -2,10 +2,11 @@
 title: Desktop Hanafuda
 description: 
 published: true
-date: 2021-09-13T21:20:27.3210809Z 
+date: 2022-04-10T15:34:25.544Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:20:27.3210809Z
+dateCreated: 2022-04-01T22:59:53.163Z
 ---
+
 _Desktop Hanafuda_ (<span lang='ja'>デスクトップ花札</span>) is a WIN game published in 2000 by Magnolia.
 

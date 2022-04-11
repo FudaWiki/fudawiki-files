@@ -1,4 +1,14 @@
 ---
+title: 100-bannin-no-tameno-otoku-set-othello-hanafuda-daifugou
+description: 
+published: true
+date: 2022-04-10T15:34:02.576Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:17.755Z
+---
+
+---
 title: 100-Bannin no Tameno Otoku Set: Othello - Hanafuda - Daifugou
 description: 
 published: true

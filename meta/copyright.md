@@ -2,10 +2,10 @@
 title: Copyrights
 description: Copyright Information
 published: true
-date: 2021-08-16T19:37:25.676Z
+date: 2022-04-10T15:18:42.248Z
 tags: 
 editor: markdown
-dateCreated: 2020-10-14T17:32:21.300Z
+dateCreated: 2022-04-01T17:57:19.976Z
 ---
 
 # Copyrights

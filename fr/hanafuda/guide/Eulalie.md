@@ -2,10 +2,10 @@
 title: Eulalie
 description: La huitième suite du Hanafuda, qui représente Août ou le numéro 8
 published: true
-date: 2021-02-27T15:05:22.148Z
+date: 2022-04-10T15:23:23.595Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-22T16:43:18.998Z
+dateCreated: 2022-04-01T18:09:08.798Z
 ---
 
 ![Icon for month 8](/hanafuda/icons/monthicon_8.png =25x)L'Eulalie [芒 - すすき, *susuki*], aussi connue en français sous le nom de Roseau de Chine ou Miscanthus sinensis, est le nom d'une [suites](/fr/hanafuda/guide/suite) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la huitième suite, représentant le mois d'Août [八月	- はちがつ, *hachigatsu*] ou le numéro 8. Les cartes dans cette suite comportent toutes des champs vallonnés de roseau de Chine. Il y a deux cartes Normales, une carte Animal et une carte Lumière. La carte Animal de l'Eulalie comporte un troupeau d'oies [雁 - かり, *kari*] (généralement trois) volant au-dessus de la colline. La carte Lumière présente une grande pleine lune blanche [月 - つき, *tsuki*] devant un ciel rouge. 

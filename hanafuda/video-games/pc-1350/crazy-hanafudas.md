@@ -2,10 +2,10 @@
 title: Crazy Hanafudas
 description: 
 published: true
-date: 2021-09-28T22:23:35.623Z
+date: 2022-04-10T15:29:37.656Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-28T22:23:35.623Z
+dateCreated: 2022-04-01T18:21:53.014Z
 ---
 
 _Crazy Hanafudas_ (<span lang='ja'>Crazy 花札s</span>) is a PC-1350 game published in 1988/03 by Pockecom Journal.

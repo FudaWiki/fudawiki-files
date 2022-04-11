@@ -2,10 +2,10 @@
 title: Hanafuda Hana Ginga [BET]
 description: 
 published: true
-date: 2021-10-19T11:09:11.960Z
+date: 2022-04-10T15:25:14.053Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:29.615Z
+dateCreated: 2022-04-01T18:13:10.095Z
 ---
 
 _Hanafuda Hana Ginga [BET]_ (<span lang='ja'>華銀河</span>) is an Arcade game published in 1994 by Dynax.

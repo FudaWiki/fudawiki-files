@@ -2,10 +2,10 @@
 title: Sashikomi
 description: A 3-card kabu game for 2 players.
 published: true
-date: 2021-04-28T02:57:38.581Z
+date: 2022-04-10T15:21:30.669Z
 tags: hanafuda games, kabu games, showdown games
 editor: markdown
-dateCreated: 2021-04-26T06:43:34.523Z
+dateCreated: 2022-04-01T18:03:00.145Z
 ---
 
 **Sashikomi** [指込 - さしこみ] is a 2-player gambling [game](/en/hanafuda/games) played using [hanafuda](/en/hanafuda). It belongs to the *kabu* genre of showdown games, whose goal is to make a hand whose sum ends in "9". It is mostly luck-based, but includes a discard-and-draw choice reminiscent of that used in Draw Poker that gives it some strategy.

@@ -2,10 +2,10 @@
 title: Hanafuda
 description: 花札 (lit. Jeu des Fleurs)
 published: true
-date: 2021-03-04T09:13:04.061Z
+date: 2022-04-10T15:17:48.137Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-01T15:40:11.675Z
+dateCreated: 2022-04-01T22:32:41.884Z
 ---
 
  L' **Hanafuda** [花札 - はなふだ], lit. “Jeu des Fleurs”, est un jeu de cartes japonais utilisé pour jouer, de la même manière que le format de cartes à jouer occidental standard. Cependant, contrairement aux cartes occidentales, l'*hanafuda* standard se compose de 12 suites de 4 cartes chacune. 

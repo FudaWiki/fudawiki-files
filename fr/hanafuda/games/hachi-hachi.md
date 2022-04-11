@@ -2,10 +2,10 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-13T00:25:17.565Z
+date: 2022-04-10T15:23:03.215Z
 tags: jeu, jeu de pêche
 editor: markdown
-dateCreated: 2021-04-08T16:10:34.610Z
+dateCreated: 2022-04-01T18:08:23.329Z
 ---
 
 Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour **3 à 6 joueurs**—mais nous recommandons de s'arrêter à 4 ou 5 joueurs maximum. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces). Il contient notamment : 

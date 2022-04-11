@@ -1,4 +1,14 @@
 ---
+title: bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen
+description: 
+published: true
+date: 2022-04-10T15:27:02.596Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:27:50.578Z
+---
+
+---
 title: Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen
 description: 
 published: true

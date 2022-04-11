@@ -2,10 +2,10 @@
 title: Pin
 description: La première suite du Hanafuda, qui représente Janvier ou le numéro 1
 published: true
-date: 2021-02-27T14:41:31.283Z
+date: 2022-04-10T15:23:35.991Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-17T15:59:49.380Z
+dateCreated: 2022-04-01T18:09:37.580Z
 ---
 
 Le ![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)Pin [松 - まつ, *matsu*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la première suite, représentant le mois de Janvier [一月 - いちがつ, *ichigatsu*] ou le numéro 1. Les cartes dans cette suite comportent toutes des pins. Il y a deux cartes normales, une carte Ruban avec Poème et une Lumière. La carte Lumière de la suite du Pin présente une grue [鶴 - つる *tsuru*] parmi les pins ainsi qu'un soleil rouge dans le coin supérieur droit de la carte.

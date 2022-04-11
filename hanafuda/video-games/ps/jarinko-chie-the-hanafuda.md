@@ -1,4 +1,14 @@
 ---
+title: jarinko-chie-the-hanafuda
+description: 
+published: true
+date: 2022-04-10T15:31:58.143Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:32:54.827Z
+---
+
+---
 title: Jarinko Chie: The Hanafuda
 description: 
 published: true

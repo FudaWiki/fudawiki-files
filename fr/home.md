@@ -2,10 +2,10 @@
 title: Fudawiki
 description: Le wiki pour tous les types de jeux de cartes japonais traditionnels
 published: true
-date: 2021-04-12T08:01:01.348Z
+date: 2022-04-10T15:17:50.669Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-01T07:39:37.883Z
+dateCreated: 2022-04-01T22:32:48.486Z
 ---
 
 Bienvenue !

@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-04-03T16:58:21.298Z
+date: 2022-04-10T15:18:37.410Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z

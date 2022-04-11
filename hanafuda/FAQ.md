@@ -2,10 +2,10 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-03-09T09:53:04.592Z
+date: 2022-04-10T15:17:58.155Z
 tags: faqs
 editor: markdown
-dateCreated: 2021-02-21T21:17:33.771Z
+dateCreated: 2022-04-01T17:55:56.200Z
 ---
 
 This page contains answers to some common questions related to [Hanafuda](/en/hanafuda) and [Koi-Koi](/en/hanafuda/games/koi-koi). Please note that this page contains original research.

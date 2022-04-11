@@ -2,10 +2,10 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-03-02T18:22:34.768Z
+date: 2022-04-10T15:23:49.118Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-17T15:17:37.007Z
+dateCreated: 2022-04-01T18:10:08.267Z
 ---
 
 Sakura est un jeu populaire de hanafuda à Hawaii pour deux à sept joueurs (bien qu'on dit qu'il est préférable entre 2 et 4). Il est également connu sous les noms Higo-Bana, Koi-Koi Hawaïen ou même juste Hanafuda. Il utilise un système de points unique, les familles Rubans et Animaux/Objets échangent leurs points respectifs habituels. Il comporte également des règles Hihi uniques et utilise la carte Foudre comme joker. 

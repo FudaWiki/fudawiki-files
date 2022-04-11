@@ -2,10 +2,10 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-18T22:23:51.497Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:34.969Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2021-04-08T23:17:59.824Z
+dateCreated: 2022-04-01T18:00:27.904Z
 ---
 
 **Hachi** [八, はち *hachi*, lit. "Eight"] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for two players loosely based on [Hana Awase](/en/hanafuda/games/hana-awase), but with several unique characteristics, most notably its capture mechanic. In it, cards do not generally capture within their own [suit](/en/hanafuda/suits) as in other games of the genre, but rather may capture from a specific set of suits. Based on the similarity between their yaku inventories, it is likely related to the game [Kekoro](/en/hanafuda/games/kekoro).

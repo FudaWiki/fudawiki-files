@@ -2,10 +2,10 @@
 title: Pivoine
 description: La sixième suite du Hanafuda, qui représente Juin ou le numéro 6
 published: true
-date: 2021-02-27T14:58:57.128Z
+date: 2022-04-10T15:23:38.485Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-22T11:09:22.659Z
+dateCreated: 2022-04-01T18:09:43.764Z
 ---
 
 ![Icon for month 6](/hanafuda/icons/monthicon_6.png =25x) La Pivoine [牡丹 - ぼたん, *botan*] est une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la sixième suite, représentant le mois de Juin [六月	- ろくがつ,	*rokugatsu*] ou le numéro 6. Les cartes dans cette suite comportent toutes des fleurs de pivoine rouges. Il y a deux cartes Normales, une carte Ruban Bleu et une carte Animal. La carte Animal de la Pivoine présente des papillons [蝶 - ちょう, *chō*] flottants au-dessus des pivoines parfumées.

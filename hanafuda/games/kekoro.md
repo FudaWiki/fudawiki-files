@@ -2,10 +2,10 @@
 title: Kekoro
 description: A 2-player hanafuda game with card values like Sudaoshi and yaku similar to Hachi.
 published: true
-date: 2021-04-22T04:09:52.324Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:52.328Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2021-04-17T05:18:37.680Z
+dateCreated: 2022-04-01T18:01:10.864Z
 ---
 
 **Kekoro** [けころ] is a 2-player fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are the same as those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - generally as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.

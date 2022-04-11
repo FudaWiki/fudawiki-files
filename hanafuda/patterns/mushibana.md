@@ -2,7 +2,7 @@
 title: Mushi-Bana
 description: A regional Kansai hanafuda pattern containing only 40 cards
 published: true
-date: 2022-04-01T19:04:35.070Z
+date: 2022-04-10T15:22:10.997Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2022-04-01T18:05:28.718Z

@@ -2,10 +2,10 @@
 title: Fleur de Cerisier
 description: La troisième suite du Hanafuda, qui représente Mars ou le numéro 3
 published: true
-date: 2021-02-27T14:47:48.825Z
+date: 2022-04-10T15:23:18.523Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-17T17:18:16.079Z
+dateCreated: 2022-04-01T18:08:56.444Z
 ---
 
 ![Icon for month 3](/hanafuda/icons/monthicon_3.png =25x) La Fleur de Cerisier [桜 - さくら, *sakura*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la troisième suite, représentant le mois de Mars [三月	- さんがつ	*sangatsu*] ou le numéro 3. Les cartes dans cette suite comportent toutes des fleurs de cerisiers rouges et roses. Il y a deux cartes Normales, une carte Ruban avec Poème et une carte Lumière. La carte Lumière de la suite de la Fleur de Cerisier présente un rideau de campement [幕 - まく, *maku*] sur la moitié inférieure de la carte, derrière lequel on peut imaginer la présence de personnes profitant de la vue des magnifiques fleurs de cerisier.

@@ -2,10 +2,10 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-03-03T10:37:05.987Z
-tags: fishing games, hanafuda games, hwatu
+date: 2022-04-10T15:21:08.221Z
+tags: hanafuda games, hwatu, fishing games
 editor: markdown
-dateCreated: 2021-03-09T06:14:35.593Z
+dateCreated: 2022-04-01T18:01:52.656Z
 ---
 
 **Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-6 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.

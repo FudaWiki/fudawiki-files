@@ -2,10 +2,11 @@
 title: CD Hanafuda Bishoujo Fan Club
 description: 
 published: true
-date: 2021-09-13T21:20:27.2929658Z 
+date: 2022-04-10T15:33:35.872Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:20:27.2929658Z
+dateCreated: 2022-04-01T22:58:44.576Z
 ---
+
 _CD Hanafuda Bishoujo Fan Club_ (<span lang='ja'>CD花札 美少女ファンクラブ</span>) is a TCD game published in 1994.
 It was developed by GAMES EXPRESS.

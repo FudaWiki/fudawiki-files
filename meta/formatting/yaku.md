@@ -2,10 +2,10 @@
 title: Formatting Yaku Section
 description: This guide helps the contributor to format the yaku sections of the games rules
 published: true
-date: 2021-04-18T07:53:19.280Z
+date: 2022-04-10T15:22:57.031Z
 tags: 
 editor: markdown
-dateCreated: 2021-04-17T17:12:01.298Z
+dateCreated: 2022-04-01T18:08:12.464Z
 ---
 
 # Yaku

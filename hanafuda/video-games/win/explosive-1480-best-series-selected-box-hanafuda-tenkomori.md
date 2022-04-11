@@ -1,4 +1,14 @@
 ---
+title: explosive-1480-best-series-selected-box-hanafuda-tenkomori
+description: 
+published: true
+date: 2022-04-10T15:34:28.299Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:52.576Z
+---
+
+---
 title: Explosive 1480 Best Series - Selected! BOX: Hanafuda Tenkomori
 description: 
 published: true

@@ -2,10 +2,10 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-09-25T09:25:08.239Z
+date: 2022-04-10T15:30:00.265Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-25T09:25:08.239Z
+dateCreated: 2022-04-01T18:22:45.063Z
 ---
 
 _Koi-Koi_ (<span lang='ja'>コイコイ</span>) is a PC-80 game published in 1981 by ASCII Magazine.

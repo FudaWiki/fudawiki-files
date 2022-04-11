@@ -1,4 +1,14 @@
 ---
+title: chotto-asobi-taizen-onajimi-table
+description: 
+published: true
+date: 2022-04-10T15:26:52.520Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:27:38.233Z
+---
+
+---
 title: Chotto Asobi Taizen: Onajimi Table
 description: 
 published: true

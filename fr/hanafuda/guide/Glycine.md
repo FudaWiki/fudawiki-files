@@ -2,10 +2,10 @@
 title: Glycine
 description: La quatrième suite du Hanafuda, qui représente Avril ou le numéro 4
 published: true
-date: 2021-02-27T14:50:39.515Z
+date: 2022-04-10T15:23:26.238Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-17T21:38:07.325Z
+dateCreated: 2022-04-01T18:09:14.417Z
 ---
 
 ![Icon for month 4](/hanafuda/icons/monthicon_4.png =25x) La Glycine [藤 - ふじ, *fuji*] est une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la quatrième suite, représentant le mois d'Avril [四月 - しがつ, *shigatsu*] ou le numéro 4. Les cartes dans cette suite comportent toutes des vignes de glycine suspendues avec des grappes de fleurs violacées. Il y a deux cartes Normales, une carte Ruban et une carte Animal. La carte Animal de la Glycine présente un Petit Coucou [不如帰 - ほととぎす, *hototogisu*]. 

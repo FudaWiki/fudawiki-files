@@ -2,6 +2,16 @@
 title: 1500DS Spirits Vol. 5: Hanafuda
 description: 
 published: true
+date: 2022-04-10T15:26:16.925Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-03T15:36:30.814Z
+---
+
+---
+title: 1500DS Spirits Vol. 5: Hanafuda
+description: 
+published: true
 date: 2022-04-03T15:36:30.814Z
 tags: 
 editor: markdown

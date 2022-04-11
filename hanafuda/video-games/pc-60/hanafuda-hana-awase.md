@@ -2,10 +2,11 @@
 title: Hanafuda Hana-Awase
 description: 
 published: true
-date: 2021-09-13T21:20:27.2364730Z 
+date: 2022-04-10T15:29:45.086Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:20:27.2364730Z
+dateCreated: 2022-04-01T18:22:10.742Z
 ---
+
 _Hanafuda Hana-Awase_ (<span lang='ja'>花札花合わせ</span>) is a PC-60 game published in 1986 by I/O.
 

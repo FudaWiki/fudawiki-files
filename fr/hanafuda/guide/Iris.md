@@ -2,10 +2,10 @@
 title: Iris
 description: La cinquième suite du Hanafuda, qui représente Mai ou le numéro 5
 published: true
-date: 2021-02-27T14:56:27.146Z
+date: 2022-04-10T15:23:28.735Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-18T12:34:14.702Z
+dateCreated: 2022-04-01T18:09:20.318Z
 ---
 
 ![Icon for month 5](/hanafuda/icons/monthicon_5.png =25x) L'Iris [菖蒲 - あやめ, *ayame*] est une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la cinquième suite, représentant le mois de Mai [五月	- ごがつ, *gogatsu*] ou le numéro 5. Les cartes dans cette suite comportent toutes des fleurs d'iris bleuâtres. Il y a deux cartes Normales, une carte Ruban et une carte Animal/Objet. La carte Animal/Objet de l'Iris comporte un Pont de Huit Planches [八橋 - やつはし, *yatsuhashi*] au-dessus d'un marais bleu. 

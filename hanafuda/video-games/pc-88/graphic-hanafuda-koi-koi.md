@@ -2,10 +2,10 @@
 title: Graphic Hanafuda Koi-Koi
 description: 
 published: true
-date: 2021-09-25T09:43:51.507Z
+date: 2022-04-10T15:30:14.589Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:49:35.472Z
+dateCreated: 2022-04-01T18:23:02.801Z
 ---
 
 _Graphic Hanafuda Koi-Koi_ (<span lang='ja'>ぐらふぃっく花札こいこい</span>) is a PC-88 game published in 1983 by I/O.

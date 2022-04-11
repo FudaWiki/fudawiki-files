@@ -2,10 +2,10 @@
 title: Yumefuda [BET]
 description: 
 published: true
-date: 2021-10-19T11:02:37.559Z
+date: 2022-04-10T15:26:04.690Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:59.033Z
+dateCreated: 2022-04-01T18:14:55.161Z
 ---
 
 _Yumefuda [BET]_ (<span lang='ja'>夢札</span>) is an Arcade game published in 1991 by Alba.

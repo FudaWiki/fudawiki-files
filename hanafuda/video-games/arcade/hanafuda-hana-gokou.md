@@ -2,10 +2,10 @@
 title: Hanafuda Hana Gokou
 description: 
 published: true
-date: 2021-10-19T11:10:34.037Z
+date: 2022-04-10T15:25:18.683Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:32.567Z
+dateCreated: 2022-04-01T18:13:20.472Z
 ---
 
 _Hanafuda Hana Gokou_ (<span lang='ja'>華五光</span>) is an Arcade game published in 1995 by Dynax.

@@ -2,10 +2,10 @@
 title: Hanafuda Hana Tengoku
 description: 
 published: true
-date: 2021-10-19T11:18:30.947Z
+date: 2022-04-10T15:25:23.515Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:35.498Z
+dateCreated: 2022-04-01T18:13:31.451Z
 ---
 
 _Hanafuda Hana Tengoku_ (<span lang='ja'>華天国</span>) is an Arcade game published in 1992 by Dynax.

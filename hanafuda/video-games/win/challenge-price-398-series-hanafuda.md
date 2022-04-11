@@ -1,4 +1,14 @@
 ---
+title: challenge-price-398-series-hanafuda
+description: 
+published: true
+date: 2022-04-10T15:34:20.266Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:35:42.009Z
+---
+
+---
 title: Challenge Price 398 Series: Hanafuda
 description: 
 published: true

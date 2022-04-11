@@ -2,10 +2,10 @@
 title: Érable
 description: La dixième suite du Hanafuda, qui représente Octobre ou le numéro 10
 published: true
-date: 2021-02-24T22:31:37.443Z
+date: 2022-04-10T15:23:46.358Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-24T22:31:37.443Z
+dateCreated: 2022-04-01T18:10:01.446Z
 ---
 
 ![Icon for month 10](/hanafuda/icons/monthicon_10.png =25x)L'Érable [紅葉 - もみじ, *momiji*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la dixième suite, représentant le mois d'Octobre [十月	- じゅうがつ, *jūgatsu*] ou le numéro 10. Les cartes dans cette suite comportent toutes des feuilles d'érable tombantes de différentes couleurs, surtout rouges et jaunes. Il y a deux cartes normales, une carte Ruban Bleu et une carte Animal. La carte Animal de la suite du Chrysanthème comporte un Cerf orange [鹿 - しか, *shika*] qui se tient à côté d'un érable. 

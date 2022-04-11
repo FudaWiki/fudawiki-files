@@ -2,10 +2,10 @@
 title: Maido Hanafuda
 description: 
 published: true
-date: 2021-09-25T10:54:25.211Z
+date: 2022-04-10T15:23:51.610Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:44:27.375Z
+dateCreated: 2022-04-01T18:10:14.942Z
 ---
 
 _Maido Hanafuda_ (<span lang='ja'>毎度 花札</span>) is a 3DSWare game published in 2012 by Arc System Works.

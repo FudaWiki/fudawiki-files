@@ -1,4 +1,14 @@
 ---
+title: isseki-hacchou-kore-1-pon-de-8-shurui
+description: 
+published: true
+date: 2022-04-10T15:27:29.842Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:28:20.204Z
+---
+
+---
 title: Isseki Hacchou: Kore 1-pon de 8 Shurui!
 description: 
 published: true

@@ -2,10 +2,10 @@
 title: The Hanafuda
 description: 
 published: true
-date: 2021-09-29T17:07:18.776Z
+date: 2022-04-10T15:36:58.174Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:56:04.364Z
+dateCreated: 2022-04-01T23:06:02.542Z
 ---
 
 _The Hanafuda_ (<span lang='ja'>ザ・花札</span>) is an X1 game published in 1983 by dB-SOFT.

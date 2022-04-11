@@ -2,10 +2,10 @@
 title: Abricotier du Japon
 description: La seconde suite du Hanafuda, qui représente Février ou le numéro 2
 published: true
-date: 2021-02-27T14:45:29.426Z
+date: 2022-04-10T15:23:15.814Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-17T16:33:29.986Z
+dateCreated: 2022-04-01T18:08:50.039Z
 ---
 
 ![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)L'Abricotier du Japon [梅 - うめ, *ume*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle peut être appelée par d'autres noms comme Fleur de Prunier selon d'autres interprétations. Elle est généralement considérée comme la seconde suite, représentant le mois de Février [二月 - にがつ, *nigatsu*] ou le numéro 2. Les cartes dans cette suite comportent toutes des abricotiers du Japon avec des fleurs et des boutons rouges. Il y a deux cartes normales, une carte Ruban avec Poème et une carte Animal. Cette dernière présente une bouscarle chanteuse [鴬 - うぐいす, *uguisu*] perchée sur une branche de fleur d'abricotier. 

@@ -2,10 +2,10 @@
 title: Hana Shobu
 description: 
 published: true
-date: 2021-10-19T12:02:03.636Z
+date: 2022-04-10T15:24:58.648Z
 tags: 
 editor: markdown
-dateCreated: 2021-10-19T12:02:03.636Z
+dateCreated: 2022-04-01T18:12:38.518Z
 ---
 
 _Hana Shobu_ (<span lang='ja'>華菖蒲</span>) is an Arcade game published in 1987? by Dynax.

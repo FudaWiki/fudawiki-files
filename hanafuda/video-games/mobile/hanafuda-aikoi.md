@@ -2,10 +2,10 @@
 title: Hanafuda Aikoi
 description: 
 published: true
-date: 2021-09-28T22:46:11.298Z
+date: 2022-04-10T15:28:14.425Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-28T22:28:42.551Z
+dateCreated: 2022-04-01T18:18:35.404Z
 ---
 
 _Hanafuda Aikoi_ (<span lang='ja'>花札あいこい</span>) is an i-mode mobile phone game published in 2001.

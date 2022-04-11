@@ -2,10 +2,10 @@
 title: Lespédéza
 description: La septième suite du Hanafuda, qui représente Juillet ou le numéro 7
 published: true
-date: 2021-02-27T15:04:20.201Z
+date: 2022-04-10T15:23:31.083Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-22T15:45:06.788Z
+dateCreated: 2022-04-01T18:09:26.248Z
 ---
 
 ![Icon for month 7](/hanafuda/icons/monthicon_7.png =25x)Le Lespédéza [萩 - はぎ, *hagi*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la septième suite, représentant le mois de Juillet [七月	- しちがつ,	*shichigatsu*] ou le numéro 7. Les cartes dans cette suite comportent toutes des feuilles de lespédéza vertes et rouges. Il y a deux cartes Normales, une carte Ruban et une carte Animal. La carte Animal du Lespédéza présente un sanglier orange [猪 - いのしし, *inoshishi*] émergeant de la brousse.

@@ -1,4 +1,14 @@
 ---
+title: elf-o-karu-monotachi-hanafuda-hen
+description: 
+published: true
+date: 2022-04-10T15:33:01.338Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:34:08.498Z
+---
+
+---
 title: Elf o Karu Monotachi: Hanafuda-Hen
 description: 
 published: true

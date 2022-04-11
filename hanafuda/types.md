@@ -2,10 +2,10 @@
 title: Card Types
 description: A categorization scheme for cards within the hanafuda deck.
 published: true
-date: 2021-04-30T01:40:12.060Z
+date: 2022-04-10T15:18:26.985Z
 tags: card types
 editor: markdown
-dateCreated: 2021-04-23T05:14:38.664Z
+dateCreated: 2022-04-01T17:56:49.473Z
 ---
 
 **Card types** are a way of grouping specific cards across different [suits](/en/hanafuda/suits) in the [hanafuda](/en/hanafuda) deck. If the 12 suits in a hanafuda deck are analogous to the 13 values in a Western deck, the 4 hanafuda card types can be said to be analogous to the Western deck's 4 suits. However, **each card type contains a different number of cards and is distributed differently across the suits.** 

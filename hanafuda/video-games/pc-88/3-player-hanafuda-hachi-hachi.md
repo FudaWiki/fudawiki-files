@@ -1,4 +1,14 @@
 ---
+title: 3-player-hanafuda-hachi-hachi
+description: 
+published: true
+date: 2022-04-10T15:30:06.062Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:30:57.881Z
+---
+
+---
 title: 3 Player Hanafuda: Hachi-Hachi
 description: 
 published: true

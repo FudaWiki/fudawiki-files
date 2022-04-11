@@ -1,4 +1,14 @@
 ---
+title: hanafuda-graffiti-koi-koi-monogatari
+description: 
+published: true
+date: 2022-04-10T15:31:40.014Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:32:34.903Z
+---
+
+---
 title: Hanafuda Graffiti: Koi Koi Monogatari
 description: 
 published: true

@@ -2,7 +2,7 @@
 title: Kabufuda
 description: Japanese single-suited cards
 published: true
-date: 2022-04-01T18:58:25.995Z
+date: 2022-04-10T15:17:42.425Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:37.683Z

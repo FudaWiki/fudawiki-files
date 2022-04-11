@@ -1,4 +1,14 @@
 ---
+title: 64-hanafuda-tenshi-no-yakusoku
+description: 
+published: true
+date: 2022-04-10T15:28:56.956Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-10T14:29:50.371Z
+---
+
+---
 title: 64 Hanafuda: Tenshi no Yakusoku
 description: 
 published: true

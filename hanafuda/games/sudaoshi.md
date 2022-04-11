@@ -2,10 +2,10 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-22T04:58:41.803Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:21:37.605Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2020-11-16T22:17:27.610Z
+dateCreated: 2022-04-01T18:03:29.686Z
 ---
 
 Sudaoshi - 素倒し [すだおし, lit. "knocking down Chaff"] is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of secondary popularity, appearing alongside more popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) in many [video games](/en/hanafuda/video-games) and rule books. It has two major distinguishing features: an unusual distribution of card values, with Chaff cards being the most valuable rather than the least; and the relative paucity of yaku: only 2 that are capturable by any player, and 2 more that can only be captured by the player to the left of the dealer.

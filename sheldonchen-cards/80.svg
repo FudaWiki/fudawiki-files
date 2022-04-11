@@ -1,90 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="510"
-   height="900"
-   viewBox="0 0 510 900"
-   version="1.1"
-   id="svg28"
-   sodipodi:docname="80.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata32">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
+<svg id="svg28" version="1.1" viewBox="0 0 510 900" height="900" width="510" xmlns="http://www.w3.org/2000/svg">
+  <metadata id="metadata32">
+    
+      
+        image/svg+xml
+        
+      
+    
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#EFEEE6fff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.26222222"
-     inkscape:cx="255"
-     inkscape:cy="450"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg28" />
-  <defs
-     id="defs4">
-    <style
-       id="style2">.a{fill:#d2382d;}.b,.e{fill:#272D22;}.b,.c,.d{stroke:#1a1a1a;}.b,.c{stroke-miterlimit:10;stroke-width:8px;}.c,.d{fill:#EFEEE6;}.d,.e{stroke-miterlimit:2;}.d{stroke-width:15px;}.e{stroke:#272D22;stroke-width:12px;}</style>
+  
+  <defs id="defs4">
+    <style id="style2">.a{fill:#d2382d;}.b,.e{fill:#272D22;}.b,.c,.d{stroke:#1a1a1a;}.b,.c{stroke-miterlimit:10;stroke-width:8px;}.c,.d{fill:#EFEEE6;}.d,.e{stroke-miterlimit:2;}.d{stroke-width:15px;}.e{stroke:#272D22;stroke-width:12px;}</style>
   </defs>
-  <title
-     id="title6">80</title>
-  <rect
-     class="a"
-     width="510"
-     height="594.44"
-     id="rect8" />
-  <path
-     class="b"
-     d="M510,594.44c-68-43.8-157.28-70.36-255-70.36S68,550.64,0,594.44V900H510Z"
-     id="path10" />
-  <path
-     class="b"
-     d="M90.6,591.85A523.44,523.44,0,0,0,0,599.67V900H475.48A211.15,211.15,0,0,0,477,874.76C477,718.51,304,591.85,90.6,591.85Z"
-     id="path12" />
-  <path
-     class="b"
-     d="M510,617.16c-2.9,0-5.8-.08-8.72-.08-213.4,0-386.39,126.67-386.39,282.92H510Z"
-     id="path14" />
-  <path
-     class="b"
-     d="M0,680V900H266.15C240.49,795.45,136.36,710.84,0,680Z"
-     id="path16" />
-  <path
-     class="b"
-     d="M510,900V709.89C418.85,751.35,353,819.81,333.32,900Z"
-     id="path18" />
-  <path
-     class="b"
-     d="M510,900V814.33a513,513,0,0,0-135.94-18c-120.5,0-228.11,40.39-299,103.68Z"
-     id="path20" />
-  <circle
-     class="c"
-     cx="224.62"
-     cy="267.69"
-     r="182.31"
-     id="circle22" />
+  <title id="title6">80</title>
+  <rect id="rect8" height="594.44" width="510" class="a"></rect>
+  <path id="path10" d="M510,594.44c-68-43.8-157.28-70.36-255-70.36S68,550.64,0,594.44V900H510Z" class="b"></path>
+  <path id="path12" d="M90.6,591.85A523.44,523.44,0,0,0,0,599.67V900H475.48A211.15,211.15,0,0,0,477,874.76C477,718.51,304,591.85,90.6,591.85Z" class="b"></path>
+  <path id="path14" d="M510,617.16c-2.9,0-5.8-.08-8.72-.08-213.4,0-386.39,126.67-386.39,282.92H510Z" class="b"></path>
+  <path id="path16" d="M0,680V900H266.15C240.49,795.45,136.36,710.84,0,680Z" class="b"></path>
+  <path id="path18" d="M510,900V709.89C418.85,751.35,353,819.81,333.32,900Z" class="b"></path>
+  <path id="path20" d="M510,900V814.33a513,513,0,0,0-135.94-18c-120.5,0-228.11,40.39-299,103.68Z" class="b"></path>
+  <circle id="circle22" r="182.31" cy="267.69" cx="224.62" class="c"></circle>
 </svg>

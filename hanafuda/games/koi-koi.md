@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2022-04-01T19:02:54.590Z
+date: 2022-04-10T15:21:01.783Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z

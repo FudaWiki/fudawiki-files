@@ -2,10 +2,10 @@
 title: Paulownia
 description: The twelfth suit in hanafuda, usually representing December or the number 12
 published: true
-date: 2020-10-14T20:09:58.347Z
-tags: brights, hanafuda suits
+date: 2022-04-10T15:22:32.826Z
+tags: hanafuda suits, brights
 editor: markdown
-dateCreated: 2020-10-12T00:20:03.031Z
+dateCreated: 2022-04-01T18:07:01.432Z
 ---
 
 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Paulownia [桐 - きり, *kiri*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the twelfth and final suit, representing the month of December [十二月 - じゅうにがつ - *jūnigatsu*] or the numeral 12. The cards in this suit all feature large paulownia leaves with purple flowers and capsules. There are three Chaff cards and one Bright. The Bright card features a purple and red Phoenix [鳳凰 - ほうおう, hōō] above the paulownia plant, with the area below the plant generally colored yellow.

@@ -2,10 +2,10 @@
 title: Hana Kanzashi
 description: 
 published: true
-date: 2021-09-27T09:57:23.871Z
+date: 2022-04-10T15:24:43.951Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:11.983Z
+dateCreated: 2022-04-01T18:12:14.008Z
 ---
 
 _Hana Kanzashi_ (<span lang='ja'>花かんざし</span>) is an Arcade game published in 1996 by Dynax.

@@ -2,10 +2,10 @@
 title: Hanafuda Hana Tsubaki
 description: 
 published: true
-date: 2021-10-19T11:17:18.032Z
+date: 2022-04-10T15:25:28.563Z
 tags: 
 editor: markdown
-dateCreated: 2021-10-19T11:16:57.838Z
+dateCreated: 2022-04-01T18:13:42.007Z
 ---
 
 _Hanafuda Hana Tsubaki_ (<span lang='ja'>花札: 華椿</span>) is an Arcade game published in 1999 by Dynax.

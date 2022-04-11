@@ -2,10 +2,10 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2020-10-14T20:07:29.212Z
-tags: animals, brights, hanafuda suits, plain ribbons
+date: 2022-04-10T15:22:44.758Z
+tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
-dateCreated: 2020-10-11T23:03:00.858Z
+dateCreated: 2022-04-01T18:07:47.539Z
 ---
 
 ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x)Willow [柳 - やなぎ, *yanagi*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. In the standard Japanese ordering, it is generally taken to be the eleventh suit, representing the month of November [十一月 - じゅういちがつ, *jūichigatsu*] or the numeral 11. Originally, the cards in this suit all featured willow trees with hanging branches. There is one Chaff card, one Plain Ribbon, one Animal, and one Bright.

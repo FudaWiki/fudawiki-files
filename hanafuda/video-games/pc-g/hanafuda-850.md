@@ -2,10 +2,10 @@
 title: Hanafuda 850
 description: 
 published: true
-date: 2021-10-07T09:19:18.675Z
+date: 2022-04-10T15:31:20.019Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:50:46.827Z
+dateCreated: 2022-04-01T18:25:36.727Z
 ---
 
 _Hanafuda 850_ (<span lang='ja'>花札850</span>) is a Sharp PC-G850 game published in 2009 by Version 0 (ver0).

@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-04-01T18:59:14.814Z
+date: 2022-04-10T15:17:34.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z

@@ -2,10 +2,10 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2020-10-18T04:07:55.756Z
-tags: animals, hanafuda suits, poetry ribbons
+date: 2022-04-10T15:22:40.086Z
+tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
-dateCreated: 2020-10-09T04:59:51.126Z
+dateCreated: 2022-04-01T18:07:35.136Z
 ---
 
 ![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)Plum Blossom [梅 - うめ, *ume*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the second suit, representing the month of February [二月 - にがつ, *nigatsu*] or the numeral 2. The cards in this suit all feature plum blossom trees with red blooms and buds. There are two Chaff cards, one Poetry Ribbon, and one Animal. The Animal card of the Plum Blossom suit features a Japanese bush warbler [鴬 - うぐいす, *uguisu*] perched on the branch of a plum blossom tree.

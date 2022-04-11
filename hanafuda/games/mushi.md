@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2022-04-01T19:03:50.565Z
+date: 2022-04-10T15:21:13.597Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z

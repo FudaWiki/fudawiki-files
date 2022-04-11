@@ -2,10 +2,10 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-18T04:11:11.216Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:21:04.984Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2021-04-30T06:47:47.659Z
+dateCreated: 2022-04-01T18:01:40.975Z
 ---
 
 **Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players (though more may play using [the same modifications as in hachi-hachi](/en/hanafuda/games/hachi-hachi#number-of-players)). It has no *teyaku*, only 4 *dekiyaku* (the same as used in [Bakabana](/en/hanafuda/games/bakabana), though by slightly different names), and a unique distribution of card values. It likely originated near Okayama, in the Sanyo region of Japan.

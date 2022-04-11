@@ -2,10 +2,10 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-07-13T02:07:20.959Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:38.089Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2020-09-18T20:27:12.103Z
+dateCreated: 2022-04-01T18:00:34.887Z
 ---
 
 **Hana-Awase - 花合わせ** [はなあわせ, lit. "joining together flowers"] may refer to a number of related but differing games, depending on the time period of the reference. It may be considered the basis on which the many other fishing games are built; indeed, the name "Hana-Awase" sometimes appears as a catch-all term to denote any game in which players capture cards on the table by matching them.

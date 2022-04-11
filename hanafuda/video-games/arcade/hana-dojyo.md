@@ -2,10 +2,10 @@
 title: Hana Dojyo
 description: 
 published: true
-date: 2021-10-19T12:05:32.963Z
+date: 2022-04-10T15:24:34.281Z
 tags: 
 editor: markdown
-dateCreated: 2021-10-19T12:05:32.963Z
+dateCreated: 2022-04-01T18:11:50.602Z
 ---
 
 _Hana Dojyo_ (<span lang='ja'>花道場</span>) is an Arcade game published in ???? by ????

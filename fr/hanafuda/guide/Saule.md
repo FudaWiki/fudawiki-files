@@ -2,10 +2,10 @@
 title: Saule
 description: La onzième suite du Hanafuda, qui représente Novembre ou le numéro 11
 published: true
-date: 2021-02-24T23:51:24.183Z
+date: 2022-04-10T15:23:41.001Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-24T23:51:24.183Z
+dateCreated: 2022-04-01T18:09:49.519Z
 ---
 
 ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) Le Saule [柳 - やなぎ, *yanagi*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la onzième suite, représentant le mois de Novembre [十一月 - じゅういちがつ, *jūichigatsu*] ou le numéro 11. À l'origine, les cartes de cette couleurs comportaient toutes des saules avec des branches suspendues noires.  Il s'agit de la seule suite comportant chaque catégorie de carte, soit une carte Normale, une carte Ruban, une carte Animal et une carte Lumière.

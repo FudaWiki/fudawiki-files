@@ -2,10 +2,10 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: true
-date: 2021-08-16T18:24:34.684Z
-tags: banking games, hanafuda games, kabufuda games
+date: 2022-04-10T15:21:18.591Z
+tags: hanafuda games, banking games, kabufuda games
 editor: markdown
-dateCreated: 2021-08-16T14:20:41.660Z
+dateCreated: 2022-04-01T18:02:34.951Z
 ---
 
 **Oicho-Kabu [おいちょかぶ]** (lit. "eight-nine") is a traditional gambling game in which a group of players compete against the banker to assemble a hand of cards whose value is as close as possible to nine.

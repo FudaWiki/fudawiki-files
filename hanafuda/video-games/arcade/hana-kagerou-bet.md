@@ -2,10 +2,10 @@
 title: Hana Kagerou [BET]
 description: 
 published: true
-date: 2021-10-19T11:10:02.363Z
+date: 2022-04-10T15:24:41.655Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:45:09.029Z
+dateCreated: 2022-04-01T18:12:08.419Z
 ---
 
 _Hana Kagerou [BET]_ (<span lang='ja'></span>) is an Arcade game published in 1997 by Dynax.

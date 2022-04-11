@@ -2,10 +2,10 @@
 title: Value Hanafuda 2
 description: 
 published: true
-date: 2021-09-25T10:34:17.052Z
+date: 2022-04-10T15:36:24.863Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T22:55:31.388Z
+dateCreated: 2022-04-01T23:04:47.821Z
 ---
 
 _Value Hanafuda 2_ (<span lang='ja'>バリュー花札２</span>) is a Windows game published in 2001 by Magnolia.

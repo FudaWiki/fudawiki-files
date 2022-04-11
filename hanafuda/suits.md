@@ -2,10 +2,10 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2021-05-17T22:48:03.703Z
+date: 2022-04-10T15:18:21.942Z
 tags: hanafuda suits
 editor: markdown
-dateCreated: 2020-10-12T00:41:00.951Z
+dateCreated: 2022-04-01T17:56:39.394Z
 ---
 
 There are 12 suits of 4 cards each in the standard [hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also come with a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.

@@ -2,10 +2,10 @@
 title: Peony
 description: The sixth suit in hanafuda, usually representing June or the number 6
 published: true
-date: 2021-04-18T11:58:06.296Z
-tags: animals, blue ribbons, hanafuda suits
+date: 2022-04-10T15:22:35.108Z
+tags: hanafuda suits, animals, blue ribbons
 editor: markdown
-dateCreated: 2020-10-11T20:07:34.066Z
+dateCreated: 2022-04-01T18:07:12.841Z
 ---
 
 ![Icon for month 6](/hanafuda/icons/monthicon_6.png){.align-right}

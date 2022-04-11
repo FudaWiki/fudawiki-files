@@ -2,10 +2,10 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T12:20:25.401Z
+date: 2022-04-10T15:18:00.684Z
 tags: hanafuda patterns
 editor: markdown
-dateCreated: 2020-10-08T03:39:45.940Z
+dateCreated: 2022-04-01T17:56:01.351Z
 ---
 
 Character Hanafuda キャラクター花札 [きゃらくたあはなふだ, *kyarakutaa hanafuda*] are a subgenre of [hanafuda patterns](/en/hanafuda/patterns) that generally feature characters and imagery from popular television, manga, or video game franchises. Alternatively, they may follow some other theme, often specific to a particular region or hobby.

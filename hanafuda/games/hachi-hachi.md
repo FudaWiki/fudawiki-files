@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2022-04-01T19:02:25.608Z
+date: 2022-04-10T15:20:28.733Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:19.184Z

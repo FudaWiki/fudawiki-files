@@ -1,11 +1,11 @@
 ---
 title: Mushi
-description: Un jeu sans les cartes Pivoines et Lespédéza. 
+description: Un jeu sans les cartes Pivoines et Lespédéza.
 published: true
-date: 2021-03-07T10:33:46.595Z
+date: 2022-04-10T15:23:10.269Z
 tags: jeu, jeu de pêche
 editor: markdown
-dateCreated: 2021-01-18T17:36:36.077Z
+dateCreated: 2022-04-01T18:08:36.767Z
 ---
 
 Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/fr/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/fr/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/fr/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou combinaisons), ainsi qu'un score à somme nulle.

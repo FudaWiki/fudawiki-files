@@ -2,10 +2,10 @@
 title: Hanafuda E500
 description: 
 published: true
-date: 2021-10-07T09:19:29.000Z
+date: 2022-04-10T15:31:17.391Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-28T22:50:00.895Z
+dateCreated: 2022-04-01T18:25:30.484Z
 ---
 
 _Hanafuda E500_ (<span lang='ja'>花札</span>) is a Sharp PC-E500 game published in 1989/11 by Pockecom Journal.

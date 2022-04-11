@@ -2,10 +2,10 @@
 title: Hanafuda Stack
 description: 
 published: true
-date: 2021-10-31T00:08:02.516Z
+date: 2022-04-10T15:27:51.129Z
 tags: 
 editor: markdown
-dateCreated: 2021-10-30T23:45:47.805Z
+dateCreated: 2022-04-01T18:17:39.469Z
 ---
 
 _Hanafuda Stack_ (<span lang='ja'>花札スタック</span>) is a MAC game published in 1993.

@@ -2,10 +2,10 @@
 title: Jū Mai
 description: A 2-player bakappana variant with an altered deal and altered card values.
 published: true
-date: 2021-04-30T02:54:05.178Z
-tags: fishing games, hanafuda games
+date: 2022-04-10T15:20:49.081Z
+tags: hanafuda games, fishing games
 editor: markdown
-dateCreated: 2021-04-30T02:50:57.942Z
+dateCreated: 2022-04-01T18:01:01.184Z
 ---
 
 **Jū Mai** is a 2-player [Hana-Awase](/en/hanafuda/games/hana-awase)-style game with no yaku, making it more or less a variant form of [bakappana](/en/hanafuda/games/bakappana). It uses a different number of cards dealt to the field than most 2-player fishing games, and uses slightly different values for the different [types](/en/hanafuda/types) of cards from most games. The winner is the first player to reach a cumulative score at least 30 points higher than their opponent's at the end of a round.
