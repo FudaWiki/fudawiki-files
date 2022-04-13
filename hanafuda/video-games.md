@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-04-10T15:18:30.358Z
+date: 2022-04-13T23:10:47.992Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -248,6 +248,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Michinoku Hitou Koi Monogatari: Bishoujo Hanafuda Kikou (<span lang='ja'>みちのく秘湯恋物語 美少女花札紀行</span>)](/en/hanafuda/video-games/ps/michinoku-hitou-koi-monogatari-bishoujo-hanafuda-kikou)
 * [Michinoku Hitou Koi Monogatari: Bishoujo Hanafuda Kikou Kai (<span lang='ja'>みちのく秘湯恋物語 kai</span>)](/en/hanafuda/video-games/ps/michinoku-hitou-koi-monogatari-bishoujo-hanafuda-kikou-kai)
 * [Morita Kazuo no Hanafuda (<span lang='ja'>森田和郎の花札</span>)](/en/hanafuda/video-games/ps/morita-kazuo-no-hanafuda)
+* [Otona no Asobi (<span lang='ja'>おとなの遊び</span>)](/en/hanafuda/video-games/ps/otona-no-asobi)
 * [Oyaji no Jikan: Nechan, Hanafuda de Shoubu Ya (<span lang='ja'>おやじの時間 ね～ちゃん花札で勝負や！</span>)](/en/hanafuda/video-games/ps/oyaji-no-jikan-nechan-hanafuda-de-shoubu-ya)
 * [The Hanafuda (Simple 1500 Series Vol. 006) (<span lang='ja'>THE 花札</span>)](/en/hanafuda/video-games/ps/the-hanafuda-simple-1500-series-vol-006)
 * [The Hanafuda 2 (Simple 1500 Series Vol. 43) (<span lang='ja'>THE 花札2</span>)](/en/hanafuda/video-games/ps/the-hanafuda-2-simple-1500-series-vol-43)
@@ -297,10 +298,10 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Yakuza 6: The Song of Life (<span lang='ja'>龍が如く6 命の詩</span>)](/en/hanafuda/video-games/steam/yakuza-6-the-song-of-life)
 * [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-kiwami)
 * [Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)](/en/hanafuda/video-games/steam/yakuza-kiwami-2)
-
 ## Switch
 * [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games)
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda)
+* [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack)
 ## TCD
 * [CD Hanafuda Bishoujo Fan Club (<span lang='ja'>CD花札 美少女ファンクラブ</span>)](/en/hanafuda/video-games/tcd/cd-hanafuda-bishoujo-fan-club)
 ## TG16
