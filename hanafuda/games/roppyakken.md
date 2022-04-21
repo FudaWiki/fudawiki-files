@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-04-10T15:23:16.128Z
+date: 2022-04-21T06:44:19.433Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -136,7 +136,7 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 
 # Notable Variants
 - If any player has only scored 30 points or fewer during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"]. This may not count ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, or may not count Yaku points too.
-- Players may deal 10 cards instead of  8 cards for each player in 2 player games. No cards will be left in the deck if ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man is not used as a wild, and there may be Triple Hand Threes.
+- Players may deal 10 cards instead of  8 cards for each player in 2 player games. No cards will be left in the deck at the end of a round, and there may be Triple Hand Threes.
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
 - In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
 - The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
