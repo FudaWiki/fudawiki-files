@@ -2,11 +2,13 @@
 title: Ino-Shika-Chō
 description: A simple gambling game for any number of players.
 published: true
-date: 2022-04-10T15:20:46.213Z
+date: 2022-05-06T03:28:33.188Z
 tags: hanafuda games, banking games
 editor: markdown
 dateCreated: 2022-04-01T18:00:53.681Z
 ---
+
+<span style="font-size:small;">*Not to be confused by the [Koi-Koi yaku of the same name](/en/hanafuda/games/koi-koi#animal-yaku)*</span>
 
 **Ino-Shika-Chō** - 猪鹿蝶 [いのしかちょう, lit. "boar-deer-butterfly"] is a luck-based gambling game played with [hanafuda](/en/hanafuda). One person acts as the banker, against which any number of players may bet.
 
