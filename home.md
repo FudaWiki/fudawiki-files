@@ -2,7 +2,7 @@
 title: Fuda Wiki
 description: A wiki for all types of traditional Japanese card games
 published: true
-date: 2022-06-03T07:02:39.062Z
+date: 2022-06-03T07:02:55.736Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:07:08.079Z
