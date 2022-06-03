@@ -2,7 +2,7 @@
 title: Fuda Wiki
 description: A wiki for all types of traditional Japanese card games
 published: true
-date: 2022-04-10T15:17:37.429Z
+date: 2022-06-03T07:02:39.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:07:08.079Z
@@ -19,4 +19,4 @@ This wiki has been created as a place to discuss various Japanese playing cards,
 - [External Links](/en/meta/external-sites)
 - [Terms and Translations](/en/hanafuda/terms)
 
-Most communication happens in the [Hanafuda Discord (#wikifuda)](https://discord.gg/kfqxFz).
+Most communication happens in the [Hanafuda Discord (#wikifuda)](https://discord.gg/N4mBquRJTt).
