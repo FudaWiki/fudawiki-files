@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2022-04-10T15:21:01.783Z
+date: 2022-06-15T14:31:04.260Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -172,7 +172,7 @@ The *Bright Yaku* and *Other Yaku* remain the same in this system. The changes i
 - *Boar, Deer, Butterflies* is not worth extra points for additional cards. Instead, it can stack with the generic 'Any 5 Animals' yaku.
 - *Poetry Ribbons* and *Blue Ribbons* are not worth extra points for additional cards. Instead, they can stack both with each other, and with the generic 'Any 5 Ribbons' yaku. *Poetry+Blue Ribbons* is not a separate yaku, but instead exists as the combination of *Poetry Ribbons* and *Blue Ribbons*. 
 
-> Even older sources tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies*, *Rainy Four Brights*, and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
+> Even older sources tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies* and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
 {.is-info}
 
 ## Taming the *Sake Cup*
