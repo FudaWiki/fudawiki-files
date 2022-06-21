@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T11:51:39.184Z
+date: 2022-06-21T11:53:02.527Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -37,7 +37,7 @@ The number of jokers and the properties thereof should be agreed upon before the
 When playing with a Japanese hanafuda deck, the blank white card included in most decks can be used as a joker if desired.
 
 ## Choosing the Dealer
-There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Often in Korea, the player who drew a suit from the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called [밤일낮장 - *bam-il naj-jang*] and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Often in Korea, the player who drew a suit from the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called [밤일낮장 - *bam-il naj-jang*] and is used in other games, such as [Minhwatu](/en/hanafuda/games/minhwatu) or [Seotda](/en/hanafuda/games/seotda). In cases where there is a tie, this process can be repeated.
 
 **The winner of each round becomes the dealer for the next round.**
 
