@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-04-10T15:20:22.839Z
+date: 2022-06-21T05:30:23.240Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -37,7 +37,7 @@ The number of jokers and the properties thereof should be agreed upon before the
 When playing with a Japanese hanafuda deck, the blank white card included in most decks can be used as a joker if desired.
 
 ## Choosing the Dealer
-There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Often in Korea, the player who drew a suit from the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called [밤일낮장 - *bam-il naj-jang*] and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
 
 **The winner of each round becomes the dealer for the next round.**
 
@@ -54,27 +54,24 @@ The remainder of the deck is placed face-down to form the draw pile.
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x)<br>or<br>![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
 
-## Misdeals
-If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
-
 ## Checking the Hands
-After the deal, players check their hands to see if they hold any triplets (3 cards of the same month), or a four of a kind (4 cards of the same month).
-
-If a player holds a triplet, then they may choose to reveal it to the other players before the round begins. This is a grave disadvantage, but if that player manages to win the round, their score will be doubled. This is known as *heundeum* (lit. 'shaking'). Should the player hold multiple triplets, they may reveal as many as they like, and the `x2` multipliers for each will stack.
+After the deal, players check their hands to see if they hold any four of a kind (4 cards of the same month).
 
 > In some variations, a triplet of November or December cards may *quadruple* the score!
 {.is-info}
 
-If a player holds 4 of a kind (known in Japanese as 'president' [大統領 - だいとうりょう, *daitouryou*]), then they immediately win the round and steal 5 points from each opponent.
+If a player holds 4 of a kind (known as '총통' - [chongtong] in Korean or  [大統領 - だいとうりょう, *daitouryou*], which means 'president'), then they **may** reveal the hand to immediately win the round and steal the predetermined value of points from each opponent (usually 3 points which is equal to the minimum limit of Go). Revealing the hand with a 4 of a kind may be mandatory in some variants. 
 
-In a three-player game, it is possible that two players may hold 4 of a kind, in which case they each steal 5 points from the third player. (The question of who then becomes the dealer in the next round is something that none of the available rulesets answer.)
+In a three-player game, it is possible that two players may hold 4 of a kind. How to treat this situation varies according to the rule sets (dealer wins, the higher month wins, draw, etc.).
 
-If *all* players hold 4 of a kind, then a misdeal is declared (see above).
+If *all* players hold 4 of a kind the round ends in a draw.
 
 ## Checking the Field
 If any jokers are in the field at the beginning of the round, then they are immediately captured by the dealer, who then draws cards from the draw pile to replace them.
 
 If any triplets are in the field, then they are stacked together, to indicate that all three cards will be captured together.
+
+If 4 cards of the same month are dealt to the table, then the cards are thrown in, shuffled again, and re-dealt, since these 4 cards are impossible to capture. This may be considered as the same as the dealer's a four of a kind in hand, or as a draw.
 
 # Gameplay
 In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. While still fairly similar to other [Hana-Awase](/en/hanafuda/games/hana-awase) fishing games, the turn structure of Go-Stop has a few additional quirks that merit being spelled out in full. Notably, matched cards are not captured immediately, but only at the end of the turn.
@@ -82,13 +79,23 @@ In each round, the dealer is the first to play, and turn to play passes anti-clo
 ## Turns
 A turn in Go-Stop consists of four distinct phases. Firstly, the player plays a card from their hand. Then, they play a card from the draw pile. Then, they collect their captured cards. And finally, they check for any *yaku* (scoring combinations) they may have formed.
 
+### Phase 0
+A player may reveal any number of triplets and/or jokers (and/or four of a kinds if continuing the round while holding them is allowed) before playing a card.
+
+If a player holds a triplet, then they may choose to reveal it to the other players before playing a card. If the player manages to win the round, their score will be doubled. This is known as '흔들기' - *[heundeulgi]* (lit. 'shaking'). Should the player hold multiple triplets, they may reveal as many as they like, and the `x2` multipliers for each will stack.
+
+If a player holds a joker, then the player may reveal and capture it immediately. They then draw a replacement card from the draw pile, and play that card as though it were from their hand. If this completes a triplet, it can be also revealed during this phase.
+
+If a player holds a four of a kind, then they may choose to reveal all four cards and double the score as the same as revealing a triplet. Also, after playing a revealed card the player may bomb the field too (accumulating 'x4' multiplier and stealing a chaff as the result, see below). 
+
 ### Phase 1
-Firstly, a player chooses a single card from their hand and plays it to the table.
+
+Firstly, a player chooses a single card from their hand and plays it to the table, or bomb the field with a triplet in hand (see 'Bombing the Field').
+
 - **If it belongs to the same month as another card in the field**, then the cards *match*, and this matching pair is stacked together to indicate that it will be captured.
-- **If the played card matches with two cards in the field**, then the player may choose which one they capture.
+- **If the played card matches with two cards in the field**, then the player may choose which one they capture **after flipping a card during Phase 2**.
 - **If the played card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured).
 - **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
-- **If the played card is a joker**, then the player immediately captures it. They then draw a replacement card from the draw pile, and play that card as though it were from their hand.
 
 > If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
@@ -99,9 +106,10 @@ After playing a card from hand, the player then takes a card from the draw pile 
 - **If the card matches with two cards in the field**, then the player may choose which one they capture.
 - **If the card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card.
 - **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
-- **If the card matches with a pair created in Phase 1 *and nothing else***, then the card is stacked atop that pair to form a triplet. This triplet is not captured by the player, and remains on the field.
-- **If the card matches with a pair created in Phase 1 *and some other card***, then it is stacked atop the other card to indicate its capture. No triplet is formed.
-- **If the card is a joker**, then the player immediately captures it. They then take another card from the draw pile and play it in lieu of the joker.
+- **If the card is a joker and a pair is not created in Phase 1**, then the player immediately captures it. They then take another card from the draw pile and play it in lieu of the joker.
+- **If the card is a joker and a pair is created in Phase 1**, then the player stacks the joker on the pair. They then take another card from the draw pile and play it in lieu of the joker. If it is also a joker, it must be stacked together. If the revealed card does not form a triplet and is not a joker, the player immediately captures all revealed jokers on the pair as above.
+- **If the card matches with a pair created in Phase 1 *(ignoring jokers on the stack)***, then the card is stacked atop that pair to form a triplet. This triplet is not captured by the player, and remains on the field. If the player has stacked any jokers on the pair during the same phase, the player also cannot capture stacked jokers. The player who captures this triplet will also take all jokers included. This is known as '뻑' - *[ppeok]* or '설사' - *[seolsa]* (lit. diarrhea).
+- **If the card matches with a triplet created in Phase 1** (thus collecting all four cards of a month on the table), then it is stacked atop the other card to indicate its capture. No triplet is formed.
 
 ### Phase 3
 After playing both their cards - one from their hand, and one from the draw pile - the player takes any captured cards into their score pile. As a rule of thumb, the captures will be stacks of either 2 or 4 cards (but *not* 3 cards).
@@ -112,13 +120,13 @@ Any [*special events*](/en/hanafuda/games/go-stop#special-events) should also be
 {.is-warning}
 
 ### Phase 4
-Finally, the player checks their score pile for *yaku* [役 - やく], or *scoring combinations*; a list of these is given [further down](/en/hanafuda/games/go-stop#yaku) the page.
+Finally, the player checks their score pile for '족보' - *[jokbo]*, or *yaku* [役 - やく] (scoring combinations); a list of these is given [further down](/en/hanafuda/games/go-stop#yaku) the page.
 
-- If the player has either formed a new *yaku*, or improved an existing one, then they have the choice to either end the round by calling *stop*, or to continue in pursuit of a higher score by calling *go*.
+- If the player has either formed a new *yaku*, or improved an existing one, then they have the choice to either end the round by calling '스톱' - *stop*, or to continue in pursuit of a higher score by calling '고' - *go*.
 
 - If they have not, then their turn simply ends, and turn to play passes to the opponent.
 
-Typically, a *stop minimum* is imposed; if the total value of a player's yaku is less than some agreed-upon limit, then the player cannot call *go* or *stop*. Instead, their turn simply ends, and the round continues. Typical values for the *stop minimum* are 3 points in three-player games, and 5 or 7 points in two-player games.
+Typically, a *stop minimum* is imposed; if the total value of a player's yaku is less than some agreed-upon limit, then the player cannot call *go* or *stop*. Instead, their turn simply ends, and the round continues. Typical values for the *stop minimum* are 3 points in three-player games, and 7 points in two-player games.
 
 ### Calling *Go*
 If the player declares *go*, then the round continues. Their turn ends, and turn to play passes to the opponent. This is a calculated risk; continuing the round allows the opportunity to capture more yaku and earn valuable score bonuses, but forfeits all points should the opponent win first.
@@ -129,7 +137,7 @@ Note that each player may call *go* as many times as they desire during the roun
 If the player declares *stop*, then the round immediately ends, and scores are calculated. This is a safe bet, which allows the player to immediately cash in on their yaku.
 
 ## Bombing the Field
-If a player holds three cards of a given month, and the fourth card is in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a move known as *bombing the field*.
+If a player holds three cards of a given month, and the fourth card is in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a move known as '폭탄' - *[poktan]*, or *bomb*.
 
 Bombing counts as Phase 1 of the player's turn. After playing the bomb, the player continues their turn from Phase 2.
 
@@ -139,11 +147,12 @@ After bombing the field, a player's hand will be two cards short (they played 3 
 Certain events that occur during the turn may allow the player to steal Chaff cards, or sometimes points, from their opponents. These should be checked for during [Phase 3](/en/hanafuda/games/go-stop#phase-3).
 
 ### Stealing Chaff
-The player recives one Chaff card from each opponent for each of the following that occur:
-1. The player captures a triplet (stack of 3).
-1. There are only two cards left in the field, both of different months, and the player captures both of them during their turn.
-1. There are two cards in the field of the same month and the player captures both of them - one with the card from their hand, and the other with the card taken from the draw pile.
-1. The player plays a card in Phase 1 that has no match, then captures it using the card they draw in Phase 2.
+The player receives one Chaff card from each opponent for each of the following that occur:
+1. The player bombs the field in Phase 1 (see above).
+2. The player captures a triplet (stack of 3). In some variants, a player capturing a triplet which was made by themselves receives two Chaff cards each instead of one (usually in 2-player games).
+3. There are only two cards left in the field, both of different months, and the player captures both of them during their turn ('쓸' - *[sseul]*, lit. shortened form of 'clearing the table').
+4. There are two cards in the field of the same month and the player captures both of them - one with the card from their hand, and the other with the card taken from the draw pile ('따닥' - *[ddadak]*, lit. snap).
+5. The player plays a card in Phase 1 that has no match, then captures it using the card they draw in Phase 2 ('쪽' - *[jjok]*, lit. onomatopoeia of a light kiss).
 
 The opponents may choose which Chaff card to give. If they possess no regular Chaff cards, they must surrender a 2- or 3-Chaff card (such as [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), or a joker). If they have no Chaff cards, they do not have to give anything.
 
@@ -151,8 +160,9 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 {.is-warning}
 
 ### Stealing Points
-1. If the player creates a triplet (stack of 3) on their very first turn, they steal 3 points from each opponent.
-2. If any player, over the course of the round, creates three triplets, then they *immediately* win the round and steal 5 points from each opponent.
+1. If the player creates a triplet (stack of 3) on their very first turn, they steal predetermined points (usually equal to stop minimum) from each opponent ('첫뻑' - *[cheodppeok]*). If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn ('연뻑/삼연뻑' - *[yeonppeok/samyeonppeok]*).
+2. If any player creates three triplets over the course of the round (including three consecutive triplets at the first 3 rounds, see above), then they *immediately* win the round and steal predetermined points (usually equal to stop minimum) from each opponent ('쓰리뻑' - *three [ppeok]*).
+3. If the player captures all four cards from the same month on their very first turn ('첫따닥' - *[cheod ddadak]*), they steal predetermined points (usually equal to stop minimum) from each opponent. If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn.
 
 # End of Round and Scoring
 The round ends when either a player calls *stop*, or when all players run out of cards in their hands.
@@ -170,43 +180,38 @@ This amount is then paid to the winner by their opponents, **in zero-sum fashion
 Bonus points and extra multipliers come from a variety of sources, as listed below.
 
 ### Calling *Go*
-- If the winner called *go* once, they earn 1 bonus point.
-- If the winner called *go* twice, they earn 2 bonus points.
-- If the winner called *go* three times, they earn a `x2` multiplier. If they called *go* four times, they earn a `x4` multiplier, and so on, with an additional `x2` multiplier for every call of *go*.
+- If the winner called *go*, they earn 1 bonus point per called *go*.
+- If the winner called *go* three times, they earn a `x2` multiplier. If they called *go* four times, they earn a `x4` multiplier, and so on, with an additional `x2` multiplier for every call of *go* from the third go.
 
 ### Doubles
 The winner earns a `x2` multiplier for each of the following:
-- Every triplet they revealed at the beginning of the round.
+- Every triplet they revealed during round.
 - Capturing 7 or more Animal cards.
-- Bombing the field at least once.
-- If the previous round had no winner.
+- Every bombs they thrown on the field.
+- If the previous round had no winner (continuous draws **stack** multipliers).
 
 ## Double Penalties
 There are certain situations in which an opponent must pay *double* the score as calculated above. These are:
 
 - If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay double.
-- If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 5 Chaff cards must pay double.
+- If the winner captured the *Chaff* generic yaku, then any opponent who has captured **1 ~ 5** (usually 1 ~ 7 in 2-player) Chaff card must pay double. The player who did not capture any Chaff card or lost all captured Chaff cards do not pay double.
 
 ## Liability & Offering a Draw
-There are some situations in which a opponent is considered *liable* for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are most typically used in the three-player version of the game.
+There are some situations in which a opponent is considered *liable* ('독박' - *[dokbak]*) for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are most typically used in the three-player version of the game.
 
-1. If one of the opponents has previously called *go* while the other has not, then the opponent who called *go* is liable.
-2. If an opponent plays a card from their hand that does not match anything in the field, and the winner wins by capturing that card on their very next turn, then the opponent who played that card is liable. This does not apply if the opponent had no choice in the matter, for example if it was the last card in their hand. It also does not apply if the opponent offered a draw (see below).
+1. If one of the opponents has previously called *go*, then the opponent who called *go* is liable ('고박' - *[gobak]*). If two opponents has previously called *go*, the first caller is liable. This condition trumps liability from refusing a draw offer (see below).
 
-(None of the available rulesets specify what should happen if *both* opponents are liable in different ways.)
-
-> In some versions of the game, case 2 also does not apply if the winner has scored only for the *Chaff* generic yaku *and* has not previously called *go*.
-{.is-info}
-
-In order to protect from case 2 above, a player who feels they have no safe play may, at the start of their turn, expose their hand and offer a draw. Each of the other players must then decide whether to accept or refuse.
+2. A player who have no safe play (in other words, a player cannot capture any cards by playing a card in hand and cannot reach stop minimum by flipping a card in Phase 3) may expose their hand at the start of their turn and offer a draw ('쇼당' - *[shodang]*). Each of the other players must then decide whether to accept or refuse.
 
 This decision is made in turn order; if the player to the right accepts, then the player to the left must decide to accept or refuse. If the player to the right refuses, then the player to the left automatically accepts.
 
 If both players accept, then the round ends in a draw. Nobody scores anything, and the next round begins with the same dealer.
 
-Otherwise, play continues as usual. However, for the **next three turns** (i.e. one turn from each player), the player who offered the draw is exempt from all liability, while the player who refused the draw will be considered liable if either of the other players wins.
+Otherwise, play continues as usual. However, for the **remainder of the round**, the player who refused the draw will be considered liable if either of the other players wins.
 
-After this period, the effects expire, and the player will have to offer a draw again if they wish to continue being exempt.
+## Scoring Exemption
+
+If a player has no cards at the end of a round (captured nothing at all or captured only chaffs and lost all of them during a round), the player pays nothing even if the player lose the round.
 
 ## Scoring in Summary
 The scoring in Go-Stop is surprisingly complex, especially when three players are involved! To break it down:
