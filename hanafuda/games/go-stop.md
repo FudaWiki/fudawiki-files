@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T05:46:00.864Z
+date: 2022-06-21T05:52:23.742Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -306,6 +306,15 @@ Sometimes, a variant rule when drawing jokers is applied:
 
 If a player holds two cards of a given month, and the third and the fourth card are in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a similar fashion as bomb - this is called '콩알탄' - *[kongaltan]* (lit. very small bomb), or '수류탄' - *[suryutan]* (lit. grenade). How to treat this may differ (allow the move only, steals a chaff like bomb but does not apply x2 multiplier, or treats like a regular bomb).
 
+## Missions
+
+In Korean online Go-stop platforms, one or more bonus objectives, which multiplies score like other multipliers (x2 ~ x8) on completion, may be added at the beginning or during a round.
+
+Some examples:
+- Before the round or during the first turn a month is chosen. If the winner of the round holds all four cards of that month, their score is multiplied.
+- Before the round or during the first turn 2 ~ 4 non-chaff cards are chosen. If the winner of the round holds all objective cards of that month, their score is multiplied.
+- Before the round or during the first turn up to four cards are chosen. If the winner has captured any of those cards, their score is multiplied for each captured objective cards.
+
 ## Bombs
 - After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip all subsequent turns.
 - Sometimes, as a variation of the above, the player only draws 2 cards in Phase 2.
@@ -325,7 +334,6 @@ The following different scheme for *go* bonuses is sometimes used:
 - Capturing all four cards of a given month on their first turn will quadruple the player's score if they win.
 - Capturing any triplet lets the player steal 2 Chaff from each other player, as opposed to just 1.
 - If a player captures 3 or more triplets over the course of a round, they steal 2 Chaff from each opponent.
-- Before the round, a month is chosen. If the winner of the round holds all four cards of that month, their score is quadrupled.
 - If, on the player's first turn, they manage to capture one card of each type - Bright, Animal, Ribbon, and Chaff - then they steal 1 Chaff from each opponent.
 - At the beginning of the round, each player contributes an agreed-upon amount to a pot. At the end of the round, whichever player has managed to capture the [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar) claims the contents of the pot.
 - Alternatively, there is no pot. If a player captures the [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar) on their first turn, they steal a set amount of points from each other player.
