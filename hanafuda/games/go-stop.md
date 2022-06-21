@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T11:53:02.527Z
+date: 2022-06-21T11:55:59.133Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -156,7 +156,7 @@ The player receives one Chaff card from each opponent for each of the following 
 
 The opponents may choose which Chaff card to give. If they possess no regular Chaff cards, they must surrender a 2- or 3-Chaff card (such as [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), or a joker). If they have no Chaff cards, they do not have to give anything.
 
-> Items 2, 3 and 4 on this list **do not apply during the final turn** of the round.
+> Items 3, 4 and 5 on this list **do not apply during the final turn** of the round.
 {.is-warning}
 
 ### Stealing Points
