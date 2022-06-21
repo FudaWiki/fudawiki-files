@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T05:52:23.742Z
+date: 2022-06-21T05:53:14.064Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -308,7 +308,7 @@ If a player holds two cards of a given month, and the third and the fourth card 
 
 ## Missions
 
-In Korean online Go-stop platforms, one or more bonus objectives, which multiplies score like other multipliers (x2 ~ x8) on completion, may be added at the beginning or during a round.
+In Korean online Go-stop platforms, one or more bonus objectives ('미션' - lit. mission), which multiplies score like other multipliers (x2 ~ x8) on completion, may be added at the beginning or during a round.
 
 Some examples:
 - Before the round or during the first turn a month is chosen. If the winner of the round holds all four cards of that month, their score is multiplied.
