@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T05:30:23.240Z
+date: 2022-06-21T05:46:00.864Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -162,7 +162,8 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 ### Stealing Points
 1. If the player creates a triplet (stack of 3) on their very first turn, they steal predetermined points (usually equal to stop minimum) from each opponent ('첫뻑' - *[cheodppeok]*). If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn ('연뻑/삼연뻑' - *[yeonppeok/samyeonppeok]*).
 2. If any player creates three triplets over the course of the round (including three consecutive triplets at the first 3 rounds, see above), then they *immediately* win the round and steal predetermined points (usually equal to stop minimum) from each opponent ('쓰리뻑' - *three [ppeok]*).
-3. If the player captures all four cards from the same month on their very first turn ('첫따닥' - *[cheod ddadak]*), they steal predetermined points (usually equal to stop minimum) from each opponent. If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn.
+3. If the player captures all four cards from the same month on their very first turn ('첫따닥' - *[cheodddadak]*), they steal predetermined points (usually equal to stop minimum) from each opponent. If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn.
+4. Popular variant - If a player bombs the field on their first turn ('첫폭탄' - *[choedpoktan]*) or creates a pair with two played in Phase 1 and Phase 2 ('첫쪽', *[choedjjok]*), then the player steals predetermined points from each opponent.
 
 # End of Round and Scoring
 The round ends when either a player calls *stop*, or when all players run out of cards in their hands.
@@ -187,7 +188,7 @@ Bonus points and extra multipliers come from a variety of sources, as listed bel
 The winner earns a `x2` multiplier for each of the following:
 - Every triplet they revealed during round.
 - Capturing 7 or more Animal cards.
-- Every bombs they thrown on the field.
+- Every bomb they thrown on the field.
 - If the previous round had no winner (continuous draws **stack** multipliers).
 
 ## Double Penalties
@@ -301,6 +302,10 @@ Every joker can behave the same way, or each joker can have a unique special abi
 Sometimes, a variant rule when drawing jokers is applied:
 - If a player makes a matching pair in Phase 1, then draws a joker in Phase 2, the joker is placed on top of the pair. The player then draws and plays a substitute card from the draw pile as usual. If that substitute card makes a triplet with the pair (as per the usual rules), then the joker is left with the triplet, and is claimed by whichever player subsequently captures the triplet.
 
+## Small Bombs
+
+If a player holds two cards of a given month, and the third and the fourth card are in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a similar fashion as bomb - this is called '콩알탄' - *[kongaltan]* (lit. very small bomb), or '수류탄' - *[suryutan]* (lit. grenade). How to treat this may differ (allow the move only, steals a chaff like bomb but does not apply x2 multiplier, or treats like a regular bomb).
+
 ## Bombs
 - After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip all subsequent turns.
 - Sometimes, as a variation of the above, the player only draws 2 cards in Phase 2.
@@ -316,13 +321,9 @@ The following different scheme for *go* bonuses is sometimes used:
 - Sometimes the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) is permitted to count as both an Animal *and* 2 Chaff cards simultaneously.
 - Sometimes the [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Eight-Plank Bridge](/en/hanafuda/suits/iris#eight-plank-bridge) takes the role of the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), with the latter counting as a regular Animal card.
 
-## Calling a Draw
-- In some descriptions of the game, the effects of calling a draw are *not* limited to the next three turns, and instead persist indefinitely.
-
 ## Special Events
-- If a player captures all four cards of a given month on their first turn, then the player steals 3 points from each opponent.
-- Alternatively, capturing all four cards of a given month on their first turn will quadruple the player's score if they win.
-- Capturing a triplet lets the player steal 2 Chaff from each other player, as opposed to just 1.
+- Capturing all four cards of a given month on their first turn will quadruple the player's score if they win.
+- Capturing any triplet lets the player steal 2 Chaff from each other player, as opposed to just 1.
 - If a player captures 3 or more triplets over the course of a round, they steal 2 Chaff from each opponent.
 - Before the round, a month is chosen. If the winner of the round holds all four cards of that month, their score is quadrupled.
 - If, on the player's first turn, they manage to capture one card of each type - Bright, Animal, Ribbon, and Chaff - then they steal 1 Chaff from each opponent.
