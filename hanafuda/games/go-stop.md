@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-21T11:55:59.133Z
+date: 2022-06-22T04:23:17.179Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -84,7 +84,7 @@ A player may reveal any number of triplets and/or jokers (and/or four of a kinds
 
 If a player holds a triplet, then they may choose to reveal it to the other players before playing a card. If the player manages to win the round, their score will be doubled. This is known as '흔들기' - *[heundeulgi]* (lit. 'shaking'). Should the player hold multiple triplets, they may reveal as many as they like, and the `x2` multipliers for each will stack.
 
-If a player holds a joker, then the player may reveal and capture it immediately. They then draw a replacement card from the draw pile, and play that card as though it were from their hand. If this completes a triplet, it can be also revealed during this phase.
+If a player holds a joker, then the player may reveal and capture it immediately. They then draw a replacement card from the draw pile, and treat that card as though it were from their hand. If this completes a triplet, it can be also revealed during this phase. If the player reaches stop minimum or improves the score by capturing a joker, the player may call *go* or *stop* as well.
 
 If a player holds a four of a kind, then they may choose to reveal all four cards and double the score as the same as revealing a triplet. Also, after playing a revealed card the player may bomb the field too (accumulating 'x4' multiplier and stealing a chaff as the result, see below). 
 
