@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-22T04:23:50.449Z
+date: 2022-06-22T19:21:19.832Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -93,7 +93,7 @@ If a player holds a four of a kind, then they may choose to reveal all four card
 Firstly, a player chooses a single card from their hand and plays it to the table, or bomb the field with a triplet in hand (see 'Bombing the Field').
 
 - **If it belongs to the same month as another card in the field**, then the cards *match*, and this matching pair is stacked together to indicate that it will be captured.
-- **If the played card matches with two cards in the field**, then the player may choose which one they capture **after flipping a card during Phase 2**.
+- **If the played card matches with two cards in the field**, then the player may choose which one they capture.
 - **If the played card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured).
 - **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
 
