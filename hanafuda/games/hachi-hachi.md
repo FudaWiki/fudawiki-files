@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2022-04-10T15:20:28.733Z
+date: 2022-07-05T03:50:32.130Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:19.184Z
@@ -233,7 +233,7 @@ Once the scoring is completed—regardless of which method was used, or whether 
 *Remember, the field multiplier applies to special achievements, too! It applies to everything!*
 
 ### Diving
-*Diving* [飛び込み - あそびこみ, *asobikomi*], sometimes known as *Catching the Triplet*, is attainable by any player who declared a Group A teyaku that includes a Triplet or Standing Triplet, but *not* a Four of a Kind.
+*Diving* [飛び込み - とびこみ, *tobikomi*], sometimes known as *Catching the Triplet*, is attainable by any player who declared a Group A teyaku that includes a Triplet or Standing Triplet, but *not* a Four of a Kind.
 
 If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
 
