@@ -2,7 +2,7 @@
 title: Ni-Shi-Roku
 description: A 3-player hanafuda game with simple rules and few yaku
 published: true
-date: 2022-07-05T06:40:17.486Z
+date: 2022-07-05T06:40:24.656Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-05T06:11:46.700Z
