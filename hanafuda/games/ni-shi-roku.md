@@ -2,7 +2,7 @@
 title: Ni-Shi-Roku
 description: A 3-player hanafuda game with simple rules and few yaku
 published: true
-date: 2022-07-05T06:46:37.367Z
+date: 2022-07-05T08:00:53.661Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-05T06:11:46.700Z
@@ -25,7 +25,7 @@ The maximum amount of shares a player could receive in a round is **6 shares** (
 The card values used in Ni-Shi-Roku are completely standard, the same as used in [Hachi-Hachi](https://fudawiki.org/en/hanafuda/games/hachi-hachi). 
 
 | Card Type | Value | Number in Deck |
-| --- | --- | --- |
+|:------:|:---:|:---:|
 | Bright | 20  | 5   |
 | Animal | 10  | 9   |
 | Ribbon | 5   | 10  |
@@ -34,7 +34,7 @@ The card values used in Ni-Shi-Roku are completely standard, the same as used in
 # Yaku
 
 | Value | Name of Yaku | Composition |
-| --- | --- | --- |
+|:---:|:---:|:--- |
 | 4 shares (2 from each player) | **Four Brights**  <br>四光 \[しこう, *shikou*\] | ![Pine With Crane](https://fudawiki.org/sheldonchen-cards/10.svg#hanafuda-card =50x) ![Cherry Blossom with Curtain](https://fudawiki.org/sheldonchen-cards/30.svg#hanafuda-card =50x) ![Susuki Grass with Moon](https://fudawiki.org/sheldonchen-cards/80.svg#hanafuda-card =50x) ![Paulownia with Phoenix](https://fudawiki.org/sheldonchen-cards/120.svg#hanafuda-card =50x) |
 | 2 shares (1 from each player) | **Poetry Ribbons**  <br>赤短 \[あかたん, *akatan*\] | The three Poetry Ribbons: <br>![Pine With Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/11.svg#hanafuda-card =50x) ![Plum Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/21.svg#hanafuda-card =50x) ![Cherry Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/31.svg#hanafuda-card =50x) |
 | 2 shares (1 from each player) | **Blue Ribbons**  <br>青短 \[あおたん, *aotan*\] | The three Blue Ribbons:  <br>![Peony with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/61.svg#hanafuda-card =50x) ![Chrysanthemum with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/91.svg#hanafuda-card =50x) ![Maple with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/101.svg#hanafuda-card =50x) |
