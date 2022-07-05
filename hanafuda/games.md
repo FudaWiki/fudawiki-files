@@ -2,13 +2,12 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-04-10T15:18:04.104Z
+date: 2022-07-05T06:20:28.421Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
 ---
 
-# Traditional Games
 This is a list of known [hanafuda](/en/hanafuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 **There are 3 major families to which hanafuda games tend to belong:**
@@ -74,7 +73,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
 |Roku-Tan ("Six Scrolls")|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
-|Saburokku ("Three-Six-Nine"), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
+|[Saburokku](/en/hanafuda/games/saburokku) ("Three-Six-Nine"), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Sanuki Province, Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
