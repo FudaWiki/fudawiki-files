@@ -2,7 +2,7 @@
 title: Saburokku
 description: A 3-player hanafuda game with simple rules and few yaku
 published: true
-date: 2022-07-05T06:49:44.947Z
+date: 2022-07-05T06:55:54.847Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-05T06:48:17.897Z
@@ -21,16 +21,16 @@ The card values used in Saburokku are completely standard, the same as used in H
 | Bright | 20  | 5   |
 | Animal | 10  | 9   |
 | Ribbon | 5   | 10  |
-| Chaff | 1   | 24  |
+| Chaff  | 1   | 24  |
 
 # Yaku
 
 | Value | Name of Yaku | Composition |
 | --- | --- | --- |
 | 9   | **Four Brights**  <br>四光 \[しこう, *shikou*\] | ![Pine With Crane](https://fudawiki.org/sheldonchen-cards/10.svg#hanafuda-card)<br><br>![Cherry Blossom with Curtain](https://fudawiki.org/sheldonchen-cards/30.svg#hanafuda-card)<br><br>![Susuki Grass with Moon](https://fudawiki.org/sheldonchen-cards/80.svg#hanafuda-card)<br><br>![Paulownia with Phoenix](https://fudawiki.org/sheldonchen-cards/120.svg#hanafuda-card) |
-| 6   | **Seven Ribbons**  <br>七短 \[ななたん, *nanatan*\] | Any 7 Ribbon cards, excluding the <br><br>![monthicon_11.png](https://fudawiki.org/hanafuda/icons/monthicon_11.png)<br><br>[Willow Ribbon](https://fudawiki.org/en/hanafuda/suits/willow#plain-ribbon)<br><br>. |
-| 3   | **Poetry Ribbons**  <br>赤短 \[あかたん, *akatan*\] | The three Poetry Ribbons:  <br> <br><br>![Pine With Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/11.svg#hanafuda-card)<br><br>![Plum Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/21.svg#hanafuda-card)<br><br>![Cherry Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/31.svg#hanafuda-card) |
-| 3   | **Blue Ribbons**  <br>青短 \[あおたん, *aotan*\] | The three Blue Ribbons:  <br> <br><br>![Peony with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/61.svg#hanafuda-card)<br><br>![Chrysanthemum with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/91.svg#hanafuda-card)<br><br>![Maple with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/101.svg#hanafuda-card) |
+| 6   | **Seven Ribbons**  <br>七短 \[ななたん, *nanatan*\] | Any 7 Ribbon cards, excluding the ![monthicon_11.png](https://fudawiki.org/hanafuda/icons/monthicon_11.png =20x)<br><br>[Willow Ribbon](https://fudawiki.org/en/hanafuda/suits/willow#plain-ribbon). |
+| 3   | **Poetry Ribbons**  <br>赤短 \[あかたん, *akatan*\] | The three Poetry Ribbons: <br>![Pine With Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/11.svg#hanafuda-card =50x)![Plum Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/21.svg#hanafuda-card =50x)![Cherry Blossom with Poetry Ribbon](https://fudawiki.org/sheldonchen-cards/31.svg#hanafuda-card =50x) |
+| 3   | **Blue Ribbons**  <br>青短 \[あおたん, *aotan*\] | The three Blue Ribbons:  <br>![Peony with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/61.svg#hanafuda-card =50x)![Chrysanthemum with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/91.svg#hanafuda-card =50x)![Maple with Blue Ribbon](https://fudawiki.org/sheldonchen-cards/101.svg#hanafuda-card =50x) |
 
 # Bibliography
 
