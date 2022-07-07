@@ -2,7 +2,7 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-07-07T07:48:52.078Z
+date: 2022-07-07T08:45:52.355Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
@@ -18,7 +18,7 @@ Players then count their card points, plus the value of dekiyaku formed, plus 50
 
 # Card Values
 
-The card values used in Enshu-bana are slightly different from those used in [Hachi-Hachi](https://fudawiki.org/en/hanafuda/games/hachi-hachi). The Rainman is considered an Animal instead of a Bright, and all Chaffs are worth 0 points.
+The card values used in Enshu-bana are slightly different from those used in [Hachi-Hachi](https://fudawiki.org/en/hanafuda/games/hachi-hachi). The **Rainman** is considered an **Animal** instead of a Bright, and all Chaffs are worth **0 points**.
 
 | Card Type | Value | Number in Deck |
 | --- | --- | --- |
@@ -31,8 +31,8 @@ The card values used in Enshu-bana are slightly different from those used in [Ha
 
 | Value | Name of Yaku | Composition |
 | --- | --- | --- |
-| 10x the wager | **Four-Three** (Shisou) | Four cards of the same month and Three cards of another month.<br><br>**(STOPS THE ROUND)** |
-| 2x the wager | **Four of a Kind** (Teshi) | Four cards of the same month.<br><br>**(STOPS THE ROUND)** |
+| 10x the wager | **Four-Three** (Shisou) | Four cards of the same month plus Three cards of another month.<br>**(STOPS THE ROUND)** |
+| 2x the wager | **Four of a Kind** (Teshi) | Four cards of the same month.<br>**(STOPS THE ROUND)** |
 | 50 pts. | **Triplet** (Sanbon) | Three cards of the same month.  <br>Only Iris![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x), Chrysanthemum![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x), and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted. |
 
 # Dekiyaku
