@@ -2,42 +2,141 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-07-07T13:27:23.550Z
+date: 2022-07-07T14:30:01.743Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
 ---
 
-Nintendo Co., Ltd. is a company most-known today as a video game manufacturer, but started out as a Hanafuda manufacturer. It was founded in September 1889 by Yamauchi Fusajirō (山内房治郎), who named the company Yamauchi Nintendo (山内任天堂).
-
-Nintendo’s manufacturers mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
-
-The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”.
-
-Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.
-
-# Brands
-
-Currently, Nintendo produces the standard Hanafuda pattern in 3 brands, which differ only in the texture of the cards, and the packaging design.
-
-| Brand | Packaging | Card texture |
-| --- | --- | --- |
-| **Daitoryo**<br><br>(大統領, president) | Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Heavy clear-coat on the front; Glossy on the back |
-| **Tengu**<br><br>(天狗) | Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Faint clear-coat on the front; Glossy on the back |
-| **Miyako no Hana**<br><br>(都の花, flowers of the capital) | Two-piece clear plastic box. | Uncoated front; Slightly matte back |
-
-In addition, Nintendo currently produces Mario Hanafuda, which features characters from the Super Mario and Donkey Kong series on all of the cards. (Nintendo manufactured other character Hanafuda as well, such as Pokemon Hanafuda; since they did not publish those cards, they will not be listed here.)
-
-| Brand | Packaging | Card texture | Card pattern |
-| --- | --- | --- | --- |
-| **Mario Hanafuda**<br><br>(マリオ) | Two-piece clear plastic box. | Heavy clear-coat on the front; Glossy on the back<br><br>(Same as Daitoryo) | Standard Hanafuda but with Mario and Donkey Kong characters on all of the cards |
-
-# Discontinued Brands
-
-Note: Brands produced by Nintendo for other companies are not listed here.
-
-| Brand | Notes |
-| --- | --- |
-| **Asahi Sakura**<br><br>(朝日桜, morning sun Sakura) | Came in two label designs. The old design was a diamond shape inside an oval, and shared the same label design with Goshozakura, Kumoizakura, and Yaezakura. The newer design looked similar to the label designs of Marufuku Sakura and Heian. |
-| **Azuma Tengu**<br><br>(東天狗, Eastern Tengu) | Same label design as Tengu, but with silver background instead of gold. Could be the replacement for the brand Gintengu. Briefly succeeded by Daitengu in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
-| **Chiyozakura**<br><br>(千代桜, thousand-year Sakura) | Introduced in the 1990's (probably from 1994 or later). Same quality and price as Miyako no Hana, but with different packaging, and intended for sale in convenience stores. |
+<p>Nintendo Co., Ltd. is a company most-known today as a video game manufacturer, but started out as a Hanafuda manufacturer. It was founded in September 1889 by Yamauchi Fusajirō (山内房治郎), who named the company Yamauchi Nintendo (山内任天堂).</p>
+<p>Nintendo’s manufacturers mark is a circled 福 (<i>fuku</i>, ‘fortune’), called Marufuku (丸福).</p>
+<p>The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”.</p>
+<p>Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.</p>
+<h1>Brands</h1>
+<p>Currently, Nintendo produces the standard Hanafuda pattern in 3 brands, which differ only in the texture of the cards, and the packaging design.</p>
+<figure class="table">
+  <table style="background-color:rgb(255, 255, 255);">
+    <thead>
+      <tr>
+        <th style="border-bottom:2px solid rgb(158, 158, 158);padding:0.75rem;">Brand</th>
+        <th>Packaging</th>
+        <th style="border-bottom:2px solid rgb(158, 158, 158);padding:0.75rem;">Card texture</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Daitoryo</strong><br>(大統領, president)</td>
+        <td>Beige-colored plastic box with a black/red flap that closes on both ends of the box.</td>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;">Heavy clear-coat on the front; Glossy on the back</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Tengu</strong><br>(天狗)</td>
+        <td>Beige-colored plastic box with a black/red flap that closes on both ends of the box.</td>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;">Faint clear-coat on the front; Glossy on the back</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Miyako no Hana</strong><br>(都の花, flowers of the capital)</td>
+        <td>Two-piece clear plastic box.</td>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;">Uncoated front; Slightly matte back</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<p>In addition, Nintendo currently produces Mario Hanafuda, which features characters from the Super Mario and Donkey Kong series on all of the cards. (Nintendo manufactured other character Hanafuda as well, such as Pokemon Hanafuda; since they did not publish those cards, they will not be listed here.)</p>
+<p>&nbsp;</p>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th style="border-bottom:2px solid rgb(158, 158, 158);padding:0.75rem;">Brand</th>
+        <th>Packaging</th>
+        <th style="border-bottom:2px solid rgb(158, 158, 158);padding:0.75rem;">Card texture</th>
+        <th>Card pattern</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Mario Hanafuda</strong><br>(マリオ)</td>
+        <td>Two-piece clear plastic box.</td>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;">Heavy clear-coat on the front; Glossy on the back<br>(Same as Daitoryo)</td>
+        <td>Standard Hanafuda but with Mario and Donkey Kong characters on all of the cards</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h1>Discontinued Brands</h1>
+<p>Note: Brands produced by Nintendo for other companies are not listed here.</p>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th style="border-bottom:2px solid rgb(158, 158, 158);padding:0.75rem;">Brand</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Asahi Sakura</strong><br>(朝日桜, Morning Sun Sakura)</td>
+        <td>Came in two label designs. The old design was a diamond shape inside an oval, and shared the same label design with <strong>Goshozakura</strong>, <strong>Kumoizakura</strong>, and <strong>Yaezakura</strong>. The newer design looked similar to the label designs of <strong>Marufuku Sakura</strong> and <strong>Heian</strong>.</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Azuma Tengu</strong><br>(東天狗, Eastern Tengu)</td>
+        <td>Same label design as <strong>Tengu</strong>, but with silver background instead of gold. Could be the replacement for the brand <strong>Gintengu</strong>. Briefly succeeded by <strong>Daitengu</strong> in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green.</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid rgb(238, 238, 238);padding:0.75rem;"><strong>Chiyozakura</strong><br>(千代桜, Thousand-year Sakura)</td>
+        <td>Introduced in the 1990's (probably from 1994 or later). Same quality and price as <strong>Miyako no Hana</strong>, but with different packaging, and intended for sale in convenience stores.</td>
+      </tr>
+      <tr>
+        <td><strong>Chujo</strong><br>(中将, Lieutenant General)</td>
+        <td>Rare. Also used for shirofuda decks.</td>
+      </tr>
+      <tr>
+        <td><strong>Daifuku</strong><br>(大福, Great Fortune)</td>
+        <td>Extremely rare.</td>
+      </tr>
+      <tr>
+        <td><strong>Daikoku</strong><br>(大黒, short for Daikokuten)</td>
+        <td>Very rare.</td>
+      </tr>
+      <tr>
+        <td><strong>Daioh jirushi</strong><br>(大王印, Great King mark)</td>
+        <td>Extremely rare. Only appears in the <strong>Nintendo Brands and Chihofuda Poster </strong>from early Showa era. Shares the same label design with <strong>Oedo</strong>.</td>
+      </tr>
+      <tr>
+        <td><strong>Daitengu</strong><br>(大天狗, Great Tengu)</td>
+        <td>Introduced in 1977 as a replacement brand for <strong>Azuma Tengu</strong>. The label features a floating Tengu head among the clouds, in a silver background.</td>
+      </tr>
+      <tr>
+        <td><strong>Eiyu</strong><br>(英雄, Hero)</td>
+        <td>Very rare. Features a portrait of Saigo Takamori (西郷隆盛)</td>
+      </tr>
+      <tr>
+        <td><strong>Fuji</strong><br>(不二, Peerless)</td>
+        <td>Very rare.</td>
+      </tr>
+      <tr>
+        <td><strong>Ginsekai</strong><br>(銀世界, Silver World)</td>
+        <td>Very rare. Shares the same label design with <strong>Hanaoh jirushi</strong>.</td>
+      </tr>
+      <tr>
+        <td><strong>Gintengu</strong><br>(銀天狗, Silver Tengu)</td>
+        <td>Extremely rare. Only appears in the <strong>Nintendo Brands and Chihofuda Poster </strong>from early Showa era.</td>
+      </tr>
+      <tr>
+        <td><strong>Gion</strong><br>(祇園)</td>
+        <td>Rare.</td>
+      </tr>
+      <tr>
+        <td><strong>Goshozakura</strong><br>(御所櫻, Imperial Palace Sakura)</td>
+        <td>Very rare. Shares the same label design with <strong>Goshozakura</strong>, <strong>Kumoizakura</strong>, and <strong>Yaezakura</strong>.</td>
+      </tr>
+      <tr>
+        <td><strong>Hagoromo</strong><br>(羽衣, Angelic Clothing)</td>
+        <td>Very rare. Shares the same label design with <strong>Kikusui</strong>.</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
