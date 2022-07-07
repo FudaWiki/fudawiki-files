@@ -2,7 +2,7 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-07-07T07:27:25.377Z
+date: 2022-07-07T07:48:52.078Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
@@ -33,20 +33,20 @@ The card values used in Enshu-bana are slightly different from those used in [Ha
 | --- | --- | --- |
 | 10x the wager | **Four-Three** (Shisou) | Four cards of the same month and Three cards of another month.<br><br>**(STOPS THE ROUND)** |
 | 2x the wager | **Four of a Kind** (Teshi) | Four cards of the same month.<br><br>**(STOPS THE ROUND)** |
-| 50 pts. | **Triplet** (Sanbon) | Three cards of the same month.  <br>Only Iris, Chrysanthemum, and Paulownia cards are counted. |
+| 50 pts. | **Triplet** (Sanbon) | Three cards of the same month.  <br>Only Iris![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x), Chrysanthemum![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x), and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted. |
 
 # Dekiyaku
 
 | Value | Name of Yaku | Composition |
 | --- | --- | --- |
-| 3x the wager | **Four Brights/Emperor** (Shiko/Tenno) | ![Pine With Crane](https://fudawiki.org/sheldonchen-cards/10.svg#hanafuda-card)<br><br>![Cherry Blossom with Curtain](https://fudawiki.org/sheldonchen-cards/30.svg#hanafuda-card)<br><br>![Susuki Grass with Moon](https://fudawiki.org/sheldonchen-cards/80.svg#hanafuda-card)<br><br>![Paulownia with Phoenix](https://fudawiki.org/sheldonchen-cards/120.svg#hanafuda-card)<br><br>**(STOPS THE ROUND)** |
-| 2x the wager | **Poetry Ribbons**  <br>赤短 \[あかたん, *akatan*\] | The three Poetry Ribbons:<br><br>**(STOPS THE ROUND)** |
-| 2x the wager | **Blue Ribbons**  <br>青短 \[あおたん, *aotan*\] | The three Blue Ribbons:<br><br>**(STOPS THE ROUND)** |
-| 50 pts. | **Moon and Cuckoo** (tsukihoto) | Full Moon and Cuckoo. |
-| 50 pts. | **Boar and Butterflies** (shishibo) | Boar and Butterflies. |
-| 50 pts. | **Boar and Rainman** (shishichu) | Boar and Rainman. |
-| 100 pts. | **Sokuyaku** | Boar, Butterflies, and Rainman. |
-| 50 pts. (plus 50 pts. if Triplet of the same month was formed earlier) | **Four of a Kind** (shima) | Four cards of the same month. Only Iris, Chrysanthemum, and Paulownia cards are counted. |
+| 3x the wager | **Four Brights/Emperor** (Shiko/Tenno) | [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>**(STOPS THE ROUND)** |
+| 2x the wager | **Poetry Ribbons**  <br>(Akatan) | The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)<br>**(STOPS THE ROUND)** |
+| 2x the wager | **Blue Ribbons**  <br>(Aotan) | The three Blue Ribbons:<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>**(STOPS THE ROUND)** |
+| 50 pts. | **Moon and Cuckoo** (Tsukihoto) | [![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) |
+| 50 pts. | **Boar and Butterflies** (Shishibo) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies) |
+| 50 pts. | **Boar and Rainman** (Shishichu) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
+| 100 pts. | **Boar, Butterflies, Rainman** (Sokuyaku) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
+| 50 pts. (100pts. if a Triplet teyaku of the same month was formed during the round) | **Four of a Kind** (Shima) | Four cards of the same month.<br>Only Iris![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x), Chrysanthemum![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x), and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted. |
 
 # Bibliography
 
