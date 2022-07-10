@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-10T12:44:16.882Z
+date: 2022-07-10T13:06:46.050Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -60,25 +60,27 @@ The remainder of the deck is placed face-down next to the field to form the draw
 
 * Also, If 3 cards of the same month as the month on the round indicator, then a misdeal is declared. In this case, the cards are thrown in, shuffled again, and re-dealt.
 
-* If a player has four cards of the same month in their hand, they must show them to all participants, return them into the deck, and after the deck is re-shuffled, the player is dealt four cards. (Some rules say that only one card is returned to the deck instead of four
+* If a player has 4 cards of the same month in their hand, they must show them to all participants and return them into the deck. The dealer shuffles the deck and deals the player four new cards.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 
+After all players have checked their cards, the dropout phase begins.
+
 ## The Dropout Phase
 Each player then evaluates their hand to decide if they would like to play this round, or sit out.
 
-Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
+Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play or until everyone has had their turn, whichever comes first.
 
-To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, with the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
+To discourage needless dropping out, a *dropout penalty* [ハント, *hanto*] of **30 pts.** is imposed. These payments are held in a pot, which will be claimed by the player who formed the highest scoring dekiyaku during the round.
 
-If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
+If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer).
 
 If only one player wishes to play, then obviously no game can occur. This sole remaining player is the *de facto* winner of the round, and claims the entire contents of the pot.
 
 If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
 
-> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
+> Players may also agree to require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round.
 {.is-info}
 
 As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
