@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-10T14:16:00.404Z
+date: 2022-07-10T15:36:40.151Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -28,6 +28,7 @@ Suhara-bana only supports having three active players in each round. Other playe
 **Suhara-bana, as a gambling game, employs a zero-sum scoring system.** Scores are represented in stones, and **each white stone is worth 4 black stones**. However, the game also uses two other scoring units: points, and hai (ハイ). **Hai** is the unit used for counting dekiyaku values, and is worth **20 points**.
 
 Payments within the game are represented in points and hai are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes halved.
+
 
 |Field Type|Value of White Stone|Value of Black Stone|
 |:---:|:---:|:---:|
@@ -109,17 +110,37 @@ In each round, the dealer is the first to play, and turn to play passes anti-clo
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
 * **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
-* **If the played card matches with two cards on the table**, then the player must capture the card with the lower score. If one of cards on the table is a Chaff, the player can choose to capture the scoring card.
+* **If the played card matches with two cards on the table**, then the player must ***capture the card with the lower score***. If one of cards on the table is a Chaff, the player can choose to capture the scoring card.
 * **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
 * **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
 
 > If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (see **Scoring**) to make detecting yaku easier.
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (see **"End of Round and Scoring"**) to make detecting yaku easier.
 {.is-warning}
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+
+## *Shoi-fuda*
+*Shoi-fuda* (背負い札) are cards in a player’s hand that, when discarded into the field, could be captured by one of the other two players to complete their yaku (due to having only one card missing from the yaku). 
+
+**A player cannot play their *shoi-fuda* from their hand** (they cannot discard it nor use it to capture a card on the table).
+
+> The player who illegally discards a *shoi-fuda* must be warned by the other two players, and the player must return it to their hand. It is not known what will be the penalty for deliberately disobeying this rule; it is probable that responsibility rules similar to those in Hachi-hachi was imposed.
+{.is-warning}
+
+However, there are three exceptions:
+* If the shoi-fuda can be played to **complete your dekiyaku** during your turn. You must declare **"Teyaku desu"** (手役です) before playing.
+* If **two of your shoi-fuda are of the same month**. You must declare **"Ni-mai mochi"** (2枚持ち) before playing one of the shoi-fuda, and you must play the other shoi-fuda during your next turn.
+
+> If you have both shoi-fuda and non-shoi-fuda cards in your hand, as long as one of the two above conditions of shoi-fuda are met, you may choose to play either kinds of cards.
+{.is-info}
+
+> The term 'teyaku' here refers to a card in your hand that will complete your yaku. It is different from the standard definition of 'teyaku', which means a set formed in a player's hand.
+{.is-info}
+* If **all of the cards in your hand are shoi-fuda**. You must play the card that forms the lowest-scoring yaku that can be completed by another player.
+
 
 ## *Dekiyaku*, *Sage* and *Shoubu*
 One a player has played their two cards—one from their hand, and one from the draw pile—they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. 
@@ -129,43 +150,74 @@ Similar to the *yaku* in other games, *dekiyaku* are certain valuable combinatio
 * If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to end it, as detailed below. 
 * If this is not the case, then their turn ends, and the next player takes their turn.
 
-### *Sage*
-If the player calls to continue [下げ - さげ, *sage*], then the round continues. Their turn ends, and play passes to the next player. This affords the player an opportunity to either form a second dekiyaku or improve their current one for more points—although they suffer penalties if they fail to accomplish this before another player forms their own dekiyaku, or before the round ends.
-
-> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue the round **as many times as they choose**.
-{.is-info}
-
-### *Shoubu*
-If the player calls to end [勝負 - しょうぶ, *shoubu*], then the round ends, and scores are calculated. This is a safe option, but denies the opportunity to form additional dekiyaku.
-
-### Cancelling a *Sage*
-If a player has previously called *sage* to continue, then they may, at the beginning of their turn, call to *cancel*, which immediately ends the round. This results in a reduced score for the player in question, but serves as a useful emergency option if it looks like the player will no longer be able to form their second dekiyaku.
 
 # End of Round and Scoring
 
-The round ends either when a player forms a dekiyaku then calls to *end* or *cancel*, or when all players have run out of cards in their hands.
+The round ends when all players have run out of cards in their hands.
 
-Scoring is handled differently depending on whether or not any player managed to form a [*dekiyaku*](#dekiyaku). 
-* If they have, then only the *dekiyaku* are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). 
-* If no *dekiyaku* have been made, then card points are totalled and used to determine the winner. 
+Scoring payments are calculated and settled in two phases: Card points scoring and Dekiyaku scoring. 
 
-The following sections will outline each of these two methods.
 
-> Remember that all exchanges of points between players are affected by the field multiplier!
+The following sections will outline each of these two phases.
+
+
+## Card Points Scoring
+The rank system, as well as the values of the cards, are non-standard, and they are as follows:
+|Card Type|Value (in points)|Number in Deck|
+|:---:|:---:|:---:|
+|Brights*|30|4|
+|Boar, Geese, Deer|20|3|
+|Other Animals*|10|7|
+|Ribbons|5|10|
+|Chaffs|0|24|
+*The **Rainman** is considered an **Animal** card instead of a Bright.
+
+**The total point value of the entire deck is `300`.** Since there are three players, and each player could conceivably earn exactly 100 points (one third of 300), the players are only awarded for card points earned *in excess* of the par value of 100.
+
+> Remember that a player who has chased must earn 100 points or more during the round; otherwise, he/she must pay the chasing penalty to the chased players.
 {.is-warning}
 
-## Scoring When *Dekiyaku* Are Present
-If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner: 
-* First, the teyaku payments from the beginning of the round are made.
-* Then, the dekiyaku are scored based on how the round ended, as follows.
+### Totalling Scores
+Each player determines their score as follows:
 
-|Case|Handling|
-|:---|:---|
-|**If a Player Called *Shoubu***|**The player who called *shoubu* is paid the total value of their dekiyaku by each of their opponents.** Only this player scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who called *shoubu* will be the winner of the round, and becomes the dealer for the next.<br/>⚠️ *If one of the opponents has previously called **sage** while the other one has not, then the one who called **sage** pays double, while the one who did not pays nothing.*|
-|**If a Player Elected to Cancel**|**The player who cancelled is paid *half* the total value of their dekiyaku by each opponent.** Only the player who cancelled scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who cancelled will be the winner of the round, and becomes the dealer for the next.|
-|**If the Hands Are Exhausted**|If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then **every player is paid *half* the total value of their dekiyaku by each of their opponents**. The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
+`Player's Score = (Total of Player's Captured Card Points - 100)`
 
-## Scoring With No *Dekiyaku*
+This will be the total amount of points won or lost by each player. Players with a negative score must pay points to those with a positive score.
+
+Before payments are done, the score in points must be converted into stones.
+
+|Field Type|Value of White Stone|Value of Black Stone|
+|:---:|:---:|:---:|
+|Small Field|20 pts.|5 pts.|
+|Middle Field|10 pts.|2.5 pts.|
+|Main Field|5 pts.|1.25 pts.|
+
+Example: Player A must pay 25 points to Player B.
+During Small Field: `25 pts. = 1 white stone + 1 black stone`
+During Middle Field: `25 pts. = 2 white stones + 2 black stones`
+During Main Field: `25 pts. = 5 white stones`
+
+> If the player's score could not be completely exchanged using stones, then the score is rounded down. 
+{.is-info} 
+
+Example: Player A must pay 28 points to Player B.
+During Small Field: `28 pts. ≈ 1 white stone + 1 black stone`
+(Player A only pays **25** pts. to Player B.)
+During Middle Field: `28 pts. ≈ 2 white stones + 3 black stones`
+(Player A only pays **27.5** pts. to Player B.)
+During Main Field: `28 pts. ≈ 5 white stones + 2 black stones`
+(Player A only pays **27.5** pts. to Player B.)
+
+> In the (unlikely) event of a tie between all 3 players, then the entire round is considered "misdealt" and the entire round must be started all over again.
+{.is-info}
+
+The player with the highest score becomes the dealer for the next round. If two players are tied, the player nearest to the dealer's left becomes the dealer for the next round.
+
+## Dekiyaku Scoring
+After the card points have been settled, players then check their captured cards for Dekiyaku.
+
+# UNDER CONSTRUCTION BEYOND THIS POINT
+
 If no player has managed to form any *dekiyaku*, then the players count the point values of the cards in their score pile to determine the winner. The values of the cards are standard, as follows:
 |Card Type|Value (in points, not *kan!*)|Number in Deck|
 |:---:|:---:|:---:|
