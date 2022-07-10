@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-10T13:06:46.050Z
+date: 2022-07-10T14:16:00.404Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -72,7 +72,10 @@ Each player then evaluates their hand to decide if they would like to play this 
 
 Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play or until everyone has had their turn, whichever comes first.
 
-To discourage needless dropping out, a *dropout penalty* [ハント, *hanto*] of **30 pts.** is imposed. These payments are held in a pot, which will be claimed by the player who formed the highest scoring dekiyaku during the round.
+To discourage needless dropping out, a *dropout penalty* [ハント, *hanto*] of **30 pts.** is imposed. These payments are held in a pot, which will be claimed by the player who formed the highest scoring dekiyaku during the round. 
+
+> If a player is unable to afford to pay the dropout penalty, then he/she cannot drop out and must play.
+{.is-warning}
 
 If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer).
 
@@ -83,86 +86,37 @@ If nobody wishes to play, then a misdeal is declared; the cards are thrown in an
 > Players may also agree to require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round.
 {.is-info}
 
-As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out*. These players do not have to pay the dropout penalty. Since these players may well have valuable hands that they were eager to play, one of them could opt to **chase** the players who wish to play until one of them drops out.
 
-The total compensation is the sum of the following:
-- Half the value of the hand's teyaku score.
-- Half the value of any complete dekiyaku in the hand.
-- 3 points for every card in the hand that contributes to either the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku, and which are not already included in a teyaku or dekiyaku.
+## The Chasing Phase
 
-This compensation is paid to the player by each of the two *non-dealer* active players.
+The player who wants to chase declares **"Bou"** (追う), and each player who declared to play, starting with the dealer (or the person nearest to the dealer's right), must declare again whether to play or drop out.
 
-> Note that the field multiplier is determined before the dropout phase begins. Because, yes, it applies to dropout penalties and hand compensation as well.
+If one of the players drops out, the chasing player takes their place in the game. If neither of the first two players drop out, the third player is forced out and the chasing player takes their place. Players who are chased **do not need to pay the dropout penalty**.
+
+**The player who has chased must reach the par score during that round**. If he/she gets a score lower than the par score, he/she must pay a *chasing penalty* of **20 pts.** to each of the players who were chased.
+
+> If a player is unable to afford to pay the chasing penalty, then he/she cannot chase.
 {.is-warning}
 
-> Since the dropout phase is a kind of prelude before the round 'officially' begins, note that dropout penalties and hand compensation are *not* cancelled by the exceptional circumstances of *All Eights*, *Double Eights*, or *Sixteen Chaff*.
-{.is-warning}
+The player nearest to the right of the player who dropped out or is forced out during the chasing phase takes the dealer role (he/she gets to play first during gameplay), and the player who has chased sits on the new dealer's left.
 
-If the dealer chooses to drop out, then the player to their right becomes the dealer for the round. If this player then drops out, the player to *their* right becomes the dealer, and so on.
-
-> Some versions of the game allow a player who is *forced out* to barter with one of the players who decided to play, in order to buy them out of the game and play in their place. The minimum amount to be offered when trying to buy a player out should be at least the *hand compensation* value of that player's hand, though room for negotiation is possible.
-{.is-info}
-
-Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
-
-# Teyaku
-Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. *These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.*
-
-Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its **exceptionally large repertoire of *teyaku***, which is understandably daunting to new players.
-
-However, the basic teyaku fall into two categories, with all the others being simple combinations of one from each category:
-
-|Value (in *kan*)|Name|Description|
-|:---:|:---:|:---|
-|<h2 align="left">Group A: Set Teyaku</h2>|||
-|2|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|3|**Standing Triplet**<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
-|6|**Two Triplets**<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
-|7|**Triplet and Standing Triplet**<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
-|8|**Two Standing Triplets**<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
-|4|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
-|6|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
-|7|**Triplet and Two Pairs**<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet (or Standing Triplet) and two pairs.|
-|8|**One-Two-Four**<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
-|20|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a Triplet (or Standing Triplet).|
-
-|<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
-|2|**Red**<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
-|3|**One Ribbon**<br/>短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
-|3|**One Animal**<br/>十一 [といち, *toichi*]|One Animal card, six Chaff.|
-|4|**One Bright**<br/>光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
-|4|**Empty Hand**<br/>空素 [からす, *karasu*]|Seven Chaff cards.|
-
-The teyaku within each group are mutually exclusive, meaning that **each player scores for their single most valuable teyaku in each of Groups A and B.** In order to claim their *teyaku*, a player must reveal all the relevant cards from their hand: 
-* For teyaku in Group A, show all cards that are part of the combination. 
-* For teyaku in Group B, only the Chaff cards need to be shown.
-
-The points earned for *teyaku* are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. **Thus, the players should simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.**
-
-Once teyaku are claimed, the players hide their cards again, and the round begins.
-
-*Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.*
-
-> Remember that the field multiplier affects *all* exchanges of points between players, including teyaku payments!
-{.is-warning}
-
-> Many rulesets for Hachi-Hachi list each possible combination of teyaku from Group A and Group B separately. There are 66 such possible combinations, which naturally makes the teyaku look overwhelming! The most valuable combination is *Four-Three* plus *Empty Hand*. It's *incredibly* rare, and there's only one possible way to form it. As an exercise, see if you can work out how.
-{.is-info}
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then be shuffled by the player to the dealer's left before play begins.
 
 # Gameplay
-In each round, the dealer is the first to play, and turn to play passes anti-clockwise (↺) around the table. The core gameplay and turn structure of Hachi-Hachi is typical of games in the *Hana-Awase* family, though it features a variation of the 'go-stop' mechanic from [Koi-Koi](/en/hanafuda/games/koi-koi).
+In each round, the dealer is the first to play, and turn to play passes anti-clockwise (↺) around the table. The core gameplay and turn structure of Suhara-bana is typical of games in the *Hana-Awase* family, although it has some additional rules of its own.
 
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
 * **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
-* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches with two cards on the table**, then the player must capture the card with the lower score. If one of cards on the table is a Chaff, the player can choose to capture the scoring card.
 * **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
 * **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
 
 > If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (see **Scoring**) to make detecting yaku easier.
 {.is-warning}
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
