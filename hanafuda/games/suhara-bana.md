@@ -2,58 +2,55 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-10T10:58:54.642Z
+date: 2022-07-10T12:44:16.882Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
 ---
 
-**Hachi-Hachi** [八八 - はちはち], also known as “88,” is a traditional hanafuda game for primarily 3 to 6 players, although it can accomodate 2 or 7 with modifications.  It features a complicated scoring and payment system (which makes it suitable for cash gambling), including both hand combinations and captured combinations.
-
-It is among the most played hanafuda games in Japan, but enjoys little popularity in the rest of the world, where [Koi-Koi](/en/hanafuda/games/koi-koi) is perhaps the most well-known game. However, A New York Times article and a 'Book of American Hachi-ju-Hachi', both from the 1920s, nevertheless suggest it was a brief fad in the US. Hachi-Hachi play sets are available, generally containing two decks and several implements to aid in scorekeeping. It is likely that today's standard deck pattern, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), takes its name from this game.
-
-*Despite being historically unrelated, the game is vaguely reminiscient of mahjong; both feature intricate scoring systems designed with an eye to gambling, and both are sold in dedicated sets that include tokens and various items for tracking the state of the game. And while both have a reputation for complexity, they are fundamentally quite graspable games one you burrow down beneath the layer cake of scoring mechanisms.*
+**Suhara-bana** [須原花], is a [Hana-awase](/en/hanafuda/games/hana-awase) variant for 4 to 5 players. It is played in the Suhara district of Okuwa Village, Kiso District, Nagano Prefecture of Japan. It features a complicated scoring and payment system (which makes it suitable for cash gambling), including both hand combinations and captured combinations, which makes it reminiscient of [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
 
 # Preliminaries
 
 ## Equipment
-**Hachi-Hachi is, naturally, played with a standard hanafuda deck.** Typically, two decks are used—one red-backed, one black-backed—though this is not strictly necessary. While one deck is being played, the other can be shuffled by an inactive player in preparation for the next round. This saves time between rounds, and also means the back colour will alternate with each round, which aids in tracking the current month. *The old 'Hachi-ju-Hachi' book suggests using the red deck for odd-numbered months, and the black deck for even-numbered ones.*
+Suhara-bana is played with a standard hanafuda deck of 48 cards.
 
-A supply of poker chips, go stones, or other tokens—preferably in a large quantity, and with at least two denominations—will also be immensely helpful for keeping track of scores. Scores can be kept on paper if required, but can be trickier.
+Plates of go stones will be required for keeping track of scores. Each plate should contain **11 white stones and 6 black stones**; this is called **"hito-moto"** (一もと). Prepare a number of "hito-moto" **equal to the number of players plus 2 extra plates for borrowing**; the two extra plates are called **"futa-moto"** (二もと).
 
-Hachi-Hachi sets will include additional tokens for tracking things such as the field multiplier and *[mizuten](#Mizuten)* markers, along with pots for holding payments. Again, none of these items are strictly necessary.
+Also, prepare **indicators for the current round and the type of field** in the game. Usually, a set of 12 cards representing the 12 months bound together in a key ring is used for indicating the current round, and a set of 3 cards with "small", "medium", and "main" written on them is used for indicating the type of field.
 
 ## Number of Players
-As with other hanafuda fishing games, Hachi-Hachi only supports having two or three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
+Suhara-bana only supports having three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
 
-**For simplicity, these rules will describe the three-player version of the game first.** However, this is not to imply that Hachi-Hachi is fundamentally *only* a three-player game, or that it works best with three players. The choice of whether to stay or drop out is an interesting and strategic one, and it is commonly claimed the game is more exciting with larger groups.
-* **See [2 players adaptation](#hachi-hachi-for-two-players)**
-* **See [4 to 6 players added mechanics](#hachi-hachi-for-4-6-players)**
-* **See [7 players adaptation](#hachi-hachi-for-7-players)**
+
 
 ## A Note on Scoring
-**Hachi-Hachi, as a popular gambling game, employs a zero-sum scoring system.** Scores are measured in two units, *kan* [貫 - かん, *kan*] and points. Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points. Modern accounts prefer to use a more conventional decimal system, wherein 1 *kan* equals 10 points.
+**Suhara-bana, as a gambling game, employs a zero-sum scoring system.** Scores are represented in stones, and **each white stone is worth 4 black stones**. However, the game also uses two other scoring units: points, and hai (ハイ). **Hai** is the unit used for counting dekiyaku values, and is worth **20 points**.
 
-Since points are almost always scored in whole numbers of *kan*, the choice of system does not matter for most purposes. However, there are a few circumstances which call for scores to be halved, which can produce values involving half a *kan*. In dozenal, half a *kan* will be 6 points, whereas in decimal it will be 5 points.
+Payments within the game are represented in points and hai are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes halved.
 
-Since the value of individual cards is also measured in points, this can likewise affect how card points are converted into scores. For example, a single Bright card is worth 20 points, which is 2 *kan* in the decimal system and 1 *kan* 8 points in the dozenal.
+|Field Type|Value of White Stone|Value of Black Stone|
+|:---:|:---:|:---:|
+|Small Field|20 pts.|5 pts.|
+|Middle Field|10 pts.|2.5 pts.|
+|Main Field|5 pts.|1.25 pts.|
 
-> For uniformity, this page gives all scores in *kan*. Pick whichever system of scoring you prefer, then multiply these *kan* values by either 12 or 10 to obtain their equivalent in points.
-{.is-warning}
+The game starts at **Small Field**, and once a player runs out of stones, he/she borrows one plate from the futa-moto, and the field changes to Middle Field. 
 
+If during Middle Field a player runs out of stones, he/she borrows the 2nd plate from the futa-moto, and the field changes to Main Field.
 
-# Setup (3 Players)
-Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Like many hanafuda games, Hachi-Hachi is usually played for 12 rounds, one for each month of the year, although 6 round games (half a year) or even 3 round games (a season) may be played. Naturally, house rules should also be established at this point in order to keep gameplay smooth and fair.
+If during Main Field a player runs out of stones, the game ends. Players count their stones, minus the stones they borrowed from the futa-moto, and they exchange their stones for money, and afterwards the monetary payments are settled.
 
-This section describes game setup for three players; for more players, please see the ["number of players" section](#number-of-players).
+# Setup
+Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Unlike many hanafuda games, Suhara-bana does not stop when 12 rounds have been played; the round indicator resets to January, and the game continues. **The game ends only if a player runs out of the stones after the futa-moto has already been borrowed.**
 
 ## Choosing the Dealer
-No method is stipulated for choosing the initial dealer. A hanafuda-specific method involves each player drawing a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
+Each player draws a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
 
 **The winner of each round becomes the dealer for the next round.**
 
 ## Dealing the Cards
-The player to the left of the dealer [尾季 - びき, *biki*] shuffles the deck, and the player to the right of the dealer [胴二 - どうに, *douni*] cuts. Then, starting with the player to their right and moving anti-clockwise (↺), the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an additional 3 cards face-up to the table.
+The dealer shuffles the deck, and the player to the left of the dealer [(乙 - おと, *oto*] cuts. Then, starting with the player to their right and moving anti-clockwise (↺), the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an additional 3 cards face-up to the table.
 
 **In total, 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.**
 
@@ -61,25 +58,50 @@ The remainder of the deck is placed face-down next to the field to form the draw
 
 * If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 
+* Also, If 3 cards of the same month as the month on the round indicator, then a misdeal is declared. In this case, the cards are thrown in, shuffled again, and re-dealt.
+
+* If a player has four cards of the same month in their hand, they must show them to all participants, return them into the deck, and after the deck is re-shuffled, the player is dealt four cards. (Some rules say that only one card is returned to the deck instead of four
+
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 
-## Field Multiplier
-Next, the number of Bright cards in the field is counted to determine the *field multiplier*. This multiplier will apply to *all* exchanges of points between players, for the entire duration of the round.
+## The Dropout Phase
+Each player then evaluates their hand to decide if they would like to play this round, or sit out.
 
-|Name|Description|
-|:---:|:---|
-|Small Field|A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.|
-|Large Field|A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be **doubled** for this round.|
-|Grand Field|A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be **quadrupled** for this round.
+Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
 
-### Multiple Brights Case
-If more than one Bright card is on the field, then there are two methods of handling the situation :
-* The most typical is to **apply the largest multiplier** to the current round, and carry over the other multipliers into subsequent rounds, with the quadruples coming first.
-*For example, if the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) and the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun) are all on the field, then the current round will be a grand field, the next round will also be a grand field, and the round after that will be a large field.*
-If the current round already has a multiplier that was carried over from some previous round, then any field multipliers that turn up are carried over into future rounds in the same way.
+To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, with the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
 
-* Alternatively, some play with a simpler, higher-stakes rule in which **all field multipliers stack**. *So, in the example above, the field multiplier for the round will be a hefty `32`! (4 x 4 x 2)*
+If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
+
+If only one player wishes to play, then obviously no game can occur. This sole remaining player is the *de facto* winner of the round, and claims the entire contents of the pot.
+
+If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
+
+> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
+{.is-info}
+
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
+
+The total compensation is the sum of the following:
+- Half the value of the hand's teyaku score.
+- Half the value of any complete dekiyaku in the hand.
+- 3 points for every card in the hand that contributes to either the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku, and which are not already included in a teyaku or dekiyaku.
+
+This compensation is paid to the player by each of the two *non-dealer* active players.
+
+> Note that the field multiplier is determined before the dropout phase begins. Because, yes, it applies to dropout penalties and hand compensation as well.
+{.is-warning}
+
+> Since the dropout phase is a kind of prelude before the round 'officially' begins, note that dropout penalties and hand compensation are *not* cancelled by the exceptional circumstances of *All Eights*, *Double Eights*, or *Sixteen Chaff*.
+{.is-warning}
+
+If the dealer chooses to drop out, then the player to their right becomes the dealer for the round. If this player then drops out, the player to *their* right becomes the dealer, and so on.
+
+> Some versions of the game allow a player who is *forced out* to barter with one of the players who decided to play, in order to buy them out of the game and play in their place. The minimum amount to be offered when trying to buy a player out should be at least the *hand compensation* value of that player's hand, though room for negotiation is possible.
+{.is-info}
+
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
 
 # Teyaku
 Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. *These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.*
