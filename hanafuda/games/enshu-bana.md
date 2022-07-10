@@ -2,7 +2,7 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-07-10T09:55:31.097Z
+date: 2022-07-10T11:07:58.195Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
@@ -57,7 +57,7 @@ In this game, none of the yaku stops the round; **the round only ends when all p
 
 Players then count their card points, and if they formed a yaku, they either add the yaku's value to their score or multiply their score, depending on the yaku. **The player with the highest score wins the round.**
 
-# Teyaku
+## Teyaku
 
 | Value | Name of Yaku | Composition |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ Players then count their card points, and if they formed a yaku, they either add
 
 Playing with Teyaku is optional; some play without Teyaku.
 
-# Dekiyaku
+## Dekiyaku
 
 | Value | Name of Yaku | Composition |
 | --- | --- | --- |
