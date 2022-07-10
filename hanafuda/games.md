@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-06T16:01:08.112Z
+date: 2022-07-10T09:56:43.325Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -42,7 +42,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
-|[Enshu-Bana](/en/hanafuda/games/enshu-bana)|2-3|Fishing|Tōtōmi Province, Japan|
+|[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
 |[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
