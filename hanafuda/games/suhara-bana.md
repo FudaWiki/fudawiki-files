@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-11T16:56:22.767Z
+date: 2022-07-11T16:58:45.935Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -22,7 +22,7 @@ Also, prepare **indicators for the current round and the type of field** in the 
 For the purpose of these rules, it is assumed that players are not playing for money. Prepare pieces of paper with numbers on them, which will represent the final scores of the game. (5 pieces of '**100**', 50 pieces of '**10**', and 50 pieces of '**5**'.)
 
 ## Number of Players
-Suhara-bana only supports having three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
+Suhara-bana is usually played with 4 to 5 players. However, the game only supports having three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
 
 
 
