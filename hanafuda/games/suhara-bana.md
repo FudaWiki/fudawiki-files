@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-11T02:31:11.775Z
+date: 2022-07-11T03:34:18.082Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -75,6 +75,11 @@ Beginning with the dealer and moving anti-clockwise, each player announces if th
 
 To discourage needless dropping out, a *dropout penalty* [ハント, *hanto*] of **30 pts.** is imposed. These payments are held in a pot, which will be claimed by the player who formed the highest scoring dekiyaku during the round. 
 
+### Dropout Penalty in stones
+During Small Field: `30 pts. = 1 white stone + 2 black stone`
+During Middle Field: `30 pts. = 3 white stones`
+During Main Field: `30 pts. = 6 white stones`
+
 > If a player is unable to afford to pay the dropout penalty, then he/she cannot drop out and must play.
 {.is-warning}
 
@@ -96,6 +101,11 @@ The player who wants to chase declares **"Bou"** (追う), and each player who d
 If one of the players drops out, the chasing player takes their place in the game. If neither of the first two players drop out, the third player is forced out and the chasing player takes their place. Players who are chased **do not need to pay the dropout penalty**.
 
 **The player who has chased must reach the par score during that round**. If he/she gets a score lower than the par score, he/she must pay a *chasing penalty* of **20 pts.** to each of the players who were chased.
+
+### Chasing Penalty in stones
+During Small Field: `20 pts. = 1 white stone`
+During Middle Field: `20 pts. = 2 white stones`
+During Main Field: `20 pts. = 4 white stones`
 
 > If a player is unable to afford to pay the chasing penalty, then he/she cannot chase.
 {.is-warning}
@@ -143,16 +153,6 @@ However, there are three exceptions:
 
 * If **all of the cards in your hand are shoi-fuda**. You must play the card that forms the lowest-scoring yaku that can be completed by another player.
 
-
-## *Dekiyaku*, *Sage* and *Shoubu*
-One a player has played their two cards—one from their hand, and one from the draw pile—they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. 
-
-Similar to the *yaku* in other games, *dekiyaku* are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A list of dekiyaku and their point values are given [further down the page](#dekiyaku).
-
-* If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to end it, as detailed below. 
-* If this is not the case, then their turn ends, and the next player takes their turn.
-
-
 # End of Round and Scoring
 
 The round ends when all players have run out of cards in their hands.
@@ -186,7 +186,7 @@ Each player determines their score as follows:
 
 This will be the total amount of points won or lost by each player. Players with a negative score must pay points to those with a positive score.
 
-Before payments are done, the score in points must be converted into stones.
+All payments in points must be converted into stones.
 
 |Field Type|Value of White Stone|Value of Black Stone|
 |:---:|:---:|:---:|
