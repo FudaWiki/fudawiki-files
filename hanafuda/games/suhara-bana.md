@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-11T03:34:18.082Z
+date: 2022-07-11T13:46:20.572Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -186,7 +186,21 @@ Each player determines their score as follows:
 
 This will be the total amount of points won or lost by each player. Players with a negative score must pay points to those with a positive score.
 
-All payments in points must be converted into stones.
+Example 1:
+Player A : `130 points – 100 = 30 points`
+Player B : `90 points – 100 = -10 points`
+Player C : `80 points – 100 = -20 points`
+
+Player B pays **10 points** to Player A, and Player C pays **20** points to Player A.
+
+Example 2:
+Player A : `130 points – 100 = 30 points`
+Player B : `105 points – 100 = 5 points`
+Player C : `65 points – 100 = -35 points`
+Player C pays **30 points** to Player A and **5 points** to Player B.
+
+
+All payments in points **must be converted into stones.**
 
 |Field Type|Value of White Stone|Value of Black Stone|
 |:---:|:---:|:---:|
@@ -199,16 +213,8 @@ During Small Field: `25 pts. = 1 white stone + 1 black stone`
 During Middle Field: `25 pts. = 2 white stones + 2 black stones`
 During Main Field: `25 pts. = 5 white stones`
 
-> If the player's score could not be completely exchanged using stones, then the score is rounded down. 
-{.is-info} 
-
-Example: Player A must pay 28 points to Player B.
-During Small Field: `28 pts. ≈ 1 white stone + 1 black stone`
-(Player A only pays **25** pts. to Player B.)
-During Middle Field: `28 pts. ≈ 2 white stones + 3 black stones`
-(Player A only pays **27.5** pts. to Player B.)
-During Main Field: `28 pts. ≈ 5 white stones + 2 black stones`
-(Player A only pays **27.5** pts. to Player B.)
+> If you run out of stones while doing the payment, **you pay all of your stones**. You don't have to pay for the shortage.
+{.is-warning}
 
 > In the (unlikely) event of a tie between all 3 players, then the entire round is considered "misdealt" and the entire round must be started all over again.
 {.is-info}
@@ -218,43 +224,24 @@ The player with the highest score becomes the dealer for the next round. If two 
 ## Dekiyaku Scoring
 After the card points have been settled, players then check their captured cards for Dekiyaku.
 
-# UNDER CONSTRUCTION BEYOND THIS POINT
+The unit of scoring for Dekiyaku is called **hai** (ハイ). It is worth **20 points.**
 
-If no player has managed to form any *dekiyaku*, then the players count the point values of the cards in their score pile to determine the winner. The values of the cards are standard, as follows:
-|Card Type|Value (in points, not *kan!*)|Number in Deck|
-|:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|9|
-|Ribbon|5|10|
-|Chaff|1|24|
-**The total point value of the entire deck is `264`.** Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
+### Hai in stones
+During Small Field: `1 hai = 1 white stone`
+During Middle Field: `1 hai = 2 white stones`
+During Main Field: `1 hai = 4 white stones`
 
-Before scoring is calculated, however, there are three special circumstances that need to be checked for. These unique situations **cancel all other forms of scoring**, including *teyaku* payments. *(Remember that the field multiplier still applies!)*
-
-|Case|Description|
-|:---|:---|
-|***All Eights***|*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.|
-|***Double Eights***|*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.|
-|***Sixteen Chaff***|As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards (for this purpose, all [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards count as Chaff). This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.|
-
-> If the *Sixteen Chaff* situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
-{.is-info}
-
-### Totalling Scores
-Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have occured, then points are awarded as follows.
-
-First, the teyaku payments from the beginning of the round are made.
-
-Then, each player determines their score as follows:
-
-`Player's Score = (Total of Player's Captured Card Points - 88) x Field Multiplier`
-
-This will be the total amount of points won or lost by each player. When playing with chips or tokens, players with a negative score pay chips to those with a positive score.
-
-The winner of the round is the player with the highest total captured card points. This player will become the dealer for the next round.
-
-> In the (unlikely) event of a tie here, the winner is the player who is *earliest* in the turn order.
-{.is-info}
+### Dekiyaku
+|Value (in *hai*)|Name of Yaku|Composition|
+|:---:|:---:|:---|:---|
+|6|**Four Brights**<br/>四本役 [*shi-hon yaku* (four-card yaku)] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|4|**Crane, Full Moon, Phoenix**<br/>御老中 [*goroju* (elder middle)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>When this Yaku is formed, all other players' Yaku are nullified, except for *Cards of the Month*. *Blue Ribbon Bonus* is also unaffected.|
+|1|**Sun-Moon**<br/>日月 [*jitsugetsu* (sun-moon)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|2|**Spring**<br/>菅原 [*sugawara*]|The highest scoring cards of the first 3 months:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|2|**Autumn**<br/>秋役 [*akiyaku*]|Boar, Geese, Deer:<br>[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
+ The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|7|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|7|**Boar, Deer, Butterflies**<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
 
 ## Special Achievements
 Once the scoring is completed—regardless of which method was used, or whether any dekiyaku were made—and the winner of the round determined, there is a final exchange of points for certain special achievements the players may have accomplished during the round.
