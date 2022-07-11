@@ -2,13 +2,13 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-11T16:58:45.935Z
+date: 2022-07-11T17:08:14.090Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
 ---
 
-**Suhara-bana** [須原花], is a [Hana-awase](/en/hanafuda/games/hana-awase) variant for 4 to 5 players. It is played in the Suhara district of Okuwa Village, Kiso District, Nagano Prefecture of Japan. It features a complicated scoring and payment system (which makes it suitable for cash gambling), a large amount of captured combinations, and many gameplay mechanics comparable to those of [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
+**Suhara-bana** [須原花], is a [Hana-awase](/en/hanafuda/games/hana-awase) variant for 4 to 5 players. It is played in the Suhara Area of Okuwa Village, Kiso District, Nagano Prefecture of Japan. It features a complicated scoring and payment system (which makes it suitable for cash gambling), a large amount of captured combinations, and many gameplay mechanics comparable to those of [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
 
 # Preliminaries
 
