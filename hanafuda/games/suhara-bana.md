@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-10T15:36:40.151Z
+date: 2022-07-11T02:31:11.775Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -131,14 +131,16 @@ After a card has been played from their hand, the player takes the top card of t
 {.is-warning}
 
 However, there are three exceptions:
-* If the shoi-fuda can be played to **complete your dekiyaku** during your turn. You must declare **"Teyaku desu"** (手役です) before playing.
+* If the shoi-fuda is a **part of your *Teyaku***. You must declare **"Teyaku desu"** (手役です) before playing.
+
+> The term '**Teyaku**' here refers to **a complete set of Dekiyaku cards** either **completely in your hand**, or **partially in the hand and partially in your captured cards**. It is different from the standard definition of 'teyaku', which strictly means a set formed in a player's hand.
+{.is-info}
+
 * If **two of your shoi-fuda are of the same month**. You must declare **"Ni-mai mochi"** (2枚持ち) before playing one of the shoi-fuda, and you must play the other shoi-fuda during your next turn.
 
 > If you have both shoi-fuda and non-shoi-fuda cards in your hand, as long as one of the two above conditions of shoi-fuda are met, you may choose to play either kinds of cards.
 {.is-info}
 
-> The term 'teyaku' here refers to a card in your hand that will complete your yaku. It is different from the standard definition of 'teyaku', which means a set formed in a player's hand.
-{.is-info}
 * If **all of the cards in your hand are shoi-fuda**. You must play the card that forms the lowest-scoring yaku that can be completed by another player.
 
 
