@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-10T09:56:43.325Z
+date: 2022-07-11T17:08:50.014Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -84,7 +84,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
-|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|-|-|-|
+|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|4-5|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown|Japan|
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
