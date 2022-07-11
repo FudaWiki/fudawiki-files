@@ -2,13 +2,13 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-11T13:46:20.572Z
+date: 2022-07-11T16:05:12.192Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
 ---
 
-**Suhara-bana** [須原花], is a [Hana-awase](/en/hanafuda/games/hana-awase) variant for 4 to 5 players. It is played in the Suhara district of Okuwa Village, Kiso District, Nagano Prefecture of Japan. It features a complicated scoring and payment system (which makes it suitable for cash gambling), including both hand combinations and captured combinations, which makes it reminiscient of [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
+**Suhara-bana** [須原花], is a [Hana-awase](/en/hanafuda/games/hana-awase) variant for 4 to 5 players. It is played in the Suhara district of Okuwa Village, Kiso District, Nagano Prefecture of Japan. It features a complicated scoring and payment system (which makes it suitable for cash gambling), a large amount of captured combinations, and many gameplay mechanics comparable to those of [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
 
 # Preliminaries
 
@@ -179,6 +179,18 @@ The rank system, as well as the values of the cards, are non-standard, and they 
 > Remember that a player who has chased must earn 100 points or more during the round; otherwise, he/she must pay the chasing penalty to the chased players.
 {.is-warning}
 
+### Low Man Out
+If a player's captured card points is 15 or less, he/she **automatically wins the round**. He/she receives a payout from every player in and outside the round, and becomes the dealer for the next round. *(Dekiyaku will not be counted.)*
+
+|Captured card points|Low Man Out Payout|
+|:---:|:---:|
+|11-15|20 pts.|
+|6-10|40 pts.|
+|1-5|60 pts.|
+
+> If a player has no captured card points, he/she automatically **wins the game** and takes all stones.
+{.is-info}
+
 ### Totalling Scores
 Each player determines their score as follows:
 
@@ -232,200 +244,40 @@ During Middle Field: `1 hai = 2 white stones`
 During Main Field: `1 hai = 4 white stones`
 
 ### Dekiyaku
+
+All Dekiyaku are **mutually exclusive**; only the most valuable yaku is scored. There are a few exceptions (See **Stacked Dekiyaku**).
+
 |Value (in *hai*)|Name of Yaku|Composition|
-|:---:|:---:|:---|:---|
+|:---:|:---:|:---|
 |6|**Four Brights**<br/>四本役 [*shi-hon yaku* (four-card yaku)] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|4|**Crane, Full Moon, Phoenix**<br/>御老中 [*goroju* (elder middle)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>When this Yaku is formed, all other players' Yaku are nullified, except for *Cards of the Month*. *Blue Ribbon Bonus* is also unaffected.|
-|1|**Sun-Moon**<br/>日月 [*jitsugetsu* (sun-moon)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|4|**Crane, Full Moon, Phoenix**<br/>御老中 [*goro-ju* (elder middle)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>When this Yaku is formed, all other players' Yaku are nullified, except for *Cards of the Month*. *Blue Ribbon Bonus* is also unaffected.|
+|1|**Sun-Moon**<br/>日月 [*jitsu-getsu* (sun-moon)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|2|**Large Birds**<br/>大鳥 [*oh-tori* (large birds)]|Crane, Geese, Phoenix:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |2|**Spring**<br/>菅原 [*sugawara*]|The highest scoring cards of the first 3 months:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
-|2|**Autumn**<br/>秋役 [*akiyaku*]|Boar, Geese, Deer:<br>[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
- The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|7|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|7|**Boar, Deer, Butterflies**<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
+|2|**Autumn**<br/>秋役 [*akiyaku* (autumn yaku)]|Boar, Geese, Deer:<br>[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
+|2|**Blue Ribbons**<br/>ミム [*mimu*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>In addition to its hai value, the player who forms this Yaku gets a *bonus* of 50 points each from the players in the round, and 25 points each from the players outside the round.|
+|1|**Poetry Ribbons**<br/>小菅原 [*ko-sugawara* (small sugawara)]|The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|1|**Grass Flowers**<br/>草花 [*kusa-bana* (grass flowers)]|Bridge, Butterflies, Sake cup:<br>[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
+|1|**Small Birds**<br/>小鳥 [*ko-tori* (grass flowers)]|Bridge, Butterflies, Sake cup:<br>[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
+|1|**Flower Viewing**<br/>花見 [*hana-mi* (flower-viewing)]|Curtain, Sake cup:<br>[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
+|1|**Moon Viewing**<br/>月見 [*tsuki-mi* (moon-viewing)]|Full moon, Sake cup:<br>[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
+|1|**Four of a Kind**<br/>シマ [*shima*]|Four cards of the same month, but not belonging to the month of the current round . Only the January ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x), February ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x), March ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x), August ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x), November ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x), or December ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted.|
+|3|**Cards of the Month**<br/>通りシマ [*dori-shima*]|Four cards belonging to the month of the current round.|
 
-## Special Achievements
-Once the scoring is completed—regardless of which method was used, or whether any dekiyaku were made—and the winner of the round determined, there is a final exchange of points for certain special achievements the players may have accomplished during the round.
+### Stacked Dekiyaku
 
-> **Special achievements do *not* apply if any of *All Eights*, *Double Eights*, or *Sixteen Chaff* occured**, since these rare circumstances cancel all other forms of scoring.
-{.is-warning}
+|Value (in *hai*)|Name of Yaku|Composition|
+|:---:|:---:|:---|
+|8|**Four Brights + Geese** |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)<br>Values of both *Four Brights* and *Large Birds* are counted.|
+|6|**Crane, Full Moon, Phoenix + Geese**<br/>大鳥御老中 [*oh-tori-goro-ju*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)<br>Values of both *Crane, Full Moon, Phoenix* and *Large Birds* are counted.|
 
-*Remember, the field multiplier applies to special achievements, too! It applies to everything!*
-
-### Diving
-*Diving* [飛び込み - とびこみ, *tobikomi*], sometimes known as *Catching the Triplet*, is attainable by any player who declared a Group A teyaku that includes a Triplet or Standing Triplet, but *not* a Four of a Kind.
-
-If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
-
-> Sometimes, a *liability* rule is applied: If one of the opponents willingly placed the final month card on the field to be captured, and the player aiming for the *diving* bonus captures it on their very next turn, then that opponent pays 2 *kan*, and the other pays nothing.<br><br>This does not apply if the opponent played that card on their final turn (since they have no choice in the matter).
-{.is-info}
-
-### Escape
-*Escape* [抜け役 - ぬけやく, *nukeyaku*] is available to any player who claimed a Group B teyaku other than *One Bright*.
-
-If this player, by the end of the round, has managed to capture 89 or more total card points, then they are paid 1 *kan* by each opponent.
+# UNDER CONSTRUCTION BEYOND THIS POINT
 
 # End of the Game
-The game proceeds for as many rounds as were agreed upon—typically 12. Once all the rounds have been played, the player with the highest total score is the winner.
+After 
 
-# Dekiyaku
-Hachi-Hachi is notably slim on *dekiyaku* compared to other *Hana-Awase* fishing games. The ones it does have are all common to multiple other games.
 
-*Five Brights* and *Four Brights* are mutually exclusive, but outside of that, all points earned from dekiyaku are cumulative.
-
-> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included.<br><br>If a player is one card short of possessing one of these dekiyaku, an opponent deliberately leaves the remaining card on the table to be captured, and the player captures it on their very next turn, then the discarding opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing for it.<br><br>This does not apply if the opponent plays that card during their very last turn (since they have no choice in the matter).
-{.is-info}
-
-|Value (in *kan*)|Name of Yaku|Composition|
-|:---:|:---:|:---|
-|12|**Five Brights**<br/>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|10|**Four Brights**<br/>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|10|**Seven Ribbons**<br/>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).<br>This yaku is worth an extra +1 *kan* for each additional Ribbon, *including* the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon)!|
-|7|**Poetry Ribbons**<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|7|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|7|**Boar, Deer, Butterflies**<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
-
-# Hachi-Hachi for Two Players
-While Hachi-Hachi works best with a minimum of three players, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
-
-The deal is the same as for three players- 7 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
-
-The game then proceeds as in the three player version. The field multiplier is determined, teyaku are claimed, the round is played, and scores are determined at the end. There are only two differences:
-
-Firstly, special achievements are not recognised, and neither are *All Eights*, *Double Eights*, or *Sixteen Chaff*.
-
-Secondly, if the round ends without any dekiyaku being formed, then the scoring is slightly different. While each player still counts their captured card points to determine the winner, comparing against the par value of 88 only makes sense with three players. Instead, the players calculate the following:
-
-`Payment = (Winner's Total Card Points - Loser's Total Card Points) x Field Multiplier`
-
-This amount is then paid to the winner by the loser.
-
-# Hachi-Hachi for 4-6 Players
-While only three players take part in any given round—using the rules as described above—it is entirely possible for 4-6 players to participate in the game as a whole. Indeed, many accounts consider it preferable to have a minimum of 4 players, since this introduces an additional drop-out phase at the beginning of each round and adds to the depth of the game.
-
-*When playing with 4 or more people, not every player will participate in every round, so Hachi-Hachi with more than 3 people tends to be played for a full 12-round year at minimum. Campaign games are also seen, in which one full year is played for every person at the table! Whatever the case, the length of the game should be decided beforehand.*
-
-## Initial Setup
-The dealer is chosen as usual, and the cards are dealt to each player as previously described- 7 cards to each player and 6 to the field, with the remainder as the draw pile.
-
-If 6 people are playing, then there will be nothing left of the deck to serve as a draw pile, but this will be remedied at the end of the dropout phase.
-
-Misdeals are checked for, and the field multiplier is determined as usual.
-
-Then, the players pick up their cards, and the dropout phase begins.
-
-## The Dropout Phase
-Each player then evaluates their hand to decide if they would like to play this round, or sit out.
-
-Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
-
-To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, with the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
-
-If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
-
-If only one player wishes to play, then obviously no game can occur. This sole remaining player is the *de facto* winner of the round, and claims the entire contents of the pot.
-
-If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
-
-> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
-{.is-info}
-
-As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
-
-The total compensation is the sum of the following:
-- Half the value of the hand's teyaku score.
-- Half the value of any complete dekiyaku in the hand.
-- 3 points for every card in the hand that contributes to either the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku, and which are not already included in a teyaku or dekiyaku.
-
-This compensation is paid to the player by each of the two *non-dealer* active players.
-
-> Note that the field multiplier is determined before the dropout phase begins. Because, yes, it applies to dropout penalties and hand compensation as well.
-{.is-warning}
-
-> Since the dropout phase is a kind of prelude before the round 'officially' begins, note that dropout penalties and hand compensation are *not* cancelled by the exceptional circumstances of *All Eights*, *Double Eights*, or *Sixteen Chaff*.
-{.is-warning}
-
-If the dealer chooses to drop out, then the player to their right becomes the dealer for the round. If this player then drops out, the player to *their* right becomes the dealer, and so on.
-
-> Some versions of the game allow a player who is *forced out* to barter with one of the players who decided to play, in order to buy them out of the game and play in their place. The minimum amount to be offered when trying to buy a player out should be at least the *hand compensation* value of that player's hand, though room for negotiation is possible.
-{.is-info}
-
-Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
-
-## Gameplay
-Once the three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
-
-The winner of the round will claim the pot of dropout penalties, then the next round begins with a new dropout phase.
-
-# Hachi-Hachi for 7 Players
-While probably best with 4-6 people, Hachi-Hachi can be adjusted very simply to accommodate 7 players.
-
-This tweak makes use of the additional blank card included with many hanafuda decks. The blank card is shuffled into the deck, then the dealer gives each player 7 cards. No cards are dealt to the field.
-
-Whichever player holds the blank card must announce this fact. This player drops out, and takes no further part in the current round. They are not paid anything, nor do they pay anything to the other players (this includes dropout penalties, hand compensation, etc.).
-
-The 6 non-blank cards in this player's hand are placed face-up on the table to become the field. Play then proceeds as in 6 player Hachi-Hachi. The blank card is set aside and plays no further part in the round. (I suggest using it as a dealer marker.)
-
-# Variations and Additional Rules
-
-## Dealer Hand Swap
-After the cards are dealt, but before the players look at their hands, any player may ask to swap their hand for the dealer's hand. Accounts vary as to whether each player can do this only once, or as many times as desired.
-
-> Note that you are swapping *for the dealer's hand*, not *with the dealer*. For example, if Player A calls to swap with the dealer, then other players must now call to swap with Player A, since they hold the dealer's hand.
-{.is-info}
-
-### Special Achievement: *Dealer's Hand*
-If, at the end of the round, the player who held the dealer's hand has captured at least 89 total card points, then they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
-
-> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
-{.is-info}
-
-## *Mizuten*
-After the cards are dealt, but before the players look at their hands, the dealer may declare their intent to play blind [不見転 - むずてん, *mizuten*]. Once this is declared, the dealer is committed to playing the round and may not drop out.
-
-### Special Achievement: *Mizuten*
-If the dealer, having declared their intent to play blind, manages to capture at least 89 card points by the end of the round, they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
-
-Conversely, if they fail to capture at least 89 card points, they must pay 1 *kan* to each of the other two active players.
-
-> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
-{.is-info}
-
-## The Full Campaign
-A full-length 'campaign' of Hachi-Hachi is typically played in the following manner, facilitated by the items found in a Hachi-Hachi play set.
-
-These sets include go stones to serve as score tokens - black being 1 point, and white being 1 *kan* - along with baskets for each player to store them in. It also includes a number of *kanfuda*, or *kan* cards. These are small tokens bearing numbers - 5, 10, 25, 50, and 100 being common ones - which are each worth their face value in *kan*.
-
-At the beginning of the game, each player receives a starting number of points- for example, 25 *kan*- from the bank, which represents their *buy-in*.
-
-Each player then immediately pays a pre-determined amount - for example, 5 *kan* - into a *prize pot* [褒美 - ほうび, *houbi*], which will be claimed by the final winner.
-
-Hence, each player begins the game with an amount of go stones equal to their buy-in, minus the pot payment- in this example, 20 *kan*.
-
-Play as many years (sets of 12 rounds) as there are players at the table. The play set includes a token shaped like a *war fan* to track the field multiplier, and a *mizuten* token to track when the dealer has gone in blind.
-
-At the end of each round, the winner of the round puts 1 point in a dedicated pot, so that by the end of the year it will contain 12 points (1 *kan*, in the dozenal system). Often, this 'pot' is the lid of the box in which the play set is packaged, and possesses 12 small labelled intendations in which the stones are placed.
-
-This 'pot' [番個板 - ばんこいた, *bankoita* (lit. 'round-counting board')] is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
-
-Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units, for example of 50 *kan*, and each is accompanied by a token indicating the debt. (In Nintendo play sets, these debt tokens are shaped like *daruma* dolls.)
-
-The player with the highest total score at any point is known as *ginmi* [吟味 - ぎんみ, *ginmi*]. The play set includes a medal token, which is held by whichever player is currently *ginmi*. If a player is *ginmi* for three rounds in a row, they earn a bonus of 10 *kan* from each other player.
-
-The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot. (in the event of a tie, this pot can be split.)
-
-Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
 
 # Bibliography
-*(todo: rework this)*
 
-- [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
-- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
-- https://vingel8.neocities.org/hachihachi.html
-- https://web.archive.org/web/20051125014841/http://hana.kirisame.org/hachihachi.html
-- https://www.notion.so/Curriculum-eaa9ca175b1b4cff903db2dcc426b485
-- http://kzpn200.blogspot.com/2015/02/rules-of-hachi-hachi-or-eighty-eight.html
-- Nintendo's Hachi-Hachi leaflet
-- Nintendo's *Kosai no Tomo* leaflet
-- *Book of American Hachi-ju-Hachi*, by Kiku Ohata
-- *Hana-Awase, The Game of Japanese Cards*, by Rossetsu Uchiyama, 1892 (despite the title, the game described in this book is undeniably Hachi-Hachi)
-- *Hana-Awase, The Game of Japanese Cards*, by R. Hirai, 1916 (shares lots of sections/phrasing with the above, possibly a reprint/updated version?)
+- https://sekaiyugi.com/2018/03/03/suharabana/
