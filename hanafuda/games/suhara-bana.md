@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T03:19:07.508Z
+date: 2022-07-12T03:27:35.833Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -293,6 +293,9 @@ All payments in hai **must be converted into stones**.
 During Small Field: `1 hai = 1 white stone`
 During Middle Field: `1 hai = 2 white stones`
 During Main Field: `1 hai = 4 white stones`
+
+> If you run out of stones while doing the payment, **you pay all of your stones**. You don't have to pay for the shortage.
+{.is-warning}
 
 # Awarding the Pot
 After Dekiyaku payments have been settled, the player with the highest scoring Dekiyaku takes the pot (where all dropout penalties are placed).
