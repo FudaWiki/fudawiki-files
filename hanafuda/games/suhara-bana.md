@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T00:16:06.015Z
+date: 2022-07-12T01:41:19.465Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -310,11 +310,11 @@ If 3 players have the same yaku value, or none of the players have a yaku, then 
 # End of the Game and Final Scoring
 The game ends once a player runs out of stones after the futa-moto has already been borrowed.
 
-Players who have borrowed from the futa-moto deducts 250 points from their score for each plate borrowed.
+Players who have borrowed from the futa-moto deduct an ichi-moto (11 white stones and 5 black stones) for each plate borrowed.
 
 Players then count their stones and determine the final score.
 
-Each “ichi-moto” (11 white stones + 5 black stones) is worth **'100'**.
+Each ichi-moto (11 white stones + 5 black stones) is worth **'100'**.
 If there are stones left, each “1 white stone + 1 black stone” is worth **'10'**.
 If there are still white stones left, each remaining white stone is worth **'5'**. 
 On the other hand, if there are still black stones left, each remaining 2 black stones is worth **'5'**.
