@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T02:41:25.259Z
+date: 2022-07-12T03:15:19.596Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -27,9 +27,9 @@ Suhara-bana is usually played with 4 to 5 players. However, the game only suppor
 
 
 ## A Note on Scoring
-**Suhara-bana, as a gambling game, employs a zero-sum scoring system.** Scores are represented in stones, and **each white stone is worth 4 black stones**. However, the game also uses two other scoring units: points, and hai (ハイ). **Hai** is the unit used for counting dekiyaku values, and is worth **20 points**.
+**Suhara-bana, as a gambling game, employs a zero-sum scoring system.** Scores held by the players are represented in stones, and **each white stone is worth 4 black stones**. Payments within the game are represented in two other scoring units: points (点, *ten*), and *hai* (ハイ). **Hai** is the unit used for counting dekiyaku values, and is worth **20 points**. At the end of the game, the stones are converted into the "**final score**" (if playing for money, the stones are converted into cash payment instead).
 
-Payments within the game are represented in points and hai are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes halved.
+Payment values in points/hai are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes *halved* (effectively doubling the payment of stones).
 
 
 |Field Type|Value of White Stone|Value of Black Stone|
