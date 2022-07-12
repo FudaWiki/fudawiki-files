@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T01:41:19.465Z
+date: 2022-07-12T02:41:25.259Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -185,13 +185,14 @@ The rank system, as well as the values of the cards, are non-standard, and they 
 ### Low Man Out
 If a player's captured card points is 15 or less, he/she **automatically wins the round**. He/she receives a payout from every player in and outside the round, and becomes the dealer for the next round. *(Dekiyaku will not be counted.)*
 
-|Captured card points|Low Man Out Payout|
-|:---:|:---:|
-|11-15|20 pts.|
-|6-10|40 pts.|
-|1-5|60 pts.|
+All payments in points **must be converted into stones.**
+|Captured card<br/>points|Low Man Out Payout<br/>(in points)|Small Field|Medium Field|Main Field|
+|:---:|:---:|:---:|:---:|:---:|
+|11-15|20 pts.|1 white stone|2 white stones|4 white stones|
+|6-10|40 pts.|2 white stones|4 white stones|6 white stones|
+|1-5|60 pts.|3 white stones|6 white stones|9 white stones|
 
-> If a player has no captured card points, he/she automatically **wins the game** and takes all stones.
+> If a player has no captured card points, he/she automatically **wins the game** and takes all players' stones.
 {.is-info}
 
 ### Totalling Card Point Scores and Payment
@@ -217,11 +218,12 @@ Player C pays **30 points** to Player A and **5 points** to Player B.
 
 All payments in points **must be converted into stones.**
 
-|Field Type|Value of White Stone|Value of Black Stone|
+
+|Field Type	|Value of White Stone	|Value of Black Stone|
 |:---:|:---:|:---:|
-|Small Field|20 pts.|5 pts.|
-|Middle Field|10 pts.|2.5 pts.|
-|Main Field|5 pts.|1.25 pts.|
+|Small Field	|20 pts.	|5 pts.|
+|Middle Field	|10 pts.	|2.5 pts.|
+|Main Field	|5 pts.	|1.25 pts.|
 
 Example: Player A must pay 25 points to Player B.
 During Small Field: `25 pts. = 1 white stone + 1 black stone`
