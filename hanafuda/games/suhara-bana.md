@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T00:09:28.543Z
+date: 2022-07-12T00:16:06.015Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -42,7 +42,8 @@ The game starts at **Small Field**, and once a player runs out of stones, he/she
 
 If during Middle Field a player runs out of stones, he/she borrows the 2nd plate from the futa-moto, and the field changes to Main Field.
 
-If during Main Field a player runs out of stones, the game ends. Players count their stones, minus the stones they borrowed from the futa-moto, and they exchange their stones for money, and afterwards the monetary payments are settled.
+If during Main Field a player runs out of stones, the game ends. 
+
 
 # Setup
 Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Unlike many hanafuda games, Suhara-bana does not stop when 12 rounds have been played; the round indicator resets to January, and the game continues. **The game ends only if a player runs out of the stones after the futa-moto has already been borrowed.**
