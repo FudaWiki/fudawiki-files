@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T03:15:19.596Z
+date: 2022-07-12T03:19:07.508Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -51,7 +51,7 @@ Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the d
 ## Choosing the Dealer
 Each player draws a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
 
-**The winner of each round becomes the dealer for the next round.**
+**The player with the most card points during a round becomes the dealer for the next round.**
 
 ## Dealing the Cards
 The dealer shuffles the deck, and the player to the left of the dealer [(乙 - おと, *oto*] cuts. Then, starting with the player to their right and moving anti-clockwise (↺), the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an additional 3 cards face-up to the table.
