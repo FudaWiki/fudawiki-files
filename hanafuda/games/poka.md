@@ -2,7 +2,7 @@
 title: Poka
 description: A hanafuda game for 2 players. Get rid of all your cards in hand to win the round!
 published: true
-date: 2022-07-13T13:20:34.885Z
+date: 2022-07-13T13:34:35.752Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T13:20:34.885Z
