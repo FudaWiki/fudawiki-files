@@ -2,7 +2,7 @@
 title: Poka
 description: A hanafuda game for 2 players. Get rid of all your cards in hand to win the round!
 published: true
-date: 2022-07-13T14:18:47.835Z
+date: 2022-07-13T14:29:04.291Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T13:20:34.885Z
@@ -34,9 +34,9 @@ Unlike many Hanafuda games, this game is not derived from Hana-awase and does no
 
 
 # Setup
-The game uses a 48-card Hanafuda deck.
+The game uses a standard 48-card Hanafuda deck.
 
-Players determine first who is the dealer. The dealer then shuffles the cards and deals **6** cards to each player, and **1** card on the field face up (this becomes the **discard pile**). The remaining cards are put beside the field face down as the **draw pile**.
+Players determine first who is the dealer. The dealer then shuffles the cards and deals **6** cards to each player, and **1** card on the table face up (this becomes the **discard pile**). The remaining cards are put on the table face down as the **draw pile**.
 
 ![poka_setup.png](/suryongfiles/poka_setup.png =400x)
 
@@ -74,6 +74,11 @@ Player has a July ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x), Aug
 Player discards the **July** card, then the **August** card, then the **September** card.*
 
 If a player **doesn't have a card of the next month** in his/her hand, he/she **passes** his/her turn to the other player.
+
+If **both players pass their turn without discarding**, draw one card from the **draw pile** and put it on the discard pile.
+
+> If the draw pile runs out of cards, form a new deck by taking all cards from the discard pile except for the top card. Shuffle the deck and put it back on the table face down.
+{.is-info}
 
 # One-Two Combo
 If the card on the discard pile is **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x), and you have both a **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a **February** ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x) card in your hand, instead of just discarding the February card, **you can discard the January card first before discarding the February card**.
