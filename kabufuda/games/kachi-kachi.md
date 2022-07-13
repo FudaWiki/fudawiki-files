@@ -2,7 +2,7 @@
 title: Kachi-Kachi
 description: A Kabufuda game with multiple betting rounds and a showdown similar to Poker
 published: true
-date: 2022-04-10T15:22:54.640Z
+date: 2022-07-13T09:06:48.792Z
 tags: stripped deck, kabufuda games, showdown games
 editor: markdown
 dateCreated: 2022-04-01T18:08:06.760Z
@@ -12,6 +12,9 @@ dateCreated: 2022-04-01T18:08:06.760Z
 
 # Equipment
 **Kachi-Kachi** is played using a *half deck* of *Kabufuda* cards, consisting of only two sets of the cards 1-10, including the red One and the marked Four.
+
+![1_red.png](/kabufuda/1_red.png)![2.png](/kabufuda/2.png)![3.png](/kabufuda/3.png)![4_silver.png](/kabufuda/4_silver.png)![5.png](/kabufuda/5.png)![6.png](/kabufuda/6.png)![7.png](/kabufuda/7.png)![8.png](/kabufuda/8.png)![9.png](/kabufuda/9.png)![j.png](/kabufuda/j.png)
+![1_black.png](/kabufuda/1_black.png)![2.png](/kabufuda/2.png)![3.png](/kabufuda/3.png)![4_black.png](/kabufuda/4_black.png)![5.png](/kabufuda/5.png)![6.png](/kabufuda/6.png)![7.png](/kabufuda/7.png)![8.png](/kabufuda/8.png)![9.png](/kabufuda/9.png)![j.png](/kabufuda/j.png)
 
 >If desired, add an extra One and an extra Ten to the deck for a greater chance at forming special hands. 
 {.is-info}
@@ -42,13 +45,15 @@ Starting with the dealer (or closest player in order), each player reveals their
 >In the case of a draw, the pot for the hand carries over to the next hand, and the dealer for the drawn hand deals the following hand. All players *ante* as normal for that hand. 
 {.is-info}
 ## Hand Rankings
-1. All pairs from a pair of Tens to a pair of Sixes, with higher pairs beating lower pairs.
-2. A One and a Four (*shippin*)
-3. The remaining pair hands, from a pair of Fives to a pair of Ones, with higher pairs beating lower hands. 
-4. One and Ten
-5. One and Nine
-6. One and Six
-7. One and Five
+|HAND|CARDS|
+|:---:|:---:|
+|1. All pairs from a pair of Tens to a pair of Sixes,<br/>with higher pairs beating lower pairs.| ![j.png](/kabufuda/j.png)![j.png](/kabufuda/j.png)<br>![9.png](/kabufuda/9.png)![9.png](/kabufuda/9.png)<br>![8.png](/kabufuda/8.png)![8.png](/kabufuda/8.png)<br>![7.png](/kabufuda/7.png)![7.png](/kabufuda/7.png)<br>![6.png](/kabufuda/6.png)![6.png](/kabufuda/6.png)|
+|2. A One and a Four (*shippin*)|![1_black.png](/kabufuda/1_black.png)![4_black.png](/kabufuda/4_black.png)|
+|3. The remaining pair hands,<br/>from a pair of Fives to a pair of Ones,<br/>with higher pairs beating lower hands. | ![5.png](/kabufuda/5.png)![5.png](/kabufuda/5.png)<br>![4_black.png](/kabufuda/4_black.png)![4_silver.png](/kabufuda/4_silver.png)<br>![3.png](/kabufuda/3.png)![3.png](/kabufuda/3.png)<br>![2.png](/kabufuda/2.png)![2.png](/kabufuda/2.png)<br>![1_black.png](/kabufuda/1_black.png)![1_red.png](/kabufuda/1_red.png)|
+|4. One and Ten|![1_black.png](/kabufuda/1_black.png)![j.png](/kabufuda/j.png)|
+|5. One and Nine|![1_black.png](/kabufuda/1_black.png)![9.png](/kabufuda/9.png)|
+|6. One and Six|![1_black.png](/kabufuda/1_black.png)![6.png](/kabufuda/6.png)|
+|7. One and Five|![1_black.png](/kabufuda/1_black.png)![5.png](/kabufuda/5.png)|
 
 Finally, score remaining combinations according to their total in Oicho-Kabu, with higher totals beating lower totals. 
 # Special Rules
@@ -63,9 +68,11 @@ At any point, if the value of the cards in your hand equals zero (during any bet
 ## Tips
 After *showdown*, you can reveal certain combinations of cards to collect bonus payments from all other players at the table, called *tips*. These hands and their accompanying payments are as follows.
 
-1. Pair of Tens: Collect 10 points from each player. If playing with three Tens in the deck, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a Ten. 
-2. The red One and the marked Four: Collect 5 points from each player.
-3. A pair of Ones including the red One: Collect 5 points from each player. If you reveal this hand, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a One. 
+|HAND|TIP|
+|:---:|:---:|:---:|
+|Pair of Tens:<br>![j.png](/kabufuda/j.png)![j.png](/kabufuda/j.png)| Collect **10** points from each player. If playing with three Tens in the deck, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a Ten.|
+|The red One and the marked Four:<br>![1_red.png](/kabufuda/1_red.png)![4_silver.png](/kabufuda/4_silver.png)| Collect **5** points from each player.|
+|A pair of Ones including the red One:<br>![1_black.png](/kabufuda/1_black.png)![1_red.png](/kabufuda/1_red.png)| Collect **5** points from each player. If playing with three Ones in the deck, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a One.| 
 
 >If you form a tip-earning hand with the card(s) drawn from claiming a Zero Hand, reveal those cards collect payment from them now as well.
 {.is-info}
