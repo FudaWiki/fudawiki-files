@@ -2,13 +2,15 @@
 title: Poka
 description: A hanafuda game for 2 players. Get rid of all your cards in hand to win the round!
 published: true
-date: 2022-07-13T13:36:34.968Z
+date: 2022-07-13T14:18:47.835Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T13:20:34.885Z
 ---
 
-Poka (ポカ) is a Hanafuda game for 2 players. Unlike many Hanafuda games, this game is not derived from Hana-awase and does not share the same style of gameplay.
+**Poka** (ポカ) is a Hanafuda game for 2 players. It is also known as **Go-mon Shobu** (五文勝負 [ごもんしょうぶ], "5-point game"), in reference to the 5 points needed to win the game.
+
+Unlike many Hanafuda games, this game is not derived from Hana-awase and does not share the same style of gameplay.
 
 
 # Hanafuda Month Sequence
@@ -95,6 +97,8 @@ If you manage to discard all of your cards on your first turn, it is called **Al
 
 # End of the Game
 **First player to earn 5 points wins the game**.
+
+Some people play with only 3 points instead of 5. The game is then called **San-mon Shobu** (三文勝負 [さんもんしょうぶ], "3-point game")
 
 # Bibliography
 - https://tanoshiikoto.com/hanafuda-poka/
