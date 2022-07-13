@@ -2,7 +2,7 @@
 title: Poka
 description: A hanafuda game for 2 players. Get rid of all your cards in hand to win the round!
 published: true
-date: 2022-07-13T13:34:35.752Z
+date: 2022-07-13T13:36:34.968Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T13:20:34.885Z
@@ -36,7 +36,7 @@ The game uses a 48-card Hanafuda deck.
 
 Players determine first who is the dealer. The dealer then shuffles the cards and deals **6** cards to each player, and **1** card on the field face up (this becomes the **discard pile**). The remaining cards are put beside the field face down as the **draw pile**.
 
-![poka_setup.png](/suryongfiles/suryongfiles/poka_setup.png)
+![poka_setup.png](/suryongfiles/poka_setup.png =400x)
 
 Each player then checks if they have a Teyaku.
 
