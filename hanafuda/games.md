@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-12T03:55:07.643Z
+date: 2022-07-13T03:52:16.016Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -57,7 +57,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|-|-|-|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Japan|
-|[Kekoro](/en/hanafuda/games/kekoro)|Fishing|2|-|
+|[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |[Kyo-Kabu](/en/hanafuda/games/kyo-kabu)|2-10|Banking|Japan|
@@ -84,7 +84,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
-|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|4-5|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
+|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown|Japan|
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
