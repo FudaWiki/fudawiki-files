@@ -2,7 +2,7 @@
 title: Chunchun
 description: A hanafuda game from Okayama Region of Japan
 published: true
-date: 2022-07-13T03:36:57.452Z
+date: 2022-07-13T03:42:03.090Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T03:36:57.452Z
@@ -11,7 +11,7 @@ dateCreated: 2022-07-13T03:36:57.452Z
 >This article is **incomplete**. You can help by expanding it.
 {.is-warning}
 
-Chunchun (チュンチュン) is a Hanafuda game for three to seven players, played in the Okayama prefecture of Japan. It is a simplified version of [Hachi-Hachi](/en/hanafuda/games/koi-koi).
+Chunchun (チュンチュン) is a Hanafuda game for three to seven players, played in the Okayama prefecture in the San'yo region of Japan. It is a simplified version of [Hachi-Hachi](/en/hanafuda/games/koi-koi).
 
 > The game is for up to 7 players, but only 3 players can participate in the round. It is probable that the same or similar Drop-out system used in Hachi-hachi is also used in this game. **(NEEDS MORE DOCUMENTATION)**
 {.is-warning}
