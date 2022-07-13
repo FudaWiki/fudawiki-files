@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-07-13T07:10:23.199Z
+date: 2022-07-13T07:10:35.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -21,7 +21,7 @@ Teyaku are a set of cards that are **formed in a player's hand**. Players typica
 In some games like Koi-koi, Teyaku are refered to as **"Lucky Hands"**, due to them immediately stopping the round and awarding the player points. However, in games where Teyaku do not stop the round after being obtained, they are typically bad hands to play.
 
 # Dekiyaku
-Dekiyaku are a set of cards that are formed within a player's captured cards. Players consciously capture cards from the field in order to form these sets, while preventing their opponent(s) from doing the same.
+Dekiyaku are a set of cards that are **formed within a player's captured cards**. Players consciously capture cards from the field in order to form these sets, while preventing their opponent(s) from doing the same.
 
 In games with few to no Teyaku, the term **'Yaku'** is used to refer to Dekiyaku.
 
