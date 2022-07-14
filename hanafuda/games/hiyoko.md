@@ -2,7 +2,7 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-07-14T00:53:04.388Z
+date: 2022-07-14T00:56:33.145Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
@@ -108,4 +108,5 @@ If you manage to discard all of your cards on your first turn, it is called **Al
 
 # Bibliography
 - 渡部小童 著 - 『花札を初めてやる人の本』（土屋書店）
+- https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%88%E3%81%93_(%E8%8A%B1%E6%9C%AD)
 - https://tanoshiikoto.com/hanafuda-hiyoko/
