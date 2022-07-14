@@ -2,7 +2,7 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-07-13T15:27:40.113Z
+date: 2022-07-14T00:53:04.388Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
@@ -46,17 +46,17 @@ Dealer plays first.
 
 During a player's turn, he/she looks at the topmost card in the discard pile, and then **discards from his/her hand a card of the next month**.
 
-*Example: There is a June ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) card on the discard pile.
-Player must discard a **July** ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card.*
+*Example: There is a July ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card on the discard pile.
+Player must discard a **August** ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x) card.*
 
 >If the card on the discard pile is a December ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x) card, you must discard a January ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) card.
 {.is-info}
 
 After the player has discarded, he/she may also discard another card of the next month from the previously discarded card, and **keep discarding until he/she doesn't have a card in the month sequence**.
 
-*Example: There is a June ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) card on the discard pile.
-Player has a July ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x), August ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x), and September ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x) card in his/her hand.
-Player discards the **July** card, then the **August** card, then the **September** card.*
+*Example: There is a July ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card on the discard pile.
+Player has an August ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x), and September ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x) card in his/her hand.
+Player discards the **August** card, then the **September** card.*
 
 If the **dealer doesn't have a card of the next month** in his/her hand **during his/her first turn**, he/she **passes** his/her turn to the other player. If the other player also doesn't have a card of the next month in his/her hand and passes his/her turn back to the dealer, the **dealer draws one card from the draw pile and puts it on the discard pile before starting his/her turn**.
 
@@ -66,7 +66,7 @@ If the **other player discards a card(s), then passes the turn** to the dealer, 
 
 In all cases, the player who drew a card and put it on the discard pile must discard a card of the next month from the new top card of the discard pile afterward. 
 
->NOTE: Some situations were left unexplained. (What happens when the player who drew a card doesn't have a card of the next month?)
+>NOTE: Some situations were left unexplained. *(What happens when the player who drew a card doesn't have a card of the next month?)*
 {.is-warning}
 
 > If the draw pile runs out of cards, form a new deck by taking all cards from the discard pile except for the top card. Shuffle the deck and put it back on the table face down.
@@ -76,10 +76,26 @@ In all cases, the player who drew a card and put it on the discard pile must dis
 If the card on the discard pile is **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x), and you have both a **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a **February**![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card in your hand, instead of just discarding the February card, **you can discard the January card first before discarding the February card**.
 
 # Ghost Cards
-In Poka, there are **10 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered special cards in the game and each card has its own special ability.
+In Poka, there are **10 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered special cards in the game.
 
->**UNDER CONSTRUCTION BEYOND THIS POINT**
-{.is-warning}
+The first five cards in the list can be **counted as a Ghost Card either in the hand or on the discard pile**. They can be discarded if the top card on the discard pile is a month before any of the months assigned to the Ghost Card. Also, if they are on the discard pile, They can be followed with a card of the next month from any of the months assigned to the Ghost Card.
+
+|Ghost Card|Description|
+|:---:|:---:|
+|The (January) Crane:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)|Counts as January to October.|
+|The January Ribbon:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)|Counts as January to October.|
+|The (February) Rain Man:<br>[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|Counts as February to November.|
+|The February Ribbon:<br>[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|Counts as February to October.|
+|The March Ribbon:<br>[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|Counts as all months.|
+
+The next five cards in the list can **only be counted as a Ghost card when drawn from the draw pile**. If it's in your hand or if it's discarded from a player's hand, only the actual month on the card is counted.
+
+|Ghost Card|Description|
+|:---:|:---:|
+|The (June) Phoenix:<br>[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|Counts as January only.|
+|The December Ribbon:<br>[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)|Counts as January only.|
+|Either one of the December Chaffs:<br>[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|Counts as January only.|
+|The (December) Bush Warbler:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)|Counts as all months.|
 
 # Winning the Round
 During each round, the goal is to **get rid of all the cards in your hand before the other player does**. If you do, you earn **1 point**, and become the dealer for the next round.
