@@ -2,7 +2,7 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-07-14T00:56:33.145Z
+date: 2022-07-14T00:57:13.628Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
@@ -99,9 +99,6 @@ The next five cards in the list can **only be counted as a Ghost card when drawn
 
 # Winning the Round
 During each round, the goal is to **get rid of all the cards in your hand before the other player does**. If you do, you earn **1 point**, and become the dealer for the next round.
-
-# All Out
-If you manage to discard all of your cards on your first turn, it is called **All Out** (総出し [そうだし, *sou-dashi*]). You earn **2 points** instead of 1.
 
 # End of the Game
 **First player to earn 3 points wins the game**.
