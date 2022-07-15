@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-13T03:52:16.016Z
+date: 2022-07-15T05:07:46.464Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -47,7 +47,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)|2-10|Showdown|Japan|
-|[Hiyoko ("Chick")](/en/hanafuda/games/hiyoko)|2-4|Sequence|Japan|
+|[Hiyoko ("Chick")](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
