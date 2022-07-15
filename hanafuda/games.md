@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-15T05:07:46.464Z
+date: 2022-07-15T16:32:52.255Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -22,7 +22,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |:---|:---:|:---:|---:|
 |[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori|2-3 per round, max 7 per game|Fishing|Korea|
 |[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Yokohama, Japan|
-|[Hana-Awase](/en/hanafuda/games/hana-awase) ("Matching Flowers")|2-4|Fishing|Japan|
+|[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Osaka, Japan|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
@@ -44,10 +44,10 @@ These games, while not as widespread today as those listed above, are variously 
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
 |[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
-|[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
+|[Hachi](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)|2-10|Showdown|Japan|
-|[Hiyoko ("Chick")](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
+|[Hiyoko](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
@@ -73,11 +73,11 @@ These games, while not as widespread today as those listed above, are variously 
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
 |Roku-Tan ("Six Scrolls")|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
-|[Saburokku](/en/hanafuda/games/saburokku) ("Three-Six-Nine"), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
-|San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
+|[Saburokku](/en/hanafuda/games/saburokku) ("Three-Six-Nine"), a.k.a. Bakananatan|3|Fishing|Japan|
+|San-Jū Tsuppari|3|Fishing|Japan|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Sanuki Province, Japan|
-|San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
-|San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
+|San-Zoku Go-Jū|3|Fishing|Japan|
+|San-Zoku Tsuppari|3|Fishing|Japan|
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
