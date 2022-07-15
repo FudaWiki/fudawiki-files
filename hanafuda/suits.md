@@ -2,19 +2,19 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-04-10T15:18:21.942Z
+date: 2022-07-15T05:11:29.372Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
 ---
 
-There are 12 suits of 4 cards each in the standard [hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also come with a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.
+There are 12 suits of 4 cards each in the standard [Hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also come with a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
-The column labeled "Standard" is the most common ordering used for Japanese hanafuda games, and should be used unless otherwise specified. The Korean order is assumed for games originally played with [hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
+The column labeled "Standard" is the most common ordering used for Japanese Hanafuda games, and should be used unless otherwise specified. The Korean order is assumed for games originally played with [Hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
 
-The "Kabu" column reflects a hanafuda deck with the Willow and Paulownia suits removed, making it suitable for adapting games originally played with the 40-card [kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
+The "Kabu" column reflects a Hanafuda deck with the Willow and Paulownia suits removed, making it suitable for adapting games originally played with the 40-card [Kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [Mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
 
 The order reflected in the final column is used in certain Japanese games from the Nagoya region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/isuri). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about.
 
@@ -34,7 +34,7 @@ The order reflected in the final column is used in certain Japanese games from t
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|Plum Blossom|
 
 # Additional Suits
-A few specialty hanafuda decks feature additional suits, the most famous of these produced by [Matsui Tengudo](/en/hanafuda/manufacturers/matsui-tengudo). These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
+A few specialty Hanafuda decks feature additional suits, the most famous of these produced by [Matsui Tengudo](/en/hanafuda/manufacturers/matsui-tengudo). These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
 |#|"Month"|Plant|
 |:---:|:---:|:---:|
 |13|Earth|[Bamboo](/en/hanafuda/suits/bamboo)|
