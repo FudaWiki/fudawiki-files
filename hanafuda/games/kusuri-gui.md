@@ -2,7 +2,7 @@
 title: Kusuri-gui
 description: A hanafuda game for 2 players. Matching the card takes the entire field!
 published: true
-date: 2022-07-16T07:59:02.869Z
+date: 2022-07-16T08:04:29.420Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T07:59:02.869Z
@@ -39,12 +39,12 @@ and finally 1 card on the field (face-up).*
 
 In other words, there are **3 face-down cards** and **1 face-up card** on the field, and **4 cards in each player's hand**.
 
-The **non-November face-up card** will then form the **discard pile** during gameplay. 
+The **face-up card** will become the **discard pile** during gameplay. The other 3 face-down cards will not be used during the round.
 
 > ![kusurigui_shutup.png](/suryongfiles/kusurigui_shutup.png =500x)
 {.is-success}
 
-> If the card face-up is **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) , flip the face-down cards on the field one by one until a non-November card appears. (If all cards on the field are November, the deal is reset.)
+> If the card face-up is **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) , flip the face-down cards on the field one by one until a non-November card appears. (If all cards on the field are November, the deal is reset.) Set aside all November cards that appeared on the table during the deal; these will not be used during the round.
 {.is-info}
 
 # Gameplay
