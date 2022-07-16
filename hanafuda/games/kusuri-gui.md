@@ -2,7 +2,7 @@
 title: Kusuri-gui
 description: A hanafuda game for 2 players. Matching the card takes the entire field!
 published: true
-date: 2022-07-16T08:04:29.420Z
+date: 2022-07-16T16:33:19.569Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T07:59:02.869Z
@@ -13,7 +13,7 @@ Kusuri-gui (薬食い, lit. “Medicine-eating”) is a Hanafuda game for 2 play
 The game has a unique setup; instead of having several cards face-up on the field like in [Hana-Awase](/en/hanafuda/games/hana-awase), there is only one discard pile on the field, and the player who matches the top card takes all cards on the pile.
 
 # Setup
-The game uses **44 cards** from a standard Hanafuda deck. Remove two July ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) and two October ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x) Chaffs before playing.
+The game uses **44 cards** from a standard Hanafuda deck. Remove two Bush Clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) and two Maple ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x) Chaffs before playing.
 
 Next, prepare two plates for each player, each containing **100 chips**. These will be used for score calculation.
 
@@ -44,7 +44,10 @@ The **face-up card** will become the **discard pile** during gameplay. The other
 > ![kusurigui_shutup.png](/suryongfiles/kusurigui_shutup.png =500x)
 {.is-success}
 
-> If the card face-up is **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) , flip the face-down cards on the field one by one until a non-November card appears. (If all cards on the field are November, the deal is reset.) Set aside all November cards that appeared on the table during the deal; these will not be used during the round.
+> If the card face-up is **Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) , flip the face-down cards on the field one by one until a non-Willow card appears. Set aside all Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)  cards that appeared on the table during the deal; these will not be used during the round.
+{.is-info}
+
+> If all cards on the field are Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) , a **misdeal** is declared. The dealer takes all cards, re-shuffles, and re-deals.
 {.is-info}
 
 # Gameplay
@@ -59,19 +62,22 @@ If you play a card of a **different month** than the topmost face-up card on the
 
 Both players keep playing until they run out of cards in hand. The **dealer then deals four new cards to each player’s hands** (deal 2 cards to each player at a time until both players have 4 cards in hand). Play then continues.
 
+> In every round during gameplay, after the initial deal, the dealer **re-deals the cards to each player 5 times**; 4 times the dealer deals **4** cards to each player, and in the final time the dealer deals **2** cards to each player. Afterward, the deck will run out of cards.
+{.is-info}
+
 ## Onifuda
-In Kusuri-gui, **all November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) **cards** are considered as wild cards called **Oni-fuda** - 鬼札 [おにふだ, lit. 'Demon Cards'].
+In Kusuri-gui, **all Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) **cards** are considered as wild cards called **Oni-fuda** - 鬼札 [おにふだ, lit. 'Demon Cards'].
 
 If you have one in your hand, you can use it to **capture all cards in the discard pile, regardless of the month of the top card on the pile**.
 
-However, if you play it while the **discard pile is empty**, you cannot use it to capture; **it becomes discarded into the pile, and it can only be matched with another Oni-fuda while it's on the pile**.
+However, if you play it while the **discard pile is empty**, you cannot use it to capture; **it becomes discarded into the pile, and it can only be matched with another Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card  while it's on the pile**.
 
 ## Kusuri-gui
 If a player **captures a card that was discarded by the opponent after the discard pile has been emptied**, it is known as **Kusuri-gui**, and the opponent immediately pays **1 or 2 chips** to the player.(decide first the value before playing). 
 
 After payment is done, the round continues as normal.
 
-> If the card discarded by the opponent is an **Onifuda** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x), it is **not counted** as Kusuri-gui. You can still capture the card, but you will not be paid chips for the Kusuri-gui.
+> If the card discarded by the opponent was an **Onifuda** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x), capturing it **does not count as Kusuri-gui**, and you will not be paid chips for capturing it.
 {.is-warning}
 
 Kusuri-gui can occur in succession, and is considered the most exciting part of this game.
