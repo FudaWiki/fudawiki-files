@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-17T14:03:04.244Z
+date: 2022-07-17T14:43:46.140Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -74,7 +74,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
-|Roku-Tan ("Six Scrolls")|2|Fishing|Japan|
+|[Roku-Tan](/en/hanafuda/games/roku-tan) ("Six Scrolls")|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
 |[Saburokku](/en/hanafuda/games/saburokku) ("Three-Six-Nine"), a.k.a. Bakananatan|3|Fishing|Japan|
 |San-Jū Tsuppari|3|Fishing|Japan|
