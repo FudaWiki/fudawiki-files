@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-17T14:43:46.140Z
+date: 2022-07-17T15:10:14.300Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -66,7 +66,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
-|Nana-Tan ("Seven Scrolls")|2|Fishing|Japan|
+|[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan) ("Seven Scrolls")|2|Fishing|Japan|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku) ("Two-Four-Six")|3|Fishing|Japan|
