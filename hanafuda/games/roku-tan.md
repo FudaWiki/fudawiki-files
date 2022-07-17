@@ -2,13 +2,13 @@
 title: Roku-tan
 description: A 2-player hanafuda game with simple rules and one yaku.
 published: true
-date: 2022-07-17T15:07:55.101Z
+date: 2022-07-17T15:16:27.342Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-17T15:07:55.101Z
 ---
 
-**Roku-Tan** (六短, lit. "Six Ribbons") is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two players, with simple gambling rules. It is thought that the name of the game is in reference to the **only yaku in the game which consists of six Ribbon cards**.
+**Roku-Tan** (六短, lit. "Six Ribbons") is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two players, with simple gambling rules. It is thought that the name of the game is in reference to the **only yaku in the game which consists of 6 Ribbon cards**.
 
 The Dealer deals 8 cards to each player and 8 cards on the field, just like in [Koi-koi](/en/hanafuda/games/koi-koi). 
 
