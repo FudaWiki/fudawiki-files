@@ -2,13 +2,16 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2022-07-16T16:08:29.193Z
+date: 2022-07-17T13:57:34.223Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
 ---
 
-***Hanahuda*** is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two to four players, with slightly different scoring.
+> This article is **incomplete**. You can help by expanding it.
+{.is-warning}
+
+***Hanahuda*** is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two to four players, with slightly different scoring, played in Palau.
 
 # The Suits
 |#|Month|Icon|English Name|Japanese Name|Palaun Name|
@@ -26,8 +29,35 @@ dateCreated: 2022-07-16T16:08:29.193Z
 |11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[Willow](/en/hanafuda/suits/willow)|Yanagi/Ame|***Nisoro***|
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Kiri|***Kiri***|
 
+# The Card Types
+### *Okeiim* (worth 50 points)
+Consists of all Bright cards, plus the Bush Warbler. The are 6 *Okeiim* in total.
+|:---:|
+|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+
+
+### *Teruich* (worth 10 points)
+Consists of all Animal cards except the Bush Warbler, plus the Yellow Paulownia Junk. There are 9 *Teruich* in total.
+|:---:|
+|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)<br>[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
+
+
+### *Tang* (worth 0 points)
+Consists of all Ribbon cards. They don't have any point values but they can form sets known as *Yak*s. There are 10 *Tang* in total.
+
+|:---:|
+|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
+
+
+### *Kas* (worth 0 points)
+Consists of all Chaff cards except the Yellow Paulownia Chaff. They have no point values and do not form *Yak*s. There are 23 *Kas* in total.
+|:---:|
+|[![Pine Chaff 1](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Pine Chaff 2](/sheldonchen-cards/13.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Cherry Blossom Chaff 1](/sheldonchen-cards/32.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Cherry Blossom Chaff 2](/sheldonchen-cards/33.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)<br>[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Peony Chaff 1](/sheldonchen-cards/62.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#chaff)[![Peony Chaff 2](/sheldonchen-cards/63.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#chaff)<br>[![Bush Clover Chaff 1](/sheldonchen-cards/72.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)[![Bush Clover Chaff 2](/sheldonchen-cards/73.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Chrysanthemum Chaff 1](/sheldonchen-cards/92.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#chaff)[![Chrysanthemum Chaff 2](/sheldonchen-cards/93.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#chaff)<br>[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Maple Chaff 2](/sheldonchen-cards/103.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
+
 # Setup
-Game setup involves choosing a dealer, shuffling the deck, and distributing the initial cards. Like many hanafuda games, a decision must also be made as to how many rounds to play - 12 rounds is traditional, though 6 and 3 are options for shorter games. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+Game setup involves choosing a dealer, shuffling the deck, and distributing the initial cards. 
+
+Before the game starts, players must decide what will be the **target score** for the game. The player who reaches this target score wins the game. (Usually 5000 points is used as the target score.)
 
 ## Choosing the Dealer
 No method is stipulated for choosing the dealer. A hanafuda-specific method involves each player drawing a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
@@ -37,24 +67,33 @@ Dealer shuffles the cards, and the player to his/her right may choose to cut the
 
 After shuffling the deck, the player to the dealer's right chooses whether to have the cards dealt on the field first, or to the players first (starting with the player to the dealer's right, counterclockwise). The dealer then deals the cards (in Palaun, it is called "*merous*").
 
-For 2 players, 10 cards are dealt in each hand, and 10 cards face-up on the field.
+For **2 players**, **10 cards** are dealt in each **hand**, and **10 cards** face-up on the **field**.
 
-For 3 players, 9 cards are dealt in each hand, and 9 cards face-up on the field.
+> If cards are dealt this way, the deck will run out of cards as soon as there is 1 card left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+{.is-warning}
 
-For 4 players, 8 cards are dealt in each hand, and 8 cards face-up on the field.
+For **3 players**, **9 cards** are dealt in each **hand**, and **9 cards** face-up on the **field**.
 
-The remainder of the deck is placed face-down to form the draw pile.
+> If cards are dealt this way, the deck will run out of cards as soon as there are 5 cards left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+{.is-warning}
+
+For **4 players** (team-play), **8 cards** are dealt in each **hand**, and **8 cards** face-up on the **field**.
+
+> If cards are dealt this way, the deck will run out of cards as soon as there are 6 cards left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+{.is-warning}
+
+The remainder of the deck is placed face-down to form the **draw pile**.
 
 > "*Chitsiobiki*" rule: If any player has three cards of the same month in hand, that player can have one of those cards traded for a new card from the deck. Other players may ask that player to reveal all three cards to them.
 {.is-info}
 
 ## Misdeals
-If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
+If 4 cards of the same month are dealt to the table, then a **misdeal** is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 
 
 
 # Gameplay (for 2-3 players)
-In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of Hana-Awase is utterly typical of hanafuda fishing games; if you're already familiar with [Koi-Koi](/en/hanafuda/games/koi-koi) and its ilk, then this section will be nothing new. 
+In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure is similar to Hana-Awase.
 
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
@@ -67,132 +106,86 @@ On their turn, a player chooses a single card from their hand and plays it to th
 > If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (*Okeiim, Teruich, Tang,* and *Kas*) to make detecting *Yak*s easier.
 {.is-warning}
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion. (in Palaun, this is called "*omkais*")
 
 After both cards have been played- one from the player's hand, and one from the draw pile- the turn ends, and the next player takes their turn.
 
-# UNDER CONSTRUCTION BEYOND THIS POINT
 
-## End of Round and Scoring
-The round ends when all players run out of cards in their hand **and** when the draw pile is exhausted. In a three- or four-player game, these events should occur together. In a two-player game, there will be 8 cards remaining in the draw pile, and the players continue to take turns playing a card from it until the draw pile is exhausted.
+## End of Round and *Yak* Scoring
+The current round ends when **all players have used up their cards**. If there are any cards left on the field at this point, they simply stay there and do not play any role in scoring.
 
-Traditionally, the game uses a zero-sum scoring system common to many other such hanafuda games - all the better to facilitate gambling. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
+At this point, all players check their captured cards for any sets made, known as *Yak*s, according to the charts in the following sections. 
 
-|Card Type|Value|Number in Deck|
-|:---:|:---:|:---:|
-|Brights|20|5|
-|Animals|10|9|
-|Ribbons|5|10|
-|Chaff|1|24|
+**A player's score for the round is calculated as the sum of the values of *Yak*s captured.**
 
-The total point value of the entire deck is 264.
+Whoever scored the **least** points in this round **becomes the dealer for the next round**.
 
-- With three players, each player could conceivably earn exactly 88 points (one third of 264), the actual score each player earns is their total number of card points, minus the *par value* of 88.
+All players' current scores are recorded, and all players' cumulative scores (the sum of scores obtained from all rounds up to that point) are checked to see if a player has reached the target score. 
 
-- With four players, each one could potentially earn exactly 66 points. So again, the actual points earned is the total of the player's card points, minus the *par value* of 66.
+If no one has reached the target score, then a further round is played; otherwise, the game ends. 
 
-- Likewise, with two players, each could earn exactly 132 points, and so here the *par value* is 132.
-
-Then, yaku are handled. Each player adds up the total value of their captured yaku, and they recieve this value from each of the other players. For example, if player A has 40 points' worth of yaku, then they score 80 points in total- 40 from player B, and 40 from player C- while players B and C will each *lose* 40 points.
-
-In short, the total amount of points gained or lost by each player at the end of the round will be given by the following:
-
-`Player's Score = (Player's Total Card Points - Par Value) + (Total Value of Player's Yaku x (Number of Players - 1)) - Total Value of All Opponents' Yaku`,
-
-where the *par value* is equal to 264 divided by the number of players - 66 for four players, 88 for three, and 132 for two.
-
-When using this zero-sum scoring method in **a two-player game**, it is important to **empty the draw pile** as described above. **The scores will not remain zero-sum unless *all* cards are played and captured!**
-
-Alternatively, groups less inclined to gambling (and mental arithmetic) may prefer the following, much simpler additive scoring system:
-
-`Player's Score = Player's Total Card Points + Total Value of Player's Yaku`.
-
-This system works strightforwardly for any number of players. In particular, there is no requirement for *every* card to be played, and two-player games with this scoring system may sometimes specify that the round ends when both players empty their hands, leaving the 8 cards in the draw pile untouched.
-
-**The player with the highest score at the end of the round becomes the dealer for the next round**. In the event of a tie, the player who was *earliest* in the turn order becomes the dealer.
-
-## End of Game
-After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
-
-# Yaku
-As with all hanafuda games, there is variation in the set of allowed yaku. However, while point allotments differ, the modern sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games. Nevertheless, it is likely that older games of the *Hana-Awase* name varied greatly in their yaku.
-
-Points from multiple yaku stack, with the following exceptions:
-- All the *Bright Yaku* are mutually exclusive.
-- *Seven Ribbons* and *Six Ribbons* are mutually exclusive.
-- All *Viewing Yaku* are mutually exclusive.
-
-In these cases, the player claims the most valuable of the mutually exclusive yaku. 
-
-|Value|Name of Yaku|Composition|
-|:---:|:---:|:---|
-|<h2 align="center">Bright Yaku</h2>|||
-|100|**Five Brights**<br>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|60|**Four Brights**<br>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|30|**Spring**<br>表菅原 [おもてすがわら, *omote sugawara*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)<br>Note the inclusion of the [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) here as a pseudo-Bright.|
-|20|**Pine, Paulownia, Moon**<br>松桐坊主 [まつきりぼうず, *matsu kiri bouzu*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|<h2 align="center">Ribbon Yaku</h2>|||
-|40|**Seven Ribbons**<br>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).|
-|30|**Six Ribbons**<br>六短 [ろくたん, *rokutan*]|Any 6 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).|
-|40|**Poetry Ribbons**<br>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|40|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|20|**Grass Ribbons**<br>草短 [くさたん, *kusatan*]|The three Plain Ribbons, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon):<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
-|<h2 align="center">Animal Yaku</h2>|||
-|20|**Boar, Deer, Butterflies**<br>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
-|<h2 align="center">Viewing Yaku</h2>|||
-|40|**Drinking**<br>飲み [のみ, *nomi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|20|**Flower Viewing**<br>花見 [はなみ, *hanami*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
-|20|**Moon Viewing**<br>月見 [つきみ, *tsukimi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|<h2 align="center">Four-of-a-Kind Yaku</h2><br>These yaku are likely included to give some value to cards that do not often contribute to other yaku.|||
-|10|**Willow Row**<br>柳島 [やなぎしま, *yanagishima*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
-|10|**Wisteria Row**<br>藤島 [ふじしま, *fujishima*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
-|10|**Paulownia Row**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)<br>This yaku is missing in the version of the game from the IndianWolf book.|
-
-# Variations
-Like all card games - and especially hanafuda games - Hana-Awase exists in many variations. Some of these are described below. Consider them optional rules, to add or remove as you please.
-
-## Dandruff
-A 'Low Man Out' rule is commonly used in scoring; if the total value of any player's card points is 20 or less, then the round is considered a draw, and no players score any points.
-
-Some versions require a player to announce at the beginning of the round that they intend to go for 'Low Man Out' in order for it to apply.
-
-This rule allows players with an extremely poor hand to attempt to force a draw, and prevent their opponents from scoring.
-
-In Japanese, this cancellation of scoring is known as *fuke* [頭垢 - ふけ], literally 'dandruff'.
-
-## Compensation
-At the end of the round, compensation for poor performance is given, as follows:
-- If either the dealer or the player to their right have captured 8 cards or fewer, then they receive 30 points from each of the other players.
-- If the player to the left of the dealer has captured 10 cards or fewer, then they receive 30 points from each of the other players.
-
-These rules are only given in accounts describing the three-player version of the game; I'm unsure how they'd work with other numbers of players.
-
-In Japanese, the term for this rule is *oya naka hatchou biki jutchou* [親仲八丁ビキ十丁 - おやなかはっちょうびきじゅっちょう], roughly 'ten for dealer and second, eight for third'.
-
-## Extra *Yaku* Interactions
-Some additional rules for yaku are sometimes given:
-- If any player has captured the *Willow Row* yaku, then all points for yaku are cancelled for that round. Each player only scores points based on their captured cards. Alternatively, the owner of the *Willow Row* scores fully as usual, while their opponents score nothing at all.
-- If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then they cannot score points for any of the *Viewing Yaku*, since the foul weather ruins the festivities.
-
-## Variant Scoring
-In some descriptions, the Chaff cards are worth 0 points, as opposed to 1 point. With this change, the total point value of the deck is 240 points. The par values then become 60 for four players, 80 for three players, and 120 for two players, which simplifies the arithmetic for zero-sum scoring.
-
-## 10-Card Hand
-For two players, the option exists to deal 10 cards to each player at the beginning of the round. This way, the draw pile will be fully exhausted once the players run out of cards, eliminating the need to empty it manually.
-
-## *Teyaku*
-In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. These are both fairly simple - if a player has 6 Chaff cards in their opening hand, they are paid 20 points by each other player; and if they have 7 Chaff, they are paid 30 points by each other player.
-
-To declare these combinations and receive points for them, the player must place all the relevant Chaff cards face-up on the table in front of them. Curiously, they remain on the table for the duration of the round, though they are still considered part of that player's hand and can be played on their turn as normal. Other players, on their turn, may capture these face-up cards in the usual manner. A player cannot, however, capture their own face-up hand cards in this way.
-
-When playing with this rule, it is possible that one player may run out of cards before the others. If this is the case, they continue to play, but only using cards played from the draw pile.
-
-Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
-
-> These strange, capture-able teyaku- unlike those found in any other game- are only attested in one source (Graham Leonard's archived hanafuda page). So we know very little about them, other than that they're most likely some weird local variant.
+>There are two *Yak*s that can stop the round prematurely: ***Arasi*** and ***Nanatang***. if you form any one of these *Yak*s during gameplay, then you can choose to either **continue the round** or **stop it and claim the points**. This method is similar to [Koi-koi](/en/hanafuda/games/koi-koi).
 {.is-info}
 
+>If you formed ***Arasi*** or ***Nanatang*** and decided to stop the round, then **you get points for only that *Yak* (*Arasi* or *Nanatang*)**, all other *Yak*s you formed are nullified, and other player(s) do not get any points for that round whether they have a *Yak* or not. **You become the dealer for the next round**.
+{.is-info}
+
+## *Card Points Scoring*
+If no player has formed a *Yak*, then the card points for *Okeiim* (50pts.) and *Teruich* (10pts.) are counted instead. 
+
+**A player's score for the round is calculated as the sum of the values of the cards captured.**
+
+Whoever scored the **least** points in this round **becomes the dealer for the next round**.
+
+All players' current scores are recorded, and all players' cumulative scores (the sum of scores obtained from all rounds up to that point) are checked to see if a player has reached the target score. 
+
+If no one has reached the target score, then a further round is played; otherwise, the game ends. 
+
+## End of Game
+The game ends when a player reaches the target score (usually 5000 points). **The player who reaches the target score wins the game**.
+
+# *Yak*s
+Points from multiple *yak*s **stack**, with the following exceptions:
+- All the *Okeiim Yaks* are mutually exclusive.
+- All *Ippai Yaks* are mutually exclusive.
+
+In these cases, the player claims the most valuable of the mutually exclusive *yak*s. 
+
+|Value|Name of *Yak*|Composition|
+|:---:|:---:|:---|
+|<h2 align="center">*Okeiim Yak*s</h2>|||
+|1000|***Arasi***<br>["All Six *Okeiim*"] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)<br>This *Yak* **can stop the round**.|
+|700|***Kokok***<br>["Five Brights" in Koi-koi] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
+|500|***Skok***<br>["Four Brights without Rainman" in Koi-koi]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|400|***Chume Mats Kiri Bo****<br>["Matsukiribozu with Plum"]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)<br>* This *Yak* is optional. (Decide first whether or not to use this *Yak* before playing.)|
+|300|***Mats Kiri Bo***<br>["Matsukiribozu" (Pine, Paulownia, Baldy)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|300|***Chume Mats Sakura***<br>["Plum, Pine, Sakura"]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|<h2 align="center">*Ippai Yak*s</h2>|||
+|300|***Teppo***<br>["Hand Cannon"]|Combination of the two *Ippai*:<br>[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|150|***Ippai***<br>["Flower Viewing"]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|150|***Ippai***<br>["Moon Viewing"]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|<h2 align="center">Other *Yak*s</h2><br>Note: All the *Yak*s in this group stack with each other!|||
+|10000|**?**<br>["All Nine *Teruich*"]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
+|700|***Nanatang***<br>["Seven Ribbons"]|Any 7 Ribbon cards (Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) Ribbon is also included).<br>This *Yak* **can stop the round**.|
+|300|***Inoskasio***<br>["Boar, Deer, Butterflies"]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|200|***Nisoro***<br>["Three Willows"]|Three cards of the Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) suit, excluding the Lightning card:<br>[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
+|150|***Kodangko***<br>["Red Poetry Ribbons"]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|150|***Chauotang***<br>["Blue Ribbons"]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|100|***Ksaiak***<br>["Grass Ribbons"]|The three Plain Ribbons, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon):<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+
+# Gameplay for 4 players (Team-play)
+If playing with 4 players, then players on opposite sides of the table are a **team**. Each team shares one capture area, and scores are calculated per team instead of per player. Otherwise, **the gameplay is the same as the rules mentioned above.**
+
+> It is not explained which person in the team becomes the dealer if the team loses in a round. (**NEEDS MORE DOCUMENTATION**)
+{.is-warning}
+
+In a team, only one player collects and arranges the captured cards of that team; this is known in Palaun as *omechobech*.
+
+The game ends when a team reaches the target score (usually 5000 points). **The team who reaches the target score wins the game**.
+
 # Bibliography
+- https://pages.cs.wisc.edu/~johnbent/hanahuda/#play
+- https://pages.cs.wisc.edu/~johnbent/hanahuda/japanese.html
