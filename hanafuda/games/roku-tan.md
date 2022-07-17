@@ -2,7 +2,7 @@
 title: Roku-tan
 description: A 2-player hanafuda game with simple rules and one yaku.
 published: true
-date: 2022-07-17T15:16:27.342Z
+date: 2022-07-17T15:16:53.061Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-17T15:07:55.101Z
@@ -12,7 +12,7 @@ dateCreated: 2022-07-17T15:07:55.101Z
 
 The Dealer deals 8 cards to each player and 8 cards on the field, just like in [Koi-koi](/en/hanafuda/games/koi-koi). 
 
-Play **stops** when a player obtains **six Ribbon cards**. The player is paid **3 shares** by the other player.
+Play **stops** when a player obtains **6 Ribbon cards**. The player is paid **3 shares** by the other player.
 
 > For the purpose of the yaku, all 4 **Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) **cards** are considered Ribbon cards. *(In total, 13 of the 48 cards of a standard Hanafuda deck are considered Ribbons)*
 {.is-info}
