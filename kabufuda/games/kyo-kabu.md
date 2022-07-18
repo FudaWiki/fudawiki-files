@@ -2,7 +2,7 @@
 title: Kyo-Kabu
 description: An Oicho-Kabu variant with a different deal setup.
 published: true
-date: 2022-07-18T16:14:00.150Z
+date: 2022-07-18T16:15:22.026Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-18T16:14:00.150Z
@@ -18,7 +18,7 @@ The rules of this game are mostly identical to Oicho-Kabu, with some notable dif
 - The first field always consists of the cards 5, 6, 7, and 8.
 - A player can only bet on one card during gameplay.
 - The dealer can only draw from the top of the deck.
-- There are less Special Yaku than in Oicho-Kabu.
+- There are less [Special Yaku](/en/kabufuda/games/kyo-kabu/##special-yaku) than in Oicho-Kabu.
 
 # Setup
 Game setup is the same as in Oicho-Kabu, except that after a dealer - 親 [おや, *oya*] has been chosen as well as the seating arrangement of the other players, the dealer sets up the first field **before** shuffling the deck. 
