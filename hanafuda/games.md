@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-07-18T06:30:21.341Z
+date: 2022-07-18T16:17:14.373Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -62,7 +62,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |[Kusuri-gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
-|[Kyo-Kabu](/en/hanafuda/games/kyo-kabu)|2-10|Banking|Japan|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
 |[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
