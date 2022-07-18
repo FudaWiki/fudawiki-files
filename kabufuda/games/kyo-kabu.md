@@ -2,7 +2,7 @@
 title: Kyo-Kabu
 description: An Oicho-Kabu variant with a different deal setup.
 published: true
-date: 2022-07-18T16:15:22.026Z
+date: 2022-07-18T16:16:02.726Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-18T16:14:00.150Z
@@ -18,7 +18,7 @@ The rules of this game are mostly identical to Oicho-Kabu, with some notable dif
 - The first field always consists of the cards 5, 6, 7, and 8.
 - A player can only bet on one card during gameplay.
 - The dealer can only draw from the top of the deck.
-- There are less [Special Yaku](/en/kabufuda/games/kyo-kabu/##special-yaku) than in Oicho-Kabu.
+- There are less [Special Yaku](/en/kabufuda/games/kyo-kabu/#special-yaku) than in Oicho-Kabu.
 
 # Setup
 Game setup is the same as in Oicho-Kabu, except that after a dealer - 親 [おや, *oya*] has been chosen as well as the seating arrangement of the other players, the dealer sets up the first field **before** shuffling the deck. 
@@ -89,7 +89,7 @@ Finally, all cards are revealed. The second field cards are turned face-up, and 
 
 This comparison is performed independently for each of the four hands- it is entirely possible for the dealer to win against some hands while losing against others.
 
-## Special Yaku
+# Special Yaku
 There are two special Yaku that can affect the showdown:
 - **Three of a Kind** [ソロカブ - そろかぶ, *sorokabu*]: If the **cards in the first, second, and third field are all the same value as any of the four cards on the first field (5, 6, 7, or 8)**, then this hand automatically wins against the dealer. Any players who bet on this hand receive double their bet in addition to having the original bet returned, for a payout of 3:1. Likewise, if **all 3 cards of the dealer are of the same value as any of the four cards on the first field (5, 6, 7, or 8)**, then the dealer wins against all hands on the table that are not also Three of a Kind.
 - **Dealer 9 and 1** [九一 - くっぴん, *kuppin*]: If the dealer's first card is a 9 and their second is a 1, then they automatically win against *all* the hands on the table.
