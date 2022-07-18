@@ -2,7 +2,7 @@
 title: Fuda Wiki
 description: A wiki for all types of traditional Japanese card games
 published: true
-date: 2022-07-18T05:34:43.490Z
+date: 2022-07-18T05:38:04.278Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:07:08.079Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T18:07:08.079Z
 
 This wiki has been created as a place to discuss various Japanese playing cards, including but not limited to [Hanafuda](/en/hanafuda), [Kabufuda](/en/kabufuda), [Hyakunin-Isshu](/en/ogura-hyakunin-isshu), and other [Karuta](/en/karuta).
 
-**Some helpful pages to get started:**
+**Some popular pages to get started:**
 - [Hanafuda Games](/en/hanafuda/games)
 	- [Koi-Koi](/en/hanafuda/games/koi-koi)
   - [Hachi-Hachi](/en/hanafuda/games/hachi-hachi)
