@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-06-22T19:21:19.832Z
+date: 2022-07-21T05:37:01.715Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -93,7 +93,7 @@ If a player holds a four of a kind, then they may choose to reveal all four card
 Firstly, a player chooses a single card from their hand and plays it to the table, or bomb the field with a triplet in hand (see 'Bombing the Field').
 
 - **If it belongs to the same month as another card in the field**, then the cards *match*, and this matching pair is stacked together to indicate that it will be captured.
-- **If the played card matches with two cards in the field**, then the player may choose which one they capture.
+- **If the played card matches with two cards in the field**, then the player may choose which one they capture during Phase 3.
 - **If the played card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured).
 - **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
 
@@ -103,7 +103,7 @@ Firstly, a player chooses a single card from their hand and plays it to the tabl
 ### Phase 2
 After playing a card from hand, the player then takes a card from the draw pile and plays it to the table in a similar fashion.
 - **If it belongs to the same month as another card in the field**, then the cards *match*, and this matching pair is stacked together to indicate that it will be captured.
-- **If the card matches with two cards in the field**, then the player may choose which one they capture.
+- **If the card matches with two cards in the field**, then the player may choose which one they capture during Phase 3.
 - **If the card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card.
 - **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
 - **If the card is a joker and a pair is not created in Phase 1**, then the player immediately captures it. They then take another card from the draw pile and play it in lieu of the joker.
@@ -112,7 +112,7 @@ After playing a card from hand, the player then takes a card from the draw pile 
 - **If the card matches with a triplet created in Phase 1** (thus collecting all four cards of a month on the table), then it is stacked atop the other card to indicate its capture. No triplet is formed.
 
 ### Phase 3
-After playing both their cards - one from their hand, and one from the draw pile - the player takes any captured cards into their score pile. As a rule of thumb, the captures will be stacks of either 2 or 4 cards (but *not* 3 cards).
+After playing both their cards - one from their hand, and one from the draw pile - the player takes any captured cards into their score pile. As a rule of thumb, the captures will be stacks of either 2 or 4 cards (but *not* 3 cards, excluding jokers).
 
 Any [*special events*](/en/hanafuda/games/go-stop#special-events) should also be checked for and handled at this time.
 
@@ -160,7 +160,7 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 {.is-warning}
 
 ### Stealing Points
-1. If the player creates a triplet (stack of 3) on their very first turn, they steal predetermined points (usually equal to stop minimum) from each opponent ('첫뻑' - *[cheodppeok]*). If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn ('연뻑/삼연뻑' - *[yeonppeok/samyeonppeok]*).
+1. If the player creates a triplet (stack of 3) on their very first turn, they steal predetermined points (usually equal to stop minimum) from each opponent ('첫뻑' - *[cheodppeok]*). If the player creates another triplet consecutively, the player receives double/quadruple of the points received on their first turn ('연뻑/삼연뻑' - *[yeonppeok/samyeonppeok]*).
 2. If any player creates three triplets over the course of the round (including three consecutive triplets at the first 3 rounds, see above), then they *immediately* win the round and steal predetermined points (usually equal to stop minimum) from each opponent ('쓰리뻑' - *three [ppeok]*).
 3. If the player captures all four cards from the same month on their very first turn ('첫따닥' - *[cheodddadak]*), they steal predetermined points (usually equal to stop minimum) from each opponent. If the player creates another triplet consecutively, the player receives double /quadruple of the points received on their first turn.
 4. Popular variant - If a player bombs the field on their first turn ('첫폭탄' - *[choedpoktan]*) or creates a pair with two played in Phase 1 and Phase 2 ('첫쪽', *[choedjjok]*), then the player steals predetermined points from each opponent.
@@ -306,6 +306,14 @@ Sometimes, a variant rule when drawing jokers is applied:
 
 If a player holds two cards of a given month, and the third and the fourth card are in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a similar fashion as bomb - this is called '콩알탄' - *[kongaltan]* (lit. very small bomb), or '수류탄' - *[suryutan]* (lit. grenade). How to treat this may differ (allow the move only, steals a chaff like bomb but does not apply x2 multiplier, or treats like a regular bomb).
 
+## Whiff
+
+If a player fails to capture any cards for 5 consecutive turns, the player wins that round and scores the predetermined points (usually equal to stop minimum). This is called '허당' - *[heodang]*, or '헤딩' - *heading*.
+
+## 5 Consecutive Draws
+
+If players draw for 5 consecutive rounds, the game ends immediately (or resets any multiplier).
+
 ## Missions
 
 In Korean online Go-stop platforms, one or more bonus objectives ('미션' - lit. mission), which multiplies score like other multipliers (x2 ~ x8) on completion, may be added at the beginning or during a round.
@@ -342,8 +350,8 @@ The following different scheme for *go* bonuses is sometimes used:
 - If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay 2 extra points.
 - The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) does not count as a Bright for the purposes of protecting against the Bright double penalty.
 - If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 7 Chaff cards must pay double.
-- If the winner captured at least 7 Animal cards, then any opponent who has not captured at least 1 Animal must pay double.
-- If the winner has captured a *Ribbon Yaku*, then any opponent who has not captured at least 1 Ribbon card must pay double.
+- If the winner has captured the *Animal* generic yaku, then any opponent who has not captured at least 1 Animal must pay double.
+- If the winner has captured the *Ribbon* generic yaku, then any opponent who has not captured at least 1 Ribbon card must pay double.
 
 ## The Dropout Phase
 - Compensation for being forced to drop out is not paid immediately. Instead, it is paid at the end of the round, by the two losers.
