@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-07-21T05:37:01.715Z
+date: 2022-07-21T05:37:21.464Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -312,7 +312,7 @@ If a player fails to capture any cards for 5 consecutive turns, the player wins 
 
 ## 5 Consecutive Draws
 
-If players draw for 5 consecutive rounds, the game ends immediately (or resets any multiplier).
+If players draw for 5 consecutive rounds, the game ends immediately with no contest (or resets any multiplier).
 
 ## Missions
 
