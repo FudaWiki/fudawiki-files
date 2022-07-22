@@ -2,7 +2,7 @@
 title: Kusuri-gui
 description: A hanafuda game for 2 players. Matching the card takes the entire field!
 published: true
-date: 2022-07-16T16:33:19.569Z
+date: 2022-07-22T03:29:00.516Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T07:59:02.869Z
@@ -62,8 +62,11 @@ If you play a card of a **different month** than the topmost face-up card on the
 
 Both players keep playing until they run out of cards in hand. The **dealer then deals four new cards to each player’s hands** (deal 2 cards to each player at a time until both players have 4 cards in hand). Play then continues.
 
-> In every round during gameplay, after the initial deal, the dealer **re-deals the cards to each player 5 times**; 4 times the dealer deals **4** cards to each player, and in the final time the dealer deals **2** cards to each player. Afterward, the deck will run out of cards.
+> In every round during gameplay, after the initial deal, the dealer re-deals 4 cards to each player **4 times**. After that, the deck will run out of cards.
 {.is-info}
+
+> Don't forget to remove the two Bush Clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) and two Maple ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x) Chaffs before playing; Otherwise it will not be uniformly 4 cards during every re-deal!
+{.is-warning}
 
 ## Onifuda
 In Kusuri-gui, **all Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) **cards** are considered as wild cards called **Oni-fuda** - 鬼札 [おにふだ, lit. 'Demon Cards'].
