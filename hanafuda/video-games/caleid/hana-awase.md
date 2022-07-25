@@ -1,0 +1,11 @@
+---
+title: Untitled Page
+description: 
+published: true
+date: 2022-07-25T15:37:37.956Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-25T15:37:37.956Z
+---
+
+_Hana-Awase_ (<span lang='ja'>花合わせ</span>) is a game for Casio Caleid developed and published in 1998 by すーさん (Sū-san).
