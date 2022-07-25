@@ -1,8 +1,8 @@
 ---
-title: Hana-Awase (Zaurus)
+title: Hanafuda (Zaurus)
 description: 
 published: true
-date: 2022-07-25T15:42:26.325Z
+date: 2022-07-25T15:43:31.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T15:42:01.705Z
