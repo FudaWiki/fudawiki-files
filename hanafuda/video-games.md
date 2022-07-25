@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-04-15T15:32:19.745Z
+date: 2022-07-25T15:35:09.774Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -70,6 +70,8 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Musoubana (<span lang='ja'>夢想花</span>)](/en/hanafuda/video-games/arcade/musoubana)
 * [Super Hana Paradise (<span lang='ja'>スーパー華パラダイス</span>)](/en/hanafuda/video-games/arcade/super-hana-paradise)
 * [Yumefuda [BET] (<span lang='ja'>夢札</span>)](/en/hanafuda/video-games/arcade/yumefuda-bet)
+## Casio Caleid
+* [Hana-Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/caleid/hana-awase)
 ## DC
 * [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2)
 * [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda)
@@ -401,3 +403,5 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Koi-Koi (SX-WINDOW) (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/x68/hanafuda-koi-koi-sx-window)
 * [Hanafuda Tengoku (<span lang='ja'>花札天国</span>)](/en/hanafuda/video-games/x68/hanafuda-tengoku)
 * [THE SuperKABU (<span lang='ja'>THE SuperKABU</span>)](/en/hanafuda/video-games/x68/the-superkabu)
+## Zaurus
+* [Hanafuda (<span lang='ja'>花札</span>)](/en/hanafuda/video-games/zaurus/hanafuda)
