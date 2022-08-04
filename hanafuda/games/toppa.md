@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-04T11:07:31.946Z
+date: 2022-08-04T11:08:24.821Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -196,7 +196,7 @@ The list of Teyaku has not been attested, so it is assumed that it is the same l
 - If a "Four of a Kind" is formed, then the four cards are placed face down on the table, and another player chooses one card and switches it with the top card of the deck. The new card goes to the hand, while the other 3 cards are exposed to the other players as a “Triplet”.
 
 # Kushiro Toppa
-This game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many rules from the [2-player Toppa](/en/hanafuda/games/toppa/#Toppa-for-2-players)
+This game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many rules from the [2-player Toppa](/en/hanafuda/games/toppa/#Toppa_for_2_players)
 
 # Bibliography
 - 尾佐竹猛 - 賭博と掏摸の研究
