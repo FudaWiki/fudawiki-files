@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-04T12:15:59.350Z
+date: 2022-08-04T12:18:10.100Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -177,7 +177,7 @@ All Dekiyaku **stack** except for Dekiyaku in the Bright Yaku group (only the hi
 > This section is **INCOMPLETE**. You can help by expanding it.
 {.is-warning}
 
-This version of Toppa is played in the Ishikari Subprefecture. It is described as **"Bakappana but with Teyaku"**.
+This version of Toppa is played in the Ishikari Subprefecture in Hokkaido. It is described as **"Bakappana but with Teyaku"**.
 
 Since it has a Join-in/Drop-out phase just like in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), it is assumed the game is played by more than 3 players.
 
@@ -202,7 +202,7 @@ The list of Teyaku has not been attested, so it is assumed that it is the same l
 - If a "Four of a Kind" is formed, then the four cards are placed face down on the table, and another player chooses one card and switches it with the top card of the deck. The new card goes to the hand, while the other 3 cards are exposed to the other players as a “Triplet”.
 
 # Kushiro Toppa
-This game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many rules from the [2-player Toppa](/en/hanafuda/games/toppa/#Toppa_for_2_players) retained.
+This game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many rules from the [2-player Toppa](/en/hanafuda/games/toppa/#Toppa_for_2_players) retained. It is attested to be played in the Kushiro Subprefecture in Hokkaido.
 
 This game is played by 2 to 4 people, although only 2 people participate in a round at once.
 
