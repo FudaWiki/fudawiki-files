@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-05T02:50:07.012Z
+date: 2022-08-05T06:16:15.531Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -102,10 +102,10 @@ After a card has been played from their hand, the player takes the top card of t
 ## End of Round and Scoring
 The round ends when **both players run out of cards in their hands**.
 
-The scoring for each round is handled as follows: Count the players' Yaku and exchange the difference using the captured cards, then count the card points of all captured cards in the players' possession. Subtract the points with the **par score of 120** to get the score. Loser pays points/chips/cash to the winner of the round, and the winner becomes the dealer for the next round. 
+The scoring for each round is handled as follows: Count the players' total Yaku points and exchange the difference using the captured cards, then count the card points of all captured cards in the players' possession. Subtract the points with the **par score of 120** to get the score. Loser pays points/chips/cash to the winner of the round, and the winner becomes the dealer for the next round. 
 
 ### Yaku Settlement
-Each player then checks for any sets formed in the captured pile called *dekiyaku* [出来役 - できやく], and count their points. They must add also the Teyaku points if they exposed it.
+Each player checks for any sets formed in the captured pile called *dekiyaku* [出来役 - できやく], and count their points. They must add also the Teyaku points if they exposed it.
 
 A player's Yaku score is as follows:
 `Player's Yaku Score = Total of Player's Dekiyaku Points + Total of Player's Teyaku Points`
@@ -196,13 +196,48 @@ The remainder of the deck is placed face-down to form the draw pile.
 {.is-info}
 
 ## End of Round and Scoring
-(TO FOLLOW)
+The round ends when **all players run out of cards in their hands**.
+
+The scoring for each round is handled as follows: Count the players' captured card points to check if anyone has a Low Man Out score. Then count the players' total Teyaku and Dekiyaku points, and exchange the difference using the captured cards. Then count again the card points of all captured cards in the players' possession. Subtract the points with the **par score of 80** to get the score. The score settlement is done in the same manner as in Hachi-hachi.
+
+### Special Yaku: Low Man Out
+Each player counts their total captured card points to see if they got a score of **25 points or less**.
+
+If a player's total card point score is 25 points or less, that player is paid 40 points each by the other two players for a total of **80 points**.
+
+> Whether or not the card scores of all players are forfeited (as in Hachi-hachi) has not been attested. Decide first whether this happens or not before starting the game. **(NEEDS MORE DOCUMENTATION)**
+{.is-warning}
+
+### Yaku Settlement
+Each player then checks for any Dekiyaku and count their points. They must add also the Teyaku points if they exposed it.
+
+A player's Yaku score is as follows:
+`Player's Yaku Score = Total of Player's Dekiyaku Points + Total of Player's Teyaku Points`
+
+The average of the 3 players' Yaku scores is calculated, and subtracted to each player's Yaku score.
+
+**After the subtraction, if your score is negative, you lose those points; If your score is positive, you gain those points.**
+
+Just like in 2-player Toppa, the settlement of Yaku scores is done by exchanging captured cards equal to the points they need to exchange.
+
+### Counting the Card Points and End of Round Settlement
+
+After the Yaku points have been settled, players then count the total points of their captured cards.
+
+> Card points are the same as in 2-player Toppa.
+{.is-warning}
+
+A player's score for that round is calculated as follows:
+`Player's Score = Total of Player's Captured Card Points - 80 points`
+
+The settlement of points is done in the same manner as in Hachi-hachi: Negative score means you lose that score; Positive score means you gain that score.
+
+> The player with the most points does **NOT** become the dealer for the next round. Remember that after the first dealer is selected, the dealer for the 2nd round is the person to their right, and the dealer for the 3rd round is the person to their left.
+{.is-warning}
 
 ## Dekiyaku
-The dekiyaku list is same as above, except that the **Chaff** yaku consists of **only ten (10) Chaff** instead of twelve (12).
+The dekiyaku list is same as in 2-player Toppa, except that the **Chaff** yaku consists of **only ten (10) Chaff** instead of twelve (12).
 
-## Special Yaku: Low Man Out
-If a player counts their card points and the total is 25 points or less, that player is paid 40 points by the other two players for a total of **80 points**.
 
 # Ishikari Toppa
 > This section is **INCOMPLETE**. You can help by expanding it.
