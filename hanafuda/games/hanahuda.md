@@ -2,7 +2,7 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2022-08-09T08:50:12.820Z
+date: 2022-08-09T08:50:47.095Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
@@ -187,7 +187,7 @@ If playing with 4 players, then players on opposite sides of the table are a **t
 > It is not explained which person in the team becomes the dealer if the team loses in a round. (**NEEDS MORE DOCUMENTATION**)
 {.is-warning}
 
-In a team, only one player collects and arranges the captured cards of that team. [This is known in Palaun as *omechobech*.]
+In a team, only one player collects and arranges the captured cards of that team. [This is known in Palauan as *omechobech*.]
 
 The game ends when a team reaches the target score (usually 5000 points). **The team who reaches the target score wins the game**.
 
