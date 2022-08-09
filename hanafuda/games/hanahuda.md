@@ -2,7 +2,7 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2022-08-02T06:54:10.878Z
+date: 2022-08-09T08:50:12.820Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
@@ -11,9 +11,9 @@ dateCreated: 2022-07-16T16:08:29.193Z
 > This article is **incomplete**. You can help by expanding it.
 {.is-warning}
 
-***Hanahuda***, also known as **Hanakuda** or **Palaun Hanafuda**, is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two to four players, with slightly different scoring, played in Palau.
+***Hanahuda***, also known as **Hanakuda** or **Palauan Hanafuda**, is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two to four players, with slightly different scoring, played in Palau.
 
->For the purposes of this ruleset, terms in **Palaun** language are introduced in [square brackets].
+>For the purposes of this ruleset, terms in **Palauan** language are introduced in [square brackets].
 {.is-info}
 
 # The Suits
