@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-05T06:16:15.531Z
+date: 2022-08-09T02:51:17.830Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -14,9 +14,15 @@ The origin of the name is unclear; the term "Toppa" could actually refer to gamb
 
 Another possible explanation is that the word "Toppa" is used in Kansai and Chuugoku dialects, and means "stupid". It could be a simplification of a more complicated Hanafuda game (as in [bakappana](/en/hanafuda/games/bakappana)).
 
-In all games mentioned below, a **standard hanafuda deck of 48 cards** is used, and all Yaku values are measured in **"yaku"**, which can be equated to points or cash.
+In all Toppa games, a **standard hanafuda deck of 48 cards** is used, and all Yaku values are measured in **"yaku"**, which can be equated to points or cash.
 
-# Toppa for 2 players
+## List of attested Toppa Hanafuda games
+- Toppa (for 2 players) - This is the most widely attested Toppa hanafuda game.
+- [Baka](/en/hanafuda/games/toppa/#baka) - Same game as Toppa but adjusted for 3 players.
+- [Ishikari Toppa](/en/hanafuda/games/ishikari-toppa) - Bakappana but with Teyaku.
+- [Kushiro Toppa](/en/hanafuda/games/kushiro-toppa) - A [Koi-koi](/en/hanafuda/games/koi-koi) variant for 2 to 4 players.
+
+# Toppa (for 2 players)
 This game is a [hana-awase](/en/hanafuda/games/hana-awase) variant for 2 players. If played by 3 players, the game is called "Baka" [馬鹿 - ばか].
 
 In this game, each "yaku" is worth 20 points. For sake of simplicity, all yaku values will be measured in **points**.
@@ -178,12 +184,14 @@ Also, note that **Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png
 |20|**Iris Row**<br>かんこ [*kanko*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)|
 |20|**Bush Clover Row**<br>いぬ [*inu*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Bush Clover Chaff 1](/sheldonchen-cards/72.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)[![Bush Clover Chaff 2](/sheldonchen-cards/73.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)|
 
-# Baka (Toppa for 3 players)
-This game is mostly identical to the rules mentioned above, but adjusted so that 3 players play at once.
+# Baka
+This game is mostly identical to the rules of [2-player Toppa](/en/hanafuda/games/toppa), but adjusted so that **3 players play at once**.
 
-Unlike the above rules, however, the number of rounds is limited to three (3) per game. *(Of course, players may choose to play multiple games in one session.)*
+Unlike Toppa, however, the **number of rounds** is limited to **three** (3) per game. *(Of course, players may choose to play multiple games in one session.)*
 
-Determining the first dealer is the same as above, but the dealer of the **2nd** round is the player to the **dealer's right**, and the dealer of the **3rd** round is the player to the **dealer's left**, regardless of whoever wins in any of the rounds.
+
+## Choosing the Dealer
+Determining the first dealer is the same as Toppa, but the dealer of the **2nd** round is the player to the **dealer's right**, and the dealer of the **3rd** round is the player to the **dealer's left**, regardless of whoever wins in any of the rounds.
 
 ## Distributing the Initial Cards
 The dealer shuffles the deck, and another player cuts. Then, **seven (7)** cards are distributed to each player, and **six (6)** to the table. 
@@ -224,7 +232,7 @@ Just like in 2-player Toppa, the settlement of Yaku scores is done by exchanging
 
 After the Yaku points have been settled, players then count the total points of their captured cards.
 
-> Card points are the same as in 2-player Toppa.
+> Card points are the same as in Toppa.
 {.is-warning}
 
 A player's score for that round is calculated as follows:
@@ -236,114 +244,7 @@ The settlement of points is done in the same manner as in Hachi-hachi: Negative 
 {.is-warning}
 
 ## Dekiyaku
-The dekiyaku list is same as in 2-player Toppa, except that the **Chaff** yaku consists of **only ten (10) Chaff** instead of twelve (12).
-
-
-# Ishikari Toppa
-> This section is **INCOMPLETE**. You can help by expanding it.
-{.is-warning}
-
-This version of Toppa is played in the Ishikari Subprefecture in Hokkaido. It is described as **"Bakappana but with Teyaku"**.
-
-Since it has a Join-in/Drop-out phase just like in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), it is assumed the game is played by more than 3 players, but only 3 players participate in the round at once.
-
-The dealing method is the same as in *Baka*; 7 cards in each hand, and 6 cards on the field.
-
-Not much details has been attested, except for a few details.
-
-## Join-in / Drop-out Phase
-After the dealer has given the cards to each player, each player decides whether to Join in the round, or Drop out.
-
-Only 3 players can join-in the round, but even if 3 players have declared to join-in already, the forced-out players may chase [追う - ぼう, *bou*], by declaring to join-in as well.
-
-> There’s no Drop Fee or Forced-out compensation.
-{.is-info}
-
-## Chasing
-If more than 3 players have declared to join-in, then all payments for the next round will be doubled.
-
-If during the next round, more than 3 players declared to join-in again, then all payments for the next round will be tripled, and so on...
-
-## Teyaku
-The list of Teyaku has not been attested, so it is assumed that it is the same list of Teyaku as in Hachi-hachi, but with some differences:
-- "Three Pairs" [喰付 - くっつき, kuttsuki] is called by a different name, "sanzokuichi" [さんぞくいち].
-- If a "Four of a Kind" is formed, then the four cards are placed face down on the table, and another player chooses one card and switches it with the top card of the deck. The new card goes to the hand, while the other 3 cards are exposed to the other players as a “Triplet”.
-
-# Kushiro Toppa
-This game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many Yaku from the [2-player Toppa](/en/hanafuda/games/toppa/#Toppa_for_2_players) retained. It is attested to be played in the Kushiro Subprefecture in Hokkaido.
-
-This game is played by 2 to 4 people, although only 2 people participate in a round at once.
-
-**Just like in Koi-koi, card points are not counted in this game. Points are obtained only by forming Yaku.**
-
-A standard 48-card hanafuda deck is used. Also prepare chips for scoring, and all player must have equal number of chips at the beginning. 1 "yaku" = 1 chip. (If playing for money, decide first the exchange rate per "yaku".)
-
-## Choosing the Dealer
-The attested method of selecting the first dealer is as follows: Shuffle the deck, and cut it into two piles face-down. Each player draws 1 card from either of the two piles. The player with a card of the earliest month becomes the dealer for the first round.
-
-## Distributing the Initial Cards
-
-The method is similar to 2-player Toppa; **Ten (10)** cards are distributed to each player, and **eight (8)** to the table, and the remainder of the deck is placed face-down to form the draw pile.
-
-> If four cards of the same month are dealt on the **field**, then a **misdeal** is declared, and the dealer reshuffles and deals again.
-{.is-info}
-
-> If four cards of the same month are dealt on a **player's hand**, then the player may place all four cards face down on the table. Another player then chooses one card and switches it with the top card of the deck. All four cards go back to the player's hand.
-{.is-info}
-
-## Checking for Teyaku
-After the cards are dealt, each player checks if they possess any sets in hand called *teyaku* [手役 - てやく].
-
-Since Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards are not automatically considered Chaff in a Teyaku, forming a Teyaku is rare.
-
-|Value (in "yaku")|Name|Description|
-|:---:|:---:|:---|
-|<h2 align="left">Group A: Set Teyaku</h2>|||
-|1|**Three Pairs**<br/>さんぞくいち [*sanzokuichi*]|Three pairs of cards- a pair being two cards from the same month.|
-|<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, each [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card is treated according to its card type; Willow cards are not automatically treated as Chaff cards.|||
-|1|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, seven Chaff.|
-|1|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, seven Chaff.|
-|1|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, seven Chaff.|
-|1|**Empty Hand**<br/>総ガラ [そうがら, *sō gara*]|Eight Chaff cards.|
-
-## Join-in / Drop-out Phase
-After players have seen their cards in hand, each player declares to Join-in/Drop-out, starting from **the player to the dealer’s right**.  (This is probably to eliminate dealer’s advantage.)
-
-**Only two players can join in per round.**
-
-> There’s no Drop Fee or Forced-out compensation.
-{.is-info}
-
-Once two players have joined in, if one of them has a Teyaku, they may choose to expose it.
-
-> What happens after exposing a Teyaku is not explained; Decide first whether to stop the round and claim the points, or to claim the points and continue playing before starting the game. **(NEEDS MORE DOCUMENTATION)**
-{.is-warning}
-
-
-## Gameplay (Koi-koi mechanics)
-The gameplay is similar to Koi-koi in that as soon as a Dekiyaku is formed, the player who has formed the Dekiyaku has a choice whether to stop the round and claim the points, or continue the round in hopes of forming another Dekiyaku.
-
-Also, if a player continued the round, and the opponent then formed a dekiyaku and stopped the round, then the player's Dekiyaku is forfeited.
-
-To **continue** the round, declare **"Iku!"**.
-To **stop** the round, declare **"Yoroshii!"**.
-
-## Dekiyaku
-All Dekiyaku **stack** except for Dekiyaku in the Bright Yaku group (only the highest scoring Bright Yaku is counted).
-|Value (in "yaku")|Yaku Name|Composition|
-|:---:|:---:|:---|
-|<h2 align="center">Bright Yaku</h2>|||
-|3|**Five Brights**<br>五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|2|**Four Brights (Dry 4)**<br>本四光 [ほんしこう, *honshikō*, 'real four brights']|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|1|**Rainy Four Brights**<br>四光 [しこう, *shikō*, 'four brights']|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) plus 3 of:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|<h2 align="center">Ribbon and Willow Yaku</h2>|||
-|Value (in "yaku")|Yaku Name|Composition|
-|1|**Poetry Ribbons**<br>菅原 [すがわら, *sugawara*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|1|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|2|**Seven Ribbons**<br>しょう七 [しょうなな, *shōnana*, 'small seven']|Any 7 cards consisting of Ribbon cards and/or Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards.<br>This yaku is worth 1 extra "yaku" for each additional Ribbon or Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card. |
-|<h2 align="center">Chaff Yaku</h2>|||
-|Value (in "yaku")|Yaku Name|Composition|
-|1|**Chaff**<br>カラ [から, *kara*]|Any 12 Chaff cards.<br>This yaku is worth 1 extra "yaku" for each additional Chaff card.|
+The dekiyaku list is same as in Toppa, except that the **Chaff** yaku consists of **only ten (10) Chaff** instead of twelve (12).
 
 
 # Bibliography
