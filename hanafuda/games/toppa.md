@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-09T03:30:23.381Z
+date: 2022-08-09T03:36:10.744Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -130,7 +130,7 @@ After the Yaku points have been settled, players then count the total points of 
 > Card points are standard except that **Chaff cards are worth 0 points**.
 {.is-warning}
 
-|Card Type|Value (in points, not *kan!*)|Number in Deck|
+|Card Type|Value (in points, not *"yaku"!*)|Number in Deck|
 |:---:|:---:|:---:|
 |Bright|20|5|
 |Animal|10|9|
