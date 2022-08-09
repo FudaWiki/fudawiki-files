@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-04T06:02:51.513Z
+date: 2022-08-09T02:05:56.211Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -34,6 +34,7 @@ These games, while not as widespread today as those listed above, are variously 
 |:---|:---:|:---:|---:|
 |Akita-Bana|-|Fishing|Akita, Japan|
 |[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
+|[Baka](/en/hanafuda/games/toppa)|3|Fishing|Hokkaido region, Japan|
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
 |[Batta](/en/hanafuda/games/batta)|-|-|Japan|
@@ -53,6 +54,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
+|[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
@@ -61,6 +63,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
+|[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
 |[Kusuri-gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
 |[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
@@ -93,7 +96,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
-|[Toppa](/en/hanafuda/games/toppa)|varies; usually 2|Fishing|Hokkaido region, Japan|
+|[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Hokkaido region, Japan|
 |Towashi|-|-|-|
 |[Yamayaku](/en/hanafuda/games/yamayaku)|2|Fishing|Japan|
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
