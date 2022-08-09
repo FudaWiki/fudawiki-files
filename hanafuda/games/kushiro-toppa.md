@@ -2,13 +2,12 @@
 title: Kushiro Toppa
 description: A Koi-koi variant from Kushiro subprefecture in Hokkaido, Japan.
 published: true
-date: 2022-08-09T02:36:41.000Z
+date: 2022-08-09T02:37:40.987Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-09T02:26:28.629Z
 ---
 
-# Kushiro Toppa
 This hanafuda game is a [Koi-koi](/en/hanafuda/games/koi-koi) variant, but with many Yaku from the [2-player Toppa](/en/hanafuda/games/toppa) retained. It is attested to be played in the Kushiro Subprefecture in Hokkaido.
 
 This game is played by 2 to 4 people, although only 2 people participate in a round at once.
