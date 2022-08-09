@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-07-21T05:37:21.464Z
+date: 2022-08-09T13:25:55.165Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -168,7 +168,7 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 # End of Round and Scoring
 The round ends when either a player calls *stop*, or when all players run out of cards in their hands.
 
-If the cards run out, then the round is a draw. All players score nothing, **regardless of any yaku they hold**, and the next round begins with the same dealer.
+If the cards run out without anyone calling *stop*, then the round is a draw. All players score nothing, **regardless of any yaku they hold**, and the next round begins with the same dealer.
 
 Otherwise, the player who called *stop* is **the winner of the round**, and **becomes dealer for the next round**.
 
