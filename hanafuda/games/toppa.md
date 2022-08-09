@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-09T02:51:17.830Z
+date: 2022-08-09T03:30:23.381Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -23,7 +23,7 @@ In all Toppa games, a **standard hanafuda deck of 48 cards** is used, and all Ya
 - [Kushiro Toppa](/en/hanafuda/games/kushiro-toppa) - A [Koi-koi](/en/hanafuda/games/koi-koi) variant for 2 to 4 players.
 
 # Toppa (for 2 players)
-This game is a [hana-awase](/en/hanafuda/games/hana-awase) variant for 2 players. If played by 3 players, the game is called "Baka" [馬鹿 - ばか].
+This game is a [hana-awase](/en/hanafuda/games/hana-awase) variant for 2 players, and is the most widely attested version of Toppa.
 
 In this game, each "yaku" is worth 20 points. For sake of simplicity, all yaku values will be measured in **points**.
 
@@ -185,7 +185,7 @@ Also, note that **Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png
 |20|**Bush Clover Row**<br>いぬ [*inu*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Bush Clover Chaff 1](/sheldonchen-cards/72.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)[![Bush Clover Chaff 2](/sheldonchen-cards/73.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#chaff)|
 
 # Baka
-This game is mostly identical to the rules of [2-player Toppa](/en/hanafuda/games/toppa), but adjusted so that **3 players play at once**.
+Baka [馬鹿 - ばか] is a game that retains almost all of the rules of [Toppa](/en/hanafuda/games/toppa), adjusted so that **3 players play at once**.
 
 Unlike Toppa, however, the **number of rounds** is limited to **three** (3) per game. *(Of course, players may choose to play multiple games in one session.)*
 
