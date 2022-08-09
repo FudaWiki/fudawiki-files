@@ -2,7 +2,7 @@
 title: Ishikari Toppa
 description: Hanafuda game from Ishikari Subprefecture in Hokkaido, Japan. Described as "Bakappana but with Teyaku".
 published: true
-date: 2022-08-09T02:39:04.184Z
+date: 2022-08-09T03:34:20.269Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-09T02:39:04.184Z
@@ -41,9 +41,9 @@ If during the next round, more than 3 players declared to join-in again, then al
 
 The Teyaku list could be either of the following:
 - The same as in Hachi-hachi, but with differences written below.
-- The same list as in [Kushiro Toppa](/en/hanafuda/games/kushiro-toppa).
+- A combination of Teyaku in both [2-player Toppa](/en/hanafuda/games/toppa) and [Kushiro Toppa](/en/hanafuda/games/kushiro-toppa).
 
-In either case, the differences are the following:
+In the former case, the differences are the following:
 - "Three Pairs" [喰付 - くっつき, kuttsuki] is called by a different name, "sanzokuichi" [さんぞくいち].
 - If a "Four of a Kind" is formed, then the four cards are placed face down on the table, and another player chooses one card and switches it with the top card of the deck. The new card goes to the hand, while the other 3 cards are exposed to the other players as a “Triplet”.
 
