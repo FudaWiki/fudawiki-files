@@ -2,7 +2,7 @@
 title: San-Zoku Go-Jū
 description: A bakappana variant for 3 players.
 published: true
-date: 2022-08-10T08:53:45.480Z
+date: 2022-08-10T13:52:55.250Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T08:52:32.022Z
@@ -32,7 +32,7 @@ The setup and gameplay are the same as Bakappana; In each round, players play un
 
 
 # Scoring
-Players count their captured card points, they subtract the **par score** of **350 points** to get the settlement score, and they do the settlement accordingly (negative score means you lose points; positive score means you gain points).
+Players count their captured card points, then they subtract the **par score** of **350 points** to get the settlement score, and they do the settlement accordingly (negative score means you lose points; positive score means you gain points).
 
 `Settlement Score = Total of captured card points - 350`
 
