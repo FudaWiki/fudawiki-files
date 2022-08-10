@@ -2,7 +2,7 @@
 title: Sanuki Mekuri
 description: A bakappana variant for 2 players, with unique card point values.
 published: true
-date: 2022-08-10T15:38:10.051Z
+date: 2022-08-10T15:45:09.819Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T15:28:34.093Z
@@ -21,14 +21,21 @@ The card values are unique in that they are based on their month number, as well
 
 For the purposes of these rules, the following are considered:
 - There is no distinction between Brights and Animals, so they are all called **Animals**.
-- Animals that are worth their month value are called **Special Animals**. They are the **Butterflies**, the **Boar**, the **Full Moon**, and the **Sake Cup**.
-- Animals that are worth **5 points** each are called **Normal Animals**. They are the **Crane**, the **Bush Warbler**, the **Curtain**, the **Cuckoo**, the **Bridge**, the **Deer**, the **Rainman**, and the **Phoenix**.
-- **Ribbons** are worth **1 point each**. The **Geese** and the **Yellow Paulownia Chaff** also belong to this Category.
-- **Chaff** are worth **0 points**. The **Swallow** also belongs to this category.
+- Animals that are worth their ***month value*** are called **Special Animals**. 
+They are the Butterflies, the Boar, the Full Moon, and the Sake Cup.
+- Animals that are worth ***5 points*** each are called **Normal Animals**. 
+They are the Crane, the Bush Warbler, the Curtain, the Cuckoo, the Bridge, the Deer, the Rainman, and the Phoenix.
+- **Ribbons** are worth ***1 point each***. 
+The Geese and the Yellow Paulownia Chaff also belong to this Category.
+- **Chaff** are worth ***0 points***. 
+The Swallow also belongs to this category.
 
 ![sanuki_mekuri_card_points.png](/suryongfiles/sanuki_mekuri_card_points.png =600x)
 
-> Since the scoring is cumulative, the par score is not used.
+> Note that the Bridge card is also worth it's month value: 5 points. However, since all Normal Animals are worth 5 points, the Bridge card is considered a Normal Animal card.
+{.is-warning}
+
+> Since the scoring is cumulative, the par score is not used in this game.
 {.is-warning}
 
 # Gameplay
