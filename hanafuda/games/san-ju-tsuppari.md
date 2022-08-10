@@ -2,7 +2,7 @@
 title: San-Jū Tsuppari
 description: A hana-awase variant for 3 players, with very simple rules.
 published: true
-date: 2022-08-10T13:55:36.896Z
+date: 2022-08-10T14:04:42.159Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T09:01:26.343Z
@@ -50,5 +50,9 @@ The total card points in the deck is 90 points, and dividing it by 3 players, gi
 |:---:|:---:|:---|
 |20|**Poetry Ribbons**<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |20|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+
+# San-zoku Tsuppari
+San-zoku Tsuppari [三束ツッパリ - さんぞくつっぱり, lit. “Three-bunch Palm Thrusts”] is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant with rules entirely identical to [San-Jū Tsuppari](/en/hanafuda/games/san-ju-tsuppari), except **all points are multiplied by 10**, making the **par score 300 points**, or **3 bunches** *(in this context, a bunch is 100 points)*.
+
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
