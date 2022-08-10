@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-08-10T08:30:28.242Z
+date: 2022-08-10T14:14:20.293Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -140,7 +140,10 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
 - In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
 - The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
-- Players may agree to set a different amount of points as the goal. For example, if the goal is 300 points, the game is called Sanbyakuken [三百間 - さんびゃくけん, "three hundred"]
+- Players may agree to set a different amount of points as the goal. For example, if the goal is 300 points, the game is called Sanbyakuken.
+
+# Sanbyakuken
+**Sanbyakuken** [三百間 - さんびゃくけん, "three hundred"] is a [Roppyakken](/en/hanafuda/games/roppyakken) variant with rules entirely identical to Roppyakken, except that the goal is to reach **300 points** instead of 600.
 
 # Yamayaku
 **Yamayaku** [ヤマヤク] is a [Roppyakken](/en/hanafuda/games/roppyakken) variant for 2 players, played in the Tokyo district of Japan.
