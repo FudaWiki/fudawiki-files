@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-10T08:28:10.101Z
+date: 2022-08-10T08:29:14.133Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -40,7 +40,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Batta](/en/hanafuda/games/batta)|-|-|Japan|
 |[Batta Maki](/en/hanafuda/games/shoniban), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
-|[Changara](/en/hanafuda/games/roppyakken/##changara)|2|Fishing|Kanto region, Japan|
+|[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |[Echigo-Bana](/en/hanafuda/games/echigo-bana)|-|Fishing|Echigo Province, Japan|
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
@@ -99,7 +99,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
 |[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Hokkaido region, Japan|
 |[Towashi](/en/hanafuda/games/towashi)|-|-|-|
-|[Yamayaku](/en/hanafuda/games/roppyakken/##yamayaku)|2|Fishing|Tokyo, Japan|
+|[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Tokyo, Japan|
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
