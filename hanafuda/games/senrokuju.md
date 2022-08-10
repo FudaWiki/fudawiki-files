@@ -2,13 +2,13 @@
 title: Sen-Roku-Jū
 description: A bakappana variant for 3 players.
 published: true
-date: 2022-08-09T08:37:56.146Z
+date: 2022-08-10T08:06:21.765Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-09T08:37:56.146Z
 ---
 
-Sen-Roku-Jū [千六十 - せんろくじゅう, lit. “One-Two-Three”], also known as Maebashi-hana [前橋花] is a [Bakappana](/en/hanafuda/games/bakappana) variant for three players, with simple rules. 
+Sen-Roku-Jū [千六十 - せんろくじゅう, lit. “One Thousand and Sixty”], also known as Maebashi-hana [前橋花] is a [Bakappana](/en/hanafuda/games/bakappana) variant for three players, with simple rules. 
 
 The name *Sen-Roku-Jū* refers to the target score of the game: 1060 points. 
 
