@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-08-10T08:25:38.539Z
+date: 2022-08-10T08:30:28.242Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -142,7 +142,7 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 - The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
 - Players may agree to set a different amount of points as the goal. For example, if the goal is 300 points, the game is called Sanbyakuken [三百間 - さんびゃくけん, "three hundred"]
 
-## Yamayaku
+# Yamayaku
 **Yamayaku** [ヤマヤク] is a [Roppyakken](/en/hanafuda/games/roppyakken) variant for 2 players, played in the Tokyo district of Japan.
 
 The game is mostly identical to Roppyakken, except that players must agree first to a certain amount of points as the goal (200 points, 300 points, 600 points, etc.), and that typically there are fewer yaku with different values, all of which **stack**.
@@ -163,7 +163,7 @@ The game is mostly identical to Roppyakken, except that players must agree first
 |<h2 align="center">Four-of-a-Kind Yaku</h2>|||
 |200|**Four Rains**<br>雨ゾロ [あめぞろ, *amezoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 
-## Changara
+# Changara
 Changara [チャンガラ] is a [Roppyakken](/en/hanafuda/games/roppyakken) variant for 2 players, played in the Kanto region of Japan.
 
 The gameplay is identical to Roppyakken, with few exceptions:
