@@ -2,7 +2,7 @@
 title: Sanuki Mekuri
 description: A bakappana variant for 2 players, with unique card point values.
 published: true
-date: 2022-08-10T15:37:15.128Z
+date: 2022-08-10T15:38:10.051Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T15:28:34.093Z
@@ -28,7 +28,8 @@ For the purposes of these rules, the following are considered:
 
 ![sanuki_mekuri_card_points.png](/suryongfiles/sanuki_mekuri_card_points.png =600x)
 
-Since the scoring is cumulative, the par score is not used.
+> Since the scoring is cumulative, the par score is not used.
+{.is-warning}
 
 # Gameplay
 The setup and gameplay are the same as Bakappana; In each round, players play until their hands run out of cards.
