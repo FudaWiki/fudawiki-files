@@ -2,7 +2,7 @@
 title: San-Zoku Go-Jū
 description: A bakappana variant for 3 players.
 published: true
-date: 2022-08-10T08:52:32.022Z
+date: 2022-08-10T08:53:45.480Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T08:52:32.022Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-10T08:52:32.022Z
 
 San-Zoku Go-Jū [三束五十 - さんぞくごじゅう, lit. “Three Bunches and Fifty”] is a [Bakappana](/en/hanafuda/games/bakappana) variant for three players, with simple rules. 
 
-The name *San-Zoku Go-Jū* refers to the par score of the game: 350 points. *(In this context, a "bunch" is 100 points.)*
+The name *San-Zoku Go-Jū* refers to the **par score** of the game: **350 points.** *(In this context, a "bunch" is 100 points.)*
 
 There were no Teyaku nor Dekiyaku attested for this game, so it is assumed to be a Bakappana variant.
 
