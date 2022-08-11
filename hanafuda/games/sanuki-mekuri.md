@@ -2,7 +2,7 @@
 title: Sanuki Mekuri
 description: A bakappana variant for 2 players, with unique card point values.
 published: true
-date: 2022-08-10T15:47:23.466Z
+date: 2022-08-11T01:03:22.143Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T15:28:34.093Z
@@ -14,7 +14,7 @@ The name may refer to the Sanuki province of Japan, where the game may have orig
 
 The goal of the game is to **gain 40 points more than your opponent**.
 
-The game may or may not have a limited number of rounds, and it is assumed that if all rounds have ended without a player reaching the difference of 40 points, the player with the highest score wins.
+The game may or may not have a limited number of rounds, and it is assumed that if all rounds have ended without a player reaching the difference of 40 points, the player with the higher score wins.
 
 # Card Values
 The card values are unique in that they are based on their month number, as well as their card type.
@@ -35,21 +35,29 @@ The Swallow also belongs to this category.
 > Note that the Bridge card is also worth it's month value: 5 points. However, since all Normal Animals are worth 5 points, the Bridge card is considered a Normal Animal card.
 {.is-warning}
 
-> Since the scoring is cumulative, the par score is not used in this game.
-{.is-warning}
-
 # Gameplay
 The setup and gameplay are the same as Bakappana; In each round, players play until their hands run out of cards.
 
 
 # Scoring
-Scoring in this game is **cumulative**.
+> The method of scoring has not been attested in the original rules. Pick which method you find easier.
+{.is-warning}
 
-After each round, players count their captured card points, then they check each player's total score in the game.
+## Cumulative method
+After each round, players count their captured card points and write them down on a piece of paper. Then they check each player's total score (the sum of scores obtained in all rounds played up to that point).
 
-The difference between the players' total scores are checked. **If the difference reaches 40 points or higher, the game ends, and the player with the higher score wins the game.**
+**If the difference between the players' total scores reaches 40 points or higher, the game ends, and the player with the higher score wins the game.**
 
-If the difference is less than 40 points, another round is played. The player with more points obtained in a round becomes the dealer for the next round.
+If the difference is less than 40 points, another round is played. The player with more points obtained in the current round becomes the dealer for the next round.
+
+## Zero-sum Method
+Before play starts, each player should have **40 chips** (worth 1 point each).
+
+After each round players count their captured card points, then they check their score difference.
+
+The player with lower score pays chips equal to the score difference to the other player.
+
+Play continues until one of the players run out of chips. **The player who has all the chips is the winner of the game.**
 
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
