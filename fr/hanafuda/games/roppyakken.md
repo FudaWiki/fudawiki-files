@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - un jeu rapide avec les cartes hanafuda pour 2 ou 3 joueurs
 published: true
-date: 2022-08-13T13:19:05.624Z
+date: 2022-08-13T13:22:32.158Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-13T01:26:40.223Z
@@ -37,7 +37,9 @@ Une fois que toutes les Mains Chanceuses ont été révélées et enregistrées,
 * **Si la carte jouée ne correspond à aucune carte**, elle est posé sur la table et peut ensuite être capturée par d'autres cartes jouées.
 > Si la carte jouée correspond à quelque chose déjà posé sur la table, alors le joueur *doit* capturer, comme décrit ci-dessus. Cependant, il n'est pas obligatoire de jouer une carte correspondant à une ou plusieurs autres cartes déjà présentes sur la table, même si le joueur en a une en main ; il peut, s'il le souhaite, choisir de jouer une carte qui ne correspond à rien sur la table.
 {.is-warning}
+
 > Comme dans la plupars des autres jeux de hanafuda, les cartes gagnées par les joueurs doivent **être posées face visible sur la table devant eux**, de sorte qu'elles soient entièrement visibles pour tous les joueurs. Idéalement, les cartes doivent être classées par type (Lumières, Animals, Rubans et Ivraies) pour faciliter la visibilité des yaku.
 {.is-warning}
+
 Après avoir joué une carte de sa main, le joueur prend la carte du dessus de la pioche, la retourne face visible et la joue immédiatement sur la table de la même manière..
 Une fois que les deux cartes ont été jouées - l'une de la main du joueur et l'autre de la pioche - le tour est terminé et c'est au tour du joueur suivant.
