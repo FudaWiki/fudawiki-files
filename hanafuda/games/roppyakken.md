@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-08-14T14:49:18.659Z
+date: 2022-08-14T17:13:44.049Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -111,7 +111,7 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 |:---:|:---:|:---|
 |<h2 align="center">Bright Yaku</h2>|||
 |600|**Four Brights**<br>四光 [しこ, *shiko*]<br>욘코 [*yonko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>In most rule sets, Four Brights is considered an instant win, even if another player had a greater final score.|
-|150|**Crane, Moon, Phoenix**<br>松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]<br>송월동 [*song-wol-dong*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|150|**Pine, Paulownia, Baldy**<br>松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]<br>송월동 [*song-wol-dong*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |150|**Big Three**<br>大三 [おおざん, *oozan*]<br>일이삼 [*il-ee-sam*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |600|**Seven Ribbons**<br>七短 [ななたん, *nanatan*]<br>칠띠 [*chiltti*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
