@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-08-14T08:11:37.667Z
+date: 2022-08-14T08:18:29.498Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -165,7 +165,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## MZ-700
 * [The Hanafuda (<span lang='ja'>THE 花札</span>)](/en/hanafuda/video-games/mz-700/the-hanafuda)
 ## MZ-80
-* [Graphical Hanafuda Koi-Koi (<span lang='ja'>グラフィック花札こいこい</span>)](/en/hanafuda/video-games/mz-80/graphical-hanafuda-koi-koi)
+* [Graphic Hanafuda Koi-Koi (<span lang='ja'>グラフィック花札こいこい</span>)](/en/hanafuda/video-games/mz-80/graphic-hanafuda-koi-koi)
 ## N64
 * [64 Hanafuda: Tenshi no Yakusoku (<span lang='ja'>64花札 天使の約束</span>)](/en/hanafuda/video-games/n64/64-hanafuda-tenshi-no-yakusoku)
 ## NGPC
