@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - un jeu rapide avec les cartes hanafuda pour 2 ou 3 joueurs
 published: true
-date: 2022-08-14T14:17:43.521Z
+date: 2022-08-14T14:33:47.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-13T01:26:40.223Z
@@ -95,11 +95,11 @@ Les *Yaku d'Observation* s'excluent mutuellement, mais en dehors de cela, tous l
 |600|**Quatre Lumières**<br>四光 [しこ, *shiko*]<br>욘코 [*yonko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>Dans la plupart des variantes, "Quatre Lumières" est considéré comme une victoire immédiate, même si un autre joueur a obtenu un score final plus élevé.|
 |150|**Grue, Lune, Phénix**<br>松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]<br>송월동 [*song-wol-dong*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |150|**Grand Trois**<br>大三 [おおざん, *oozan*]<br>일이삼 [*il-ee-sam*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
-|<h2 align="center">Yaku Rubans</h2>|||
+|<h2 align="center">Yaku Ruban</h2>|||
 |600|**Sept Rubans**<br>七短 [ななたん, *nanatan*]<br>칠띠 [*chiltti*]|7 cartes rubans quelconques. Dans certaines variantes, le [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Ruban du Saule](/en/hanafuda/suits/willow#plain-ribbon) ne compte pas pour ce yaku. Sept Rubans peut donner la victoire immédiate ; mais perds contre un autre joueur qui obtient Quatre Lumières.|
 |100|**Petit Trois**<br>小三 [こざん, *kozan*]<br>홍단 [*hongdan*]|Les trois rubans de poème rouges :<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |100|**Rubans Bleus**<br>青短 [あおたん, *aotan*]<br>청단 [*cheongdan*]|Les trois rubans bleus :<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|100|**Rubans d'Herbe**<br>草短 [くさたん, *kusatan*]<br>초단 [*chodan*]|Trois des quatre rubans rouge, le ruban du [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule exclu :<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|100|**Rubans d'Herbe**<br>草短 [くさたん, *kusatan*]<br>초단 [*chodan*]|Trois des quatre rubans rouge, en excluant le [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Ruban du Saule](/en/hanafuda/suits/willow#plain-ribbon) :<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |<h2 align="center">Yaku Animal</h2>|||
 |300|**Sanglier, Cerf, Papillon**<br>猪鹿蝶 [いのしかちょう, *inoshikachō*]<br>이노시카 [*inoshika*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 |<h2 align="center">Yaku Contemplation</h2>|||
@@ -122,3 +122,101 @@ Les *Yaku d'Observation* s'excluent mutuellement, mais en dehors de cela, tous l
 - Dans le jeu sur Internet Marguerite, les trois Yaku de [Contemplation](/fr/hanafuda/games/roppyakken#viewing-yaku) ne sont pas pris en compte si le joueur qui les a obtenu a aussi capturé une carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, à moins qu'ils n'aient également capturé la carte [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Grue avec le Soleil](/en/hanafuda/suits/pine#crane-with-sun).
 - La version iOS de Six Hundred de MocoGame se déroule en 12 manches, le gagnant finale étant celui qui a dépassé 600 points le plus grand nombre de fois au cours de la partie.
 - Les joueurs peuvent convenir de fixer un nombre de points différent comme bute de la partie. Par exemple, si l'objectif est de 300 points, le jeu s'appelle Sanbyakuken.
+# Sanbyakuken
+**Sanbyakuken** [三百間 - さんびゃくけん, "trois cent"] est une variante de [Roppyakken](/en/hanafuda/games/roppyakken) avec des règles entièrement identiques à Roppyakken, sauf que le but est d'atteindre **300 points** au lieu de 600.
+# Yamayaku
+**Yamayaku** [ヤマヤク] est une variante de [Roppyakken](/en/hanafuda/games/roppyakken) pour 2 joueurs, joué dans le joué dans le district de Tokyo au Japon.
+Le jeu est assez similaire à Roppyakken, sauf que les joueurs doivent d'abord s'entendre sur un certain nombre de points à atteindre (200 points, 300 points, 600 points, etc.), et qu'il y a moins de yaku autorisés avec des valeurs en point différentes, et tous peuvent **s'aditionner**.
+|Value|Name of Yaku|Composition|
+|:---:|:---:|:---|
+|<h2 align="center">Bright Yaku</h2>|||
+|150|**Pine, Paulownia, Baldy**<br>松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|100|**Big Three**<br>大三 [おおざん, *oozan*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|<h2 align="center">Ribbon Yaku</h2>|||
+|100|**Little Three**<br>小三 [こざん, *kozan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|100|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|100|**Grass**<br>草 [くさ, *kusa*]|Three **specific** Plain Ribbons:<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|<h2 align="center">Animal Yaku</h2>|||
+|300|**Boar, Deer, Butterfly**<br>猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|<h2 align="center">Viewing Yaku</h2>|||
+|300|**Cannon**<br>大砲 [たいほう, *taihō*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|<h2 align="center">Four-of-a-Kind Yaku</h2>|||
+|200|**Four Rains**<br>雨ゾロ [あめぞろ, *amezoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+# Changara
+Changara [チャンガラ] is a [Roppyakken](/en/hanafuda/games/roppyakken) variant for 2 players, played in the Kanto region of Japan.
+The gameplay is identical to Roppyakken, with few exceptions:
+- The goal score is 300 points instead of 600. (Technically this game is a Sanbyakuken [三百間 - さんびゃくけん, "three hundred"] variant)
+- Typically a best of 1, 3, 5,... (any odd number of) games are played in one session. For example, in a best of 5 games, the player who wins 3 games wins the entire session. (In this session, reaching the goal of 300 points is equivalent to winning 1 game only; to win the session, you must reach 300 points three times.)
+- If four cards of the same month are dealt to the field, it is not considered a misdeal; instead, the dealer takes all 4 cards.
+- There are slightly less yaku with different values.
+|Value|Name of Yaku|Composition|
+|:---:|:---:|:---|
+|<h2 align="center">Bright Yaku</h2>|||
+|300|**Pine, Paulownia, Baldy**<br>松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|<h2 align="center">Ribbon Yaku</h2>|||
+|150|**Poetry Ribbons**<br>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|100|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|100|**Grass Ribbons**<br>クサケン [くさけん, *kusaken*]|Three **specific** Plain Ribbons:<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|<h2 align="center">Animal Yaku</h2>|||
+|300|**Boar, Deer, Butterfly**<br>猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|<h2 align="center">Viewing Yaku</h2>|||
+|300|**Flower Viewing under the Moon**<br>月花一杯 [つきはないっぱい, *tsukihana ippai*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br> Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.|
+|100|**Flower Viewing**<br>花見で一杯 [はなみでいっぱい, *hanami de ippai*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|100|**Moon Viewing**<br>月見で一杯 [つきみでいっぱい, *tsukimi de ippai*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|<h2 align="center">Four-of-a-Kind Yaku</h2>|||
+|For each Four-of-a-Kind Yaku you form, **one of your Chaff cards becomes worth 50 points. (NEEDS BETTER EXPLANATION)**|||
+|200|**Four Rains**<br>雨島 [あめしま, *ameshima*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+|0|**Four Pines**<br>松島 [まつしま, *matsushima*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Pine Chaff 1](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Pine Chaff 2](/sheldonchen-cards/13.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)|
+|0|**Four Plum Blossoms**<br>梅島 [うめしま, *umeshima*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|
+|0|**Four Cherry Blossoms**<br>桜島 [さくらしま, *sakurashima*]|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Cherry Blossom Chaff 1](/sheldonchen-cards/32.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Cherry Blossom Chaff 2](/sheldonchen-cards/33.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)|
+|0|**Four Baldies**<br>坊主島 [ぼうずしま, *bōzushima*]|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)|
+|0|**Four Maples**<br>紅葉島 [もみじしま, *momijishima*]|[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Maple Chaff 2](/sheldonchen-cards/103.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)|
+|0|**Four Paulownias**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
+# Korean Variants
+Korean variants use different scoring rules after the end of a round, and Dandruff does not exist. Also, some yaku-related rules are different.
+- In Yukbaek variant, Four Bright yaku also requires [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and to complete Seven Ribbons there must be [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon). Both yakus are considered as an automatic win regardless of the score (the game ends when someone completes any of these two yakus).
+- In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C scores 600/320/0 points in a round, player A adds 280 points (600 - 320) in game score and other players get nothing.
+- In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C gets 600/400/0 points. Also, Four Brights / Seven Ribbons do not end the game, instead they score 600 ~ 1000 points / 700 points + 100 points per additional ribbon.
+- Sambong variant adopts Hand Three (Yukbaek variant does not use hand yakus) and counts Hand Fours as a 300-points yaku too, but does not count All Chaffs as a yaku.
+- Player may play a longer game by setting the score limit to 800 in Yukbaek variant, or playing by rounds in Sambong variant.
+# Korean Additional Yakus
+In some regions additional Ribbon yakus are used.
+|Value|Name of Yaku|Composition|
+|:---:|:---:|:---|
+|300|**Boar, Deer, Butterfly Ribbons**<br>띠 이노시카 [*tti inoshika*]|The Ribbons matching Boar, Deer, Butterfly:<br> [![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
+|300|**Gun Ribbons**<br>띠 대포 [*tti daepo*]| The Ribbons and the Animal matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
+|100|**Flower Viewing Ribbons**<br>띠 빠이 [*tti ppai*]| The Ribbons matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|100|**Moon Viewing Ribbons**<br>띠 빠이 [*tti ppai*]| The Ribbon and the Animal matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
+# Korean Alternative Yaku Scores
+In some regions, yaku scores are significantly higher than original rules (especially in Sambong variant).
+Name of Yaku|Original Value|Variant Value|
+|:---:|:---|:---|
+|<h2 align="center">Typical Yaku</h2>|||
+Pine, Paulownia, Baldy|150|200
+Big Three|150|200
+Little Three|100|200
+Blue Ribbons|100|200
+Grass Ribbons|100|200
+Boar, Deer, Butterfly|300|400
+Gun|300|400
+Flower Viewing|100|200
+Moon Viewing|100|200
+Four Rains|200|300
+Four Maples|50|200
+|<h2 align="center">Lucky Hand</h2>|||
+Hand Three|200|300
+Hand Three Irises|200|400
+|<h2 align="center">Additional Yaku</h2>|||
+Boar, Deer, Butterfly Ribbons|300|400
+Gun Ribbons|300|400
+Flower Viewing Ribbons|100|200
+Moon Viewing Ribbons|100|200
+Hand Four|300|500
+Hand Four Irises|300|600
+# Bibliography
+- *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
+- Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
+- Shiragiku. “Roppyakken.” *Marguerite*, www.marguerite.jp/k/Games/Hanafuda/Rules-600ken.html.
+- 임철순. "[임철순의 즐거운 세상] 고스톱과 육백.", *Hankook Ilbo*, 2014, https://www.hankookilbo.com/News/Read/201402060043410289
+- 미래컨텐츠창작연구소, 화투의 기술, 21세기북스, 2015, pp. 100-115.
+- 왕이로소이다. 화투-삼봉화투 치는 법, 2 May. 2012, cafe.daum.net/cheldoarirang/5wkm/235.
