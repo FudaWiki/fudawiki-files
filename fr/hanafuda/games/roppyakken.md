@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - un jeu rapide avec les cartes hanafuda pour 2 ou 3 joueurs
 published: true
-date: 2022-08-15T16:32:05.651Z
+date: 2022-08-15T16:32:55.787Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-13T01:26:40.223Z
