@@ -2,7 +2,7 @@
 title: Liste des Jeux Hanafuda
 description: Une liste de jeux hanafuda connus, autant traditionnels que modernes
 published: true
-date: 2022-04-10T15:20:05.501Z
+date: 2022-08-15T20:06:49.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:59:33.452Z
@@ -32,7 +32,7 @@ Ces jeux sont relativement connus et apparaissent assez fréquemment dans les li
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|généralement 2|Pêche|(Contesté)|
 |[Mushi, alias. Ochi](/fr/hanafuda/games/mushi)|2 par manche, max 4 par partie|Pêche|Osaka, Japon|
 |[Oicho-Kabu](/en/hanafuda/games/oicho-kabu), alias. Toppa, Kaho, ou Katori|2-10|Banque|Japon|
-|[Roppyakken, alias. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Pêche|Japon|
+|[Roppyakken, alias. Roppyakuten](/fr/hanafuda/games/roppyakken)|2-3|Pêche|Japon|
 |[Sakura, alias. Higo-Bana ou Koi-Koi Hawaïen](/fr/hanafuda/games/sakura)|2-7|Pêche|Province de Higo, Japon|
 
 ## Autres Jeux Traditionnels
