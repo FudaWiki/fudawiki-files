@@ -2,7 +2,7 @@
 title: Issoku Yuki
 description: A bakappana variant for 2 players with cumulative scoring  and only one special yaku.
 published: true
-date: 2022-08-15T06:47:26.698Z
+date: 2022-08-15T07:34:55.157Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T03:17:12.622Z
@@ -36,7 +36,7 @@ After every round, players count their total captured card points. The round poi
 If nobody reaches 100 points, then another round is played. **The non-dealer of the current round becomes the dealer of the next round.**
 
 > It is also possible to play such that players are keeping track of their total scores throughout the entire game, and the game ends as soon as a player reaches 100 points, even if a round ends prematurely.
-{.is-warning}
+{.is-info}
 
 # Card Values
 The card values are completely standard, the same as used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
@@ -49,7 +49,10 @@ The card values are completely standard, the same as used in [Hachi-Hachi](/en/h
 
 
 # Special Yaku: Decchoko
-If you have a **Triplet** (3 cards of the same month) in your hand, and the 4th card of the same month as your Triplet appears on the field, and you manage to **capture all 4 cards**, it is called Decchoko. If you manage to do this Yaku, **you take 20 points from the other player *(you gain 20 points, the other player loses 20 points)*.**
+If you have a **Triplet** (3 cards of the same month) in your hand, and the 4th card of the same month as your Triplet appears on the field, and you manage to **capture all 4 cards**, it is called Decchoko [デッチョコ]. If you manage to do this Yaku, **you take 20 points from the other player *(you gain 20 points, the other player loses 20 points)*.**
+
+> This exchange of points happens **immediately** after all 4 cards have been captured. If a player **reaches 100 points** this way, the **round ends** prematurely, and that player is declared winner.
+{.is-info}
 
 >It is not attested if you have to **expose your triplet to the other player** first or not. This should probably be agreed upon as a house rule. (NEEDS MORE DOCUMENTATION)
 {.is-warning}
@@ -57,7 +60,7 @@ If you have a **Triplet** (3 cards of the same month) in your hand, and the 4th 
 Decchoko is similar to Diving [飛び込み - とびこみ, tobikomi] in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), but with one additional restriction: **You cannot discard any one of the three cards in your triplet until the 4th card of the same month appears on the field.**
 
 > Even if you managed to capture all 4 cards of the same month as the Triplet, It doesn't count as Decchoko if you discarded even one of the 3 cards of your Triplet before the 4th card appears on the field.
-{.is-warning}
+{.is-info}
 
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
