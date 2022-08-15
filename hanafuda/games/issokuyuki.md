@@ -2,23 +2,21 @@
 title: Issoku Yuki
 description: A bakappana variant for 2 players with cumulative scoring  and only one special yaku.
 published: true
-date: 2022-08-15T03:17:12.622Z
+date: 2022-08-15T06:47:26.698Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T03:17:12.622Z
 ---
 
-Issoku Yuki [一束行き - いっそくゆき, lit. "One bunch going"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for two players, with very simple rules.
+Issoku Yuki [一束行き - いっそくゆき, lit. "One bunch going"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two players**, with very simple rules.
 
-The game only **one Special Yaku** : Decchoko
+The game has only **one Yaku** : **Decchoko [デッチョコ]**.
 
-
-UNDER CONSTRUCTION
 # Goal
 Reach a total score of 100 points before the other player does.
 
 # Determining the Dealer
-The first dealer is determined like in any typical hanafuda game, and **in every round, the other player becomes the next dealer**.
+The first dealer is determined like in any typical hanafuda game. Each player takes turns being the dealer after every round (The non-dealer of the current round becomes the dealer of the next round).
 
 # Distributing the Initial Cards
 The dealer deals 8 cards to each player and 8 cards on the field. 
@@ -31,7 +29,14 @@ Just like in Bakappana, the round ends when all players run out of cards.
 # Scoring
 The scoring is **cumulative** (there is no score settlement); every score obtained in each round adds to the total score of the player in the game.
 
-As soon as a player reaches a total score of 100 points, the game ends, and that player is declared the winner.
+After every round, players count their total captured card points. The round points are tallied, and the total scores are checked.
+
+**If a player reaches a total score of 100 points, the game ends, and that player is declared the winner.**
+
+If nobody reaches 100 points, then another round is played. **The non-dealer of the current round becomes the dealer of the next round.**
+
+> It is also possible to play such that players are keeping track of their total scores throughout the entire game, and the game ends as soon as a player reaches 100 points, even if a round ends prematurely.
+{.is-warning}
 
 # Card Values
 The card values are completely standard, the same as used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
@@ -44,10 +49,15 @@ The card values are completely standard, the same as used in [Hachi-Hachi](/en/h
 
 
 # Special Yaku: Decchoko
-|Value|Name of Yaku|Composition|
-|:---:|:---:|:---|
-|3|**Four Brights**<br/>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|2|**Poetry Ribbons**<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|2|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+If you have a **Triplet** (3 cards of the same month) in your hand, and the 4th card of the same month as your Triplet appears on the field, and you manage to **capture all 4 cards**, it is called Decchoko. If you manage to do this Yaku, **you take 20 points from the other player *(you gain 20 points, the other player loses 20 points)*.**
+
+>It is not attested if you have to **expose your triplet to the other player** first or not. This should probably be agreed upon as a house rule. (NEEDS MORE DOCUMENTATION)
+{.is-warning}
+
+Decchoko is similar to Diving [飛び込み - とびこみ, tobikomi] in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), but with one additional restriction: **You cannot discard any one of the three cards in your triplet until the 4th card of the same month appears on the field.**
+
+> Even if you managed to capture all 4 cards of the same month as the Triplet, It doesn't count as Decchoko if you discarded even one of the 3 cards of your Triplet before the 4th card appears on the field.
+{.is-warning}
+
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
