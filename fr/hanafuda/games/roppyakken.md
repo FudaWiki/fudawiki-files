@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - un jeu rapide avec les cartes hanafuda pour 2 ou 3 joueurs
 published: true
-date: 2022-08-15T14:20:32.144Z
+date: 2022-08-15T14:30:13.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-13T01:26:40.223Z
@@ -204,7 +204,7 @@ Les variantes coréennes utilisent des méthodes différentes de comptaptage des
 
 - Dans la variante **Yukbaek**, le yaku Quatre Lumières a aussi besoin de la carte [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Fauvette](/en/hanafuda/suits/plum-blossom#bush-warbler), et le yaku Sept Rubans doit obligatoirement intégré la carte [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Ruban du Saule](/en/hanafuda/suits/willow#plain-ribbon). Chaqu'un de ces deux yaku donne une victoire immédiate quel que soit le score (le jeu se termine dès que l'un des joueurs obtient l'un de ces deux yaku).
 - Dans la variante **Yukbaek**, le joueur ayant obtenu le score le plus élevé dans une manche soustrait le score de manche du deuxième joueur ayant obtenu le score le plus élevé, puis l'ajoute à son score total de jeu. Par exemple, lorsque les joueurs A/B/C marquent 600/320/0 points dans une manche, le joueur A ajoute 280 points (600 - 320) à son score de jeu et les autres joueurs n'obtiennent rien.
-Dans la variante **Sambong**, le jeu utilise la règle japonaise originale de décompte des points, mais les scores sont arrondis à la centaine supérieure. Pour l'exemple précédant, les joueurs A/B/C obtienent 600/400/0 points. De plus, Quatre Lumières et Sept Rubans ne donnent pas de victoire immédiate. Quatre Lumières donne de 600 à 1000 points ; Sept Rubans 700 points + 100 points par ruban supplémentaire.
+- Dans la variante **Sambong**, le jeu utilise la règle japonaise originale de décompte des points, mais les scores sont arrondis à la centaine supérieure. Pour l'exemple précédant, les joueurs A/B/C obtienent 600/400/0 points. De plus, Quatre Lumières et Sept Rubans ne donnent pas de victoire immédiate. Quatre Lumières donne de 600 à 1000 points ; Sept Rubans 700 points + 100 points par ruban supplémentaire.
 - La variante **Sambong** utilise *Main de Trois* (la variante Yukbaek n'utilise pas de yaku Mains Chanceuses), *Main de Quatre* valant 300 points, mais n'utilise pas *Que des Ivraies*.
 - Les joueurs peuvent faire des parties plus longues en fixant un objectif à 800 dans la variante **Yukbaek**, ou en jouant par manche dans la variante **Sambong**.
 
