@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-07-13T07:33:04.471Z
+date: 2022-08-15T05:51:22.986Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -27,7 +27,9 @@ In games with few to no Teyaku, the term **'Yaku'** is used to refer to Dekiyaku
 
 
 # Special Yaku
-In some games like Hachi-hachi, there are also **Special Yaku** (特殊役, tokushuyaku), which are Dekiyaku that are checked separately from normal Dekiyaku, and have different playing mechanics.
+In some games, there are also **Special Yaku** (特殊役, tokushuyaku), which may be sets or conditions that do not exactly match the definition of either Teyaku or Dekiyaku. 
+
+They may also refer to Teyaku or Dekiyaku which are treated differently from other normal Teyaku or Dekiyaku. For instance, in Hachi-hachi, Special Yaku are Dekiyaku that are checked separately from normal Dekiyaku, and do not stop the round unlike normal Dekiyaku.
 
 
 # Glossary
