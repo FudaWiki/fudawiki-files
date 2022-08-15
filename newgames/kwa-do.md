@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2022-08-15T16:38:08.437Z
+date: 2022-08-15T16:40:51.063Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -110,7 +110,7 @@ A player/team with a **positive** net score **adds** that score to their total s
 ## Method B: Easy Method
 Each player/team counts the total value of their captured cards.
 
-Then each player/team with adds that score to their total score in the game. 
+Then each player/team adds that score to their total score in the game. 
 
 `Player's Total Score = Sum of captured card scores obtained in every round`
 
