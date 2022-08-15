@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - un jeu rapide avec les cartes hanafuda pour 2 ou 3 joueurs
 published: true
-date: 2022-08-15T19:44:50.132Z
+date: 2022-08-15T19:51:09.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-13T01:26:40.223Z
@@ -29,7 +29,7 @@ Il y a trois "Mains Chanceuses" - 手役 [てやく, *teyaku*] que l'on peut rec
 La possibilité de compter les points de "Mains Chanceuses" doit être décidée avant le début de la partie.
 |Valeur|Nom de la Main Chanceuse|Description|
 |:---:|:---:|:---|
-|400|**Que des Ivraies**<br>総ガス [そうがす, *sōgasu*]|Toutes les cartes en main sont des cartes à 0 point. Notez que la carte [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia à fond Jaune](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), qui vaut 10 points dans ce jeu, est exclue.
+|400|**Que des Ivraies**<br>総ガス [そうがす, *sōgasu*]|Toutes les cartes en main sont des cartes à 0 point. Notez que la carte [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia à fond jaune](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), qui vaut 10 points dans ce jeu, est exclue.
 |200|**Main de Trois**<br>手三 [てさん, *tesan*]|Cette Main contient trois cartes d'un même mois.|
 |400|**Double Main de Trois**<br>二手三 [ふたてさん, *futatesan*]|Cette Main contient deux fois trois cartes de deux mois différents. Overrides Hand Three.
 
@@ -58,7 +58,7 @@ Après avoir joué une carte de sa main, le joueur prend la carte du dessus de l
 Une fois que les deux cartes ont été jouées - l'une de la main du joueur et l'autre de la pioche - le tour est terminé et c'est au tour du joueur suivant.
 
 ## Carte Joker
-À Roppyakken, la carte de l'![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Homme au Parapluie  fonctionne comme un joker (avec quelques restrictions). Cela signifie qu'elle peut être utilisée pour prendre les cartes [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow), mais aussi à n'importe quelle carte **autre** que les cartes à 0 point. L'exception est lorsque les trois autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule sont toutes dans la rivière; alors elle les capturera toutes. De plus, l'![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Homme au Parapluie **ne peut pas** être utilisé pour capturer un groupe de 3 cartes d'un autre mois.
+À Roppyakken, la carte de l[![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Homme au Parapluie](/en/hanafuda/suits/willow#rain-man) fonctionne comme un joker (avec quelques restrictions). Cela signifie qu'elle peut être utilisée pour prendre les cartes [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow), mais aussi à n'importe quelle carte **autre** que les cartes à 0 point. L'exception est lorsque les trois autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule sont toutes dans la rivière; alors elle les capturera toutes. De plus, l'![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Homme au Parapluie **ne peut pas** être utilisé pour capturer un groupe de 3 cartes d'un autre mois.
  
 Si le joker est dans la rivière, il peut être capturé en utilisant une autre carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, **ou** en utilisant n'importe quelle carte ne valant pas 0 point (cette capture sauvage peut ne pas être autorisée dans certaines variantes).
 
