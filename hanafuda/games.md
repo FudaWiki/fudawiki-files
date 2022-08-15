@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-15T08:30:17.844Z
+date: 2022-08-15T13:49:00.708Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -116,7 +116,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## K.K. Corner and R. Whitbeck
 |Game|Players|Family|
 |:---|:---:|---:|
-|Kwa-Dō|2-6|Fishing|
+|[Kwa-Dō](/newgames/kwa-do)|2-6|Fishing|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
