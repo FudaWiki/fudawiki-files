@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-16T15:26:13.008Z
+date: 2022-08-16T15:27:31.599Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -48,7 +48,7 @@ Each player, starting from the player nearest to the dealer's right, chooses whe
 > Any limits regarding the players' wagers has not been attested. House rules prevail.
 {.is-warning}
 
-If the total wagers placed on "Ato" and on "Saki" are not equal, then the dealer places an amount on the batch with the lower wagers to make them equal. *(Of course, the dealer's wager will always return to the dealer after the showdown.)*
+If the total wagers placed on "Ato" and on "Saki" are not equal, then the dealer places an amount on the batch with the lower wagers to make them equal.
 
 However, it is the skill of the dealer to entice the players to place wagers such that the two batches' wagers become as close to being equal as possible.
 
