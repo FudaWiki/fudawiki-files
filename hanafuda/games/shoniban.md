@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-16T15:10:48.936Z
+date: 2022-08-16T15:26:13.008Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -16,19 +16,22 @@ It was one of the most common forms of gambling in the Kanto region of Japan, an
 Game setup involves choosing a dealer - 親 [おや, oya], deciding the seating arrangement of the other players, and shuffling the deck. Certain ground rules should also be agreed upon before play begins.
 
 # Equipment
-A standard 48-card hanafuda deck is used, with each month representing the numbers 1 to 12. The [standard month arrangement](/en/hanafuda/suits#arrangement-of-suits) is used in this game.
+A standard **48-card hanafuda deck** is used, with each month representing the numbers 1 to 12. The [standard month arrangement](/en/hanafuda/suits#arrangement-of-suits) is used in this game.
 
 >**This game requires familiarity with the sequence of the months.**
 {.is-warning}
 
-In addition to the deck, a collection of chips to represent points will be highly useful. Using different colours of chips for each player will help with tracking bets.
+In addition to the deck, a collection of **chips** to represent points will be highly useful, assuming the game is played casually and not for actual gambling. 
+
+> Using different colours of chips for each player will help with tracking bets.
+{.is-info}
 
 ## Choosing the Dealer and Seating
 To begin, each player draws a card from the deck. The player with the earliest month becomes the dealer, and the remaining players seat themselves on the other side of the table in order anti-clockwise around the table- the second-earliest month sits nearest to the right side of the dealer, third-earliest to the right of them, and so on.
 
 If the dealer represents an establishment- say, when playing at a casino or gambling parlour- then their role will obviously be fixed, though the other players may still use this process to determine their seating order.
 
-In the event of a tie, the players in question should draw a second card and compare again.
+In the event of a tie, the players in question may either draw a second card and compare again, or use the card types to determine which one is more valuable.
 
 # Gameplay
 The dealer shuffles the deck, draws 3 cards from the top of the deck and places them in a stack face down near him/her. This first batch of 3 cards is called **"Saki"**.
@@ -56,8 +59,13 @@ The score of each batch is determined by adding the total month points of all 3 
 
 The batch with a higher score is considered the winning batch.
 
-- Players who bet on the winning batch wins 90% of the amount of the wager they placed. (The remaining 10% is considered as "rental fee" [寺銭 - てらぜん, *terazen*] for the gambling parlor)
+- Players who bet on the winning batch wins 100% of the amount of the wager they placed. 
+
+>If playing for money, then only 90% of the amount of the wager is won. (The remaining 10% is considered as "rental fee" [寺銭 - てらぜん, *terazen*] for the gambling parlor).
+{.is-info}
+
 - Players who bet on the other batch loses their wager; it is taken by the dealer.
+- The dealer's bet goes back to the dealer, whether it is placed on the winning batch or not.
 
 # Additional Rounds
 No particular setup is given for playing additional rounds. When playing at a casino or parlour, the dealer will remain the dealer, though the players may cycle their seating positions.
