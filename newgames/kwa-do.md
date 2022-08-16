@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2022-08-15T16:40:51.063Z
+date: 2022-08-16T00:26:03.423Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -53,7 +53,7 @@ Any remaining cards form the draw pile for the round and are to be placed in a s
 # Gameplay
 The player to the **left of the dealer** takes the first turn, followed by each player around the table in **clockwise order**.
 
-When playing with teams, each team shares a common score pile.
+When playing with teams, each team shares a common score pile. 
 
 ## Turns
 > The core gameplay is the same as in [Hana-awase](/en/hanafuda/games/hana-awase), albeit not fully explained in the rulebook.
@@ -88,11 +88,11 @@ Then, the **"floor"** (par score) is subtracted to each player's/team's captured
 
 `Net Score = Total of captured card points - Floor value`
 
-The floor is obtained by dividing 240 points, which is the total card points in the deck, by the number of players (not teams) participating in the game.
+The floor is obtained by dividing 240 points, which is the total card points in the deck, by the number of players/teams participating in the game.
 
 `Floor Value = 240 points / Number of players`
 
-|Number of Players|Floor Value|
+|Number of Players/Teams|Floor Value|
 |:---:|---:|
 |**2**|120 points|
 |**3**|80 points|
@@ -102,7 +102,7 @@ The floor is obtained by dividing 240 points, which is the total card points in 
 
 A player/team with a **positive** net score **adds** that score to their total score in the game. 
 
-`Player's Total Score = Sum of the net scores obtained in every round`
+`Player's/Team's Total Score = Sum of the net scores obtained in every round`
 
 > **Negative** net scores are treated as **0 points**.
 {.is-warning}
@@ -112,7 +112,7 @@ Each player/team counts the total value of their captured cards.
 
 Then each player/team adds that score to their total score in the game. 
 
-`Player's Total Score = Sum of captured card scores obtained in every round`
+`Player's/Team's Total Score = Sum of captured card scores obtained in every round`
 
 
 # End of Game
