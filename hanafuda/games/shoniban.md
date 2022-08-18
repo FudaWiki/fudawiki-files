@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-16T15:27:31.599Z
+date: 2022-08-18T03:09:37.085Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -27,9 +27,9 @@ In addition to the deck, a collection of **chips** to represent points will be h
 {.is-info}
 
 ## Choosing the Dealer and Seating
-To begin, each player draws a card from the deck. The player with the earliest month becomes the dealer, and the remaining players seat themselves on the other side of the table in order anti-clockwise around the table- the second-earliest month sits nearest to the right side of the dealer, third-earliest to the right of them, and so on.
+If the dealer represents an establishment- say, when playing at a casino or gambling parlour- then their role will obviously be fixed. If played only casually, then the dealer may be decided as follows.
 
-If the dealer represents an establishment- say, when playing at a casino or gambling parlour- then their role will obviously be fixed, though the other players may still use this process to determine their seating order.
+To begin, each player draws a card from the deck. The player with the earliest month becomes the dealer, and the remaining players seat themselves on the other side of the table facing the dealer.
 
 In the event of a tie, the players in question may either draw a second card and compare again, or use the card types to determine which one is more valuable.
 
@@ -40,17 +40,20 @@ Next, the dealer draws 3 more cards from the top of the deck and places them in 
 
 The dealer then arranges each stack into rows of 3 face-down cards, starting with the "Saki".
 
-Afterward, the betting begins.
+Afterward, the dealer calls out "Ato or Saki? Choose one only!", and the betting begins.
 
 # Betting
-Each player, starting from the player nearest to the dealer's right, chooses whether to place their wager on "Ato" or "Saki".
+Players then choose whether to place their wager on "Ato" or "Saki".
 
-> Any limits regarding the players' wagers has not been attested. House rules prevail.
+> Any limits regarding the amount in the players' wagers has not been attested. House rules prevail.
 {.is-warning}
 
-If the total wagers placed on "Ato" and on "Saki" are not equal, then the dealer places an amount on the batch with the lower wagers to make them equal.
+If the total wagers placed on "Ato" and on "Saki" are not equal, then the dealer must entice the players to place an amount on the batch with the lower wager to equalize them.
 
-However, it is the skill of the dealer to entice the players to place wagers such that the two batches' wagers become as close to being equal as possible.
+> It is the skill of the dealer as a representative of the gambling parlor to entice the players to place wagers such that the two batches' wagers become as close to being equal as possible.
+{.is-info}
+
+Once the players have already decided that they are done placing wagers, then the dealer places his/her own wager on the batch with the lower wager to make them exactly equal.
 
 # Showdown
 Once all betting has been done, the dealer then exposes all cards from the two batches.
@@ -68,9 +71,7 @@ The batch with a higher score is considered the winning batch.
 - The dealer's bet goes back to the dealer, whether it is placed on the winning batch or not.
 
 # Additional Rounds
-No particular setup is given for playing additional rounds. When playing at a casino or parlour, the dealer will remain the dealer, though the players may cycle their seating positions.
-
-In casual games, the dealer may either remain fixed, or lose their role if the batch he/she placed a wager onto loses during the showdown. In this case, the player to their right becomes the next dealer.
+No particular setup is given for playing additional rounds. Players can keep playing for as many rounds as they want.
 
 # Bibliography
 - https://www.h-eba.com/heba/gamble/main09.html
