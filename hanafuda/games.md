@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-16T15:13:45.263Z
+date: 2022-08-19T06:45:29.053Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -105,7 +105,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
-
+|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
