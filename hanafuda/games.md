@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-19T06:45:29.053Z
+date: 2022-08-19T06:49:42.116Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -61,6 +61,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|-|-|-|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Japan|
+|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Ato-Saki](/en/hanafuda/games/koi-koi-no-ato-saki)|2+|Showdown(?)|Japan|
