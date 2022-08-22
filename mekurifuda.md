@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-08-19T08:46:15.982Z
+date: 2022-08-22T03:23:56.733Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -41,6 +41,15 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 # Kinds of Mekurifuda
 |Pattern|Played in|Description|
 |:---:|:---:|:---|
-|Akahachi|-|Swords and Cups suits are made of thin lines.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 3, 4, 5, and 6 have X marks on the clubs. 6 has a gold 壽 (*kotobuki*, 'longevity') on it.</br> **Swords**: 8 has two gold rings on it.</br>Coins: 1 has lines and squiggles. 2 has two gold rings on it. 3, 4, and 5 have a circled X on each coin. 6 is colored gold, and is elaborately overprinted with silver.|
-|Ise|-|Swords and Cups suits are made of thin lines; Coins are smaller than usual.</br>There are no overprints on the cards.|
-|Fukutoku|-|Cups are round.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 2, 3, 4, 5, 9, 10, and 12 have elaborate squiggles, lines, and/or designs that stand out from the deck. 6 has a gold 壽 (*kotobuki*, 'longevity') on it. 7 and 8 have thin horizontal lines. 11 has squiggles.</br> **Swords**: 1, 10,11 and 12 has squiggles (11 having the smallest squiggle). 2, 3, 4, and 5 has thin horizontal lines.</br>Coins: 2 has two gold rings on it.|
+|**Akahachi**|Kyoto, Osaka, Kobe, Tanba, Tango, Tajima, Yamato, Kawachi, Izumi, Settsu, and Banshu|Swords and Cups suits are made of thin lines, and Courts have faces drawn, and were colored with thin lines.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 3, 4, 5, and 6 have X marks on the clubs. 6 has a gold 壽 (*kotobuki*, 'longevity') on it.</br> **Swords**: 8 has two gold rings on it.</br>**Coins**: 1 has lines and squiggles. 2 has two gold rings on it. 3, 4, and 5 have a circled X on each coin. 6 is colored gold, and is elaborately overprinted with silver.</br>Comes with a white "Onifuda"|
+|**Ise**|Omi, Mino, Iga, Ise, Shima, Owari|Swords and Cups suits are made of thin lines; Coins are smaller than usual. Courts have faces drawn, and were colored with thin lines.</br>There are no overprints on the cards.</br> Comes with "Bakefuda".|
+|**Fukutoku**|Toyama, Uozu, Fushiki, Himi, Etchu province, Echizen, Kaga, Noto, and Shinano Town|Cups are round.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 2, 3, 4, 5, 9, 10, and 12 have elaborate squiggles, lines, and/or designs that stand out from the deck. 6 has a gold 壽 (*kotobuki*, 'longevity') on it. 7 and 8 have thin horizontal lines. 11 has squiggles.</br> **Swords**: 1, 10,11 and 12 has squiggles (11 having the smallest squiggle). 2, 3, 4, and 5 has thin horizontal lines.</br>**Coins**: 2 has two gold rings on it.</br>Comes with a red "Onifuda"|
+|**Kingyoku**|-|Cups are round, and courts have faint humanoid characteristics.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 4 has a gold windchime with a sakura flower underneath. 5 has patterns related to wax gourds.</br> **Swords**: 1 has lines and squiggles</br>**Coins**: 2 has two gold rings on it.</br>Comes with a red "Onifuda"|
+|**Kojishi**|-|Cards are smaller than usual, and has four "Onifuda". All clubs, swords, and the 2 of Coins are overprinted.|
+|**Kurofuda**; a.k.a Tsugarubana|Tsugaru, Rikuzen, Rikuchu, and Ugo province|Colors on all cards are applied very thickly, as if to hide the designs underneath (courts resemble humans).</br>There are no overprints on the cards.</br>Comes with a red "Onifuda"|
+|**Kurouma**|Suruga, Shizuoka, Hokkaido|Design is identical to Fukutoku except the 2 of Coins has a Black horse on the top coin and 本 on the bottom coin. The 2 of coins is also overprinted with gold rings.|
+|**Mitsuogi**|Echigo, Wakasa, Omi, Etchu, Echizen, and Hokkaido|Design is identical to Fukutoku and Kurouma, but the dragons and courts are drawn slightly differently and with very faint humanoid characteristics.</br>Also,the 2 of Coins has three golden hand fans with a red sun on each of them, arranged in a circle on the top coin, while the bottom coin is black and overprinted with a feather-like pattern inside the circle.|
+|**Komatsu**|Echizen, Tsuruga, Takefu, Fukui, Mikuni-Minato, and Kishu|Swords and Cups suits are made of very thin lines; Coins are very small dots. Courts and dragons are all abstract, made up of thin black and red strokes.</br>There are no overprints on the cards.</br> Comes with a red "Onifuda".|
+
+# Bibliography
+- Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
