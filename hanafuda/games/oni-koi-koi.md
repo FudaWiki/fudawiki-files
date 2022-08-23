@@ -2,7 +2,7 @@
 title: Oni Koi-koi
 description: A Koi-koi variant played in Gifu Region in Japan.
 published: true
-date: 2022-08-23T09:04:15.891Z
+date: 2022-08-23T09:07:54.839Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T09:04:15.891Z
@@ -14,7 +14,7 @@ Its rules are identical to Koi-koi, but the Phoenix card is used as a wild card 
 
 [![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 
-The rules says that if you have the Phoenix card in your hand, it becomes an exposed card [さらし札 - さらしふだ, *sarashifuda*]. 
+The rules say that if you have the Phoenix card in your hand, it becomes an exposed card [さらし札 - さらしふだ, *sarashifuda*]. 
 
 > It is not known if it means that it can be used as a wild card after being exposed, or if it goes directly to your captured cards like in [Tensho](/en/hanafuda/games/tensho). **(NEEDS MORE DOCUMENTATION)**
 {.is-warning}
