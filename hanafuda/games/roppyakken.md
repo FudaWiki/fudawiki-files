@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-08-14T17:15:17.026Z
+date: 2022-08-23T08:05:01.643Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -190,7 +190,7 @@ The gameplay is identical to Roppyakken, with few exceptions:
 |100|**Flower Viewing**<br>花見で一杯 [はなみでいっぱい, *hanami de ippai*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |100|**Moon Viewing**<br>月見で一杯 [つきみでいっぱい, *tsukimi de ippai*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
 |<h2 align="center">Four-of-a-Kind Yaku</h2>|||
-|For each Four-of-a-Kind Yaku you form, **one of your Chaff cards becomes worth 50 points. (NEEDS BETTER EXPLANATION)**|||
+|For each Four-of-a-Kind Yaku you form, **one of your Chaff cards becomes worth 50 points.** You may move one of your captured Chaff cards to your pile of captured Brights to help with counting points.|||
 |200|**Four Rains**<br>雨島 [あめしま, *ameshima*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 |0|**Four Pines**<br>松島 [まつしま, *matsushima*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Pine Chaff 1](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Pine Chaff 2](/sheldonchen-cards/13.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)|
 |0|**Four Plum Blossoms**<br>梅島 [うめしま, *umeshima*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|
