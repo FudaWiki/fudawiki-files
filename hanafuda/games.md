@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-23T07:56:50.287Z
+date: 2022-08-23T13:42:46.017Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -54,8 +54,8 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
-|[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho), new version|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Japan|
 |[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
@@ -121,6 +121,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Kwa-Dō](/newgames/kwa-do)|2-6|Fishing|
+## Report Station
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Ino-Shika-Chō](/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
