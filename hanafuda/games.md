@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-23T13:42:46.017Z
+date: 2022-08-23T15:26:36.232Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -12,7 +12,7 @@ This is a list of known [hanafuda](/en/hanafuda) games, arranged alphabetically 
 
 **There are 3 major families to which hanafuda games tend to belong:**
 1. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. 
-2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
+2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Barking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
 3. **Sequence** games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents.
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
