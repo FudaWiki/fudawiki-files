@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-19T06:49:42.116Z
+date: 2022-08-23T07:56:50.287Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -54,7 +54,8 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
-|[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho), new version|3|Fishing|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
 |[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
@@ -66,7 +67,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Ato-Saki](/en/hanafuda/games/koi-koi-no-ato-saki)|2+|Showdown(?)|Japan|
 |[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
-|[Kusuri-gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
+|[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
 |[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Japan|
@@ -93,6 +94,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
+|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
@@ -106,6 +108,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
+|[Yokohama-Bana](/en/mekurifuda/games/yokohama-bana), not Hachi-hachi|3 per round|Sequence|Kanagawa Region, Japan|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
 
 # Modern Games
