@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-08-23T06:45:33.075Z
+date: 2022-08-23T06:55:04.616Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -15,7 +15,7 @@ dateCreated: 2022-08-23T06:45:33.075Z
 
 The name comes from the word shouted to indicate the start of betting.
 
-The game shares the same style of gameplay as Poker, even down to borrowing the same terminologies during betting. Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
+The game seems to be closely related to the game [Kachi-Kachi](/en/kabufuda/games/kachi-kachi), but shares the same method of gameplay as Poker, even down to borrowing the same terminologies during betting. Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
 
 There also seems to be a local variant of Seotda played in Jeju Island.
 
