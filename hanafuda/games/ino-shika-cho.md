@@ -2,7 +2,7 @@
 title: Ino-Shika-Chō
 description: A simple gambling game for any number of players.
 published: true
-date: 2022-08-23T13:54:50.833Z
+date: 2022-08-23T14:36:48.132Z
 tags: hanafuda games, banking games
 editor: markdown
 dateCreated: 2022-04-01T18:00:53.681Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T18:00:53.681Z
 
 **Ino-Shika-Chō** - 猪鹿蝶 [いのしかちょう, lit. "boar-deer-butterfly"] is a luck-based gambling game played with [hanafuda](/en/hanafuda). One person acts as the banker, against which any number of players may bet.
 
-Note that the name of this game may also refer to a fishing game similar to [Roppyakken](/en/hanafuda/games/roppyakken); for this reason, the gambling game is sometimes refered to as "Old Ino-Shika-Chō". The name also refers to a yaku appearing in many fishing games.
+Note that the name of this game may also refer to a [fishing game](/en/hanafuda/games/new-ino-shika-cho) similar to [Roppyakken](/en/hanafuda/games/roppyakken); for this reason, the gambling game is sometimes refered to as "Old Ino-Shika-Chō". The name also refers to a yaku appearing in many fishing games.
 # Gameplay
 The game begins with the banker shuffling the deck and cutting it into **4 approximately equal packets**, which are then placed **face-down on the field**. Each of the other players then takes their turn betting whatever sum of money they desire on any and all of the piles of cards that they wish. **Once all participants have bet, the banker flips over each of the 4 piles, revealing their bottom cards.**
 
