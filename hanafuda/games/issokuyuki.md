@@ -2,7 +2,7 @@
 title: Issoku Yuki
 description: A bakappana variant for 2 players with cumulative scoring  and only one special yaku.
 published: true
-date: 2022-08-15T07:34:55.157Z
+date: 2022-08-24T06:59:03.971Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T03:17:12.622Z
@@ -11,6 +11,8 @@ dateCreated: 2022-08-15T03:17:12.622Z
 Issoku Yuki [一束行き - いっそくゆき, lit. "One bunch going"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two players**, with very simple rules.
 
 The game has only **one Yaku** : **Decchoko [デッチョコ]**.
+
+A game with similar gameplay but without Yaku exists, called [Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi).
 
 # Goal
 Reach a total score of 100 points before the other player does.
