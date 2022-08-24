@@ -2,7 +2,7 @@
 title: Yokohama-bana
 description: A hana-awase variant from the Kanagawa prefecture of Japan, with simple gambling rules.
 published: true
-date: 2022-08-24T05:54:27.683Z
+date: 2022-08-24T05:59:37.930Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T05:53:57.356Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-24T05:53:57.356Z
 > This article is **INCOMPLETE.** You can help by expanding it.
 {.is-warning}
 
-Yokohama-bana [横浜花] is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant, with simple gambling rules. 
+Yokohama-bana [横浜花] is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant from the Kanagawa prefecture of Japan, with simple gambling rules. 
 
 It seems to be a simplification of the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi), as most of the Teyaku, Dekiyaku, and Special Yaku are also present in that game.
 
