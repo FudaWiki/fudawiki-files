@@ -2,13 +2,13 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T06:58:31.142Z
+date: 2022-08-24T07:00:14.529Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
 ---
 
-Hyaku-ochi [一束行き - いっそくゆき, lit. "One bunch going"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two players**, with very simple rules.
+Hyaku-ochi [百落ち - ひゃくおち, lit. "One hundred drop"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two players**, with very simple rules.
 
 The name comes from the target score of 100 points.
 
