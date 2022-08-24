@@ -2,7 +2,7 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T07:23:33.900Z
+date: 2022-08-24T07:29:10.885Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
@@ -18,7 +18,7 @@ A game with similar gameplay but with Yaku exists, called [Issoku Yuki](/en/hana
 Reach a total score of 100 points before the other player does.
 
 # Determining the Dealer
-The first dealer is determined like in any typical hanafuda game. Each player takes turns being the dealer after every round (The non-dealer of the current round becomes the dealer of the next round).
+The first dealer is determined like in any typical hanafuda game.
 
 # Distributing the Initial Cards
 The dealer deals 7 cards to each player and 6 cards on the field. 
