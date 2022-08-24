@@ -2,7 +2,7 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T07:00:14.529Z
+date: 2022-08-24T07:17:45.208Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
@@ -38,10 +38,7 @@ After every round, players count their total captured card points.
 
 Then, the difference between the players' card points is calculated.
 
-A player's score for that round is then calculated as follows:
-`Player's Score = Total Card Points - Difference`
-
-The positive score is tabulated; the negative score is treated as **0 points**.
+The player with the higher card points **wins the score difference**.
 
 Next, the players' total scores in the game are checked.
 
