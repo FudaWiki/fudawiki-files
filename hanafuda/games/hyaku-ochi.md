@@ -2,7 +2,7 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T07:19:09.898Z
+date: 2022-08-24T07:23:33.900Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
@@ -57,3 +57,4 @@ The card values are completely standard, the same as used in [Hachi-Hachi](/en/h
 
 
 # Bibliography
+- Takeshi Ichinose, "Atarashii Hanafuda Nyuumon"
