@@ -2,7 +2,7 @@
 title: Ino-Shika-Chō (Hana-awase that even kids can play)
 description: Report Station's attempt to make Hanafuda accessible to children.
 published: true
-date: 2022-08-24T03:45:35.885Z
+date: 2022-08-24T03:49:34.376Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T03:45:35.885Z
@@ -158,7 +158,7 @@ Points from multiple yaku **stack**; players get points for each yaku they make!
 |10|**Full Paulownia**<br>桐いっぱい [きりいっぱい, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)<br>This yaku is missing in the version of the game from the IndianWolf book.|
 
 # External Resources
-> 📺 ["子供向け花札ルール「花合わせ」いのしかちょう（猪・鹿・蝶）で遊んでみた"](https://youtu.be/Kws5lvlN-QQ), YouTube tutorial by **くだらない動画** (in Japanese).
+> 📺 ["子供向け花札ルール「花合わせ」いのしかちょう（猪・鹿・蝶）で遊んでみた"](https://youtu.be/ds30XtPS2FQ), YouTube tutorial by **くだらない動画** (in Japanese).
 
 # Bibliography
 - https://dsstation.sakura.ne.jp/report/hanafuda/index.html
