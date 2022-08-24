@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Yokohama-bana
 description: A hana-awase variant from the Kanagawa prefecture of Japan, with simple gambling rules.
 published: true
-date: 2022-08-24T05:53:57.356Z
+date: 2022-08-24T05:54:27.683Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T05:53:57.356Z
