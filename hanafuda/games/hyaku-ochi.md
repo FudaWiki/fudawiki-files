@@ -2,7 +2,7 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T07:17:45.208Z
+date: 2022-08-24T07:19:09.898Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
@@ -44,7 +44,7 @@ Next, the players' total scores in the game are checked.
 
 **If a player reaches a total score of 100 points, the game ends, and that player is declared the winner.**
 
-If nobody reaches 100 points, then another round is played. **The non-dealer of the current round becomes the dealer of the next round.**
+If nobody reaches 100 points, then another round is played. **The winner of the round becomes the dealer of the next round.**
 
 # Card Values
 The card values are completely standard, the same as used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi).
