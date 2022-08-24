@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2022-04-10T15:21:13.597Z
+date: 2022-08-24T02:41:51.408Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z
@@ -49,7 +49,11 @@ After both cards have been played- one from the player's hand, and one from the 
 ## Wild Card
 In Mushi, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card serves as a wild card, and can be used to capture any other individual card except another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow).
 
-If it is dealt to the field at game setup, **it must be captured by the first non-Willow card drawn from the deck**.
+If it is on the field, **it must be captured by the first non-Willow card drawn from the deck**.
+
+If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
+
+If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
 
 If, however, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card is the last to be drawn from the deck, **it captures all remaining cards in play**.
 
