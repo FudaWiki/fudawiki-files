@@ -2,7 +2,7 @@
 title: Kaga
 description: A 2 player hanafuda fishing game. Grab as many Four-of-a-kinds as you can!
 published: true
-date: 2022-08-24T08:00:07.446Z
+date: 2022-08-24T08:05:03.658Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T08:00:07.446Z
@@ -42,7 +42,7 @@ Each Teyaku is worth **100 points.**
 Gameplay is identical to Hana-awase, and the round ends when all players run out of cards.
 
 # Scoring
-The scoring is **cumulative** (there is no score settlement); every score obtained in each round adds to the total score of the player in the game.
+The scoring is **cumulative**; every score obtained in each round adds to the total score of the player in the game.
 
 A player's score for each round is calculated as follows:
 `Player's Score = Card Points + Teyaku Points + Dekiyaku Points`
