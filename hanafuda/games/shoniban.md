@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T12:31:24.146Z
+date: 2022-08-25T12:32:52.410Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -125,7 +125,7 @@ Then the game of Hana-awase proceeds as normal.
 
 Mutsu-wari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
 
-Its rules and setup are thought to be identical to Batta Maki or [Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant), except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
+Its rules and setup are thought to be identical to Batta Maki or [Atosaki](#atosaki-batta-maki-variant), except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
 
 # Hankan (Batta Maki variant)
 Hankan [半貫, lit. "half cash"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence. It is attested to be a popular gambling game in the Chūkyō region of Japan.
@@ -134,7 +134,7 @@ The name comes from the fact that you only **win half the amount** you have bet.
 
 The major difference between this game and Batta Maki is that 3 sets of 3 cards are placed on the table instead of just 2 sets; however, players only choose to bet between the last two sets only.
 
-Another Batta Maki variant is closely related to this game: [Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant).
+Another Batta Maki variant is closely related to this game: [Shoniban](#shoniban-batta-maki-variant).
 
 ## Cards
 The same cards used in Tensho or Hon-bana are used: 45 cards of a hanafuda deck, with all 3 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaffs removed.
@@ -173,7 +173,7 @@ The game is played for 5 rounds; afterward, the game ends.
 # Shoniban (Batta Maki variant)
 Shoniban [初二番 - しょにばん, lit. "first two numbers"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence.
 
-It is closely related to the game [Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant); however, just like [Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant), this betting game is played at the start of every round of a Hana-awase type game, specifically the games [Tensho](/en/hanafuda/games/tensho) and [Hon-bana](/en/hanafuda/games/honbana), which explains why the game uses the Nagoya month sequence.
+It is closely related to the game [Hankan](#hankan-batta-maki-variant); however, just like [Atosaki](#atosaki-batta-maki-variant), this betting game is played at the start of every round of a Hana-awase type game, specifically the games [Tensho](/en/hanafuda/games/tensho) and [Hon-bana](/en/hanafuda/games/honbana), which explains why the game uses the Nagoya month sequence.
 
 ## Cards
 The same cards used in Tensho or Hon-bana are used: 45 cards of a hanafuda deck, with all 3 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaffs removed.
