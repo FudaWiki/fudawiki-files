@@ -2,7 +2,7 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-07-14T00:57:13.628Z
+date: 2022-08-25T15:31:14.944Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
@@ -10,12 +10,14 @@ dateCreated: 2022-07-13T15:27:40.113Z
 
 **Hiyoko** (ひよこ, 'chick') is a Hanafuda game for 2 players. It is also known as **Shosho** (しょっしょ).
 
-The game shares a similarity with [Poka](/hanafuda/games/poka)
+The game shares a similarity with [Poka](/hanafuda/games/poka).
+
+A variant of this game exists, called [Isuri](#isuri-hiyoko-variant).
 
 
 # Hanafuda Month Sequence
 Unlike Poka which uses the standard month sequence, Hiyoko follows the **Nagoya** sequence.
->This game requires familiarity with the sequence of the months.
+>You must be familiar with the [**month sequence**](/en/hanafuda/suits#arrangement-of-suits) to play the game.
 {.is-warning}
 
 |#|Month|Icon|Flower|
@@ -103,7 +105,22 @@ During each round, the goal is to **get rid of all the cards in your hand before
 # End of the Game
 **First player to earn 3 points wins the game**.
 
+# Isuri (Hiyoko variant)
+Isuri [いすり] is a [Hiyoko](/en/hanafuda/games/hiyoko) variant for 2 players.
+
+The rules are identical to Hiyoko, with some exceptions:
+- **46 cards** from a standard Hanafuda deck is used. Remove only **2 Paulownia** ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) **Chaff**. The remaining Paulownia Chaff is treated as a 2nd Phoenix card.
+- The scoring system in Hiyoko, which is based on players discarding all of their cards, is replaced with a dynamic scoring system: **A player gets paid immediately for each card they discard.** *(See **Card Values**)*
+- If you **pass** the turn, you must place **1 point** on the table as a *Passing Penalty*. The player who gets rid of all the cards in their hand takes all points from the Passing Penalty.
+- **You may discard 3 to 6 cards of the same month at once!** You get paid for each of the cards discarded this way.
+- If you manage to **discard all 6 cards in your hand in one turn** [総出し - そうだし, *sou-dashi*], you get **10 bonus points**.
+
+## Card Points
+January = 10 pts.
+Other months are worth points equal to their month number.
+
 # Bibliography
 - 渡部小童 著 - 『花札を初めてやる人の本』（土屋書店）
 - https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%88%E3%81%93_(%E8%8A%B1%E6%9C%AD)
 - https://tanoshiikoto.com/hanafuda-hiyoko/
+- Takeshi Ichinose, "Atarashii Hanafuda Nyuumon"
