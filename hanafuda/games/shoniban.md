@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T12:18:28.755Z
+date: 2022-08-25T12:23:36.185Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -10,9 +10,13 @@ dateCreated: 2022-08-16T15:10:48.936Z
 
 Batta Maki [バッタまき] is a gambling game in which a group of players bet between two groups of cards, and the higher scoring group wins.
 
-It was once the most popular form of gambling in the Kanto region of Japan, and is known as Honbiki [ホンビキ] in the west, and Atosaki [アトサキ] in the east. 
+It was once the most popular form of gambling in the Kanto region of Japan, and is known as Honbiki [ホンビキ] in the west, and Atosaki [アトサキ] in the east. There seems to be a theory that Tehonbiki, another gambling game from the Kansai region of Japan, got introduced and took over its popularity as a gambling game.
 
-There seems to be a theory that Tehonbiki, another gambling game from the Kansai region of Japan, got introduced and took over its popularity as a gambling game.
+**Variants of this game also exist:**
+- [Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant) - a sub-game of Hana-awase.
+- [Mutsu-wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant) - a variant that uses only 40 cards.
+- [Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant) - a variant that uses 45 cards and has 9 cards on the field per round.
+- [Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant) - a sub-game of Tensho/Hon-biki.
 
 # Setup
 Any number of players may play this game.
