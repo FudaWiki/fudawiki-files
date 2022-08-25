@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T07:23:03.093Z
+date: 2022-08-25T07:27:50.479Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -88,7 +88,7 @@ The dealer keeps dealing cards from the deck for each additional round, and the 
 If two decks are used, the game can last for 16 rounds.
 
 # Atosaki (Batta Maki variant)
-It seems that the game of [Batta Maki](/en/hanafuda/games/shoniban) is also played by spectators at the start of every Hana-awase game. In this case, the game is called Atosaki [アトサキ].
+It seems that the game of [Batta Maki](/en/hanafuda/games/shoniban) was also played by spectators at the start of every round of a Hana-awase game. In this case, the game is called Atosaki [アトサキ].
 
 ## Cards
 The month sequence of the cards is standard, except that all ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)November and ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)December cards are counted as **"10"**.
