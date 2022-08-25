@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T08:24:10.219Z
+date: 2022-08-25T08:28:22.028Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -115,11 +115,11 @@ In the case of a tie, one of the following methods may be used to determine the 
 
 Then the game of Hana-awase proceeds as normal.
 
-# Mutsuwari (Batta Maki variant)
+# Mutsu-wari (Batta Maki variant)
 > This article is **INCOMPLETE**. You can help by expanding it.
 {.is-warning}
 
-Mutsuwari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
+Mutsu-wari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
 
 Its rules and setup are thought to be identical to Batta Maki, except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
 
