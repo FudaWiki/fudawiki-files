@@ -2,15 +2,17 @@
 title: Hiki-Kabu
 description: A Kabufuda game with a showdown similar to Poker
 published: true
-date: 2022-08-24T15:54:23.824Z
+date: 2022-08-25T00:44:00.396Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-24T15:54:23.824Z
 ---
 
-**Hiki-Kabu** [引きカブ] is a Kabufuda game for 2-10 players in which players bet on the value of their dealt cards, similar to most poker games.
+**Hiki-Kabu** [引きカブ] is a Kabufuda game for 2-10 players.
 
-It shares a slightly similar gameplay style with [Kachi-Kachi](/en/kabufuda/games/kachi-kachi).
+Originally, the game was purely luck-based: the only decision made by the players during gameplay is asking for a third card, which may or may not be limited to the rules also applied in [Oicho-kabu](/en/kabufuda/games/oicho-kabu).
+
+An additional gameplay element similar to poker was added to heighten the skill involved in the game. This gives the game a slightly similar gameplay style to those of [Kachi-Kachi](/en/kabufuda/games/kachi-kachi) and [Seotda](/en/hanafuda/games/seotda).
 
 # Equipment
 Hiki-Kabu is played with a [*kabufuda*](/en/kabufuda) deck. This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
@@ -57,9 +59,10 @@ Starting with the dealer (or closest player in order), each player reveals all t
 
 Depending on the hand, there will be a **multiplier** in the earnings of the winner; this will be applied to the bets of other players who participated in the showdown.
 
->In the case of a draw, the pot for the hand carries over to the next hand, and the dealer for the drawn hand deals the following hand. All players *ante* as normal for that hand. 
+>In the case of a draw, the pot for the hand carries over to the next hand, and the dealer for the drawn hand deals the following hand.
 {.is-info}
 # Hand Rankings
+Most of these hands come from the local Yaku rules of Oicho-Kabu.
 - Sequence of cards do not matter except for "Nobori" and "Kudari".
 
 - If there are two players who have both Nobori or both Kudari, then the strength is determined by the *ones* digit of the sum of the cards.
@@ -84,6 +87,52 @@ Depending on the hand, there will be a **multiplier** in the earnings of the win
 |2x|14. Gogo|5, 5|
 |1x|15. None of the above|If your hand does not match any of the hands above.</br>The strength is determined by the *ones* digit of the sum of the cards.|
 
+# Old Version (Variant)
+The old version of this game features a very simple gameplay style, and is purely luck-based.
+
+## First Card
+
+After the dealer is chosen, the dealer shuffles the deck and deals each player their first card.
+
+Each player then *antes* the agreed amount.
+
+
+## Second Card
+
+After the *ante* is placed, the dealer then deals each player their second card.
+
+The combination of the first and second cards forms a player's hand.
+
+> It has not been attested if the first card is face up and the second card is face down, or if it is reversed. Basically either method may be used as long as one card is face up and the other card is face down.
+{.is-warning}
+
+The face-down card may only be looked at by the player who holds it. 
+
+Each player checks their own cards to determine the strength of their hand. Each player, starting from the dealer counter-clockwise, may request to add a 3rd card into their hand.
+
+It has not been attested, but it seems there are two rules that affect this decision:
+
+- If a hand’s total value is 3 or lower, then a third card must be taken.
+- If a hand’s total value is 7 or higher, then a third card cannot be taken.
+
+## Third Card
+Players who asked for a 3rd card is dealt a 3rd card face-up by the dealer. 
+
+>There is no betting round.
+{.is-warning}
+
+After the 3rd cards have been dealt, all players proceed to *showdown*.
+
+## Showdown
+Starting with the dealer, each player reveals all their cards. 
+
+Since hand rankings were not attested, it is assumed that the ones digit of the sum of the cards is used to determine a hand's strength. 
+
+The winner of the hand collects the pot and becomes the dealer for the next hand.
+
+>In the case of a draw, the pot for the hand carries over to the next hand, and the dealer for the drawn hand deals the following hand.
+{.is-info}
 
 # References
 - [【花札ゲーム紹介】引きカブ遊び方の紹介です。和製ポーカー！時代を超えて、熱い駆け引きをお楽しみいただけます。この動画を見れば引きカブの遊び方が分かり、即プレイ可能です！](https://www.youtube.com/watch?v=7ZK9WzjD0nM) - (YouTube)
+- Takeshi Ichinose, "Atarashii Hanafuda Nyuumon"
