@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-25T12:53:52.264Z
+date: 2022-08-25T15:32:35.012Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -61,7 +61,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Japan|
 |[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
-|[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
+|[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Japan|
