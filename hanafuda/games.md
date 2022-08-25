@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-25T08:27:47.904Z
+date: 2022-08-25T10:14:58.805Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -33,13 +33,13 @@ These games, while not as widespread today as those listed above, are variously 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |[Akita-Bana](/en/hanafuda/games/akita-bana)|-|Fishing|Akita, Japan|
-|[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Banking|Japan|
+|[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Showdown|Japan|
 |[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
 |[Baka](/en/hanafuda/games/toppa)|3|Fishing|Hokkaido region, Japan|
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
 |[Batta](/en/hanafuda/games/batta)|-|-|Japan|
-|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a. Shoniban|2+|Banking|Kanto Region, Japan|
+|[Batta Maki](/en/hanafuda/games/shoniban)|2+|Banking|Kanto Region, Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
@@ -65,7 +65,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-8|Showdown|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
-|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
+|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Trick-Taking|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Ato-Saki](/en/hanafuda/games/koi-koi-no-ato-saki)|2+|Showdown(?)|Japan|
@@ -76,7 +76,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Japan|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
-|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
+|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Banking/Showdown|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
 |[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan) ("Seven Scrolls")|2|Fishing|Japan|
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
@@ -97,6 +97,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Shippin](/en/kabufuda/games/shippin) ("Four-Ace")|2-5|Showdown|Japan|
+|[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
