@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T12:17:30.629Z
+date: 2022-08-25T12:18:28.755Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -130,7 +130,7 @@ The name comes from the fact that you only **win half the amount** you have bet.
 
 The major difference between this game and Batta Maki is that 3 sets of 3 cards are placed on the table instead of just 2 sets; however, players only choose to bet between the last two sets only.
 
-Another Batta Maki variant is closely related to this game.
+Another Batta Maki variant is closely related to this game: [Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant).
 
 ## Cards
 The same cards used in Tensho or Hon-bana are used: 45 cards of a hanafuda deck, with all 3 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaffs removed.
