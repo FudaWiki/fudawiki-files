@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T07:27:58.508Z
+date: 2022-08-25T07:28:35.589Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
