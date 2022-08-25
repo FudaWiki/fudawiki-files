@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T10:07:36.691Z
+date: 2022-08-25T10:16:13.415Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -121,7 +121,7 @@ Then the game of Hana-awase proceeds as normal.
 
 Mutsu-wari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
 
-Its rules and setup are thought to be identical to Batta Maki, except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
+Its rules and setup are thought to be identical to Batta Maki or [Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant), except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
 
 # Shoniban (Batta Maki variant)
 Shoniban [初二番 - しょにばん, lit. "first two numbers"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence.
