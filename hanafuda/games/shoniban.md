@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-18T03:09:37.085Z
+date: 2022-08-25T04:43:44.049Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -69,6 +69,9 @@ The batch with a higher score is considered the winning batch.
 
 - Players who bet on the other batch loses their wager; it is taken by the dealer.
 - The dealer's bet goes back to the dealer, whether it is placed on the winning batch or not.
+
+>In case of a tie, then either all bets are returned to their original holders, or the dealer takes all bets. It must be decided first before playing the game.
+{.is-warning}
 
 # Additional Rounds
 No particular setup is given for playing additional rounds. Players can keep playing for as many rounds as they want.
