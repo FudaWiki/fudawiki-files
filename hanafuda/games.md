@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-25T04:35:35.773Z
+date: 2022-08-25T07:25:21.992Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -33,12 +33,13 @@ These games, while not as widespread today as those listed above, are variously 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |[Akita-Bana](/en/hanafuda/games/akita-bana)|-|Fishing|Akita, Japan|
+|[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Banking|Japan|
 |[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
 |[Baka](/en/hanafuda/games/toppa)|3|Fishing|Hokkaido region, Japan|
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
 |[Batta](/en/hanafuda/games/batta)|-|-|Japan|
-|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
+|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a. Shoniban or Atosaki|2+|Banking|Kanto Region, Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
