@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T08:28:22.028Z
+date: 2022-08-25T10:07:36.691Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -20,7 +20,7 @@ Any number of players may play this game.
 Game setup involves choosing a dealer - 親 [おや, oya] and shuffling the deck. Certain ground rules should also be agreed upon before play begins.
 
 # Equipment
-A standard **48-card hanafuda deck** is used, with each month representing the numbers 1 to 12. 
+A standard **48-card hanafuda deck** is used, with each month representing the numbers 1 to 12 using the standard month sequence. 
 
 There is also an option to use **two standard hanafuda decks**- one red and one black- mixed together to form a deck of **96 cards**, to make the gameplay longer.
 
@@ -123,6 +123,39 @@ Mutsu-wari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/h
 
 Its rules and setup are thought to be identical to Batta Maki, except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
 
+# Shoniban (Batta Maki variant)
+Shoniban [初二番 - しょにばん, lit. "first two numbers"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence.
+
+Just like [Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant), this betting game is played at the start of every round of a Hana-awase type game, specifically the games [Tensho](/en/hanafuda/games/tensho) and [Hon-bana](/en/hanafuda/games/honbana), which explains why the game uses the Nagoya month sequence.
+
+## Cards
+The same cards used in Tensho or Hon-bana are used: 45 cards of a hanafuda deck, with all 3 ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaffs removed.
+
+The values of the cards correspond to the Nagoya sequence of months, except that all ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)November and ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)December cards are counted as **"10"**.
+
+## Setup
+Set up a Tensho/Hon-bana game like normal. Players playing Tensho/Hon-bana do not participate in the game of Shoniban except for the **dealer** and the **spectators** watching the game.
+
+## Gameplay
+Dealer deals cards like they normally would in Tensho/Hon-bana, except that the 9 normally face up cards are now **face down**. 
+
+These 9 cards are divided into **3 rows** of 3 cards each: 
+- The first row is called **"Shi-e"** [初絵], and will not be used in the game of Shoniban.
+- The second and third rows are called **"Naka-e"** [中絵] and **"Oto-e"** [乙絵] respectively. The spectators will choose whether to bet on "Naka-e" or "Oto-e".
+
+Once both "Naka-e" and "Oto-e" have equal bets, then proceed to *showdown* and determine the strength of each set as described below.
+
+Spectators who have bet on the winning set must take all the bets and split it between them.
+
+### Strength of a Set
+1. **Arashi (Triplet)** - 3 cards of any month. This is the strongest set.
+2. **Tsuke (2, 2, 1)** - consists of 2 ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willows and a ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine.
+3. **Ones digit of sum** - Take the ones digit of the sum of the month numbers, like in [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). 9 is strongest; 0 is weakest.
+
+> If the two sets are tied, then the set with the highest amount of [card points](/en/hanafuda/games/honbana#card-values) is declared the winning set.
+{.is-info}
+
+Once a round of Shoniban is finished, then the game of Tensho/Hon-bana proceeds as normal.
 
 # Bibliography
 - https://www.h-eba.com/heba/gamble/main09.html
