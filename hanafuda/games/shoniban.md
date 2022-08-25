@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T08:14:19.334Z
+date: 2022-08-25T08:24:10.219Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -109,10 +109,20 @@ Spectators who have bet on the winning set must take all the bets and split it b
 
 In the case of a tie, one of the following methods may be used to determine the winning set:
 - Draw 2 cards and place a drawn card on each of the sets to change their value. (These 2 cards are returned to the deck and shuffled afterward.)
+- The card points based on the type of hanafuda cards are considered instead of the ones digit.
 - The total month points is considered instead of just the ones digit.
 - The pot is carried over to the next round of Atosaki.
 
 Then the game of Hana-awase proceeds as normal.
+
+# Mutsuwari (Batta Maki variant)
+> This article is **INCOMPLETE**. You can help by expanding it.
+{.is-warning}
+
+Mutsuwari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
+
+Its rules and setup are thought to be identical to Batta Maki, except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
+
 
 # Bibliography
 - https://www.h-eba.com/heba/gamble/main09.html
