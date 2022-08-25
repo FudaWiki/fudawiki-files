@@ -2,7 +2,7 @@
 title: Kabu-Tsukuri
 description: A simple gambling game where each player has 3 rows of 3 cards.
 published: true
-date: 2022-08-25T05:36:51.176Z
+date: 2022-08-25T05:37:55.377Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-25T05:34:48.631Z
@@ -47,7 +47,7 @@ Each player places a bet equal to the agreed *bet size*, and then exposes the fi
 
 The strength of the row is determined, and the player with the strongest card row takes the pot.
 
-> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editor's-note). **(NEEDS MORE DOCUMENTATION)**
+> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editors-note). **(NEEDS MORE DOCUMENTATION)**
 {.is-warning}
 
 >In the case of a draw, the pot for the first row carries over to the second row.
@@ -58,7 +58,7 @@ Similarly, each player places a bet equal to the agreed *bet size*, and then exp
 
 The strength of the row is determined, and the player with the strongest card row takes the pot.
 
-> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editor's-note). **(NEEDS MORE DOCUMENTATION)**
+> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editors-note). **(NEEDS MORE DOCUMENTATION)**
 {.is-warning}
 
 >In the case of a draw, the pot for the second row carries over to the third row.
@@ -69,7 +69,7 @@ Similarly, each player places a bet equal to the agreed *bet size*, and then exp
 
 The strength of the row is determined, and the player with the strongest card row takes the pot.
 
-> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editor's-note). **(NEEDS MORE DOCUMENTATION)**
+> The method of determining the strength has not been attested. See [Editor's Note](/en/hanafuda/games/kabu-tsukuri#editors-note). **(NEEDS MORE DOCUMENTATION)**
 {.is-warning}
 
 >In the case of a draw, the pot for the third row carries over to the first row of the next hand.
