@@ -2,7 +2,7 @@
 title: Echobo
 description: A simple gambling game using the first 6 months of hanafuda cards.
 published: true
-date: 2022-08-26T05:46:37.403Z
+date: 2022-08-26T05:46:54.550Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
@@ -19,7 +19,7 @@ Using a standard 48-card hanafuda deck, **up to 4 players** may participate in t
 - The dealer takes 6 cards- 1 ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)**Pine**, 1 ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)**Plum Blossom**, 1 ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)**Cherry Blossom**, 1 ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)**Wisteria**, 1 ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)**Iris**, and 1 ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)**Peony**. Card types are irrelevant; only the month of the cards are considered.
 
 > You don't need to know the month sequence to play the game.
-{.is-info}
+{.is-success}
 
 - Each bettor is also given 6 cards corresponding to the same months: Pine, Plum Blossom, Cherry Blossom, Wisteria, Iris, and Peony.
 
