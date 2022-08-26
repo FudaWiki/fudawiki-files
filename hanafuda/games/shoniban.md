@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-25T12:32:52.410Z
+date: 2022-08-26T07:10:12.657Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -13,10 +13,11 @@ Batta Maki [バッタまき] is a gambling game in which a group of players bet 
 It was once the most popular form of gambling in the Kanto region of Japan, and is known as Honbiki [ホンビキ] in the west, and Atosaki [アトサキ] in the east. There seems to be a theory that Tehonbiki, another gambling game from the Kansai region of Japan, got introduced and took over its popularity as a gambling game.
 
 **Variants of this game also exist:**
-- [Atosaki](#atosaki-batta-maki-variant) - a sub-game of Hana-awase.
-- [Mutsu-wari](#mutsu-wari-batta-maki-variant) - a variant that uses only 40 cards.
-- [Hankan](#hankan-batta-maki-variant) - a variant that uses 45 cards and has 9 cards on the field per round.
-- [Shoniban](#shoniban-batta-maki-variant) - a sub-game of Tensho/Hon-biki.
+- [Atosaki](#atosaki-batta-maki-variant) - if Batta Maki is used as a sub-game of Hana-awase.
+- [Koi-Koi no Atosaki](#koi-koi-no-atosaki-batta-maki-variant) - if Batta Maki is used as a sub-game of Koi-koi.
+- [Mutsu-wari](#mutsu-wari-batta-maki-variant) - a variant of Batta Maki that uses only 40 cards.
+- [Hankan](#hankan-batta-maki-variant) - a variant of Batta Maki that uses 45 cards and has 9 cards on the field per round.
+- [Shoniban](#shoniban-batta-maki-variant) - if Hankan is used as a sub-game of Tensho/Hon-biki.
 
 # Setup
 Any number of players may play this game.
@@ -92,7 +93,7 @@ The dealer keeps dealing cards from the deck for each additional round, and the 
 If two decks are used, the game can last for 16 rounds.
 
 # Atosaki (Batta Maki variant)
-It seems that the game of [Batta Maki](/en/hanafuda/games/shoniban) was also played by spectators at the start of every round of a Hana-awase game. In this case, the game is called Atosaki [アトサキ].
+It seems that the game of [Batta Maki](/en/hanafuda/games/shoniban) was also played by spectators at the start of every round of a Hana-awase game. In this case, the game is called **Atosaki** [アトサキ].
 
 ## Cards
 The month sequence of the cards is standard, except that all ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)November and ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)December cards are counted as **"10"**.
@@ -119,16 +120,21 @@ In the case of a tie, one of the following methods may be used to determine the 
 
 Then the game of Hana-awase proceeds as normal.
 
+# Koi-Koi no Atosaki (Batta Maki variant)
+If the game of [Batta Maki](/en/hanafuda/games/shoniban) is played by spectators at the start of every round of [Koi-Koi](/en/hanafuda/games/koi-koi), the betting game is called **Koi-Koi no Atosaki** [こいこいのアトサキ].
+
+The game is identical to [Atosaki](#atosaki-batta-maki-variant), except that each set of "Ato" or "Saki" consists of **4 cards** instead of 3.
+
 # Mutsu-wari (Batta Maki variant)
 > This article is **INCOMPLETE**. You can help by expanding it.
 {.is-warning}
 
-Mutsu-wari [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
+**Mutsu-wari** [六ツ割 - むつわり, lit. "six pieces"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant played in Hamamatsu City in Japan.
 
 Its rules and setup are thought to be identical to Batta Maki or [Atosaki](#atosaki-batta-maki-variant), except that only 40 cards of the hanafuda deck (with all November and December cards removed) are used.
 
 # Hankan (Batta Maki variant)
-Hankan [半貫, lit. "half cash"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence. It is attested to be a popular gambling game in the Chūkyō region of Japan.
+**Hankan** [半貫, lit. "half cash"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence. It is attested to be a popular gambling game in the Chūkyō region of Japan.
 
 The name comes from the fact that you only **win half the amount** you have bet. (The other half goes to the dealer as a "rental fee" [寺銭 - てらぜん, *terazen*] for the gambling parlor.)
 
@@ -171,7 +177,7 @@ The game is played for 5 rounds; afterward, the game ends.
 {.is-info}
 
 # Shoniban (Batta Maki variant)
-Shoniban [初二番 - しょにばん, lit. "first two numbers"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence.
+**Shoniban** [初二番 - しょにばん, lit. "first two numbers"] is a [Batta Maki](/en/hanafuda/games/shoniban) variant that uses the [Nagoya sequence](/en/hanafuda/suits#arrangement-of-suits) of months instead of the standard sequence.
 
 It is closely related to the game [Hankan](#hankan-batta-maki-variant); however, just like [Atosaki](#atosaki-batta-maki-variant), this betting game is played at the start of every round of a Hana-awase type game, specifically the games [Tensho](/en/hanafuda/games/tensho) and [Hon-bana](/en/hanafuda/games/honbana), which explains why the game uses the Nagoya month sequence.
 
