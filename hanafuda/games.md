@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-25T15:32:35.012Z
+date: 2022-08-26T07:11:24.666Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -70,7 +70,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Trick-Taking|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
-|[Koi-Koi no Ato-Saki](/en/hanafuda/games/koi-koi-no-ato-saki)|2+|Showdown(?)|Japan|
+|[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
 |[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
 |[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
