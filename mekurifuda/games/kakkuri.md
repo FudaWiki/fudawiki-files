@@ -2,7 +2,7 @@
 title: Kakkuri
 description: The last surviving Yomi game.
 published: true
-date: 2022-08-26T15:22:36.812Z
+date: 2022-08-26T15:24:09.665Z
 tags: hanafuda games, mekurifuda games
 editor: markdown
 dateCreated: 2022-08-26T15:22:36.812Z
@@ -35,6 +35,9 @@ The dealer then deals **6 cards** to each player. The remaining 6 cards are plac
 
 >If playing with 8 players, then there will be no cards left for the "box". So, the player who is dealt the "3 of Clubs" must **drop out**. Their cards are shuffled and the "box" is formed.
 {.is-info}
+
+> If using hanafuda, the Curtain is used in place of the "3 of Clubs".
+{.is-warning}
 
 ## Swapping with the Dealer
 One by one, each player may choose to exchange all of the cards in their hand with all of those currently held by the dealer.
