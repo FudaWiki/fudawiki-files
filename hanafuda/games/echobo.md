@@ -2,7 +2,7 @@
 title: Echobo
 description: Simplified Tehonbiki using hanafuda cards.
 published: true
-date: 2022-08-26T05:49:28.656Z
+date: 2022-08-26T06:09:24.703Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
@@ -30,12 +30,12 @@ Next, the dealer needs **something to hide the chosen card** before the showdown
 A **pen and paper or notepad** to keep track of the chosen months of each passing round may be useful.
 
 ## Ground Rules
-Before play begins, the group should agree on the *player bet limit*, which is the maximum amount a player could bet during one round, and once it is reached, no further bets can be placed by the player.
+Before play begins, the group should agree on the *bet size*, which is the fixed amount a player could bet on one card.
 
 Also, the group should agree on the *maximum number of cards a player can place a bet* during one round. In Tehonbiki, **4 cards** is the maximum, so it is safe to adopt this number as well.
 
 ## Choosing the Dealer
-No method is stipulated in choosing the dealer, since it is only done in casual games. 
+No method is stipulated in choosing the dealer, since it is only done in casual games.
 
 Once the dealer is chosen, the remaining players (bettors) seat themselves on the other side of the table opposite the dealer.
 
@@ -58,11 +58,11 @@ While still hiding the cards from the bettors, the dealer places the stack of ca
 ## Betting Round
 Bettors then choose a card(s) on their hand they think has the *same month* as that of the card chosen by the dealer. This is done by **placing the card** from the hand, **along with the chips** they bet on that card, to the **table face down** near them.
 
-A bettor may choose multiple cards to place a bet on, and may place different bet amounts on each of them.
+A bettor may choose multiple cards to place a bet on.
 
 There are two factors to consider while doing this:
 - The number of cards that can be placed bets on is limited as agreed upon before starting the game. (In Tehonbiki, a bettor may only bet on 4 cards in their hand.)
-- The total amount of chips placed on all of the chosen cards of one bettor should not exceed the *player bet limit*.
+- Each bet placed on each card should be equal to the *bet size* as agreed upon before starting the game.
 
 Once bettors have finished betting, it's time for the *showdown*.
 
