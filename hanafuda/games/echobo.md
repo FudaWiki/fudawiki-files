@@ -2,7 +2,7 @@
 title: Echobo
 description: Simplified Tehonbiki using hanafuda cards.
 published: true
-date: 2022-08-26T06:09:24.703Z
+date: 2022-08-26T06:09:55.748Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
@@ -30,7 +30,7 @@ Next, the dealer needs **something to hide the chosen card** before the showdown
 A **pen and paper or notepad** to keep track of the chosen months of each passing round may be useful.
 
 ## Ground Rules
-Before play begins, the group should agree on the *bet size*, which is the fixed amount a player could bet on one card.
+Before play begins, the group should agree on the *bet size*, which is the fixed amount of chips a player could bet on one card.
 
 Also, the group should agree on the *maximum number of cards a player can place a bet* during one round. In Tehonbiki, **4 cards** is the maximum, so it is safe to adopt this number as well.
 
