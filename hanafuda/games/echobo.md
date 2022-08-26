@@ -2,7 +2,7 @@
 title: Echobo
 description: A simple gambling game using the first 6 months of hanafuda cards.
 published: true
-date: 2022-08-26T04:19:57.118Z
+date: 2022-08-26T05:44:36.957Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
@@ -64,6 +64,18 @@ There are two factors to consider while doing this:
 - The number of cards that can be placed bets on is limited as agreed upon before starting the game. (In Tehonbiki, a bettor may only bet on 4 cards in their hand.)
 - The total amount of chips placed on all of the chosen cards of one bettor should not exceed the *player bet limit*.
 
-Once bettors have finished betting, it's time for the *showdown*
+Once bettors have finished betting, it's time for the *showdown*.
 
 ## Showdown
+The dealer removes the handkerchief, revealing the card that was chosen by the dealer.
+
+Afterward, payments are done based on cards the bettors have placed their bets on:
+- Bets placed on the correct card are returned to the bettors. The bettors **win 5 times the amount they have bet**.
+> If playing for money, then the bettors only win either 4.5x or 4.6x the bet amount. (The remaining 0.5x or 0.4x is taken by the dealer as a "rental fee" [寺銭 - てらぜん, terazen] for the gambling parlor.)
+{.is-info}
+- Bets placed on the wrong cards are taken by the dealer.
+
+After the payments are done, another round begins. Players play for as many rounds as they want.
+
+# Bibliography
+- https://www.youtube.com/watch?v=SznvBBE8EUU
