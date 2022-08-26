@@ -2,7 +2,7 @@
 title: Echobo
 description: A simple gambling game using the first 6 months of hanafuda cards.
 published: true
-date: 2022-08-26T05:46:54.550Z
+date: 2022-08-26T05:48:31.084Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
@@ -45,7 +45,7 @@ If the dealer represents an establishment- say, when playing at a casino or gamb
 ## Dealer's Card Selection
 The dealer holds six cards in their hand as a stack.
 
-> To facilitate choosing the cards, the stack should be in order: The earliest month is on the front, and the latest month is on the back.
+> To facilitate choosing the cards, the stack should be in order: The earliest month is on the front, and the latest month is on the back. However, it is not required to do this if you are unfamiliar with the card month sequence.
 {.is-info}
 
 At the beginning of every round, the dealer hides the cards in hand from the bettors, and **cycles through the cards** in hand until the **card they have chosen is on the front of the stack**.
