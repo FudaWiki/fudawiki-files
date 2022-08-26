@@ -1,8 +1,8 @@
 ---
 title: Echobo
-description: A simple gambling game using the first 6 months of hanafuda cards.
+description: Simplified Tehonbiki using hanafuda cards.
 published: true
-date: 2022-08-26T05:48:31.084Z
+date: 2022-08-26T05:49:28.656Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
