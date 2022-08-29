@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-29T12:16:18.713Z
+date: 2022-08-29T12:33:48.606Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -41,7 +41,9 @@ These games, while not as widespread today as those listed above, are variously 
 |[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
 |[Batta](/en/hanafuda/games/batta)|-|-|Japan|
 |[Batta Maki](/en/hanafuda/games/shoniban)|2+|Banking|Kanto Region, Japan|
+|[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|-|Fishing|Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
+|[Bōbin](/en/hanafuda/games/bobin)|-|-|Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |[Echigo-Bana](/en/hanafuda/games/echigo-bana)|-|Fishing|Echigo Province, Japan|
@@ -68,6 +70,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-8|Showdown|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
+|[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Karafuto Prefecture (Now South Sakhalin)|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Miscellaneous||
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
@@ -77,9 +80,11 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
 |[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
+|[Mae-Dashi](/en/hanafuda/games/mae-dashi)|-|-|Japan|
 |[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Japan|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
+|[Mushi-Kabu](/en/kabufuda/games/mushi-kabu)|-|(possibly Banking)|Japan|
 |[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Banking/Showdown|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
 |[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan) ("Seven Scrolls")|2|Fishing|Japan|
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
@@ -105,19 +110,21 @@ These games, while not as widespread today as those listed above, are variously 
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
-|[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown|Japan|
+|[Taoshi](/en/kabufuda/games/taoshi)|-|-|Japan|
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
 |[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Hokkaido region, Japan|
 |[Towashi](/en/hanafuda/games/towashi)|-|-|-|
 |[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Tokyo, Japan|
+|[Yari-Tori](/en/hanafuda/games/yari-tori)|-|-|Japan|
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
 |[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Kanagawa Region, Japan|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
+|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
