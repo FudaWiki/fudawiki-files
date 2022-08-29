@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-26T15:36:15.014Z
+date: 2022-08-29T11:57:51.373Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -71,6 +71,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
+|[Kujuroku](/en/kabufuda/games/kujuroku)("Ninety-six")|3 per round, max 4 per game|Fishing|Akehama Town, Ehime Prefecture, Japan|
 |[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
 |[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
