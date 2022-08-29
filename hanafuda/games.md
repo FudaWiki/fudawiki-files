@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-29T12:33:48.606Z
+date: 2022-08-29T12:34:46.710Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -71,7 +71,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Karafuto Prefecture (Now South Sakhalin)|
-|[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Miscellaneous||
+|[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Miscellaneous|-|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
