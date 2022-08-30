@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Kazu-Tori
 description: A Daini game. If the discarded card matches the declared number, you must grab it!
 published: true
-date: 2022-08-30T04:18:11.869Z
+date: 2022-08-30T04:18:32.549Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-30T04:18:11.869Z
