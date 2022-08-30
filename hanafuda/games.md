@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-30T05:04:54.501Z
+date: 2022-08-30T05:22:50.267Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -43,7 +43,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Batta Maki](/en/hanafuda/games/shoniban)|2+|Banking|Kanto Region, Japan|
 |[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|-|Fishing|Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
-|[Bōbin](/en/hanafuda/games/bobin)|-|-|Japan|
+|[Bōpin](/en/hanafuda/games/bopin)|-|-|Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |[Echigo-Bana](/en/hanafuda/games/echigo-bana)|-|Fishing|Echigo Province, Japan|
