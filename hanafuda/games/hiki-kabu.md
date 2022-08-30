@@ -2,7 +2,7 @@
 title: Hiki-Kabu
 description: A Kabufuda game with a showdown similar to Poker
 published: true
-date: 2022-08-25T00:44:00.396Z
+date: 2022-08-30T07:49:55.575Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-24T15:54:23.824Z
@@ -133,6 +133,79 @@ The winner of the hand collects the pot and becomes the dealer for the next hand
 >In the case of a draw, the pot for the hand carries over to the next hand, and the dealer for the drawn hand deals the following hand.
 {.is-info}
 
+# Bō-Pin (Hiki-Kabu variant)
+Bō-Pin [ボーピン] is a [Hiki-Kabu](/en/hanafuda/games/hiki-kabu) variant for 2-10 players.
+
+It is attested to be played using a 48-card Hanafuda deck, using the [Nagoya month sequence](/en/hanafuda/suits#arrangement-of-suits).
+
+> You may also play using a stripped western playing card deck. Remove all 10's from the deck.
+{.is-warning}
+
+Rules are mostly identical to the [old version of Hiki-Kabu](#old-version-variant), but with differences:
+- Unlike in Hiki-Kabu, where all players are pitted against each other, in Bō-Pin, the players are all pitted against the dealer.
+- The third card is always given whether the player asked for it or not.
+- There are 2 Special Yaku in the game, which can only be formed by the dealer.
+
+## First Card
+
+After the dealer is chosen, the dealer shuffles the deck and deals each player (including the dealer) their first card.
+
+Each **bettor** (dealer not included) then *antes* the agreed amount.
+
+
+## Second Card
+
+After the *ante* is placed, the dealer then deals each player their second card.
+
+The combination of the first and second cards forms a player's hand.
+
+> It has not been attested if the first card is face up and the second card is face down, or if it is reversed. Basically either method may be used as long as one card is face up and the other card is face down.
+{.is-warning}
+
+The face-down card may only be looked at by the player who holds it. 
+
+Each player checks their own cards to determine the strength of their hand. Each player, starting from the dealer counter-clockwise, may request to add a 3rd card into their hand.
+
+It has not been attested, but it seems there are two rules that affect this decision:
+
+- If a hand’s total value is 3 or lower, then a third card must be taken.
+- If a hand’s total value is 7 or higher, then a third card cannot be taken.
+
+## Third Card
+Players who asked for a 3rd card is dealt a 3rd card face-up by the dealer. 
+
+After the 3rd cards have been dealt, all players proceed to *showdown*.
+
+## Showdown
+Starting with the dealer, each player reveals all their cards. 
+
+The ones digit of the sum of the month numbers of the cards is used to determine a hand's strength. 
+
+- If the dealer’s hand totals greater than a bettor's hand, then the dealer wins; they take for themselves any bets placed on that hand by the players.
+- If the dealer’s hand totals less the a bettor's hand, then the player wins. Any player who bet on that hand wins an amount equal to their bet, in addition to having their bet returned to them, for a total payout of 2:1. *(If playing for money, then a fraction of the winnings go to the dealer as "rental fee" [寺銭 - てらぜん, terazen] for the gambling parlor.)*
+- If the dealer’s hand and a bettor's hand are equal in value, then this is a draw.
+
+>In the case of a draw, either the dealer wins, or the bet is returned to the bettor. This must be decided before playing the game.
+{.is-info}
+
+## Special Cards
+All cards of the ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)10th, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)11th, and ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)12th months of the deck (Maple, Peony, and Plum Blossom) are considered special cards [ボー繪, *bō-e*].
+
+## Special Yaku
+- **"Scraping the Bō-Pin"** [ボーピン掻きたくり, *bōpin kakitakuri*] - If the dealer's hand contains a **special card and a ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine card**, then the dealer wins against all bettors.
+- **"Three Bō Laughter"** [三ボー笑ひ, *sanbō warai*] - If the dealer's hand contains **three special cards of the same month**, then the dealer wins against all bettors.
+
+# Bō-Ni (Hiki-Kabu variant)
+Bō-Ni [ボー二] is a [Hiki-Kabu](/en/hanafuda/games/hiki-kabu) variant for 2-10 players.
+
+It's rules are identical to [Bō-Pin](#bo-pin-hiki-kabu-variant), except one of the Yaku has one of the cards replaced with a different card.
+
+## Special Yaku
+- **"Scraping the Bō-Ni"** [ボー二掻きたくり, *bōni kakitakuri*] - If the dealer's hand contains a **special card and a ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow card**, then the dealer wins against all bettors.
+- **"Three Bō Laughter"** [三ボー笑ひ, *sanbō warai*] - Same as in Bō-Pin.
+
+
 # References
 - [【花札ゲーム紹介】引きカブ遊び方の紹介です。和製ポーカー！時代を超えて、熱い駆け引きをお楽しみいただけます。この動画を見れば引きカブの遊び方が分かり、即プレイ可能です！](https://www.youtube.com/watch?v=7ZK9WzjD0nM) - (YouTube)
 - Takeshi Ichinose, "Atarashii Hanafuda Nyuumon"
+- Tobaku Ni Kansuru Chōsa. vol. 121, Shihōshō Chōsaka, 1927, National Diet Library, dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 44
