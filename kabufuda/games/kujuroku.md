@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-08-31T07:36:14.379Z
+date: 2022-08-31T08:24:52.374Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -51,8 +51,8 @@ There is no attested method for choosing a dealer, so you may use whichever meth
 
 - If there are 3 cards of the same month on the field, the dealer takes 2 of those 3 cards and puts them in their capture pile.
 
-> What happens if 4 cards of the same number are dealt to the table has not been attested - usually a misdeal is declared (since these 4 cards are impossible to capture); In this case, the cards are thrown in, shuffled again, and re-dealt. Other rules should probably be agreed upon as a house rule.
-{.is-warning}
+> If 4 cards of the same number are dealt to the table, then a **misdeal** is declared (since these 4 cards are impossible to capture); In this case, the cards are thrown in, shuffled again, and re-dealt.
+{.is-info}
 
 
 ## Join-in/Drop-out Phase
