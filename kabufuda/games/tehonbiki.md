@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-08-31T06:18:12.802Z
+date: 2022-08-31T06:24:30.804Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
@@ -35,9 +35,9 @@ The **banker** picks up the stack of hiki-fuda, and, without looking at it, cycl
 
 After all players have placed their bets, the **banker also chooses a number** they think is that of the chosen card, using the me-fuda on the table. The banker can only choose 1 number.
 
-Afterward, the banker removes the kami-shita, revealing the chosen card.
+Afterward, the banker removes the kami-shita, **revealing the chosen card**.
 
-If the banker guessed the number correctly, then the banker and the players **exchange bets** depending on whether or not the chosen card was guessed correctly, and also depending on the odds on that bet (some odds are negative; if the chosen card is guessed correctly, the player still pays the banker).
+If the **banker guessed the number correctly**, then the banker and the players **exchange bets** depending on whether or not the chosen card was guessed correctly, and also depending on the odds on that bet (some odds are negative; if the chosen card is guessed correctly, the player still pays the banker).
 
 > If the banker knows exactly what the chosen card is, then the above will always be the case.
 {.is-info}
