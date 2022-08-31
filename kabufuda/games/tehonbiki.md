@@ -2,11 +2,14 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-08-31T06:24:30.804Z
+date: 2022-08-31T06:25:41.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
 ---
+
+> This article is **INCOMPLETE**. You may help by expanding it.
+{.is-warning}
 
 Tehonbiki [手本引き] is a gambling game where players compete against the banker in guessing the correct number (from 1 to 6) of the chosen card.
 
