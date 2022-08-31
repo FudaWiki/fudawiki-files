@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-08-31T06:15:04.051Z
+date: 2022-08-31T06:15:14.118Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-31T06:11:39.511Z
 
 Tehonbiki [手本引き] is a gambling game where players compete against the banker in guessing the correct number (from 1 to 6) of the chosen card.
 
-Traditionally, this game does not use hanafuda, or kabufuda decks. Instead, two different sets of cards made specifically for this game are used, as well as wooden tiles. All of them represent the numbers 1 to 6.
+Traditionally, this game does not use hanafuda or kabufuda decks. Instead, two different sets of cards made specifically for this game are used, as well as wooden tiles. All of them represent the numbers 1 to 6.
 
 Go stones or round chips are used for placing bets. In addition, there are special rectangular chips which can be used for indicating special bets.
 
