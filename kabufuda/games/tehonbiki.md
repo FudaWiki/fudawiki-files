@@ -2,15 +2,15 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-08-31T06:11:39.511Z
+date: 2022-08-31T06:15:04.051Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
 ---
 
-Tehonbiki is a gambling game where players compete against the banker in guessing the correct number (from 1 to 6) of the chosen card.
+Tehonbiki [手本引き] is a gambling game where players compete against the banker in guessing the correct number (from 1 to 6) of the chosen card.
 
-This game uses two different sets of cards, as well as wooden chips. All of them represent the numbers 1 to 6.
+Traditionally, this game does not use hanafuda, or kabufuda decks. Instead, two different sets of cards made specifically for this game are used, as well as wooden tiles. All of them represent the numbers 1 to 6.
 
 Go stones or round chips are used for placing bets. In addition, there are special rectangular chips which can be used for indicating special bets.
 
@@ -21,7 +21,7 @@ Each player will hold 6 cards, each representing the numbers 1 to 6. These are c
 
 On the other side of the table is the banker, who holds a different set of 6 cards, also representing the numbers 1 to 6. These are called **"hiki-fuda"** (a.k.a **"kuri-fuda"** or **"mame-ichi-roku"**), and they are used by the banker to indicate the chosen card. Before players bet, the chosen card is hidden under a white handkerchief or piece of cloth, known as **"Kamishita"**.
 
-In the middle of the table are 6 large wooden chips, each with the numbers 1 to 6, placed sequentially in a row. They are called **"me-moku"** (a.k.a **"me-fuda"**), and they are used to indicate the banker's bet.
+In the middle of the table are 6 large wooden tiles, each with the numbers 1 to 6, placed sequentially in a row. They are called **"me-moku"** (a.k.a **"me-fuda"**), and they are used to indicate the banker's bet.
 
 # Gameplay Overview
 The **banker** picks up the stack of hiki-fuda, and, without looking at it, cycles through it, **chooses one of the cards**, and hides it under the kami-shita.
