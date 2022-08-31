@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-08-31T07:33:58.373Z
+date: 2022-08-31T07:36:14.379Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -14,7 +14,7 @@ The name comes from the par score of the game: 96 points.
 
 It was played using Daini, which is a 40-card deck with only 1 suit: Coins. It bears a similar structure to [Kabufuda](/en/kabufuda), except that Daini has three special cards (1, 3, and 4) while Kabufuda only has two (1 and 4).
 
-The game is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
+The game shares the same gameplay as [Hana-Awase](/en/hanafuda/games/hana-awase), and is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
 
 # Card Names
 | NAME | Description |
