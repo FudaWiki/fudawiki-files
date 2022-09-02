@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-08-31T07:34:43.048Z
+date: 2022-09-02T12:27:54.179Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -86,7 +86,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
 |[Mushi-Kabu](/en/kabufuda/games/mushi-kabu)|-|(possibly Banking)|Japan|
-|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Banking/Showdown|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
+|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
 |[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan) ("Seven Scrolls")|2|Fishing|Japan|
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
@@ -111,7 +111,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
-|[Takame](/en/hanafuda/games/takame)|2+|Showdown|Japan|
+|[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|Japan|
 |[Taoshi](/en/kabufuda/games/taoshi)|-|-|Japan|
 |[Tehonbiki](/en/kabufuda/games/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
