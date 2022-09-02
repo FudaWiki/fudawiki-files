@@ -2,7 +2,7 @@
 title: Batta Maki
 description: A simple betting game. Choose between "Ato" or "Saki"!
 published: true
-date: 2022-08-31T06:26:50.469Z
+date: 2022-09-02T12:24:30.964Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-16T15:10:48.936Z
@@ -18,6 +18,7 @@ It was once the most popular form of gambling in the Kanto region of Japan, and 
 - [Mutsu-wari](#mutsu-wari-batta-maki-variant) - a variant of Batta Maki that uses only 40 cards.
 - [Hankan](#hankan-batta-maki-variant) - a variant of Batta Maki that uses 45 cards and has 9 cards on the field per round.
 - [Shoniban](#shoniban-batta-maki-variant) - if Hankan is used as a sub-game of Tensho/Hon-biki.
+- [Takame](/en/hanafuda/games/takame#banking-variant) - a variant of Batta Maki where players bet between two cards.
 
 # Setup
 Any number of players may play this game.
