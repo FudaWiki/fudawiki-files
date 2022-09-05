@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-09-05T05:49:11.143Z
+date: 2022-09-05T05:49:28.838Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -215,3 +215,4 @@ The card points are the same, except:
 # Bibliography
 - https://www.asahi-net.or.jp/~rp9h-tkhs/dg_kujuroku.htm 
 - https://kubotaya.exblog.jp/5001386/
+- https://web.archive.org/web/20190316051238/http://www.geocities.jp/xmbwq497/karuta/daijinihon.html
