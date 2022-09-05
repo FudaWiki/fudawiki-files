@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-05T07:04:00.056Z
+date: 2022-09-05T07:17:13.455Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -59,13 +59,14 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi)|2|Fishing|Japan|
 |[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
-|[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
+|[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Japan|
 |[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
 |[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
-|[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
+|[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Japan|
+|[Jūnishi Awase](/en/hanafuda/games/junishi-awase)|-|-|Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-8|Showdown|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
@@ -75,7 +76,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
-|[Kujuroku](/en/kabufuda/games/kujuroku)("Ninety-six")|3 per round, max 4 per game|Fishing|Akehama Town, Ehime Prefecture, Japan|
+|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Akehama Town, Ehime Prefecture, Japan|
 |[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
 |[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
@@ -86,26 +87,26 @@ These games, while not as widespread today as those listed above, are variously 
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
 |[Mushi-Kabu](/en/kabufuda/games/mushi-kabu)|-|(possibly Banking)|Japan|
 |[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
-|[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan) ("Seven Scrolls")|2|Fishing|Japan|
+|[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan)|2|Fishing|Japan|
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
-|[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku) ("Two-Four-Six")|3|Fishing|Japan|
+|[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Japan|
 |[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2-4|Fishing|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
 |[Oto-Roku](/en/hanafuda/games/oto-roku)|5-6|Showdown|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
-|[Roku-Tan](/en/hanafuda/games/roku-tan) ("Six Scrolls")|2|Fishing|Japan|
-|[Saburokku](/en/hanafuda/games/saburokku) ("Three-Six-Nine"), a.k.a. Bakananatan|3|Fishing|Japan|
-|[Sanbyakuken](/en/hanafuda/games/roppyakken/#sanbyakuken) ("Three Hundred")|2-3|Fishing|Japan|
+|[Roku-Tan](/en/hanafuda/games/roku-tan)|2|Fishing|Japan|
+|[Saburokku](/en/hanafuda/games/saburokku), a.k.a. Bakananatan|3|Fishing|Japan|
+|[Sanbyakuken](/en/hanafuda/games/roppyakken/#sanbyakuken)|2-3|Fishing|Japan|
 |[San-Jū Tsuppari](/en/hanafuda/games/san-ju-tsuppari)|3|Fishing|Japan|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Sanuki Province, Japan|
 |[San-Zoku Go-Jū](/en/hanafuda/games/san-zoku-go-ju)|3|Fishing|Japan|
 |[San-Zoku Tsuppari](/en/hanafuda/games/san-ju-tsuppari/#san-zoku-tsuppari)|3|Fishing|Japan|
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Sendai, Japan|
-|[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
+|[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
-|[Shippin](/en/kabufuda/games/shippin) ("Four-Ace")|2-5|Showdown|Japan|
+|[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
