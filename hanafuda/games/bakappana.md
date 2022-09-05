@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2022-04-10T15:20:17.093Z
+date: 2022-09-05T09:04:32.506Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
@@ -104,6 +104,10 @@ This system works strightforwardly for any number of players. In particular, the
 Traditionally, this game featured zero-sum scoring each round, meaning that any points gained by one player would be lost by another, resulting in the sum of all players' scores equalling zero. This is especially useful when played as a gambling game, as it makes it clear who is up or down what amount of money.
 
 That said, there are also versions of this game wherein each player's score is independent of all the others, meaning only addition need be performed, and nobody's score enters negative numbers, which may make calculation easier for some.
+
+### Makatsu Bakappana [目勝馬鹿花]
+This Bakappana variant in particular, does not use zero-sum scoring. Each player counts their points after each round, and the player with the most points is paid 1 share, which is an agreed-upon amount of money, each by the other two players.
+
 ## 88 vs 80
 Many older books refer to two broad varieties of Bakappana, differing only by the point value of the Chaff cards. Both varieties use the standard points for Brights, Animals, and Ribbons: 20, 10, and 5, respectively. The *88 no bakappana* variant treats Chaff as worth 1 point apiece, whereas the *80 no bakappana* variant treats Chaff as worth no points. 
 
