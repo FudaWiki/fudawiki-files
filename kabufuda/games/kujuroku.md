@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-09-03T06:19:59.363Z
+date: 2022-09-05T05:49:11.143Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -22,7 +22,7 @@ The game shares the same gameplay as [Hana-Awase](/en/hanafuda/games/hana-awase)
 | I-tsun | Special "1" |1|
 | Bakatsun | Normal "1" |3|
 | Ni  | "2" |4|
-| San  | "3"* |4|
+| Bakasan  | "3"* |4|
 | I-shi | Special "4" |1|
 | Bakashi  | Normal "4" |3|
 | Go  | "5" |4|
