@@ -2,13 +2,13 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-08-24T07:29:10.885Z
+date: 2022-09-06T04:01:43.745Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
 ---
 
-Hyaku-ochi [百落ち - ひゃくおち, lit. "One hundred drop"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two players**, with very simple rules.
+**Hyaku-ochi** [百落ち - ひゃくおち, lit. "One hundred drop"] also known as **Hyaku-otoshi** [百落し - ひゃくおとし, lit. "One hundred drop"] is a [Bakappana](/en/hanafuda/games/bakappana) variant for **two or three players**, with very simple rules.
 
 The name comes from the target score of 100 points.
 
@@ -17,13 +17,15 @@ A game with similar gameplay but with Yaku exists, called [Issoku Yuki](/en/hana
 # Goal
 Reach a total score of 100 points before the other player does.
 
-# Determining the Dealer
+# Setup
 The first dealer is determined like in any typical hanafuda game.
+
+If playing for money, then all players place a fixed bet amount into the pot before the dealer starts dealing. The winner of the round takes the pot.
 
 # Distributing the Initial Cards
 The dealer deals 7 cards to each player and 6 cards on the field. 
 
-> Some play such that the dealer deals 8 cards to each player and 8 cards on the field.
+> Some play such that the dealer deals 8 cards to each player and 8 cards on the field, when playing with 2 players.
 {.is-warning}
 
 If 4 cards of the same month appear on the field, it is a **misdeal**, and the dealer reshuffles the deck and deals again. 
@@ -58,3 +60,4 @@ The card values are completely standard, the same as used in [Hachi-Hachi](/en/h
 
 # Bibliography
 - Takeshi Ichinose, "Atarashii Hanafuda Nyuumon"
+- https://dl.ndl.go.jp/info:ndljp/pid/1878761
