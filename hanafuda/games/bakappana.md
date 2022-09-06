@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2022-09-05T09:04:32.506Z
+date: 2022-09-06T05:34:07.853Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
@@ -105,8 +105,16 @@ Traditionally, this game featured zero-sum scoring each round, meaning that any 
 
 That said, there are also versions of this game wherein each player's score is independent of all the others, meaning only addition need be performed, and nobody's score enters negative numbers, which may make calculation easier for some.
 
+However, there are some versions of this game that are used for gambling, despite not using zero-sum scoring.
+
 ### Makatsu Bakappana [目勝馬鹿花]
-This Bakappana variant in particular, does not use zero-sum scoring. Each player counts their points after each round, and the player with the most points is paid 1 share, which is an agreed-upon amount of money, each by the other two players.
+This Bakappana variant in particular does not use zero-sum scoring. Each player counts their points after each round, and the player with the most points is paid 1 share, which is an agreed-upon amount of money, each by the other two players.
+
+### Sanjū-Sen-Me [三十錢目]
+This Bakappana variant has a different method of settlement. Each player counts their points after each round, and for every 10 points in the score, each player is paid 1 share by each of the other two players. *(To simplify the settlement, it is advisable to take the score of the lowest scoring player and subtract it from the scores of the other two players.)*
+
+The name refers to the amount of money per share: If it's 30 sen, it's called Sanjū-Sen-Me [三十錢目]; If it's 50 sen, it's called Gojū-Sen-Me [五十錢目]; If it's 1 yen, it's called Ichi-En-Me [一圓目]
+
 
 ## 88 vs 80
 Many older books refer to two broad varieties of Bakappana, differing only by the point value of the Chaff cards. Both varieties use the standard points for Brights, Animals, and Ribbons: 20, 10, and 5, respectively. The *88 no bakappana* variant treats Chaff as worth 1 point apiece, whereas the *80 no bakappana* variant treats Chaff as worth no points. 
