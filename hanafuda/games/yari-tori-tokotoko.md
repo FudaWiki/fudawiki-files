@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Yari-Tori Tokotoko
 description: A quick kabu-style gambling game for 2 players.
 published: true
-date: 2022-09-06T14:41:16.096Z
+date: 2022-09-06T14:42:40.285Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-06T14:41:16.096Z
