@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2022-09-06T05:34:07.853Z
+date: 2022-09-06T05:34:16.974Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
@@ -113,7 +113,7 @@ This Bakappana variant in particular does not use zero-sum scoring. Each player 
 ### Sanjū-Sen-Me [三十錢目]
 This Bakappana variant has a different method of settlement. Each player counts their points after each round, and for every 10 points in the score, each player is paid 1 share by each of the other two players. *(To simplify the settlement, it is advisable to take the score of the lowest scoring player and subtract it from the scores of the other two players.)*
 
-The name refers to the amount of money per share: If it's 30 sen, it's called Sanjū-Sen-Me [三十錢目]; If it's 50 sen, it's called Gojū-Sen-Me [五十錢目]; If it's 1 yen, it's called Ichi-En-Me [一圓目]
+The name refers to the amount of money per share: If it's 30 sen, it's called Sanjū-Sen-Me [三十錢目]; If it's 50 sen, it's called Gojū-Sen-Me [五十錢目]; If it's 1 yen, it's called Ichi-En-Me [一圓目].
 
 
 ## 88 vs 80
