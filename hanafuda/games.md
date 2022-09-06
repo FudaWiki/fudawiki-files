@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-05T07:17:40.595Z
+date: 2022-09-06T04:03:56.957Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -57,8 +57,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Japan|
 |[Hiyoko](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
-|[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi)|2|Fishing|Japan|
-|[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
+|[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi), a.k.a. Hyaku-Otoshi|2-3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Japan|
