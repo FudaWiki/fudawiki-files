@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-09-07T08:57:19.008Z
+date: 2022-09-07T08:57:47.516Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -12,7 +12,7 @@ Because of the decreasing importance of suits in Japanese games played using Ten
 
 There were two main classifications of these one-suited decks: 
 - **Kabu Karuta**, which use the suit of Clubs, and
-- **Meme Karuta**, which use the suit of Coins.
+- **Mame Karuta**, which use the suit of Coins.
 
 Depending on the pattern, the deck may contain either 40 or 48 cards.
 
