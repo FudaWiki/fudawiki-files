@@ -2,13 +2,13 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-09-07T08:55:58.113Z
+date: 2022-09-07T08:57:19.008Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
 ---
 
-Because of the decreasing importance of suits in Japanese games played using [Mekurifuda](/en/mekurifuda), **One-suited decks** were subsequently developed.
+Because of the decreasing importance of suits in Japanese games played using Tensho Karuta and [Mekurifuda](/en/mekurifuda), **One-suited decks** were subsequently developed.
 
 There were two main classifications of these one-suited decks: 
 - **Kabu Karuta**, which use the suit of Clubs, and
