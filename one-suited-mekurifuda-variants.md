@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-09-07T08:57:47.516Z
+date: 2022-09-07T08:59:48.286Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -18,7 +18,7 @@ Depending on the pattern, the deck may contain either 40 or 48 cards.
 
 Just like the Mekurifuda, they were created to get around the ban on cards bearing Portuguese playing card designs, by transforming the usual courts and dragons into abstract shapes or strokes. 
 
-These cards in particular, were used for playing simpler Japanese card games, usually betting games.
+These cards in particular, were used for playing simpler Japanese card games, usually betting games. However, they were not exclusively used for such games only; Daini, for example, is attested to be used for playing [Kujuroku](/en/kabufuda/games/kujuroku), a fishing game.
 
 The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was originally played using Tensho Karuta. However, these cards are not strictly used for Mekuri games only.
 
