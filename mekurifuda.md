@@ -2,13 +2,13 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-09-07T05:51:00.234Z
+date: 2022-09-07T06:58:54.688Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
 ---
 
-Mekurifuda, or Mekuri Karuta, are a type of Japanese playing cards that were derived from Tensho Karuta, which were faithful copies of Portuguese playing cards (Nanban Karuta).
+Mekurifuda, or Mekuri Karuta, are a type of Japanese playing cards that were directly derived from Tensho Karuta, which were faithful copies of Portuguese playing cards (Nanban Karuta).
 
 There were many Mekurifuda patterns, but all of them consisted of 48 cards, and were structurally the same as a Portuguese playing card deck.
 
