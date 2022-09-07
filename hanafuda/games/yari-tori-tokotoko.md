@@ -2,7 +2,7 @@
 title: Yari-Tori Tokotoko
 description: A quick kabu-style gambling game for 2 players.
 published: true
-date: 2022-09-06T14:42:40.285Z
+date: 2022-09-07T05:44:01.873Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-06T14:41:16.096Z
@@ -18,7 +18,10 @@ Despite bearing the names of [Yari-Tori](/en/hanafuda/games/yari-tori) and [Toko
 # Setup
 First, prepare the deck as you would for Tensho or [Hon-Bana](/en/hanafuda/games/honbana) by removing the 3 Chaff of [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia), leaving a deck of 45 cards. 
 
-Both players finish a round of Tensho, then each player takes 3 of the cards that were used in the game, and 2 of the cards that were not used in the game (except the 3 Chaff of [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia)), to make a **hand containing 5 cards**.
+Both players finish a round of Tensho, then each player takes 3 of the cards that were used in the game, and 2 "floor cards", to make a **hand containing 5 cards**.
+
+> It is not clear what the source meant by "floor cards". it could be the cards on the field, or the remaining cards on the draw pile.
+{.is-warning}
 
 > It is not specified whether the cards need to be shuffled first or not.
 {.is-warning}
