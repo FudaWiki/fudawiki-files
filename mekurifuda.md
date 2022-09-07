@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-09-07T06:58:54.688Z
+date: 2022-09-07T07:14:20.577Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -15,6 +15,10 @@ There were many Mekurifuda patterns, but all of them consisted of 48 cards, and 
 They were created to get around the ban on cards bearing Portuguese playing card designs, by transforming the usual courts and dragons into abstract shapes or strokes.
 
 The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was originally played using Tensho Karuta. However, these cards are not strictly used for Mekuri games only.
+
+[One-suited Mekurifuda decks](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
+
+Eventually these card decks would be banned due to their association with gambling, so the gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could play gambling games.
 
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 # Deck Overview
