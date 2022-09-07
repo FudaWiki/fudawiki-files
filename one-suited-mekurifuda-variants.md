@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-09-07T07:09:54.192Z
+date: 2022-09-07T08:55:58.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -24,40 +24,36 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was or
 
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
-# Deck Overview
-Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** 
+# Kabu Karuta
+Kabu Karuta [かぶかるた] are card decks that consist of 4 copies of the suit of **Clubs** for every number in the deck.
 
-Some Mekurifuda patterns have gold and silver overprints to differentiate which card is which suit and to identify the point values of cards when playing Mekuri.
+The name may come from [Kabufuda](/en/kabufuda), which is the most popular pattern in this category, due to the other decks' similarity in appearance with Kabufuda.
 
-## Card Names
-| NUMBER | Clubs | Swords | Coins | Cups |
-|:------:|:---:|:---:|:---:|:---:|
-| **1</br>(Dragon)** | Aza | Pin | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **2** | Ao ni</br>(Blue 2) | Ebi ni</br>(Shrimps 2) | Taiko ni</br>(Drums 2) | Kuchibiru no ni</br>(Lips of 2) |
-| **3** | Ao san</br>(Blue 3) | Aka san</br>(Red 3) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **4**  | Ao shi</br>(Blue 4) | Aka shi</br>(Red 4) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **5**  | Ao go</br>(Blue 5) | Aka go</br>(Red 5) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **6**  | Ao roku</br>(Blue 6) | Aka roku</br>(Red 6) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **7**  | Ao nana</br>(Blue 7) | Aka nana</br>(Red 7) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **8**  | Ao hachi</br>(Blue 8) | Aka hachi</br>(Red 8) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **9**  | Ao kyu</br>(Blue 9) | Aka kyu</br>(Red 9) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **10</br>(Maid)**  | Shaka jū</br>(Buddha 10) | Sudare jū</br>(Blinds 10) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **11</br>(Horse)**  | Ao uma</br>(Blue Horse) | Jū no uma</br>(10-pt. Horse) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **12</br>(King)**  | Ao kiri</br>(Blue King) | Jū no kiri</br>(10-pt. King) | Subeta</br>(Junk) | Subeta</br>(Junk) |
+It may also refer to the fact that the decks were designed for playing Kabu [カブ] games, which were showdown or banking games that use the method of taking the ones digit of the sum of the numbers in a set of cards to determine it's strength, with 0 being the lowest and 9 being the highest.
 
-# Kinds of Mekurifuda
-|Pattern|Played in|Description|
-|:---:|:---:|:---|
-|**Akahachi**|Kyoto, Osaka, Kobe, Tanba, Tango, Tajima, Yamato, Kawachi, Izumi, Settsu, and Banshu|Swords and Cups suits are made of thin lines, and Courts have faces drawn, and were colored with thin lines.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 3, 4, 5, and 6 have X marks on the clubs. 6 has a gold 壽 (*kotobuki*, 'longevity') on it.</br> **Swords**: 8 has two gold rings on it.</br>**Coins**: 1 has lines and squiggles. 2 has two gold rings on it. 3, 4, and 5 have a circled X on each coin. 6 is colored gold, and is elaborately overprinted with silver.</br>Comes with a white "Onifuda"|
-|**Ise**|Omi, Mino, Iga, Ise, Shima, Owari|Swords and Cups suits are made of thin lines; Coins are smaller than usual. Courts have faces drawn, and were colored with thin lines.</br>There are no overprints on the cards.</br> Comes with "Bakefuda".|
-|**Fukutoku**|Toyama, Uozu, Fushiki, Himi, Etchu province, Echizen, Kaga, Noto, and Shinano Town|Cups are round.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 2, 3, 4, 5, 9, 10, and 12 have elaborate squiggles, lines, and/or designs that stand out from the deck. 6 has a gold 壽 (*kotobuki*, 'longevity') on it. 7 and 8 have thin horizontal lines. 11 has squiggles.</br> **Swords**: 1, 10,11 and 12 has squiggles (11 having the smallest squiggle). 2, 3, 4, and 5 has thin horizontal lines.</br>**Coins**: 2 has two gold rings on it.</br>Comes with a red "Onifuda"|
-|**Kingyoku**|-|Cups are round, and courts have faint humanoid characteristics.</br>**Clubs**: 1 has an elaborate paulownia and cloud overprint. 2, 10, 11, and 12 are elaborately overprinted. 4 has a gold windchime with a sakura flower underneath. 5 has patterns related to wax gourds.</br> **Swords**: 1 has lines and squiggles</br>**Coins**: 2 has two gold rings on it.</br>Comes with a red "Onifuda"|
-|**Kojishi**|-|Cards are smaller than usual, and has four "Onifuda". All clubs, swords, and the 2 of Coins are overprinted.|
-|**Kurofuda**; a.k.a Tsugarubana|Tsugaru, Rikuzen, Rikuchu, and Ugo province|Colors on all cards are applied very thickly, as if to hide the designs underneath (courts resemble humans).</br>There are no overprints on the cards.</br>Comes with a red "Onifuda"|
-|**Kurouma**|Suruga, Shizuoka, Hokkaido|Design is identical to Fukutoku except the 2 of Coins has a Black horse on the top coin and 本 on the bottom coin. The 2 of coins is also overprinted with gold rings.|
-|**Mitsuogi**|Echigo, Wakasa, Omi, Etchu, Echizen, and Hokkaido|Design is identical to Fukutoku and Kurouma, but the dragons and courts are drawn slightly differently and with very faint humanoid characteristics.</br>Also,the 2 of Coins has three golden hand fans with a red sun on each of them, arranged in a circle on the top coin, while the bottom coin is black and overprinted with a feather-like pattern inside the circle.|
-|**Komatsu**|Echizen, Tsuruga, Takefu, Fukui, Mikuni-Minato, and Kishu|Swords and Cups suits are made of very thin lines; Coins are very small dots. Courts and dragons are all abstract, made up of thin black and red strokes.</br>There are no overprints on the cards.</br> Comes with a red "Onifuda".|
+## Kinds of Kabu Karuta
+|Pattern|Played in|Number of Cards|Description|
+|:---:|:---:|:---:|:---|
+|**Kabufuda**|-|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1 and 4.</br>The only court card "10" looks like a two-way Jack holding a very short sword, but its body is based on the Queen of Clubs of a western playing card deck.|
+|**Kinseizan**|-|48|Looks like Kabufuda, with a few differences:</br>There are 3 court cards (10, 11, 12), whose designs look more like the 2 of coins, the horse of clubs, and the king of clubs in a mekurifuda deck.</br>All 1, 2, 10, 11, and 12 cards are overprinted. Special 4 is overprinted like Kabufuda, while Special 1 has a Paulownia and Cloud overprint.</br>Comes with Onifuda.|
+|**Irinokichi**|-|48|Identical to Kinseizan except only the Special 1 and Special 4 are overprinted.</br>Comes with Onifuda.|
+|**Hosonokichi**|-|48|Identical to Irinokichi but the Clubs are made up of thin lines.|
+
+# Mame Karuta
+Mame Karuta [まめカルタ] are card decks that consist of 4 copies of the suit of **Coins** for every number in the deck.
+
+The name refers to the round shape of the pips on the cards,which resemble beans [まめ, *mame*].
+
+## Kinds of Mame Karuta
+|Pattern|Played in|Number of Cards|Description|
+|:---:|:---:|:---:|:---|
+|**Daini** or **Daiji**|-|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.|
+|**Komaru**|-|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.|
+|**Mefuda**|-|40|Structurally similar to Daini but the pips look like black teardrops, the 10 are horses, and the 4, 7, 8, and 9 cards have what appears to be eyebrows or eyelashes. Special 1 and 2, 3, and 4 cards have "金銭不用" (money not used) printed on them.</br>Comes with a red Onifuda.|
+|**Kudoyama** or **Kudosan**|-|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>Comes with a red Onifuda.|
 
 # Bibliography
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
 - Nihon Karuta Chiho-fuda poster, Late Taisho to Early Showa era.
+- https://japanplayingcardmuseum.com/kabu-karuta/
+- https://japanplayingcardmuseum.com/mame-karuta/
