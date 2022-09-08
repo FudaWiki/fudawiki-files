@@ -2,8 +2,8 @@
 title: Jūnishi Awase
 description: An adapatation of bakappana using children's cards based on the zodiac animals.
 published: true
-date: 2022-09-06T04:22:42.765Z
-tags: hanafuda games
+date: 2022-09-08T00:28:44.006Z
+tags: 
 editor: markdown
 dateCreated: 2022-09-06T04:22:42.765Z
 ---
