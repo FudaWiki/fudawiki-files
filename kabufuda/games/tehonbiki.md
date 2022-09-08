@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-08-31T06:25:41.850Z
+date: 2022-09-08T00:26:28.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
