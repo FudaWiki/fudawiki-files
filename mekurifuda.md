@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-09-07T07:14:20.577Z
+date: 2022-09-08T01:01:08.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -27,7 +27,7 @@ Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda de
 Some Mekurifuda patterns have gold and silver overprints to differentiate which card is which suit and to identify the point values of cards when playing Mekuri.
 
 ## Card Names
-| NUMBER | Clubs | Swords | Coins | Cups |
+| NUMBER | Clubs</br>[Hau/Pao] | Swords</br>[Isu] | Coins</br>[Oru/Ouru] | Cups</br>[Koppu/Kotsu]|
 |:------:|:---:|:---:|:---:|:---:|
 | **1</br>(Dragon)** | Aza | Pin | Subeta</br>(Junk) | Subeta</br>(Junk) |
 | **2** | Ao ni</br>(Blue 2) | Ebi ni</br>(Shrimps 2) | Taiko ni</br>(Drums 2) | Kuchibiru no ni</br>(Lips of 2) |
