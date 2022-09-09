@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-08T00:29:51.476Z
+date: 2022-09-09T03:42:18.529Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -111,7 +111,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|Japan|
-|[Taoshi](/en/kabufuda/games/taoshi)|-|-|Japan|
 |[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
