@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T08:15:24.794Z
+date: 2022-09-10T10:27:36.142Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -46,6 +46,9 @@ No method is stipulated for choosing the initial dealer. A hanafuda-specific met
 Each player starts with an equal amount of chips for scoring.
 
 At the beginning of each round, all players must take out **8 chips** from their total chips in hand. This is the ***bet limit*** of each player per round, and a player may not lose more than 8 chips during one round *(The purpose is so that a player may not lose a huge amount, if not all their chips during one round like in Hachi-hachi)*. 
+
+> For the purposes of these rules, when the number of chips between each player are compared in the middle of the game, then it refers to the **chips used during the round**, not the total chips each player has.
+{.is-warning}
 
 ## Dealing the Cards
 The dealer shuffles the deck, and any other player may cut. Then, the dealer places 3 cards **face-down** to the table, and then, starting with the player to their right and moving counter-clockwise (↺), the dealer deals 4 cards to each player in turn. They then places a further 3 cards **face-down** to the table, and an additional 4 cards to each player.
@@ -115,6 +118,11 @@ A player who has exposed certain teyaku has limited options to choose, depending
 |**Four-of-a-Kind**<br/>手四 [てし, *teshi*]|Only one of the cards not related to the Four-of-a-Kind may be returned.|
 |**Two Four-of-a-Kinds**<br/>ふた手四 [ふたてし, *futateshi*]|Any one card may be returned.|
 
+> It is for this reason that "Two Four-of-a-Kinds" teyaku is not worth more than a single "Four-of-a-Kind" teyaku; By returning one of the cards into the draw pile, one of the Four-of-a-kinds would be broken.
+{.is-info}
+
+After each player has returned a card into the draw pile, the draw pile is then shuffled by the player to the leader's left, and the matching phase begins.
+
 # Gameplay (Matching Phase)
 In each round, the **leader** is the first to play, and turn to play passes counter-clockwise (↺) around the table. The core gameplay and turn structure of Taiyaku is typical of games in the [*Hana-Awase*](/en/hanafuda/games/hana-awase#gameplay) family, with the only exception being the first turn.
 
@@ -149,11 +157,27 @@ If all players run out of cards in their hands, players then check all the dekiy
 
 The player with the highest Dekiyaku score wins the round, and the loser(s) must pay chips to the winner equal to the difference of their score to that of the winner.
 
+Example:
+- Player A has a yaku score of 7 chips.
+- Player B has a yaku score of 3 chips.
+- Player C has a yaku score of 2 chips.
+
+**Player A wins.**
+- Player B pays Player A **4 chips**. `(7 - 3 = 4)`
+- Player C pays Player A **5 chips**. `(7 - 2 = 5)`
+
+
 >Remember that a player cannot lose more than 8 chips per round; if a player runs out of these chips, they don't have to pay for the shortage.
 {.is-warning}
 
+>If there are two winners, then the leader or the player nearest to the leader's right is declared winner. The loser only pays the declared winner.
+{.is-info}
+
+>If all three players are tied, then the leader is declared winner. There will be no scoring settlement.
+{.is-info}
+
 # End of the Game
-The game proceeds for as many rounds as were agreed upon—typically 12. Once all the rounds have been played, the player with the highest total score is the winner.
+The game proceeds for as many rounds as were agreed upon—typically 12. Once all the rounds have been played, the player with the highest **total** chips is the winner.
 
 # Dekiyaku
 Taiyaku is notable for its huge repertoire of *dekiyaku* compared to other *Hana-Awase* fishing games.
@@ -223,139 +247,91 @@ Each Dekiyaku are sorted into groups. Generally, all Dekiyaku within each group 
 
 # Taiyaku for Two Players
 
-UNDER CONSTRUCTION
-
 While Hachi-Hachi works best if three players are playing at once, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
 
-The deal is the same as for three players- 7 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
+The deal is the same as for three players- 8 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
 
-The game then proceeds as in the three player version. The field multiplier is determined, teyaku are claimed, the round is played, and scores are determined at the end. There are only two differences:
+The game then proceeds as in the three player version, except:
+- The "Two Four-of-A-Kinds" yaku is now worth 8 points.
+- The step of returning a card from the hand to the draw pile is omitted.
+- When both players run out of cards, there will be cards left in the draw pile; these cards are no longer used during the round.
 
-Firstly, special achievements are not recognised, and neither are *All Eights*, *Double Eights*, or *Sixteen Chaff*.
+The scoring calculation and payment is the same as in the three player version.
 
-Secondly, if the round ends without any dekiyaku being formed, then the scoring is slightly different. While each player still counts their captured card points to determine the winner, comparing against the par value of 88 only makes sense with three players. Instead, the players calculate the following:
-
-`Payment = (Winner's Total Card Points - Loser's Total Card Points) x Field Multiplier`
-
-This amount is then paid to the winner by the loser.
-
-# Hachi-Hachi for 4-6 Players
-While only three players take part in any given round—using the rules as described above—it is entirely possible for 4-6 players to participate in the game as a whole. Indeed, many accounts consider it preferable to have a minimum of 4 players, since this introduces an additional drop-out phase at the beginning of each round and adds to the depth of the game.
-
-*When playing with 4 or more people, not every player will participate in every round, so Hachi-Hachi with more than 3 people tends to be played for a full 12-round year at minimum. Campaign games are also seen, in which one full year is played for every person at the table! Whatever the case, the length of the game should be decided beforehand.*
+# Taiyaku for 4-5 Players
+While only two or three players take part in any given round—using the rules as described above—it is entirely possible for 4-5 players to participate in the game as a whole. Indeed, many accounts consider it preferable to have a minimum of 4 players, since this introduces an additional drop-out phase at the beginning of each round and adds to the depth of the game.
 
 ## Initial Setup
-The dealer is chosen as usual, and the cards are dealt to each player as previously described- 7 cards to each player and 6 to the field, with the remainder as the draw pile.
+The dealer is chosen as usual, and the cards are dealt to each player as previously described- 8 cards to each player and 6 to the field, with the remainder as the draw pile. 
 
-If 6 people are playing, then there will be nothing left of the deck to serve as a draw pile, but this will be remedied at the end of the dropout phase.
-
-Misdeals are checked for, and the field multiplier is determined as usual.
+Misdeals are checked for, and the leader is determined as usual, after which they flip all field cards face-up.
 
 Then, the players pick up their cards, and the dropout phase begins.
 
 ## The Dropout Phase
 Each player then evaluates their hand to decide if they would like to play this round, or sit out.
 
-Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
+Beginning with the leader and moving counter-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
 
-To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, with the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
+To discourage needless dropping out, a *dropout penalty* [逃げ駒 - にげこま, *nige-koma*] is imposed. Players who choose to drop out pays **1 chip**. These payments are held in a pot, which will be claimed by the player who wins the round.
 
-If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
+If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they compete for its contents by playing a round of 2 player Taiyaku.
 
 If only one player wishes to play, then obviously no game can occur. This sole remaining player is the *de facto* winner of the round, and claims the entire contents of the pot.
 
 If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
 
-> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
-{.is-info}
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are all equally paid *forced out compensation* [追い駒 - おいこま, *oikoma*] by all of the players who have decided to play.
 
-As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
+The value of the compensation is the sum of all of the following cards that appear in *any of forced out players' hands*:
+- Any of the 5 **Bright cards**. Worth **1 chip** for each card.
+- The ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)**Sake Cup**. Worth **1 chip**.
+- **Three Blue Ribbons** in any one hand. Worth **4 chips**.
 
-The total compensation is the sum of the following:
-- Half the value of the hand's teyaku score.
-- Half the value of any complete dekiyaku in the hand.
-- 3 points for every card in the hand that contributes to either the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku, and which are not already included in a teyaku or dekiyaku.
-
-This compensation is paid to the player by each of the two *non-dealer* active players.
-
-> Note that the field multiplier is determined before the dropout phase begins. Because, yes, it applies to dropout penalties and hand compensation as well.
+>Remember that a player cannot lose more than 8 chips per round; if the value of the compensation reaches 8 chips or more, then there can be no game since all players who have decided to play will have no chips left. In this case, the winner for this round is the player with the most chips.
 {.is-warning}
 
-> Since the dropout phase is a kind of prelude before the round 'officially' begins, note that dropout penalties and hand compensation are *not* cancelled by the exceptional circumstances of *All Eights*, *Double Eights*, or *Sixteen Chaff*.
+If the leader chooses to drop out, then the player to their right becomes the leader for the round. If this player then drops out, the player to *their* right becomes the leader, and so on.
+
+>Some play such that the leader cannot drop out. This rule is called **"Leader bind"** [親縛り, *oya shibari*]
 {.is-warning}
 
-If the dealer chooses to drop out, then the player to their right becomes the dealer for the round. If this player then drops out, the player to *their* right becomes the dealer, and so on.
-
-> Some versions of the game allow a player who is *forced out* to barter with one of the players who decided to play, in order to buy them out of the game and play in their place. The minimum amount to be offered when trying to buy a player out should be at least the *hand compensation* value of that player's hand, though room for negotiation is possible.
-{.is-info}
-
-Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile will be shuffled by the last player who dropped out (or the 3rd active player, if nobody dropped out).
 
 ## Gameplay
-Once the three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
+Once the two or three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
 
 The winner of the round will claim the pot of dropout penalties, then the next round begins with a new dropout phase.
 
-# Hachi-Hachi for 7 Players
-While probably best with 4-6 people, Hachi-Hachi can be adjusted very simply to accommodate 7 players.
+# Hachi-Hachi for 6-7 Players
+While probably best with 4-5 people, Taiyaku can be adjusted to accommodate 6-7 players.
 
-This tweak makes use of the additional blank card included with many hanafuda decks. The blank card is shuffled into the deck, then the dealer gives each player 7 cards. No cards are dealt to the field.
+## Initial Setup
+The dealer is chosen as usual, and the cards are dealt to **only 5 players** (The dealer and 4 players to the dealer's right) as previously described- 8 cards to each player and 6 to the field, with the remainder as the draw pile. 
 
-Whichever player holds the blank card must announce this fact. This player drops out, and takes no further part in the current round. They are not paid anything, nor do they pay anything to the other players (this includes dropout penalties, hand compensation, etc.).
+**The remaining 1 or 2 players must wait until the dropout phase for a chance to participate in the round.**
 
-The 6 non-blank cards in this player's hand are placed face-up on the table to become the field. Play then proceeds as in 6 player Hachi-Hachi. The blank card is set aside and plays no further part in the round. (I suggest using it as a dealer marker.)
+Misdeals are checked for, and the leader is determined as usual, after which they flip all field cards face-up.
 
-# Variations and Additional Rules
+Then, the players pick up their cards, and the dropout phase begins.
 
-## Dealer Hand Swap
-After the cards are dealt, but before the players look at their hands, any player may ask to swap their hand for the dealer's hand. Accounts vary as to whether each player can do this only once, or as many times as desired.
+## The Dropout Phase
+The process is mostly the same as in the 4-5 player version, with a few differences:
+- The first player to drop out must pass their hand to the 6th player. Also, they do not place the dropout penalty to the pot; instead, it is paid to the 6th player.
+- If there are 7 players, then the second player to drop out must pass their hand, along with the dropout penalty, to the 7th player.
+- If there are only 6 players, then the second player to drop places their dropout penalty onto the pot.
+- Once the cards of a player who dropped out has been passed to another player, that player gets a turn to decide whether to join or drop out of the round.
 
-> Note that you are swapping *for the dealer's hand*, not *with the dealer*. For example, if Player A calls to swap with the dealer, then other players must now call to swap with Player A, since they hold the dealer's hand.
-{.is-info}
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile will be shuffled by the last player who dropped out (or the 3rd active player, if nobody dropped out).
 
-### Special Achievement: *Dealer's Hand*
-If, at the end of the round, the player who held the dealer's hand has captured at least 89 total card points, then they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
+# Variations
 
-> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
-{.is-info}
+## Koyaku [小役]
+While this game appears in literature in name only, it is thought that the game might actually be [Kaga](/en/hanafuda/games/kaga), since it has similar, though decreased, Yaku to those in Taiyaku.
 
-## *Mizuten*
-After the cards are dealt, but before the players look at their hands, the dealer may declare their intent to play blind [不見転 - むずてん, *mizuten*]. Once this is declared, the dealer is committed to playing the round and may not drop out.
-
-### Special Achievement: *Mizuten*
-If the dealer, having declared their intent to play blind, manages to capture at least 89 card points by the end of the round, they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
-
-Conversely, if they fail to capture at least 89 card points, they must pay 1 *kan* to each of the other two active players.
-
-> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
-{.is-info}
-
-## The Full Campaign
-A full-length 'campaign' of Hachi-Hachi is typically played in the following manner, facilitated by the items found in a Hachi-Hachi play set.
-
-These sets include go stones to serve as score tokens - black being 1 point, and white being 1 *kan* - along with baskets for each player to store them in. It also includes a number of *kanfuda*, or *kan* cards. These are small tokens bearing numbers - 5, 10, 25, 50, and 100 being common ones - which are each worth their face value in *kan*.
-
-At the beginning of the game, each player receives a starting number of points- for example, 25 *kan*- from the bank, which represents their *buy-in*.
-
-Each player then immediately pays a pre-determined amount - for example, 5 *kan* - into a *prize pot* [褒美 - ほうび, *houbi*], which will be claimed by the final winner.
-
-Hence, each player begins the game with an amount of go stones equal to their buy-in, minus the pot payment- in this example, 20 *kan*.
-
-Play as many years (sets of 12 rounds) as there are players at the table. The play set includes a token shaped like a *war fan* to track the field multiplier, and a *mizuten* token to track when the dealer has gone in blind.
-
-At the end of each round, the winner of the round puts 1 point in a dedicated pot, so that by the end of the year it will contain 12 points (1 *kan*, in the dozenal system). Often, this 'pot' is the lid of the box in which the play set is packaged, and possesses 12 small labelled intendations in which the stones are placed.
-
-This 'pot' [番個板 - ばんこいた, *bankoita* (lit. 'round-counting board')] is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
-
-Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units, for example of 50 *kan*, and each is accompanied by a token indicating the debt. (In Nintendo play sets, these debt tokens are shaped like *daruma* dolls.)
-
-The player with the highest total score at any point is known as *ginmi* [吟味 - ぎんみ, *ginmi*]. The play set includes a medal token, which is held by whichever player is currently *ginmi*. If a player is *ginmi* for three rounds in a row, they earn a bonus of 10 *kan* from each other player.
-
-The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot. (in the event of a tie, this pot can be split.)
-
-Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
+## Echigo-Bana with Onifuda [鬼入り越後花]
+It is thought that the game may have been played with the "Onifuda" (demon card) included in the deck. However, the rules have not been documented in any literature.
 
 # Bibliography
-*(todo: rework this)*
-
-- 
+- https://mixi.jp/view_bbs.pl?comm_id=49586&id=25845894
+- https://dl.ndl.go.jp/info:ndljp/pid/861683/4
