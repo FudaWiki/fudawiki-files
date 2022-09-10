@@ -2,20 +2,24 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T10:27:36.142Z
+date: 2022-09-10T10:35:17.566Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
 ---
 
-**Taiyaku** [大役], also known as Echigo-bana [越後花], is a local hanafuda game for 2 to 7 players, although it is best played with 4 or 5 players.  It features a huge list of Yaku (hence the name), and a fairly complicated payment system, which makes it suitable for cash gambling.
+**Taiyaku** [大役], also known as **Echigo-bana** [越後花], is a local hanafuda game for 2 to 7 players, although it is best played with 4 or 5 players.  It features a huge list of Yaku (hence the name), a fairly complicated set of rules, and a simple payment system, which makes it suitable for cash gambling.
 
 It was played in the Echigo Province (now Niigata Prefecture) in Japan, using a regional pattern of Hanafuda (also called Echigo-bana), although a standard Hanafuda deck may also be used.
 
 # Preliminaries
 
 ## Equipment
-**Hachi-Hachi was traditionally played with a regional 48-card hanafuda deck called "Echigo-bana".** This deck is structurally identical to a standard Hanafuda deck, and is only aesthetically different. The design of the cards are a copy of the old hanafuda patterns, with poems written on some of the Chaff cards; these poems have no gameplay purpose whatsoever. The deck only comes with a red back, so only 1 deck is needed for gameplay.
+**Hachi-Hachi was traditionally played with a regional 48-card hanafuda deck called "Echigo-bana".** 
+
+![echigo_cards.jpg](/suryongfiles/echigo_cards.jpg =600x)
+
+This deck is structurally identical to a standard Hanafuda deck, and is only aesthetically different. The design of the cards are a copy of the old hanafuda patterns, with poems written on some of the Chaff cards; these poems have no gameplay purpose whatsoever. The deck only comes with a red back, so only 1 deck is needed for gameplay.
 
 > A standard Hanafuda deck may be used, in the absence of an Echigo-bana deck.
 {.is-warning}
