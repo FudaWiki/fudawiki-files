@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T03:05:47.232Z
+date: 2022-09-10T04:12:51.922Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -76,168 +76,85 @@ Taiyaku has only 4 teyaku, and they are equally divided into two categories:
 
 |Value (in chips)|Name|Description|
 |:---:|:---:|:---|
-|<h2 align="left">Group B: Set Teyaku</h2>|||
-|5|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
-|6|**Four of a Kind**<br/>ふた手四 [ふたてし, *futateshi*]|Two Four-of-a-kinds.|
-
 |<h2 align="left">Group A: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, the ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Sake Cup card is also considered as a Chaff.|||
-|4|**Empty Hand**<br/>空素 [からす, *karasu*]|Seven Chaff cards.|
+|5|**Seven Empties**<br/>七空 [しちから, *shichikara*]|Seven Chaff cards.|
+|7|**Eight Empties**<br/>八空 [はちから, *hachikara*]|Eight Chaff cards.|
+
+|<h2 align="left">Group B: Set Teyaku</h2>|||
+|5|**Four-of-a-Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
+|5|**Two Four-of-a-Kinds**<br/>ふた手四 [ふたてし, *futateshi*]|During a 2-player match, this Teyaku is worth **8 points**.</br>During a 3-player match, this Teyaku is not worth more than a single Four-of-a-Kind.|
+
 
 The teyaku within each group are mutually exclusive, meaning that **each player scores for their single most valuable teyaku in each of Groups A and B.** In order to claim their *teyaku*, a player must reveal all the relevant cards from their hand: 
 * For teyaku in Group A, show all cards that are part of the combination. 
 * For teyaku in Group B, only the Chaff cards need to be shown.
 
-The points earned for *teyaku* are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. **Thus, the players should simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.**
+The points earned for *teyaku* are paid to a player by each of their two opponents, in typical zero-sum fashion.
 
-Once teyaku are claimed, the players hide their cards again, and the round begins.
-
-*Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.*
-
-> Remember that the field multiplier affects *all* exchanges of points between players, including teyaku payments!
+>Remember that a player cannot lose more than 8 chips per round; if a player runs out of these chips, they don't have to pay for the shortage.
 {.is-warning}
 
-> Many rulesets for Hachi-Hachi list each possible combination of teyaku from Group A and Group B separately. There are 66 such possible combinations, which naturally makes the teyaku look overwhelming! The most valuable combination is *Four-Three* plus *Empty Hand*. It's *incredibly* rare, and there's only one possible way to form it. As an exercise, see if you can work out how.
-{.is-info}
+Once teyaku are claimed, the round begins, and the exposed cards remain exposed throughout the entire matching phase of the round. *(Keep the exposed cards separate from the other cards on the table. These are technically still part of your hand.)*
 
-# Gameplay
-In each round, the dealer is the first to play, and turn to play passes anti-clockwise (↺) around the table. The core gameplay and turn structure of Hachi-Hachi is typical of games in the *Hana-Awase* family, though it features a variation of the 'go-stop' mechanic from [Koi-Koi](/en/hanafuda/games/koi-koi).
-
-## Turns
-On their turn, a player chooses a single card from their hand and plays it to the table.
-* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
-* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
-* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
-* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
-
-> If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+>*Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.*
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
-{.is-warning}
+# Gameplay (Matching Phase)
+In each round, the **leader** is the first to play, and turn to play passes counter-clockwise (↺) around the table. The core gameplay and turn structure of Taiyaku is typical of games in the [*Hana-Awase*](/en/hanafuda/games/hana-awase#gameplay) family, with the only exception being the first turn.
 
-After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+## The First Turn
+The leader plays a card from their hand like normal.
 
-## *Dekiyaku*, *Sage* and *Shoubu*
+Then they **cut the draw pile in half, place the bottom half on top, and then draw a card from it**. The drawn card is then played like normal, and the leader's turn ends.
+
+After the first turn, gameplay for all remaining turns during the round are identical to Hana-awase.
+
+## *Dekiyaku* That Stop the Round
 One a player has played their two cards—one from their hand, and one from the draw pile—they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. 
 
-Similar to the *yaku* in other games, *dekiyaku* are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A list of dekiyaku and their point values are given [further down the page](#dekiyaku).
+Similar to the *yaku* in other games, *dekiyaku* are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A complete list of dekiyaku and their point values are given [further down the page](#dekiyaku).
 
-* If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to end it, as detailed below. 
-* If this is not the case, then their turn ends, and the next player takes their turn.
+Typically in Taiyaku, forming a dekiyaku does not stop the round. However, there are certain dekiyaku that *do stop* the round; The player who forms one **wins the round immediately and takes all chips from the other players.**
 
-### *Sage*
-If the player calls to continue [下げ - さげ, *sage*], then the round continues. Their turn ends, and play passes to the next player. This affords the player an opportunity to either form a second dekiyaku or improve their current one for more points—although they suffer penalties if they fail to accomplish this before another player forms their own dekiyaku, or before the round ends.
+|Name of Dekiyaku|Composition|
+|:---:|:---:|
+|**Five Brights**<br/>花魁 [おいらん, *oiran*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|**Fifteen Chaff**|15 Chaff cards.</br>The ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Sake Cup card is also considered as a Chaff.|
+|**Front and Back**<br/>裏表 [うらおもて, *ura omote*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|**Six Red Ribbons**<br/>六短 [ろくたん, *rokutan*]|Any 6 of:</br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
+|**Three Blue Ribbons**<br/>青 [あお, *ao*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 
-> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue the round **as many times as they choose**.
-{.is-info}
-
-### *Shoubu*
-If the player calls to end [勝負 - しょうぶ, *shoubu*], then the round ends, and scores are calculated. This is a safe option, but denies the opportunity to form additional dekiyaku.
-
-### Cancelling a *Sage*
-If a player has previously called *sage* to continue, then they may, at the beginning of their turn, call to *cancel*, which immediately ends the round. This results in a reduced score for the player in question, but serves as a useful emergency option if it looks like the player will no longer be able to form their second dekiyaku.
 
 # End of Round and Scoring
 
-The round ends either when a player forms a dekiyaku then calls to *end* or *cancel*, or when all players have run out of cards in their hands.
+The round ends either when all players run out of cards in their hands, or if a player forms a dekiyaku that stops the round.
 
-Scoring is handled differently depending on whether or not any player managed to form a [*dekiyaku*](#dekiyaku). 
-* If they have, then only the *dekiyaku* are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). 
-* If no *dekiyaku* have been made, then card points are totalled and used to determine the winner. 
+If all players run out of cards in their hands, players then check all the dekiyaku they formed during the round and makes a total of all the dekiyaku values to obtain their score.
 
-The following sections will outline each of these two methods.
+The player with the highest Dekiyaku score wins the round, and the loser(s) must pay chips to the winner equal to the difference of their score to that of the winner.
 
-> Remember that all exchanges of points between players are affected by the field multiplier!
+>Remember that a player cannot lose more than 8 chips per round; if a player runs out of these chips, they don't have to pay for the shortage.
 {.is-warning}
-
-## Scoring When *Dekiyaku* Are Present
-If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner: 
-* First, the teyaku payments from the beginning of the round are made.
-* Then, the dekiyaku are scored based on how the round ended, as follows.
-
-|Case|Handling|
-|:---|:---|
-|**If a Player Called *Shoubu***|**The player who called *shoubu* is paid the total value of their dekiyaku by each of their opponents.** Only this player scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who called *shoubu* will be the winner of the round, and becomes the dealer for the next.<br/>⚠️ *If one of the opponents has previously called **sage** while the other one has not, then the one who called **sage** pays double, while the one who did not pays nothing.*|
-|**If a Player Elected to Cancel**|**The player who cancelled is paid *half* the total value of their dekiyaku by each opponent.** Only the player who cancelled scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who cancelled will be the winner of the round, and becomes the dealer for the next.|
-|**If the Hands Are Exhausted**|If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then **every player is paid *half* the total value of their dekiyaku by each of their opponents**. The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
-
-## Scoring With No *Dekiyaku*
-If no player has managed to form any *dekiyaku*, then the players count the point values of the cards in their score pile to determine the winner. The values of the cards are standard, as follows:
-|Card Type|Value (in points, not *kan!*)|Number in Deck|
-|:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|9|
-|Ribbon|5|10|
-|Chaff|1|24|
-**The total point value of the entire deck is `264`.** Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
-
-Before scoring is calculated, however, there are three special circumstances that need to be checked for. These unique situations **cancel all other forms of scoring**, including *teyaku* payments. *(Remember that the field multiplier still applies!)*
-
-|Case|Description|
-|:---|:---|
-|***All Eights***|*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.|
-|***Double Eights***|*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.|
-|***Sixteen Chaff***|As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards (for this purpose, all [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards count as Chaff). This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.|
-
-> If the *Sixteen Chaff* situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
-{.is-info}
-
-### Totalling Scores
-Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have occured, then points are awarded as follows.
-
-First, the teyaku payments from the beginning of the round are made.
-
-Then, each player determines their score as follows:
-
-`Player's Score = (Total of Player's Captured Card Points - 88) x Field Multiplier`
-
-This will be the total amount of points won or lost by each player. When playing with chips or tokens, players with a negative score pay chips to those with a positive score.
-
-The winner of the round is the player with the highest total captured card points. This player will become the dealer for the next round.
-
-> In the (unlikely) event of a tie here, the winner is the player who is *earliest* in the turn order.
-{.is-info}
-
-## Special Achievements
-Once the scoring is completed—regardless of which method was used, or whether any dekiyaku were made—and the winner of the round determined, there is a final exchange of points for certain special achievements the players may have accomplished during the round.
-
-> **Special achievements do *not* apply if any of *All Eights*, *Double Eights*, or *Sixteen Chaff* occured**, since these rare circumstances cancel all other forms of scoring.
-{.is-warning}
-
-*Remember, the field multiplier applies to special achievements, too! It applies to everything!*
-
-### Diving
-*Diving* [飛び込み - とびこみ, *tobikomi*], sometimes known as *Catching the Triplet*, is attainable by any player who declared a Group A teyaku that includes a Triplet or Standing Triplet, but *not* a Four of a Kind.
-
-If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
-
-> Sometimes, a *liability* rule is applied: If one of the opponents willingly placed the final month card on the field to be captured, and the player aiming for the *diving* bonus captures it on their very next turn, then that opponent pays 2 *kan*, and the other pays nothing.<br><br>This does not apply if the opponent played that card on their final turn (since they have no choice in the matter).
-{.is-info}
-
-### Escape
-*Escape* [抜け役 - ぬけやく, *nukeyaku*] is available to any player who claimed a Group B teyaku other than *One Bright*.
-
-If this player, by the end of the round, has managed to capture 89 or more total card points, then they are paid 1 *kan* by each opponent.
 
 # End of the Game
 The game proceeds for as many rounds as were agreed upon—typically 12. Once all the rounds have been played, the player with the highest total score is the winner.
 
 # Dekiyaku
-Hachi-Hachi is notably slim on *dekiyaku* compared to other *Hana-Awase* fishing games. The ones it does have are all common to multiple other games.
+Taiyaku is notable for its huge repretoire of *dekiyaku* compared to other *Hana-Awase* fishing games.
 
-*Five Brights* and *Four Brights* are mutually exclusive, but outside of that, all points earned from dekiyaku are cumulative.
+Each Dekiyaku are sorted into groups. All Dekiyaku within each group are **mutually exclusive**, with the exception of the Four-of-a-Kind yaku group. 
 
-> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included.<br><br>If a player is one card short of possessing one of these dekiyaku, an opponent deliberately leaves the remaining card on the table to be captured, and the player captures it on their very next turn, then the discarding opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing for it.<br><br>This does not apply if the opponent plays that card during their very last turn (since they have no choice in the matter).
-{.is-info}
-
-|Value (in *kan*)|Name of Yaku|Composition|
+|Value (in chips)|Name of Yaku|Composition|
 |:---:|:---:|:---|
-|12|**Five Brights**<br/>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|<h2 align="center">Brights Yaku [吉原の役, *yoshiwara no yaku*]</h2>|||
+|**STOP THE ROUND** (Take all chips)|**Five Brights**<br/>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |10|**Four Brights**<br/>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |10|**Seven Ribbons**<br/>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).<br>This yaku is worth an extra +1 *kan* for each additional Ribbon, *including* the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon)!|
 |7|**Poetry Ribbons**<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |7|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |7|**Boar, Deer, Butterflies**<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
+|<h2 align="center">Brights Yaku [吉原の役, *yoshiwara no yaku*]</h2><br>**Note**: For the purposes of these teyaku, the ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Sake Cup card is also considered as a Chaff.|||
+
 
 # Hachi-Hachi for Two Players
 While Hachi-Hachi works best with a minimum of three players, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
