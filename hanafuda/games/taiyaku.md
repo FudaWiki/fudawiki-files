@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T10:36:54.816Z
+date: 2022-09-10T10:53:30.854Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -96,7 +96,7 @@ The teyaku within each group are mutually exclusive, meaning that **each player 
 * For teyaku in Group A, show all cards that are part of the combination. 
 * For teyaku in Group B, only the Chaff cards need to be shown.
 
-The points earned for *teyaku* are paid to a player by each of their two opponents, in typical zero-sum fashion.
+The chips earned for *teyaku* are paid to a player by each of their two opponents, in typical zero-sum fashion.
 
 >Remember that a player cannot lose more than 8 chips per round; if a player runs out of these chips, they don't have to pay for the shortage.
 {.is-warning}
