@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T07:49:39.446Z
+date: 2022-09-10T08:15:24.794Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -222,6 +222,9 @@ Each Dekiyaku are sorted into groups. Generally, all Dekiyaku within each group 
 {.is-info}
 
 # Taiyaku for Two Players
+
+UNDER CONSTRUCTION
+
 While Hachi-Hachi works best if three players are playing at once, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
 
 The deal is the same as for three players- 7 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
