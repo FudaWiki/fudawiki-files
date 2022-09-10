@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T10:35:17.566Z
+date: 2022-09-10T10:36:54.816Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -307,7 +307,7 @@ Once the two or three active players are determined, the round is played exactly
 
 The winner of the round will claim the pot of dropout penalties, then the next round begins with a new dropout phase.
 
-# Hachi-Hachi for 6-7 Players
+# Taiyaku for 6-7 Players
 While probably best with 4-5 people, Taiyaku can be adjusted to accommodate 6-7 players.
 
 ## Initial Setup
