@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-09T03:42:18.529Z
+date: 2022-09-10T00:15:40.646Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -46,7 +46,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
-|[Echigo-Bana](/en/hanafuda/games/echigo-bana)|-|Fishing|Echigo Province, Japan|
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
 |[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
@@ -110,6 +109,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
+|[Taiyaku](/en/hanafuda/games/taiyaku), a.k.a Echigobana|2-3 per round, max 7 per game|Fishing|Echigo Province (Now Niigata Prefecture), Japan|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|Japan|
 |[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
