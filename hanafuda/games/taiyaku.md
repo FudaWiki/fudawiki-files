@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T10:53:30.854Z
+date: 2022-09-10T10:54:10.227Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -77,7 +77,7 @@ Once the leader is chosen, all taken cards are returned to the field, and then *
 
 
 # Teyaku
-Players then check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them.
+Players then check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score chips based on them.
 
 Taiyaku has only 4 teyaku, and they are equally divided into two categories:
 
