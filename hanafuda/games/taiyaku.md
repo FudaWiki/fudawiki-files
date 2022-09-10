@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T07:35:00.892Z
+date: 2022-09-10T07:49:39.446Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -98,6 +98,22 @@ Once teyaku are claimed, the round begins, and the exposed cards remain exposed 
 
 >*Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.*
 {.is-warning}
+
+# Returning A Card to the Draw Pile
+In typical hanafuda games, it is needed that each player must have 7 cards in hand and 6 cards on the field so that the draw pile runs out of cards at the same time all players run out of cards.
+
+Since in Taiyaku, 8 cards are dealt to each player, players **must return 1 card from their hand to the draw pile** to reduce the number of cards in hand to 7. They must do this after players have exposed their teyaku or have confirmed that nobody has a teyaku.
+
+A player without a teyaku may choose any 1 of the cards in their hand to return to the draw pile.
+
+A player who has exposed certain teyaku has limited options to choose, depending on the teyaku they exposed.
+
+|Name|Cards that can be returned to the draw pile|
+|:---:|:---|
+|**Seven Empties**<br/>七空 [しちから, *shichikara*]|Only the non-Chaff card may be returned.|
+|**Eight Empties**<br/>八空 [はちから, *hachikara*]|Any one card may be returned.|
+|**Four-of-a-Kind**<br/>手四 [てし, *teshi*]|Only one of the cards not related to the Four-of-a-Kind may be returned.|
+|**Two Four-of-a-Kinds**<br/>ふた手四 [ふたてし, *futateshi*]|Any one card may be returned.|
 
 # Gameplay (Matching Phase)
 In each round, the **leader** is the first to play, and turn to play passes counter-clockwise (↺) around the table. The core gameplay and turn structure of Taiyaku is typical of games in the [*Hana-Awase*](/en/hanafuda/games/hana-awase#gameplay) family, with the only exception being the first turn.
@@ -205,8 +221,8 @@ Each Dekiyaku are sorted into groups. Generally, all Dekiyaku within each group 
 > It is thought that the Rainman in the Echigobana deck is supposed to be Sadakuro Ono [斧定九郎].
 {.is-info}
 
-# Hachi-Hachi for Two Players
-While Hachi-Hachi works best with a minimum of three players, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
+# Taiyaku for Two Players
+While Hachi-Hachi works best if three players are playing at once, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
 
 The deal is the same as for three players- 7 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
 
