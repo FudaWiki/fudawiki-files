@@ -2,11 +2,13 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-11T03:39:12.949Z
+date: 2022-09-11T03:40:53.847Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
 ---
+
+<span style="font-size:small;">*Not to be confused with Teyaku (手役, hand combinations).*</span>
 
 **Taiyaku** [大役], also known as **Echigo-bana** [越後花], is a local hanafuda game for 2 to 7 players, although it is best played with 4 or 5 players.  It features a huge list of Yaku (hence the name), a fairly complicated set of rules, and a simple payment system, which makes it suitable for cash gambling.
 
