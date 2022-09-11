@@ -2,7 +2,7 @@
 title: Kyo-Kabu
 description: An Oicho-Kabu variant with a different deal setup.
 published: true
-date: 2022-08-31T06:38:10.793Z
+date: 2022-09-11T13:12:35.462Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-18T16:14:00.150Z
@@ -127,6 +127,11 @@ The terms for values used in Kyo-Kabu are slightly different to those used in Oi
 - Eight: *oicho* [オイチョ]
 - Nine: *kabu* [カブ]
 - Ten: *buta* [ブタ]
+
+# Mushi-Kabu (Kyo-Kabu variant)
+It seems the game [Kyo-Kabu](/en/kabufuda/games/kyo-kabu) was also played using Mushi-bana, a 40-card hanafuda deck similar to the standard hanafuda deck in design but with the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony and ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover cards removed. In this case, the game is called **Mushi-Kabu** [虫カブ].
+
+To compensate for the removed suits, the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow suit was used to replace the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony suit, while the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia suit was used to replace the ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover suit. (See ["Mushi"](/en/hanafuda/suits#arrangement-of-suits) Month Sequence)
 
 # Bibliography
 - https://tanoshiikoto.com/hanafuda-kyokabu/
