@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-10T10:54:25.246Z
+date: 2022-09-11T03:21:29.238Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -15,7 +15,7 @@ It was played in the Echigo Province (now Niigata Prefecture) in Japan, using a 
 # Preliminaries
 
 ## Equipment
-**Hachi-Hachi was traditionally played with a regional 48-card hanafuda deck called "Echigo-bana".** 
+**Taiyaku was traditionally played with a regional 48-card hanafuda deck called "Echigo-bana".** 
 
 ![echigo_cards.jpg](/suryongfiles/echigo_cards.jpg =600x)
 
