@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-11T03:29:33.684Z
+date: 2022-09-11T03:39:12.949Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -157,9 +157,12 @@ Typically in Taiyaku, forming a dekiyaku does not stop the round. However, there
 
 The round ends either when all players run out of cards in their hands, or if a player forms a dekiyaku that stops the round.
 
-If all players run out of cards in their hands, players then check all the dekiyaku they formed during the round and makes a total of all the dekiyaku values to obtain their score.
+If all players run out of cards in their hands, players then check all the dekiyaku they formed during the round and makes a **total of all the dekiyaku values** to obtain their **score**.
 
-The player with the highest Dekiyaku score wins the round, and the loser(s) must pay chips to the winner equal to the difference of their score to that of the winner.
+> Note that card points are irrelevant in this game; Since some dekiyaku consist of only one or two cards, rounds where there are no dekiyaku formed are extremely rare.
+{.is-warning}
+
+The player with the **highest Dekiyaku score wins** the round, and the loser(s) must **pay chips** to the winner **equal to the difference of their score to that of the winner**.
 
 Example:
 - Player A has a yaku score of 7 chips.
@@ -174,10 +177,10 @@ Example:
 >Remember that a player cannot lose more than 8 chips per round; if a player runs out of these chips, they don't have to pay for the shortage.
 {.is-warning}
 
->If there are two winners, then the leader or the player nearest to the leader's right is declared winner. The loser only pays the declared winner.
+>If there are two winners, then the leader or the player to the leader's right is declared winner. The loser only pays the declared winner.
 {.is-info}
 
->If all three players are tied, then the leader is declared winner. There will be no scoring settlement.
+>If all players are tied, then the leader is declared winner. There will be no scoring settlement.
 {.is-info}
 
 # End of the Game
