@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-11T03:21:29.238Z
+date: 2022-09-11T03:28:21.897Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -107,7 +107,7 @@ Once teyaku are claimed, the round begins, and the exposed cards remain exposed 
 {.is-warning}
 
 # Returning A Card to the Draw Pile
-In typical hanafuda games, it is needed that each player must have 7 cards in hand and 6 cards on the field so that the draw pile runs out of cards at the same time all players run out of cards.
+In typical 3-player hanafuda games, it is needed that each player must have 7 cards in hand and 6 cards on the field so that the draw pile runs out of cards at the same time all players run out of cards.
 
 Since in Taiyaku, 8 cards are dealt to each player, players **must return 1 card from their hand to the draw pile** to reduce the number of cards in hand to 7. They must do this after players have exposed their teyaku or have confirmed that nobody has a teyaku.
 
@@ -122,7 +122,7 @@ A player who has exposed certain teyaku has limited options to choose, depending
 |**Four-of-a-Kind**<br/>手四 [てし, *teshi*]|Only one of the cards not related to the Four-of-a-Kind may be returned.|
 |**Two Four-of-a-Kinds**<br/>ふた手四 [ふたてし, *futateshi*]|Any one card may be returned.|
 
-> It is for this reason that "Two Four-of-a-Kinds" teyaku is not worth more than a single "Four-of-a-Kind" teyaku; By returning one of the cards into the draw pile, one of the Four-of-a-kinds would be broken.
+> It is for this reason that "Two Four-of-a-Kinds" teyaku is not worth more than a single "Four-of-a-Kind" teyaku during a 3-player game; By returning one of the cards into the draw pile, one of the Four-of-a-kinds would be broken.
 {.is-info}
 
 After each player has returned a card into the draw pile, the draw pile is then shuffled by the player to the leader's left, and the matching phase begins.
