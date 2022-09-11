@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-09-11T03:28:21.897Z
+date: 2022-09-11T03:29:33.684Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -135,7 +135,7 @@ The leader plays a card from their hand like normal.
 
 Then they **cut the draw pile in half, place the bottom half on top, and then draw a card from it**. The drawn card is then played like normal, and the leader's turn ends.
 
-After the first turn, gameplay for all remaining turns during the round are identical to Hana-awase.
+After the first turn, the gameplay for all remaining turns during the round is identical to Hana-awase.
 
 ## *Dekiyaku* That Stop the Round
 One a player has played their two cards—one from their hand, and one from the draw pile—they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. 
