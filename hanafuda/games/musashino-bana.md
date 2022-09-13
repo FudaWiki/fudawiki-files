@@ -2,7 +2,7 @@
 title: Musashino-Bana
 description: One of the oldest attested hanafuda-specific fishing games.
 published: true
-date: 2022-09-13T03:54:25.372Z
+date: 2022-09-13T04:24:35.153Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-12T23:03:43.708Z
@@ -90,7 +90,8 @@ Also, if an Insta-Win Yaku is formed, the winner receives points for the Insta-W
 |2|**Large Birds**<br>大鳥 [おおとり, *ohtori*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |2|**Small Birds**<br>小鳥 [ことり, *kotori*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)</br> The small birds are drawn smaller in old Hanafuda cards.|
 |2|**Crop Pests**<br>野荒し [のあらし, *noarashi*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)</br>Not to be confused with *Boar, Deer, Butterflies*, a Yaku that does not exist in this game.|
-|2|**Three Red Flowers**<br>野荒し [のあらし, *noarashi*]|A Plum Chaff, a Peony Chaff, and a Bush Clover Chaff.</br>The type of card in this Yaku is only an assumption, as the original text mentions "Three Purples and Three Reds in Flowers", and that the main illustration in Chaff cards is the flower itself.|
+|2|**Three Red Flowers**<br>三紅 [さんべに, *san beni*]|A ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Chaff, a ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony Chaff, and a ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover Chaff.</br>The type of card in this Yaku is only an assumption, as the original text mentions "Three Purples and Three Reds in Flowers", and that the main illustration in Chaff cards is the flower itself.|
+|2|**Three Purple Flowers**<br>三紫 [さんむら, *san mura*]|A ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria Chaff, an ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris Chaff, and a ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff.</br>It is also assumed that the Yellow Paulownia Chaff is not included in this Yaku.|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |40|**Seven Ribbons**<br>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).|
 |30|**Six Ribbons**<br>六短 [ろくたん, *rokutan*]|Any 6 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).|
