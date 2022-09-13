@@ -2,7 +2,7 @@
 title: Hiraya
 description: a hana-awase variant with only 1 teyaku and few dekiyaku.
 published: true
-date: 2022-09-13T14:53:44.905Z
+date: 2022-09-13T15:09:00.416Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-13T14:53:44.905Z
@@ -51,10 +51,8 @@ Card Points are standard except Chaff are worth 0 points.
 
 Players count the total of their card points and subtract **80 points** from it.
 
-Players with negative scores lose those points; players with positive scores gain those points.
-
 ## Dekiyaku
-After the card point settlement, players check if they have dekiyaku.
+After the card point calculations are done, players check if they have dekiyaku.
 The other two players pay the player points for each dekiyaku the player has.
 
 All Dekiyaku **stack** except for the Brights Yaku.
@@ -70,6 +68,13 @@ All Dekiyaku **stack** except for the Brights Yaku.
 |30|**Grass Ribbons**<br>草短 [くさたん, *kusatan*]|The three Plain Ribbons, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon):<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |<h2 align="center">Chaff Yaku</h2>|||
 |40|**Thirteen Cards**<br>本十三 [ほんじゅうそう, *honjuusou*]|13 Chaff cards. Willow cards are not treated as Chaff.|
+
+## Settlement
+The total amount of points gained or lost by each player at the end of the round will be given by the following:
+
+`Player's Score = (Player's Total Card Points - 80) + (Total Value of Player's Yaku x (Number of Players - 1)) - Total Value of All Opponents' Yaku`
+
+The player with the highest score at the end of the round becomes the dealer for the next round. In the event of a tie, the player who was earliest in the turn order becomes the dealer.
 
 # End of Game
 There is no limit to how many rounds the game can be played for. Players must agree beforehand how many rounds they must play the game for, or if they want to play indefinitely until they choose to stop playing or somebody runs out of points.
