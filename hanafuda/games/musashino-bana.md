@@ -2,7 +2,7 @@
 title: Musashino-Bana
 description: One of the oldest attested hanafuda-specific fishing games.
 published: true
-date: 2022-09-13T04:27:28.875Z
+date: 2022-09-13T06:49:16.304Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-12T23:03:43.708Z
@@ -94,8 +94,18 @@ Also, if an Insta-Win Yaku is formed, the winner receives points for the Insta-W
 |2|**Three Purple Flowers**<br>三紫 [さんむら, *san mura*]|A ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria Chaff, an ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris Chaff, and a ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff.</br>It is also assumed that the Yellow Paulownia Chaff is not included in this Yaku.|
 |<h2 align="center">Two Card Yaku (Worth 1 point)</h2>|||
 |1|**Coat of Arms**<br>菊桐 [きくぎり, *kiku-kiri*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)</br>Two Coats of Arms of the Imperial Family.|
-|30|**Six Ribbons**<br>六短 [ろくたん, *rokutan*]|Any 6 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).|
-|40|**Poetry Ribbons**<br>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|1|**Moon Banquet**<br>月の宴 [つきのうたげ, *tsuki no utage*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|1|**Flower Banquet**<br>花の宴 [はなのうたげ, *hana no utage*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup) plus 1 of:</br>[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|1|**Autumn Leaves**<br>紅葉の賀 [いちょうのが, *ichou no ga*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup) plus 1 of:</br>[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|1|**Cuckoo with Moon**<br>月ホト [つきほと, *tsuki hoto*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|1|**Butterflies with Flowers**<br>蝶花 [ちょうか, *chou ka*]|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|1|**Boar with Peony**<br>獅子牡丹 [ししぼたん, *shishi botan*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)</br>This is a reference to Karajishi [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
+|<h2 align="center">Four-of-a-kind Yaku (Worth 1 point)</h2>|||
+|1|**Plum Blossom Pot**<br>梅壷 [うめつぼ, *ume tsubo*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|
+|1|**Wisteria Pot**<br>藤壷 [ふじつぼ, *fuji tsubo*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
+|1|**Iris Bridge**<br>八ツ橋 [やつはし, *yatsuhashi*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)|
+|1|**Paulownia Pot**<br>桐壷 [きりつぼ, *kiri tsubo*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 
-
-under construction
+# Bibliography
+- https://mixi.jp/view_bbs.pl?comm_id=49586&page=all&id=4614383
+- 明治41年３月10日「風俗画報」第381号９～11ページ 永沼小一郎「古今室内遊戯余談」前編
