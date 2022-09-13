@@ -2,7 +2,7 @@
 title: Musashino-Bana
 description: One of the oldest attested hanafuda-specific fishing games.
 published: true
-date: 2022-09-13T06:49:16.304Z
+date: 2022-09-13T06:59:33.471Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-12T23:03:43.708Z
@@ -14,7 +14,7 @@ It is mentioned in Part 1 of the Chapter, "Indoor Games All Around the World" [�
 
 Originally not being given any name, the game was termed "Musashino" by hanafuda researcher Yasumasa Otsuka, after an old term for hanafuda decks made during the Edo period.
 
-The game can be played by 3 players, or 4 players playing in teams of 2. If playing in teams, then each team shares the same capture area.
+The game can be played by 3 players, or 4 players playing in teams of 2. **If playing in teams, then each team shares the same capture area**.
 
 It plays like a typical [Hana-awase](/en/hanafuda/games/hana-awase) game but without any card points or Teyaku. The unique feature of this game is in the names of the Dekiyaku, which seem to only make sense in the context of old hanafuda designs.
 
@@ -45,7 +45,7 @@ The remainder of the deck is placed face-down to form the draw pile.
 If 4 cards of the same month are dealt to the table, then a **misdeal** is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 
 # Gameplay
-In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The gameplay is the same as in Hana-awase, and the round ends when either all players run out of cards in hand, or if a player forms an Insta-Win Dekiyaku.
+In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The gameplay is the same as in Hana-awase, and the round ends when either all players run out of cards in hand, or if a player or team forms an Insta-Win Dekiyaku.
 
 ## Storm Rule (Optional Rule)
 There are two different ways to implement the Storm Rule:
@@ -56,14 +56,14 @@ There are two different ways to implement the Storm Rule:
 If a player used the Rainman or Lightning card as per the Storm Rule, if an opponent then captures the ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane, then the effects of the Rainman or Lightning card are invalidated.
 
 ## Scoring
-If a player forms an Insta-Win Dekiyaku, the round stops immediately, and the player wins. The loser(s) must pay the winner 8 points.
+If a player or team forms an Insta-Win Dekiyaku, the round stops immediately, and the player/team wins. The losing players/team must pay the winning player/team 8 points.
 
 > This amount is only assumed; it is not mentioned in the book how many points an Insta-Win Dekiyaku is worth.
 {.is-warning}
 
-Otherwise, all players check for all Dekiyaku they formed, and calculate the total Dekiyaku points they have obtained.
+Otherwise, all players/teams check for all Dekiyaku they formed, and calculate the total Dekiyaku points they have obtained.
 
-The player with the **most Dekiyaku points wins**, and the loser(s) must pay the winner the **difference of their score to the winner**.
+The player/team with the **most Dekiyaku points wins**, and the losing players/team must pay the winning player/team the **difference of their score to the winning player/team**.
 
 # Dekiyaku
 Dekiyaku in this game are classified by their value and composition.
@@ -105,6 +105,13 @@ Also, if an Insta-Win Yaku is formed, the winner receives points for the Insta-W
 |1|**Wisteria Pot**<br>藤壷 [ふじつぼ, *fuji tsubo*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |1|**Iris Bridge**<br>八ツ橋 [やつはし, *yatsuhashi*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)|
 |1|**Paulownia Pot**<br>桐壷 [きりつぼ, *kiri tsubo*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
+
+# Contradictions regarding the Lightning card
+The game mentions the use of a lightning card, and the book also mentions that the Willow cards all have secenery on them. 
+
+However, actual Musashino cards don’t have a “lightning” card; instead, lightning is drawn on the Rainman card, where the Rainman is thought to depict Ono Sadakuro (as opposed to Ono no Michikaze in modern Hanafuda decks). 
+
+On the other hand, the Willow Chaff in a Musashino deck looks typical of other Chaff, containing nothing but Willow branches on the card.
 
 # Bibliography
 - https://mixi.jp/view_bbs.pl?comm_id=49586&page=all&id=4614383
