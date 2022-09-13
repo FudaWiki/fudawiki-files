@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-12T23:04:28.514Z
+date: 2022-09-13T13:37:27.210Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -54,6 +54,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hanahuda](/en/hanafuda/games/hanahuda), a.k.a. Hanakuda or Palauan Hanafuda|2-4|Fishing|Palau|
 |[Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant)|2+|Banking|Chukyo region, Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Japan|
+|[Hiyoko](/en/hanafuda/games/hiraya)|3|Fishing|Japan|
 |[Hiyoko](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi), a.k.a. Hyaku-Otoshi|2-3|Fishing|Japan|
