@@ -2,7 +2,7 @@
 title: Oni
 description: a hanafuda game similar to last card or UNO
 published: true
-date: 2022-10-03T04:16:55.443Z
+date: 2022-10-03T04:21:35.720Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-03T04:16:55.443Z
@@ -40,7 +40,7 @@ If a player is **unable to discard a card** from their hand, they must **draw 1 
 - **bridge** = you get another turn, however, you must discard a card on top of the bridge card. if you can't, you must draw cards until you are able to do so. you cannot end the round using the bridge card (if you discard the bridge and it's the last card in your hand, then you must draw card(s) until you can discard a card on top of the bridge).
 - **any willow card** = next player skips turn
 - **sake cup** = counts as both animal and junk, and may be discarded onto either an animal or junk card, or may be followed by another card that is either an animal or junk.
-- **lightning** = if you discard it, you have the option to declare to end the round. If you do, all points from the cards left in your hand will be deducted from your score. you cannot discard this card during your first turn.
+- **lightning** = if you discard it, you have the option to declare to end the round. If you do, all points from the cards left in your hand will be deducted from your positive score. you cannot discard this card during your first turn.
 
 # End of Round
 The round ends once a player runs out of cards in hand; that player is declared the **winner** for that round and becomes the dealer for the next round.
@@ -72,8 +72,8 @@ Card Points are **standard**, with some exceptions.
 
 ### Bonuses
 - if a player ends the round by discarding a rainman, then each loser must pay an additional 5 points to the winner.
-- if a player ends the round by discarding a lightning, then each loser must pay double.
-- if the dealer ends the round, then each loser must pay double (after applying other bonuses, if any)
+- if a player ends the round by discarding a lightning, then all card points in each player's hand are doubled (after applying other bonuses, if any)
+- if the dealer ends the round, then all card points in each player's hand are doubled (after applying other bonuses, if any)
 
 ## Tabulating the Scores
 The scores for each month are tabulated, and the total scores of each player are checked if any has reached the goal score.
