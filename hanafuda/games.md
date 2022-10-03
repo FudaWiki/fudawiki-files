@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-09-13T14:54:11.055Z
+date: 2022-10-03T03:27:27.621Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -173,6 +173,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Oni-Nuki|-|-|
 |Tsuki-Ate|-|-|
 |Zei-kan|-|-|
+## Greyson
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Oni](/newgames/oni_greyson), a.k.a. 270|2-8|Matching|
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
