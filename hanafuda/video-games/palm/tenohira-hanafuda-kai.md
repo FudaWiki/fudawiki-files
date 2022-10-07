@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T19:06:32.291Z
+date: 2022-10-07T19:06:49.569Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -16,7 +16,7 @@ It was developed by Hiroki Takahashi.
 
 ## Download
 - [http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana](http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana) (archived by ribbon network)
-- [https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/](https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/) (archived by wayback machine)
+- [https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/#hana](https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/#hana) (archived by wayback machine)
 
 ## Cards
 
