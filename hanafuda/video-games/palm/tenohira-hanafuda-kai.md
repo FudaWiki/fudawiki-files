@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T19:14:41.502Z
+date: 2022-10-07T19:15:07.270Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -20,7 +20,7 @@ It was developed by Hiroki Takahashi.
 
 ## Two versions
 1. low-resolution, offers only key control
-2. high-reslution, adds touch screen control
+2. high-reslution, "kai", adds touch screen control
 
 I beleive both support Sony CLIÉ jog dial control.
 
