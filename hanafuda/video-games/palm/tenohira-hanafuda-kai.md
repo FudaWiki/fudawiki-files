@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T19:13:11.038Z
+date: 2022-10-07T19:14:41.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -17,6 +17,12 @@ It was developed by Hiroki Takahashi.
 ## Download
 - [http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana](http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana) (archived by ribbon network)
 - [https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/#hana](https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/#hana) (archived by wayback machine)
+
+## Two versions
+1. low-resolution, offers only key control
+2. high-reslution, adds touch screen control
+
+I beleive both support Sony CLIÉ jog dial control.
 
 ## Cards
 
