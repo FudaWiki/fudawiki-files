@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T19:15:07.270Z
+date: 2022-10-07T19:15:31.800Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -29,4 +29,4 @@ I beleive both support Sony CLIÉ jog dial control.
 ![hana_kai_cards.png](/hana_kai_cards.png)
 
 ## Related
-- [/en/hanafuda/video-games/palm/tenohira-hanafuda-pag-j-version](/en/hanafuda/video-games/palm/tenohira-hanafuda-pag-j-version)
+- [Tenohira Hanafuda PAG-J version](/en/hanafuda/video-games/palm/tenohira-hanafuda-pag-j-version)
