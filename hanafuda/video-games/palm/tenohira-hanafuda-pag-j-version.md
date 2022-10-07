@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda PAG-J version
 description: 
 published: true
-date: 2022-10-07T19:16:12.385Z
+date: 2022-10-07T19:20:37.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:40.205Z
@@ -15,6 +15,7 @@ This is an alternative low-resolution version of Tenohira Hanafuda with graphics
 
 ## Download
 - [https://web.archive.org/web/20070808205034/http://www.shundo.com/pag-j/download.htm](https://web.archive.org/web/20070808205034/http://www.shundo.com/pag-j/download.htm) (archived by wayback machine)
+- [https://web.archive.org/web/20050930154407/http://www.shundo.com/pag-j/download/mak21/hanafuda/hana_dl.html](https://web.archive.org/web/20050930154407/http://www.shundo.com/pag-j/download/mak21/hanafuda/hana_dl.html) (archived by wayback machine)
 
 ## Related
 - [Tenohira Hanafuda (Kai)](https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai)
