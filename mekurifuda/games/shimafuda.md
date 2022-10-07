@@ -2,7 +2,7 @@
 title: Shimafuda
 description: A fishing game played with uniquely designed mekurifuda cards.
 published: true
-date: 2022-10-04T04:41:56.419Z
+date: 2022-10-07T15:08:32.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T04:41:56.419Z
@@ -95,6 +95,9 @@ When the onifuda is drawn from the draw pile, it automatically goes to the captu
 
 If the onifuda appears on the field at the beginning of the round, the dealer takes it before starting their turn.
 
+> Note that the red color on the onifuda is only present on the 2022 Kotobuki version of the deck.
+{.is-warning}
+
 # Scoring
 Each player's card points are then counted and subtracted by a par score to get the settlement score.
 
@@ -112,6 +115,9 @@ In addition to the usual card point scoring, a player who forms a yaku **receive
 - Four Sevens (all four yellow cards)
 - Four Eights (all four blue cards)
 - Four Nines (all four green cards)
+
+> Note that colors on the cards are only present on the 2022 Kotobuki version of the deck.
+{.is-warning}
 
 # Number of Rounds
 It is recommended to play in multiples of 3 rounds for 3 players, and in multiples of 4 rounds for 4 players, to make sure every player has an equal chance of being dealer.
