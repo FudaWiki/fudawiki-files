@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-07-15T05:11:29.372Z
+date: 2022-10-07T15:29:02.707Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -12,11 +12,15 @@ There are 12 suits of 4 cards each in the standard [Hanafuda](/en/hanafuda) deck
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
-The column labeled "Standard" is the most common ordering used for Japanese Hanafuda games, and should be used unless otherwise specified. The Korean order is assumed for games originally played with [Hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
+The column labeled **"Standard"** is the most common ordering used for Japanese Hanafuda games, and should be used unless otherwise specified. 
 
-The "Kabu" column reflects a Hanafuda deck with the Willow and Paulownia suits removed, making it suitable for adapting games originally played with the 40-card [Kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [Mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
+The **Korean** order is assumed for games originally played with [Hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
 
-The order reflected in the final column is used in certain Japanese games from the Nagoya region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/isuri). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about.
+The **"Kabu"** column reflects a Hanafuda deck with the last two suits (Willow and Paulownia) removed, making it suitable for adapting games originally played with the 40-card [Kabufuda](/en/kabufuda) deck. 
+
+The **"Mushi"** column is similar, but reflects instead the [Mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is commonly used to play [Osaka Mushi](/en/hanafuda/games/mushi). This order is used in the game [Mushi-Kabu](/en/kabufuda/games/kyo-kabu#mushi-kabu-kyo-kabu-variant), where the Willow and Paulownia suits were used as substitutes for the Peony and Bush Clover suits respectively.
+
+The order reflected in the final column is used in certain Japanese games from the **Nagoya** region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/isuri). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about. This order must have been devised to mimic the card structure of a [Mekurifuda](/en/mekurifuda) deck, so that the Hanafuda deck could be used to play games designed for Mekurifuda decks.
 
 |#|Month|Icon|Standard|Korean|Kabu|Mushi|Nagoya|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
