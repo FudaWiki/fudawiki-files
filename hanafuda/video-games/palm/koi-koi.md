@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2022-04-10T15:29:24.227Z
+date: 2022-10-07T13:59:10.585Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:21.694Z
@@ -48,9 +48,10 @@ It was developed by Keisuke Mitani.
 
 ## Compatibility
 - Only works on certain Palm devices (monochrome screen?)
+- Easiest is to use [CloudPilot](https://cloudpilot-emu.github.io) emulator with a Japanese Palm OS system ROM
 - Playable on Sony Clié PEG-SL10 running PalmOS 4.1
-- Playable on Android using StyleTap (without Japanese text support)
 - Use CJKOS or J-OS (PalmOS apps) to have the Japanese text in the user interface display correctly
+- Playable on Android using StyleTap (without Japanese text support)
 
 ## Links
 - [http://www.boarderz.com/palm/](https://web.archive.org/web/20070607220502/http://www.boarderz.com:80/palm/) (archived on 2007-06-07)
