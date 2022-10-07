@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-07T06:47:27.169Z
+date: 2022-10-07T23:47:19.682Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -49,6 +49,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
+|[Dorijitgo-ttaeng](/en/hanafuda/games/seotda#dorijitgo-ttaeng)|2-8|Showdown|Korea|
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
 |[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
