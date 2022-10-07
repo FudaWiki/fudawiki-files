@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T19:06:49.569Z
+date: 2022-10-07T19:13:11.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -21,3 +21,6 @@ It was developed by Hiroki Takahashi.
 ## Cards
 
 ![hana_kai_cards.png](/hana_kai_cards.png)
+
+## Related
+- [/en/hanafuda/video-games/palm/tenohira-hanafuda-pag-j-version](/en/hanafuda/video-games/palm/tenohira-hanafuda-pag-j-version)
