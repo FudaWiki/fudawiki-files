@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-04T02:39:49.417Z
+date: 2022-10-07T06:47:27.169Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -16,6 +16,9 @@ This is a list of known [hanafuda](/en/hanafuda) games, arranged alphabetically 
 3. **Sequence** games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents.
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
+
+# Traditional Games
+
 ## Popular Games
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Origin|
