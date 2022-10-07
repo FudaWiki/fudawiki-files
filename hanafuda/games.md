@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-07T23:47:19.682Z
+date: 2022-10-07T23:48:34.176Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -31,6 +31,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Japan|
 |[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Higo Province, Japan|
+|[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
@@ -109,7 +110,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
-|[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Gushikawa, Uruma City, Okinawa, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
