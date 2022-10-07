@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-07T06:09:22.727Z
+date: 2022-10-07T06:17:39.554Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -31,9 +31,14 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 
 ## Games using One-Suited Decks
 For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/games).
-|Game|Players|Family|Origin||
-|:---|:---:|:---:|---:|
-|[Dontsuku](/en/mekurifuda/games/dontsuku)|||Japan|
-|[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|
-|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Japan|
-|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
+|Game|Players|Family|Origin|Pattern Used|
+|:---|:---:|:---:|---:|---:|
+|[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
+|[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
+|[Dare](/en/kabufuda/games/dare)|-|Showdown|Japan|Komaru|
+|[Dosari](/en/kabufuda/games/dosari)|-|-|Japan|Kinseizan|
+|[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Japan|Irinokichi|
+|[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|Daini|
+|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Japan|Daini|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|Mefuda or Daini|
+|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|Komaru|
