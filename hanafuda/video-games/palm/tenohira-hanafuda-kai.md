@@ -2,7 +2,7 @@
 title: Tenohira Hanafuda (Kai)
 description: 
 published: true
-date: 2022-10-07T13:40:31.426Z
+date: 2022-10-07T19:06:32.291Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:21:33.449Z
@@ -13,6 +13,10 @@ It was developed by Hiroki Takahashi.
 
 ## Rules
 - Koi-Koi
+
+## Download
+- [http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana](http://infoseek_rip.g.ribbon.to/crspalm.hp.infoseek.co.jp/#hana) (archived by ribbon network)
+- [https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/](https://web.archive.org/web/20021207005845/http://crspalm.hp.infoseek.co.jp/) (archived by wayback machine)
 
 ## Cards
 
