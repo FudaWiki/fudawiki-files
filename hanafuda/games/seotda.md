@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T07:33:24.810Z
+date: 2022-10-08T09:48:15.389Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -61,7 +61,7 @@ In case of a tie, the pot is kept intact. The players involved in the tie must p
 |**1 and 10**<br>장삥</br>(*Jangpping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Maple (10) ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
 |**10 and 4**<br>장사</br>(*Jangsa*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Maple (10) ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)<br>Funeral house rule variant treats this hand as the strongest hand as the Korean word for 'funeral' is the same as this hand's name.|
 |**4 and 6**<br>세륙</br>(*Seryuk*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Peony (6) ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|
-|**High sum**<br>끗</br>(*Kkeut*)|If your cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gap-o** (갑오).</br>0 is the weakest, and is called **Mangtong** (망통).|
+|**High sum**<br>끗</br>(*Kkeut*)|Cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gap-o** (갑오).</br>0 is the weakest, and is called **Mangtong** (망통).|
 
 
 ## Special Hands
@@ -93,12 +93,25 @@ This variant uses 40 cards instead of usual 20, and hand ranks are quite differe
 |**1 and 9**<br>구삥</br>(*Gupping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|
 |**1 and 4**<br>사삥</br>(*Sapping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x).|
 |**1**<br>삥</br>(*Pping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and any other card which does not form any of the hands above.<br>Latest month is the strongest.|
-|**High sum**<br>끗</br>(*Kkeut*)|If your cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gabo** (가보).</br>0 is the weakest, and is called **Tteok** (떡).|
+|**High sum**<br>끗</br>(*Kkeut*)|Cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gabo** (가보).</br>0 is the weakest, and is called **Tteok** (떡).|
 
 # Other Variants
-## 3-card Seotda
-### Sambong Seotda
-### Internet 3-card Seotda
+## Dealing Variants
+Seotda's base rules are 2-card straight.
+
+However, the game can be played with some variations like 2-card draw, 3-card straight (삼봉 섰다 - *Sambong Seotda*), 3-card stud (3-card Seotda serviced on Korean online platforms), 3-card draw (Hangame services this variant as 섯둑이 - *Seot-dugi*), 3-card community (2 cards in hand and a community card, Hangame services this variant as 홀덤 섯다 - Hold'em *Seotda*) and etc.
+
+## 3-card combinations
+In this 3-card Seotda variant a set of 3 cards may form a hand instead of 2 cards among them, which trumps all regular hands.
+
+|HAND|CARDS|
+|:---:|:---:|
+|**Three Brights**<br>광봉</br>(*Gwangbong*)|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|**Five Birds**<br>고도리</br>(*Godori*)|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
+|**Poetry Ribbons**<br>홍단</br>(*Hongdan*)|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|**Blue Ribbons**<br>청단</br>(*Cheongdan*)|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|**Grass Ribbons**<br>초단</br>(*Chodan*)|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|**Three of a kind**<br>봉</br>(*Bong*)|Any three cards of the same month. Latest month is the strongest.<br>This hand is possible only while using 40 cards.|
 
 # References
 - http://harryshwatuhowto.blogspot.com/2015/06/how-to-play-seotda.html
