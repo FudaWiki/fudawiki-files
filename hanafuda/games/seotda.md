@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T12:33:20.936Z
+date: 2022-10-08T15:05:17.377Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -149,3 +149,4 @@ Like Seotda, Dorijitgo-ttaeng can be played with variations, albeit much like Po
 - https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%83%E3%82%BF
 - 미래컨텐츠창작연구소, 화투의 기술, 21세기북스, 2015, pp. 100-115.
 - https://namu.wiki/w/%EC%84%B0%EB%8B%A4
+- https://namu.wiki/w/%EB%8F%84%EB%A6%AC%EC%A7%93%EA%B3%A0%20%EB%95%A1
