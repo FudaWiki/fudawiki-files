@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T15:05:17.377Z
+date: 2022-10-08T15:06:25.006Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -128,7 +128,7 @@ In this 3-card Seotda variant a set of 3 cards may form a hand instead of 2 card
 
 A hand of Dorijitgo-ttaeng consists of 5 cards. Players must form a combination of 3 cards whose value total is divisible by 10 (10, 20, 30) and use two remaining cards to determine the hand rank, similar to [Gomai-kabu](/en/kabufuda/games/gomai-kabu).
 
-If a player fails to create a 3-card combination, the player **busts** (황, *hwang*) and loses regardless of other two cards unless all the other players bust (and score a tie) or fold (in this case the surviving player win as the normal rules).
+If a player fails to create a 3-card combination, the player **busts** (황, *hwang*) and loses regardless of other two cards unless all the other players bust (and score a tie) or fold (in this case the surviving player wins as the normal rules).
 
 ## Double Pair
 
