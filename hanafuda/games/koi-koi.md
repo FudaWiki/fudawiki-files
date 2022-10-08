@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2022-10-08T01:50:18.617Z
+date: 2022-10-08T01:52:08.505Z
 tags: hanafuda games, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -200,7 +200,7 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 
 - When the game ends in a draw - either an exhaustive draw, or due to both players holding lucky hands - the dealer scores a number of points (typically 1 or 6) and remains dealer for the next round. This is known as *dealer's privilege* [親権 - おやけん, *oya-ken*].
 - When the game ends in a draw, the role of dealer passes to the other player for the next round, as opposed to staying with the current dealer.
-- When the game ends in an exhaustive draw, the last player to capture or improve a yaku obtains their yaku scores, and becomes the dealer for the next round.
+- When the game ends in an exhaustive draw, the last player to form or improve a yaku obtains their yaku scores, and becomes the dealer for the next round.
 
 ## Calling *Koi-Koi*
 
