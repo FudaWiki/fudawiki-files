@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-08-23T06:55:04.616Z
+date: 2022-10-08T03:29:29.728Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -11,13 +11,9 @@ dateCreated: 2022-08-23T06:45:33.075Z
 > This article is **INCOMPLETE**. You can help by expanding it.
 {.is-warning}
 
-**Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-10 players in which players bet on the value of their dealt cards across multiple rounds, similar to most poker games.
+**Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-10 players in which players bet on the value of their dealt cards across multiple rounds, similar to other showdown games like Poker. The name comes from the word shouted to indicate the start of betting.
 
-The name comes from the word shouted to indicate the start of betting.
-
-The game seems to be closely related to the game [Kachi-Kachi](/en/kabufuda/games/kachi-kachi), but shares the same method of gameplay as Poker, even down to borrowing the same terminologies during betting. Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
-
-There also seems to be a local variant of Seotda played in Jeju Island.
+Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead, adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu) and Korean online sites borrowed the betting process of their Poker implementations. Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
 
 # Equipment
 **Seotda** is played using **20 cards** of a *Hanafuda* deck, consisting of only the two most valuable types of the cards from January to October.
@@ -28,7 +24,7 @@ There also seems to be a local variant of Seotda played in Jeju Island.
 > **You must be familiar with the [month sequence](/en/hanafuda/suits#arrangement-of-suits) of the cards to play the game.**
 {.is-warning}
 
-> It is also attested to be played in Jeju Island using 40 cards, by only removing the Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and Paulownia ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards from the deck. For the purposes of these rules, only 20 cards will be used in the game.
+> The game can also be played using **40 cards** from January to October including Chaff cards.
 {.is-warning}
 
 Additionally, **chips** or other small counters are used to keep track of bets and players' scores.
