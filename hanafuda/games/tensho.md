@@ -2,14 +2,14 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2022-10-08T16:18:18.016Z
+date: 2022-10-08T16:19:12.433Z
 tags: hanafuda games, fishing games, alternate suit order, stripped deck
 editor: markdown
 dateCreated: 2022-04-01T18:03:52.824Z
 ---
 
-**Tensho** is a hanafuda game for two players, likely originating in the Nagoya region of Japan. Like some other games from the area, it is played without the 3 [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff, and it uses an alternate [suit order](/en/hanafuda/suits#arrangement-of-suits) shared with [Hon-Bana](/en/hanafuda/games/honbana), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/isuri). Other notable features are its two different sets of yaku, only one of which is used each round, and its two-tiered tie-breaking arbitration.
-c
+**Tensho** is a hanafuda game for two players, likely originating in the Nagoya region of Japan. Like some other games from the area, it is played without the 3 [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff, and it uses an alternate [suit order](/en/hanafuda/suits#arrangement-of-suits) shared with [Hon-Bana](/en/hanafuda/games/honbana), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant). Other notable features are its two different sets of yaku, only one of which is used each round, and its two-tiered tie-breaking arbitration.
+
 # Setup
 First, **prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff](/en/hanafuda/suits/paulownia)**  from a standard [hanafuda](/en/hanafuda) deck, leaving a **45-card** deck. Choose the initial dealer in whatever manner preferred. **In subsequent rounds, the winner of the previous round becomes the new dealer.** Player should also agree on the duration of the game - some common options are 3, 6, or 12 rounds.
 ## Yaku Selection
