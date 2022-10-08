@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-07T23:49:09.987Z
+date: 2022-10-08T07:08:16.078Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -31,7 +31,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Japan|
 |[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Higo Province, Japan|
-|[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-10|Showdown|Korea|
+|[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Korea|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
