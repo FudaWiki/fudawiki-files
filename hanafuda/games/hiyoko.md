@@ -2,7 +2,7 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-08-25T15:31:14.944Z
+date: 2022-10-08T15:55:15.544Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
@@ -78,7 +78,7 @@ In all cases, the player who drew a card and put it on the discard pile must dis
 If the card on the discard pile is **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x), and you have both a **January** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a **February**![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card in your hand, instead of just discarding the February card, **you can discard the January card first before discarding the February card**.
 
 # Ghost Cards
-In Poka, there are **10 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered special cards in the game.
+In Hiyoko, there are **10 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered special cards in the game.
 
 The first five cards in the list can be **counted as a Ghost Card either in the hand or on the discard pile**. They can be discarded if the top card on the discard pile is a month before any of the months assigned to the Ghost Card. Also, if they are on the discard pile, They can be followed with a card of the next month from any of the months assigned to the Ghost Card.
 
