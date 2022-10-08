@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T12:20:53.705Z
+date: 2022-10-08T12:21:06.400Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -141,7 +141,7 @@ In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results i
 
 ## Dealing variants
 
-Like Seotda, Dorijitgo-ttaeng can be played with variations, albeit much like Poker 녀such as 5-card draw, 7-card stud or Hold'em since the hand consists of 5 cards just like Poker. Common rules use 5-card straight.
+Like Seotda, Dorijitgo-ttaeng can be played with variations, albeit much like Poker such as 5-card draw, 7-card stud or Hold'em since the hand consists of 5 cards just like Poker. Common rules use 5-card straight.
 
 # References
 - http://harryshwatuhowto.blogspot.com/2015/06/how-to-play-seotda.html
