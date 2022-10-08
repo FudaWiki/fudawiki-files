@@ -2,13 +2,13 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T07:05:39.656Z
+date: 2022-10-08T07:07:48.931Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
 ---
 
-**Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-10 players in which players bet on the value of their dealt cards across multiple rounds, similar to other showdown games like Poker. The name comes from the word shouted to indicate the start of betting.
+**Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-20 players in which players bet on the value of their dealt cards across multiple rounds, similar to other showdown games like Poker. The name comes from the word shouted to indicate the start of betting.
 
 
 Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead, adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
