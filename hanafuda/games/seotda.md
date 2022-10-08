@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T04:15:58.679Z
+date: 2022-10-08T07:05:39.656Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-23T06:45:33.075Z
 **Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-10 players in which players bet on the value of their dealt cards across multiple rounds, similar to other showdown games like Poker. The name comes from the word shouted to indicate the start of betting.
 
 
-Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead, adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu) and Korean online sites borrowed the betting process of their Poker implementations. Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
+Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead, adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
 
 # Equipment
 **Seotda** is played using **20 cards** of a *Hanafuda* deck, consisting of only the two most valuable types of the cards from January to October.
@@ -23,7 +23,8 @@ Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630),
 {.is-warning}
 
 > The game can also be played using **40 cards** from January to October including Chaff cards.
-{.is-warning}
+{.is-info}
+
 
 Additionally, **chips** or other small counters are used to keep track of bets and players' scores.
 
@@ -51,16 +52,16 @@ In case of a tie, the pot is kept intact. The players involved in the tie must p
 
 |HAND|CARDS|
 |:---:|---|
-|**Bright 3 and 8**<br>삼팔광땡<br>(*Sampal Gwangttaeng*)|Brights of Cherry Blossom(3)![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) and Susuki Grass(8)![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x).</br>[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|**Bright Pair**</br>광땡</br>(*Gwangttaeng*)|Brights of Pine(1)![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and either Cherry Blossom(3)![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) or Susuki Grass(8)![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x). Later month is the strongest.</br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)</br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
-|**Pair**<br>땡</br>(*Ttaeng*)|Any two cards of the same month. Latest month is the strongest.<br>10 is the strongest, and is called **Jangttaeng** (장땡)</br>1 is the weakest, and is called **Ppingttaeng** (삥땡)|
-|**1 and 2**<br>알리</br>(*Alli*)|A Pine(1)![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Plum Blossom(2)![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x).|
-|**1 and 4**<br>독사</br>(*Doksa*)|A Pine(1)![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x).|
-|**1 and 9**<br>구삥</br>(*Gupping*, same as Japanese *Kuppin*)|A Pine(1)![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Chrysanthemum(9)![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|
-|**1 and 10**<br>장삥</br>(*Jangpping*)|A Pine(1)![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Maple(10)![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
-|**10 and 4**<br>장사</br>(*Jangsa*)|A Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Maple(10)![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)<br>Funeral house rule variant treats this hand as the strongest hand as the Korean word for 'funeral' is the same as this hand's name.|
-|**4 and 6**<br>세륙</br>(*Seryuk*)|A Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Peony(6)![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|
-|**High sum**<br>끗</br>(*Kkeut*)|If your cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gap-o** (갑오)</br>0 is the weakest, and is called **Mangtong** (망통)|
+|**Bright 3 and 8**<br>삼팔광땡<br>(*Sampal Gwangttaeng*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|**Bright Pair**</br>광땡</br>(*Gwangttaeng*)|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)</br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)<br>1 and 8 is stronger than 1 and 3.|
+|**Pair**<br>땡</br>(*Ttaeng*)|Any two cards of the same month. Latest month is the strongest.<br>10 is the strongest, and is called **Jangttaeng** (장땡).</br>1 is the weakest, and is called **Ppingttaeng** (삥땡).|
+|**1 and 2**<br>알리</br>(*Alli*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Plum Blossom (2) ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x).|
+|**1 and 4**<br>독사</br>(*Doksa*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x).|
+|**1 and 9**<br>구삥</br>(*Gupping*, same as Japanese *Kuppin*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|
+|**1 and 10**<br>장삥</br>(*Jangpping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Maple (10) ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
+|**10 and 4**<br>장사</br>(*Jangsa*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Maple (10) ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)<br>Funeral house rule variant treats this hand as the strongest hand as the Korean word for 'funeral' is the same as this hand's name.|
+|**4 and 6**<br>세륙</br>(*Seryuk*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Peony (6) ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|
+|**High sum**<br>끗</br>(*Kkeut*)|If your cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gap-o** (갑오).</br>0 is the weakest, and is called **Mangtong** (망통).|
 
 
 ## Special Hands
@@ -68,12 +69,32 @@ These hands have special abilities.
 
 |HAND|CARDS|
 |:---:|---|
-|**4 and 9**<br>사구 / 구사</br>(*Sagu* or *Gusa*)|A Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Chrysanthemum(9)![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x).</br> If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair**.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
-|**Animal 4 and 9**<br>멍텅구리 사구 / 구사</br>(*Meongteongguri Sagu* or *Gusa*)|Animals of Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and Chrysanthemum(9)![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)</br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)</br>If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair of 10**.<br>Some variants allow a rematch against a **Pair of 10** too.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
-|**Pair hunter**<br>땡잡이</br>(*Ttaengjabi*)|Animals of Cherry Blossom(3)![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) and Bush Clover(7)![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x).* </br>[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Pair** (땡, *Ttaeng*) of 1 to 9, this hand wins instead. Otherwise, it is treated as **Sum of 0**.</br> * Some play such that any Cherry Blossom(3)![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) card and any Bush Clover(7)![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card counts as this hand.|
-|**Bright Pair hunter**<br>암행어사</br>(*Amhaeng-eosa*)|Animals of Wisteria(4)![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and Bush Clover(7)![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x).</br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Bright Pair** except 3 and 8, This hand wins instead. Otherwise, it is treated as **Sum of 1**.|
+|**4 and 9**<br>사구 / 구사</br>(*Sagu* or *Gusa*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x).</br> If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair**.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
+|**Animal 4 and 9**<br>멍텅구리 사구 / 구사</br>(*Meongteongguri Sagu* or *Gusa*)|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)</br>If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair of 10**.<br>Some variants allow a rematch against a **Pair of 10** too.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
+|**Pair hunter**<br>땡잡이</br>(*Ttaengjabi*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Pair** (땡, *Ttaeng*) of 1 to 9, this hand wins instead. Otherwise, it is treated as **Sum of 0**.</br> * Some play such that any Cherry Blossom (3) ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) card and any Bush Clover (7) ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card counts as this hand.|
+|**Bright Pair hunter**<br>암행어사</br>(*Amhaeng-eosa*)|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Bright Pair** except 3 and 8, This hand wins instead. Otherwise, it is treated as **Sum of 1**.|
 
 # Jeju Island Variant
+
+This variant uses 40 cards instead of usual 20, and hand ranks are quite different from popular Seotda rules.
+
+
+|HAND|CARDS|
+|:---:|---|
+|**Pair of 10**<br>장땡</br>(*Jangttaeng*)|Two Maples (10)![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
+|**Draw hand**<br>파분</br>(*Pabun*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x).</br> If you have this hand, you may declare a **rematch** except when the winning hand is a **Pair of 10**.|
+|**Pair**<br>땡</br>(*Ttaeng*)|Any two cards of the same month. Latest month is the strongest.<br>1 is the weakest, and is called **Ppingttaeng** (삥땡).|
+|**7 and 5**<br>곤질</br>(*Gonjil*)|An Iris (4) ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x) and a Bush Clover (6) ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|
+|**4 and 6**<br>세륙</br>(*Seryuk*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Peony (6) ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|
+|**Bright Pair**<br>광땡<br>(*Gwangttaeng*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br>In this variant only 3 and 8 Pair is considered as a valid Bright Pair and the rank is much lower compared to popular rules.|
+|**1 and 3**<br>삼삥</br>(*Sampping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Cherry Blossom (3) ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x).|
+|**1 and 2**<br>이삥</br>(*Ipping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Plum Blossom (2) ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x).|
+|**1 and 10**<br>장삥</br>(*Jangpping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Maple (10) ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
+|**1 and 9**<br>구삥</br>(*Gupping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|
+|**1 and 4**<br>사삥</br>(*Sapping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x).|
+|**1**<br>삥</br>(*Pping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and any other card which does not form any of the hands above.<br>Latest month is the strongest.|
+|**High sum**<br>끗</br>(*Kkeut*)|If your cards do not form any of the hands above.</br>Count the sum of the month numbers of the cards, and the *ones* digit of the sum will determine the value of the hand.</br>9 is the strongest, and is called **Gabo** (가보).</br>0 is the weakest, and is called **Tteok** (떡).|
+
 # Other Variants
 ## 3-card Seotda
 ### Sambong Seotda
