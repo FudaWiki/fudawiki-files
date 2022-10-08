@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T07:33:14.723Z
+date: 2022-10-08T07:33:24.810Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -72,7 +72,7 @@ These hands have special abilities.
 |**4 and 9**<br>사구 / 구사</br>(*Sagu* or *Gusa*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x).</br> If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair**.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
 |**Animal 4 and 9**<br>멍텅구리 사구 / 구사</br>(*Meongteongguri Sagu* or *Gusa*)|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)</br>If you have this hand, you may declare a **rematch** if the winning hand is less than a **Pair of 10**.<br>Some variants allow a rematch against a **Pair of 10** too.<br>Some variants allow folded players to join the rematch if they pay extra fee to the pot (normally 50% of the bet of each player).|
 |**Pair hunter**<br>땡잡이</br>(*Ttaengjabi*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Pair of 1 to 9**, this hand wins instead. Otherwise, it is treated as **Sum of 0**.</br> * Some play such that any Cherry Blossom (3) ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) card and any Bush Clover (7) ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) card counts as this hand.|
-|**Bright Pair hunter**<br>암행어사</br>(*Amhaeng-eosa*)|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Bright Pair** except 3 and 8, This hand wins instead. Otherwise, it is treated as **Sum of 1**.|
+|**Bright Pair hunter**<br>암행어사</br>(*Amhaeng-eosa*)|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)</br>If the winning hand is a **Bright Pair except 3 and 8**, This hand wins instead. Otherwise, it is treated as **Sum of 1**.|
 
 # Jeju Island Variant
 
