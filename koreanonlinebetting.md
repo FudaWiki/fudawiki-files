@@ -2,7 +2,7 @@
 title: Korean Online Site Betting System
 description: 
 published: true
-date: 2022-10-08T03:34:45.052Z
+date: 2022-10-08T03:39:22.446Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T03:32:49.764Z
@@ -39,3 +39,6 @@ Players who have not folded then proceed to *showdown*.
 
 >If all players except one fold, the last remaining player collects the pot without proceeding to *showdown*.
 {.is-info}
+
+## Showdown
+Starting with the dealer (or closest player in order), each player reveals their cards. Hands are evaluated according to the *Hand Rankings* chart below. The winner of the hand collects the pot and becomes the dealer for the next hand.
