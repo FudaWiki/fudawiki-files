@@ -2,13 +2,13 @@
 title: Hiyoko (using Ise deck)
 description: Rules for Hiyoko using Ise deck.
 published: true
-date: 2022-10-08T16:12:15.636Z
+date: 2022-10-08T16:22:57.601Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T16:09:39.359Z
 ---
 
-**Hiyoko** (ひよこ, 'chick') is a Mekurifuda game for 2 players. It is also known as **Shosho** (しょっしょ).
+**Hiyoko** (ひよこ, 'chick') was a Mekurifuda game for 2 players. It is also known as **Shosho** (しょっしょ).
 
 This game was originally played using a [mekurifuda](/en/mekurifuda) deck called Ise. It can also be played using Hanafuda; click [here](/en/hanafuda/games/hiyoko) to see the rules using Hanafuda.
 
@@ -107,7 +107,7 @@ During each round, the goal is to **get rid of all the cards in your hand before
 **First player to earn 3 points wins the game**.
 
 # Isuri (Hiyoko variant)
-Isuri [いすり] is a [Hiyoko](/en/mekurifuda/games/hiyoko) variant for 2 players.
+Isuri [いすり] is a [Hiyoko](/en/mekurifuda/games/hiyoko) variant for 2 players. Like Hiyoko, it was originally played using a mekurifuda deck called Ise.
 
 The rules are identical to Hiyoko, with some exceptions:
 - **46 cards** from an Ise deck is used. Remove only the 6 of cups and 6 of coins, and the extra "bakefuda" card. **The 6 of swords is treated as the same as the 6 of clubs.**
