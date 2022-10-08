@@ -2,12 +2,14 @@
 title: Korean Online Site Betting System
 description: 
 published: true
-date: 2022-10-08T03:32:49.764Z
+date: 2022-10-08T03:34:45.052Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T03:32:49.764Z
 ---
 
+> This betting system is exclusively used in Korean online sites and is borrowed from Poker and other showdown game implementations.
+{.is-warning}
 
 # Betting
 
