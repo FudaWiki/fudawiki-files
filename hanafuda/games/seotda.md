@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T09:49:50.016Z
+date: 2022-10-08T12:20:02.871Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -44,6 +44,11 @@ After all betting rounds, players who have not folded proceed to *showdown*. If 
 Starting with the dealer (or closest player in order), each player reveals their cards. Hands are evaluated according to the *Hand Rankings* chart below. The winner of the hand collects the pot and becomes the dealer for the next hand.
 
 In case of a tie, the pot is kept intact. The players involved in the tie must play a hand between them as a tie-breaker, and the winner of the hand takes the pot.
+
+> Tiebreaker round consist of only a single betting round.
+Also, in 3-card variants minimum number of cards is dealt during a tiebreaker.
+For example, the dealer deals each player two cards in regular 3-card variant. In 3-card variant with a community card, the dealer deals each player a card and then deals a community card.
+{.is-warning}
 
 ## Hand Rankings
 
@@ -99,7 +104,7 @@ This variant uses 40 cards instead of usual 20, and hand ranks are quite differe
 ## Dealing Variants
 Seotda's base rules are 2-card straight.
 
-However, the game can be played with some variations like 2-card draw, 3-card straight (삼봉 섰다 - *Sambong Seotda*), 3-card stud (3-card Seotda serviced on Korean online platforms), 3-card draw (Hangame services this variant as 섯둑이 - *Seot-dugi*), 3-card community (2 cards in hand and a community card, Hangame services this variant as 홀덤 섯다 - Hold'em *Seotda*) and etc.
+However, the game can be played with variations like 2-card draw, 3-card straight (삼봉 섰다 - *Sambong Seotda*), 3-card stud (3-card Seotda serviced on Korean online platforms), 3-card draw (Hangame services this variant as 섯둑이 - *Seot-dugi*), 3-card community (2 cards in hand and a community card, Hangame services this variant as 홀덤 섯다 - Hold'em *Seotda*) and etc.
 
 In 3-card Seotda variants, all surviving players must select 2 cards to use (thus choosing their hand rank) just before showdown.
 
@@ -115,8 +120,32 @@ In this 3-card Seotda variant a set of 3 cards may form a hand instead of 2 card
 |**Grass Ribbons**<br>초단</br>(*Chodan*)|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |**Three of a kind**<br>봉</br>(*Bong*)|Any three cards of the same month. Latest month is the strongest.<br>This hand is possible only while using 40 cards.|
 
+# Dorijitgo-ttaeng
+
+**Dorijitgo-ttaeng** [도리짓고 땡] is a Korean Hanafuda showdown game for 2-8 players which shares the same hand ranking list as Seotda. This game also originates in [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630) and then changed cards used into Hwatu or Hanafuda later.
+
+## Hand
+
+A hand of Dorijitgo-ttaeng consists of 5 cards. Players must form a combination of 3 cards whose value total is divisible by 10 (10, 20, 30) and use two remaining cards to determine the hand rank, similar to [Gomai-kabu](/en/kabufuda/games/gomai-kabu).
+
+If a player fails to create a 3-card combination, the player **busts** (황, *hwang*) and loses regardless of other two cards unless all the other players bust (and score a tie) or fold (in this case the surviving player win as the normal rules).
+
+## Double Pair
+
+In Dorijitgo-ttaeng, a single hand may compose 2 or more hand rank combinations.
+For example, ![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/50.svg#hanafuda-card =50x)![](/sheldonchen-cards/51.svg#hanafuda-card =50x)![](/sheldonchen-cards/91.svg#hanafuda-card =50x)![](/sheldonchen-cards/100.svg#hanafuda-card =50x) may be considered as a **1 and 9** (5-5-0 / 1-9) or a **Pair of 5** (1-9-0 / 5-5).
+
+In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results in 2 **different** pairs trumps all regular hands. If two or more players have a Double Pair, compare the higher Pair among Double Pairs.
+![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/61.svg#hanafuda-card =50x)![](/sheldonchen-cards/70.svg#hanafuda-card =50x)![](/sheldonchen-cards/71.svg#hanafuda-card =50x) is a **Double Pair of 6 and 1**.
+![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/30.svg#hanafuda-card =50x)![](/sheldonchen-cards/60.svg#hanafuda-card =50x) is a **Double Pair of Bright and 2** (only when Bright Pairs are allowed)
+
+## Dealing variants
+
+Like Seotda, Dorijitgo-ttaeng can be played with variations, albeit much like Poker 녀such as 5-card draw, 7-card stud or Hold'em since the hand consists of 5 cards just like Poker. Common rules use 5-card straight.
+
 # References
 - http://harryshwatuhowto.blogspot.com/2015/06/how-to-play-seotda.html
 - http://moonrabbithanafuda.weebly.com/seotda.html
 - https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%83%E3%82%BF
+- 미래컨텐츠창작연구소, 화투의 기술, 21세기북스, 2015, pp. 100-115.
 - https://namu.wiki/w/%EC%84%B0%EB%8B%A4
