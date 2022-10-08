@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T09:49:43.769Z
+date: 2022-10-08T09:49:50.016Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -101,7 +101,7 @@ Seotda's base rules are 2-card straight.
 
 However, the game can be played with some variations like 2-card draw, 3-card straight (삼봉 섰다 - *Sambong Seotda*), 3-card stud (3-card Seotda serviced on Korean online platforms), 3-card draw (Hangame services this variant as 섯둑이 - *Seot-dugi*), 3-card community (2 cards in hand and a community card, Hangame services this variant as 홀덤 섯다 - Hold'em *Seotda*) and etc.
 
-In 3-card Seotda variants, all surviving players must select cards to use (thus choosing their hand rank) just before showdown.
+In 3-card Seotda variants, all surviving players must select 2 cards to use (thus choosing their hand rank) just before showdown.
 
 ## 3-card combinations
 In this 3-card Seotda variant a set of 3 cards may form a hand instead of 2 cards among them, which trumps all regular hands.
