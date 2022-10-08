@@ -2,13 +2,15 @@
 title: Hiyoko
 description: A hanafuda game similar to Poka but slightly harder
 published: true
-date: 2022-10-08T15:55:15.544Z
+date: 2022-10-08T16:11:47.192Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T15:27:40.113Z
 ---
 
 **Hiyoko** (ひよこ, 'chick') is a Hanafuda game for 2 players. It is also known as **Shosho** (しょっしょ).
+
+This game is originally played using a [mekurifuda](/en/mekurifuda) deck called Ise: click [here](/en/mekurifuda/games/hiyoko) to see the rules using an Ise deck.
 
 The game shares a similarity with [Poka](/hanafuda/games/poka).
 
