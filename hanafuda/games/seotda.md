@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-08T12:21:06.400Z
+date: 2022-10-08T12:33:20.936Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -89,7 +89,7 @@ This variant uses 40 cards instead of usual 20, and hand ranks are quite differe
 |**Pair of 10**<br>장땡</br>(*Jangttaeng*)|Two Maples (10)![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|
 |**Draw hand**<br>파분</br>(*Pabun*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Chrysanthemum (9) ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x).</br> If you have this hand, you may declare a **rematch** except when the winning hand is a **Pair of 10**.|
 |**Pair**<br>땡</br>(*Ttaeng*)|Any two cards of the same month. Latest month is the strongest.<br>1 is the weakest, and is called **Ppingttaeng** (삥땡).|
-|**7 and 5**<br>곤질</br>(*Gonjil*)|An Iris (4) ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x) and a Bush Clover (6) ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|
+|**7 and 5**<br>곤질</br>(*Gonjil*)|An Iris (4) ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x) and a Bush Clover (7) ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|
 |**4 and 6**<br>세륙</br>(*Seryuk*)|A Wisteria (4) ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) and a Peony (6) ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|
 |**Bright Pair**<br>광땡<br>(*Gwangttaeng*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br>In this variant only 3 and 8 Pair is considered as a valid Bright Pair and the rank is much lower compared to popular rules.|
 |**1 and 3**<br>삼삥</br>(*Sampping*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Cherry Blossom (3) ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x).|
