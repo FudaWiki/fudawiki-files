@@ -2,7 +2,7 @@
 title: Kyo-Kabu
 description: An Oicho-Kabu variant with a different deal setup.
 published: true
-date: 2022-09-11T13:12:35.462Z
+date: 2022-10-09T15:03:32.625Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-18T16:14:00.150Z
@@ -11,6 +11,11 @@ dateCreated: 2022-07-18T16:14:00.150Z
 **Kyō-Kabu [京かぶ - きょうかぶ, lit. "capital nine"]** is an [Oicho-Kabu](/en/kabufuda/games/oicho-kabu) variant, played using a [*Kabufuda*](/en/kabufuda) deck.
 
 > It was also attested to be played using Daini, a deck with a similar structure to Kabufuda.
+{.is-info}
+
+![daini_deck.png](/suryongfiles/daini_deck.png =500x)
+
+> It was also attested to be played using Mefuda, another deck with a similar structure to Kabufuda.
 {.is-info}
 
 > If you don't have a Kabufuda deck, you may use a standard Hanafuda deck with all Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and Paulownia ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards removed; the values of the cards will be based on the month order.
