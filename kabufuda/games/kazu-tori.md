@@ -2,7 +2,7 @@
 title: Kazu-Tori
 description: A Daini game. If the discarded card matches the declared number, you must grab it!
 published: true
-date: 2022-08-30T04:18:32.549Z
+date: 2022-10-09T14:57:12.053Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-30T04:18:11.869Z
@@ -12,6 +12,8 @@ dateCreated: 2022-08-30T04:18:11.869Z
 {.is-warning}
 
 Kazu-Tori [数取り, lit. "number taking"] is a game for **4 players**, played using a Daini deck (a 1-suited deck containing 40 cards, with a similar structure to [Kabufuda](/en/kabufuda)).
+
+![daini_deck.png](/suryongfiles/suryongfiles/daini_deck.png =500x)
 
 # Equipment
 40 cards of a Daini deck are used. **Remove the special 1 and special 4** from the deck, and replace them with **Oni-fuda** (Demon card) and **Jizo-fuda** (Buddha card).
