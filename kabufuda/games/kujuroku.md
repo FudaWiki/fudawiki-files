@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-09-05T05:49:28.838Z
+date: 2022-10-09T15:00:12.732Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -13,6 +13,8 @@ Kujuroku [九十六 - くじゅろく, lit. “Ninety-six”] is a type of fishi
 The name comes from the par score of the game: 96 points.
 
 It was played using **Daini**, which is a 40-card deck with only 1 suit: Coins. It bears a similar structure to [Kabufuda](/en/kabufuda), except that Daini has three special cards (1, 3, and 4) while Kabufuda only has two (1 and 4). Depending on the manufacturer of the deck, it may have either one or two jokers: the Oni-fuda (Demon card) is most common, while the Jizo-fuda (Buddha card) is usually omitted.
+
+![daini_deck.png](/suryongfiles/suryongfiles/daini_deck.png =500x)
 
 The game shares the same gameplay as [Hana-Awase](/en/hanafuda/games/hana-awase), and is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
 
