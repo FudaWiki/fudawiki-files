@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-08T17:29:20.361Z
+date: 2022-10-10T08:04:43.871Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -24,8 +24,10 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|Tensho Karuta|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Japan|Kurofuda|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|Japan|Akahachi|
+|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Japan|-|
 |[Shirinma](/en/mekurifuda/games/shirinma)|-|-|Japan|Komatsu|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Japan|Shimafuda|
+|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Japan|-|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|Ise|
 |[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Japan|Ise|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|Tensho Karuta|
