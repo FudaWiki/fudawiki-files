@@ -2,7 +2,7 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2022-08-11T13:22:02.003Z
+date: 2022-10-12T13:35:25.650Z
 tags: fishing games
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
@@ -17,9 +17,11 @@ Originally, it was played using Tensho Karuta, which were faithful copies of the
 The game described below is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
 
 # The Cards
-A Tensho Karuta or Mekuri Karuta deck of 48 cards is used. 
+A Tensho Karuta or [Mekurifuda](/en/mekurifuda) deck of 48 cards is used. Remove any extra Onifuda/Bakefuda from the deck.
 
 Among the recommended Mekuri Karuta decks to be used for this game are Fukutoku, Kurouma, and Mitsuogi, because the gold and silver overprints of those decks correspond to the card point values used in this game.
+
+![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
 > If you do not have a Tensho/Mekuri Karuta deck, you may use a Portuguese or Spanish playing card deck. 
 {.is-warning}
