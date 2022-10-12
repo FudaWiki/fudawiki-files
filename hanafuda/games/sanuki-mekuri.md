@@ -2,7 +2,7 @@
 title: Sanuki Mekuri
 description: A bakappana variant for 2 players, with unique card point values.
 published: true
-date: 2022-10-12T00:03:30.841Z
+date: 2022-10-12T00:18:48.689Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T15:28:34.093Z
@@ -61,6 +61,23 @@ After each round players count their captured card points, then they check their
 The player with lower score pays chips equal to the score difference to the other player.
 
 Play continues until one of the players run out of chips. **The player who has all the chips is the winner of the game.**
+
+# Sanuki Mekuri (using Mekurifuda deck)
+[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri) may have originally been played using a [Mekurifuda](/en/mekurifuda) or even a Tensho Karuta deck.
+
+- Any 4-suited mekurifuda deck may be used. **Remove the extra Onifuda/Bakefuda from the deck, so that only 48 cards remain in the deck.**
+
+![ise_deck.png](/suryongfiles/ise_deck.png =500x)
+
+- Use the Clubs suit for the Animals, and the Swords suit for the Ribbons.
+- The **6, 7, 8, and 9 of clubs** are worth **face value**.
+- Other cards of the **clubs** suit are worth **5 points each**.
+- All cards of the **swords** suit are worth **1 point each**.
+- Other cards are worth 0 points.
+
+The gameplay is entirely the same as when a hanafuda deck is used.
+
+Interestingly, when the game was played using hanafuda, it used the standard month sequence of the cards, rather than the Nagoya sequence. This may be due to the fact that the 2 of coins is considered as junk, rather than a high-scoring card in the game.
 
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
