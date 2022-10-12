@@ -2,7 +2,7 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2022-10-12T13:35:25.650Z
+date: 2022-10-12T13:36:54.186Z
 tags: fishing games
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
@@ -38,7 +38,7 @@ Among the recommended Mekuri Karuta decks to be used for this game are Fukutoku,
 ## Card Names
 | NUMBER | Clubs | Swords | Coins | Cups |
 |:------:|:---:|:---:|:---:|:---:|
-| **1</br>(Dragon)** | Aza | Pin | Subeta</br>(Junk) | Subeta</br>(Junk) |
+| **1</br>(Dragon)** | Aza</br>(Ace) | Pin</br>(1) | Subeta</br>(Junk) | Subeta</br>(Junk) |
 | **2** | Ao ni</br>(Blue 2) | Ebi ni</br>(Shrimps 2) | Taiko ni</br>(Drums 2) | Kuchibiru no ni</br>(Lips of 2) |
 | **3** | Ao san</br>(Blue 3) | Aka san</br>(Red 3) | Subeta</br>(Junk) | Subeta</br>(Junk) |
 | **4**  | Ao shi</br>(Blue 4) | Aka shi</br>(Red 4) | Subeta</br>(Junk) | Subeta</br>(Junk) |
