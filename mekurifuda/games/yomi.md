@@ -2,7 +2,7 @@
 title: Yomi
 description: The ancestor of hanafuda sequence games such as Poka and Hiyoko.
 published: true
-date: 2022-08-19T07:44:58.686Z
+date: 2022-10-12T13:40:22.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T07:44:58.686Z
@@ -23,7 +23,9 @@ The game described below is a simple Yomi game for **3 to 4 people**. However, t
 {.is-warning}
 
 # The Cards
-A Tensho Karuta or Mekuri Karuta deck is used.
+A Tensho Karuta or [Mekurifuda](/en/mekurifuda) deck is used.
+
+![ise_deck.png](/suryongfiles/ise_deck.png =500x)
 
 For **4** players, use **40 cards** by **removing all Horses and Kings** from the deck.
 You may also add in an extra card (preferably the Onifuda ("demon" joker card) or the Shirofuda (blank card) to be used as a **wild card**.
