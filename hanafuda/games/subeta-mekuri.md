@@ -2,7 +2,7 @@
 title: Subeta Mekuri
 description: A bakappana variant for 3 players, with unique card point values
 published: true
-date: 2022-10-12T00:40:13.256Z
+date: 2022-10-12T13:31:01.859Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T08:28:07.005Z
@@ -49,6 +49,9 @@ The player with the most points becomes the dealer for the next round.
 # Subeta Mekuri (using Mekurifuda deck)
 The following is a theory on how the card values may have been assigned to a [Mekurifuda](/en/mekurifuda) deck, based on those used in a hanafuda deck:
 - Among the recommended Mekurifuda decks to be used for this game are **Fukutoku, Kurouma, and Mitsuogi**, because the gold and silver overprints of those decks correspond to the card point values used in this game.
+
+![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
+
 - In general, use the **Clubs** suit for the **Animals**, and the **Swords** suit for the **Ribbons**.
 - The **2 of coins** is worth **15 points**.
 - The **6 of clubs** is worth **9 points**.
