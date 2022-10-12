@@ -2,7 +2,7 @@
 title: Subeta Mekuri
 description: A bakappana variant for 3 players, with unique card point values
 published: true
-date: 2022-10-12T13:31:01.859Z
+date: 2022-10-12T13:32:13.943Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T08:28:07.005Z
@@ -52,6 +52,7 @@ The following is a theory on how the card values may have been assigned to a [Me
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
+- **Remove the extra Onifuda** from the deck, so that there are 48 cards in the deck.
 - In general, use the **Clubs** suit for the **Animals**, and the **Swords** suit for the **Ribbons**.
 - The **2 of coins** is worth **15 points**.
 - The **6 of clubs** is worth **9 points**.
