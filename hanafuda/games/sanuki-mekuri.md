@@ -2,7 +2,7 @@
 title: Sanuki Mekuri
 description: A bakappana variant for 2 players, with unique card point values.
 published: true
-date: 2022-08-23T08:28:52.545Z
+date: 2022-10-12T00:03:20.509Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-10T15:28:34.093Z
@@ -13,6 +13,7 @@ Sanuki Mekuri [讃岐メクリ - さぬきめくり] is a [Bakappana](/en/hanafu
 The name may refer to the Sanuki province of Japan, where the game may have originated. The game may have been originally played using a Mekuri Karuta deck instead of Hanafuda, as some of the card points are identical to their month numbers.
 
 It is closely related to another game, [Subeta Mekuri](en/hanafuda/games/subeta-mekuri).
+
 
 The goal of the game is to **gain 40 points more than your opponent**.
 
