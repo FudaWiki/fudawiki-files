@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-10-13T15:28:13.328Z
+date: 2022-10-13T15:31:21.512Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -198,9 +198,9 @@ There are certain situations in which an opponent must pay *double* the score as
 - If the winner captured the *Chaff* generic yaku, then any opponent who has captured **1 ~ 5** (usually 1 ~ 7 in 2-player) Chaff card must pay double. The player who did not capture any Chaff card or lost all captured Chaff cards do not pay double.
 
 ## Liability & Offering a Draw
-There are some situations in which a opponent is considered *liable* ('독박' - *[dokbak]*) for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are most typically used in the three-player version of the game.
+There are some situations in which a opponent is considered *liable* ('독박' - *[dokbak]*) for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are used in the three-player version of the game.
 
-1. If one of the opponents has previously called *go*, then the opponent who called *go* is liable ('고박' - *[gobak]*). If two opponents has previously called *go*, the first caller is liable. This condition trumps liability from refusing a draw offer (see below).
+1. If one of the opponents has previously called *go*, then the opponent who called *go* is liable ('고박' - *[gobak]*). If two opponents has previously called *go*, the first caller is liable. This condition trumps liability from refusing a draw offer (see below). If this happens in two-player game, the liable player pays double instead.
 
 2. A player who have no safe play (in other words, a player cannot capture any cards by playing a card in hand and cannot reach stop minimum by flipping a card in Phase 3) may expose their hand at the start of their turn and offer a draw ('쇼당' - *[shodang]*) if they have at least 2 cards in hand and their hand entirely consists of which would allow other players to win. Each of the other players must then decide whether to accept or refuse.
 
