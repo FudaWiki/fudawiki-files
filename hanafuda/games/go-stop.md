@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-10-08T09:47:30.223Z
+date: 2022-10-13T15:28:13.328Z
 tags: hanafuda games, hwatu, fishing games
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -202,13 +202,15 @@ There are some situations in which a opponent is considered *liable* ('독박' -
 
 1. If one of the opponents has previously called *go*, then the opponent who called *go* is liable ('고박' - *[gobak]*). If two opponents has previously called *go*, the first caller is liable. This condition trumps liability from refusing a draw offer (see below).
 
-2. A player who have no safe play (in other words, a player cannot capture any cards by playing a card in hand and cannot reach stop minimum by flipping a card in Phase 3) may expose their hand at the start of their turn and offer a draw ('쇼당' - *[shodang]*). Each of the other players must then decide whether to accept or refuse.
+2. A player who have no safe play (in other words, a player cannot capture any cards by playing a card in hand and cannot reach stop minimum by flipping a card in Phase 3) may expose their hand at the start of their turn and offer a draw ('쇼당' - *[shodang]*) if they have at least 2 cards in hand and their hand entirely consists of which would allow other players to win. Each of the other players must then decide whether to accept or refuse.
 
 This decision is made in turn order; if the player to the right accepts, then the player to the left must decide to accept or refuse. If the player to the right refuses, then the player to the left automatically accepts.
 
 If both players accept, then the round ends in a draw. Nobody scores anything, and the next round begins with the same dealer.
 
 Otherwise, play continues as usual. However, for the **remainder of the round**, the player who refused the draw will be considered liable if either of the other players wins.
+
+In some variants, a player must reveal at least 1 winning card of each player to offer a draw. In other words, if another player cannot win by capturing any of cards in hand of the player who wants to offer a draw, then the player cannot offer a draw.
 
 ## Scoring Exemption
 
