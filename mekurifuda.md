@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T14:52:26.311Z
+date: 2022-10-16T14:55:38.080Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -66,7 +66,7 @@ Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. �
 The cards do not bear any Portuguese-derived designs; instead, numbers were represented by kanji on the upper half of each card, and points were represented by sticks or circles on the lower half of each card. However, the structure of the deck is consistent with mekurifuda decks, with the number 2 having three cards with points on them.
 
 ## Hanafuda
-Hanafuda can be used to mimic a mekurifuda deck. Each flower represents a **month** of the year, which actually **corresponds to a number** in a mekurifuda deck.
+[Hanafuda](/en/hanafuda) can be used to mimic a mekurifuda deck. Each flower represents a **month** of the year, which actually **corresponds to a number** in a mekurifuda deck.
 
 The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where the type of cards rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
 
