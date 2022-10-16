@@ -2,7 +2,7 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-10-16T12:03:04.287Z
+date: 2022-10-16T13:13:13.756Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
@@ -12,10 +12,14 @@ dateCreated: 2022-07-14T03:41:53.329Z
 
 Originally the game was played using Tensho Karuta, and later to facilitate easy identification of numbers on the cards, a [one-suited mekurifuda](/en/one-suited-mekurifuda-variants) deck called **"kingo-fuda"**, which may have been the same or similar deck as either Irinokichi or Kinseizan, was used.
 
-In recent times, this game can be played using either a **Hanafuda or Kabufuda** deck.
+![kinseizan_deck.png](/suryongfiles/kinseizan_deck.png =500x)
+
+Kingo may refer to a wide variety of games where players' card points should not exceed 15. 
+
+The game described below is the only one known today by this name. It uses only 40 cards, and can be played using either a **Hanafuda or Kabufuda** deck.
 
 # Equipment
-In Kingo, **40** cards of a standard Hanafuda deck is used. Remove the **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and **December** ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards.
+**40** cards of a standard Hanafuda deck is used. Remove all **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and **December** ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards.
 
 A standard **40-card Kabufuda deck** may also be used.
 
