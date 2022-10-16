@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-09-07T09:00:01.023Z
+date: 2022-10-16T07:34:47.354Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -32,9 +32,9 @@ It may also refer to the fact that the decks were designed for playing Kabu [カ
 ## Kinds of Kabu Karuta
 |Pattern|Played in|Number of Cards|Description|
 |:---:|:---:|:---:|:---|
-|**Kabufuda**|-|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1 and 4.</br>The only court card "10" looks like a two-way Jack holding a very short sword, but its body is based on the Queen of Clubs of a western playing card deck.|
-|**Kinseizan**|-|48|Looks like Kabufuda, with a few differences:</br>There are 3 court cards (10, 11, 12), whose designs look more like the 2 of coins, the horse of clubs, and the king of clubs in a mekurifuda deck.</br>All 1, 2, 10, 11, and 12 cards are overprinted. Special 4 is overprinted like Kabufuda, while Special 1 has a Paulownia and Cloud overprint.</br>Comes with Onifuda.|
-|**Irinokichi**|-|48|Identical to Kinseizan except only the Special 1 and Special 4 are overprinted.</br>Comes with Onifuda.|
+|**Kabufuda**|Kyoto, Osaka, Kobe, Tanba, Tango, Tajima, Banshu, Bizen, Kishu, Iga, Yamato, Kwachi, Izumi, Settsu|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1 and 4.</br>The only court card "10" looks like a two-way Jack holding a very short sword, but its body is based on the Queen of Clubs of a western playing card deck.|
+|**Kinseizan**|Tsuruga, Kii, Ise, Shima|48|Looks like Kabufuda, with a few differences:</br>There are 3 court cards (10, 11, 12), whose designs look more like the 2 of coins, the horse of clubs, and the king of clubs in a mekurifuda deck.</br>All 1, 2, 10, 11, and 12 cards are overprinted. Special 4 is overprinted like Kabufuda, while Special 1 has a Paulownia and Cloud overprint.</br>Comes with Onifuda.|
+|**Irinokichi**|Kishu, Shima, Ise (Japan)</br>East & West Haozhou (China)|48|Identical to Kinseizan except only the Special 1 and Special 4 are overprinted.</br>Comes with Onifuda.|
 |**Hosonokichi**|-|48|Identical to Irinokichi but the Clubs are made up of thin lines.|
 
 # Mame Karuta
@@ -45,10 +45,26 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 ## Kinds of Mame Karuta
 |Pattern|Played in|Number of Cards|Description|
 |:---:|:---:|:---:|:---|
-|**Daini** or **Daiji**|-|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.|
-|**Komaru**|-|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.|
-|**Mefuda**|-|40|Structurally similar to Daini but the pips look like black teardrops, the 10 are horses, and the 4, 7, 8, and 9 cards have what appears to be eyebrows or eyelashes. Special 1 and 2, 3, and 4 cards have "金銭不用" (money not used) printed on them.</br>Comes with a red Onifuda.|
-|**Kudoyama** or **Kudosan**|-|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>Comes with a red Onifuda.|
+|**Daini** or **Daiji**|Chikuzen, Chikugo, Buzen, Bungo, Hizen, Higo, Hyuga, Osumi, Shimonoseki (Japan)</br> Some areas in Korea|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.|
+|**Komaru**|Tanba, Tango, Tajima, Bizen, Bicchu, Bingo, Aki, Suo, Nagato, Awa, Awaji, Iyo, Sanuki, Hokkaido|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.|
+|**Mefuda**|Sanuki, Awa, Shikoku|40|Structurally similar to Daini but the pips look like black teardrops, the 10 are horses, and the 4, 7, 8, and 9 cards have what appears to be eyebrows or eyelashes. Special 1 and 2, 3, and 4 cards have "金銭不用" (money not used) printed on them.</br>Comes with a red Onifuda.|
+|**Kudoyama** or **Kudosan**|Hoki, Izumo, Inaba, Oki|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>Comes with a red Onifuda.|
+
+# Gallery
+## Kabu Karuta
+|Pattern|The Deck|
+|:---|:---:|
+|**Kabufuda**|-|
+|**Kinseizan**|-|
+|**Irinokichi**|-|
+|**Hosonokichi**|-|
+## Mame Karuta
+|Pattern|The Deck|
+|:---|:---:|
+|**Daini** or **Daiji**|![daini_deck.png](/suryongfiles/daini_deck.png)|
+|**Komaru**|-|
+|**Mefuda**|![mefuda_deck.png](/suryongfiles/mefuda_deck.png)|
+|**Kudoyama** or **Kudosan**|-|
 
 # Bibliography
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
