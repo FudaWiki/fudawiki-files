@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-10-07T06:45:25.892Z
+date: 2022-10-16T12:05:34.702Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -24,7 +24,7 @@ Also, some of these games were originally played using different one-suited [Mek
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Japan|
-|[Kyo-Kabu](/en/hanafuda/games/kyo-kabu)|2-10|Banking|Japan|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
 |[Oicho-Kabu](/en/hanafuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
 |[Oto-Roku](/en/hanafuda/games/oto-roku)|5-6|Showdown|Tōkai region, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
