@@ -2,7 +2,7 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-07-14T03:41:53.329Z
+date: 2022-10-16T11:57:20.931Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
@@ -10,7 +10,9 @@ dateCreated: 2022-07-14T03:41:53.329Z
 
 **Kingo** (きんご) is a hanafuda game for 2 to 7 players. The name derives from the Portuguese word *quinze*, which means 'fifteen'.
 
-Originally the game was played using a special deck called Kingo-fuda (きんご札), but there is no documentation regarding what it looks like, so hanafuda cards were used instead. (It is much easier to play using Kabufuda cards or western playing cards.)
+Originally the game was played using Tensho Karuta, and later to facilitate easy identification of numbers on the cards, a [one-suited mekurifuda](/en/one-suited-mekurifuda-variants) deck, such as Irinokichi or Kinseizan, was used.
+
+In recent times, this game can be played using either a Hanafuda or Kabufuda deck.
 
 # Equipment
 In Kingo, **40** cards of a standard Hanafuda deck is used. Remove the **November** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and **December** ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards.
@@ -96,3 +98,4 @@ A player with Kingo **beats all players regardless of their hand**.
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%94
 - https://tanoshiikoto.com/hanafuda-kingo/
+- https://japanplayingcardmuseum.com/2-3-2-2-kingocarta-specialcard-set/
