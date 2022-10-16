@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T14:57:10.954Z
+date: 2022-10-16T15:18:32.022Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -84,6 +84,8 @@ The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be us
 |**10 (Maid**)|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|[Maple](/en/hanafuda/suits/maple)|
 |**11 (Horse)**|November|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|[Peony](/en/hanafuda/suits/peony)|
 |**12 (King)**|December|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|
+
+In the Nagoya month sequence, four of the months were shuffled about. The purpose seems to be so that the **Willow suit**, which has three scoring cards, takes the role of the **number 2** in a mekurifuda deck, which also has three scoring cards (*it is also worth mentioning that it is impossible to play certain mekuri games with a hanafuda deck if the standard month sequence is used, unless one junk of each month is marked to distinguish it from the other*), and that the **Phoenix card** takes the role of the **6 of Clubs** in a mekurifuda deck, which is usually overprinted with a gold 壽 (*kotobuki*, 'longevity').
 
 The **highest scoring** card of each month (except for Willow; it's the Swallow card) correspond to the **Clubs** suit of mekurifuda.
 
