@@ -2,7 +2,7 @@
 title: Hiki-Kabu
 description: A Kabufuda game with a showdown similar to Poker
 published: true
-date: 2022-08-30T07:49:55.575Z
+date: 2022-10-16T11:37:35.352Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-24T15:54:23.824Z
@@ -15,7 +15,11 @@ Originally, the game was purely luck-based: the only decision made by the player
 An additional gameplay element similar to poker was added to heighten the skill involved in the game. This gives the game a slightly similar gameplay style to those of [Kachi-Kachi](/en/kabufuda/games/kachi-kachi) and [Seotda](/en/hanafuda/games/seotda).
 
 # Equipment
-Hiki-Kabu is played with a [*kabufuda*](/en/kabufuda) deck. This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
+Hiki-Kabu is played with a [*kabufuda*](/en/kabufuda) deck. 
+
+![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
 
 Since kabufuda decks are somewhat uncommon, they are often emulated with a hanafuda deck by removing all November and December cards and assigning values to the remaining cards based on month order. So all January cards are 1, February cards are 2, and so on, up to October which is 10.
 
