@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T14:55:38.080Z
+date: 2022-10-16T14:57:10.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -57,7 +57,7 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 |**Mitsuogi**|Echigo, Wakasa, Omi, Etchu, Echizen, and Hokkaido|Design is identical to Fukutoku and Kurouma, but the dragons and courts are drawn slightly differently and with very faint humanoid characteristics.</br>Also,the 2 of Coins has three golden hand fans with a red sun on each of them, arranged in a circle on the top coin, while the bottom coin is black and overprinted with a feather-like pattern inside the circle.|
 |**Komatsu**|Echizen, Tsuruga, Takefu, Fukui, Mikuni-Minato, and Kishu|Swords and Cups suits are made of very thin lines; Coins are very small dots. Courts and dragons are all abstract, made up of thin black and red strokes.</br>There are no overprints on the cards.</br> Comes with a red "Onifuda".|
 
-# Other Cards that Mimicked a Mekurifuda deck
+# Cards that Mimicked a Mekurifuda deck
 ## Shimafuda
 Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. “Character Cards”) or Ichi-Ni-San (一二三, lit. “One Two Three”, not to be confused with the game of the same name) is a type of Mekurifuda derivative that remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan. It is used to play [a game of the same name](/en/mekurifuda/games/shimafuda).
 
