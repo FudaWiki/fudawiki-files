@@ -2,7 +2,7 @@
 title: Shimafuda
 description: A fishing game played with uniquely designed mekurifuda cards.
 published: true
-date: 2022-10-07T15:08:32.109Z
+date: 2022-10-16T14:53:44.900Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T04:41:56.419Z
@@ -17,12 +17,6 @@ A card manufacturer called Misumi Shoten (三角商店) manufactured these cards
 The cards were unique in that they do not bear any aesthetic derived from Portuguese playing cards; instead, they were replaced with Japanese characters. The numbers and points of each card were explicitly written on each card, which is in stark contrast to the design of [Hanafuda](/en/hanafuda), which uses flowers and animals/objects to hide the card numbers and points respectively.
 
 It is used to play a mekuri game specifically designed for the deck, and because of it's similarity to [Hana-Awase](https://fudawiki.org/en/hanafuda/games/hana-awase), the deck was speculated to be a prototype of Hanafuda.
-
-The name comes from the act of drawing a card from the face-down draw pile, which is done by taking the top card of the pile and flipping it face-up so that you can see the card you've just drawn.
-
-Originally, it was played using Tensho Karuta, which were faithful copies of the Portuguese playing cards. It was also thought to be played using local decks with abstract designs based on Tensho Karuta, hence giving them the term "Mekuri Karuta" or "Mekurifuda". 
-
-The game described below is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
 
 # The Cards
 There are 48 cards in the deck, plus 1 Onifuda.
