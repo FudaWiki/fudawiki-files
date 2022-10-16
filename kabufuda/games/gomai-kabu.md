@@ -2,7 +2,7 @@
 title: Gomai-Kabu
 description: A simple, luck-based Kabufuda game for 2-8 players
 published: true
-date: 2022-04-10T15:22:52.179Z
+date: 2022-10-16T11:35:46.092Z
 tags: kabufuda games, showdown games
 editor: markdown
 dateCreated: 2022-04-01T18:08:00.849Z
@@ -14,7 +14,11 @@ dateCreated: 2022-04-01T18:08:00.849Z
 Determine who will be dealer. If playing for money or points, set an agreed-upon bet size for the round.
 
 ## Equipment
-Gomai-Kabu is played with a traditional [*kabufuda*](/en/kabufuda) deck. If needed, a *kabufuda* deck can be emulated with a *hanafuda* deck by removing the November and December suits and assigning a value to each of the cards equal to the month it represents (January = 1, February = 2, et cetera). If playing for money, chips or other small tokens should be used to represent points and assist in tracking bets.
+Gomai-Kabu is played with a traditional [*kabufuda*](/en/kabufuda) deck.
+
+![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+If needed, a *kabufuda* deck can be emulated with a *hanafuda* deck by removing the November and December suits and assigning a value to each of the cards equal to the month it represents (January = 1, February = 2, et cetera). If playing for money, chips or other small tokens should be used to represent points and assist in tracking bets.
 
 # Gameplay
 The dealer begins by dealing out eight stacks of five cards each. Starting with the player seated at the dealer's left and continuing clockwise, each player selects one of the dealt stacks to become their hand.
