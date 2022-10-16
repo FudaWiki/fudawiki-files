@@ -2,7 +2,7 @@
 title: Shippin
 description: A simple kabufuda game where 4 and 1 are strong cards.
 published: true
-date: 2022-08-24T12:36:17.290Z
+date: 2022-10-16T12:07:54.566Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-24T12:36:17.290Z
@@ -22,7 +22,11 @@ The rules of this game are mostly identical to Oicho-Kabu, with some notable dif
 Game setup is the same as in Oicho-Kabu; it involves choosing a dealer - 親 [おや, *oya*], deciding the seating arrangement of the other players, and shuffling the deck. Certain ground rules should also be agreed upon before play begins.
 
 ## Equipment
-A [*kabufuda*](/en/kabufuda) deck is used. This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
+A [*kabufuda*](/en/kabufuda) deck is used. 
+
+![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
 
 Since kabufuda decks are somewhat uncommon, they are often emulated with a hanafuda deck by removing all November and December cards and assigning values to the remaining cards based on month order. So all January cards are 1, February cards are 2, and so on, up to October which is 10.
 
