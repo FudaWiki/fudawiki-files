@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T07:07:05.602Z
+date: 2022-10-16T13:26:12.112Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -23,6 +23,8 @@ Eventually these card decks would be banned due to their association with gambli
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** 
+
+![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
 Some Mekurifuda patterns have gold and silver overprints to differentiate which card is which suit and to identify the point values of cards when playing Mekuri.
 
