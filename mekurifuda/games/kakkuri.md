@@ -2,7 +2,7 @@
 title: Kakkuri
 description: The last surviving Yomi game.
 published: true
-date: 2022-10-15T14:01:11.885Z
+date: 2022-10-16T06:54:41.946Z
 tags: hanafuda games, mekurifuda games
 editor: markdown
 dateCreated: 2022-08-26T15:22:36.812Z
@@ -18,6 +18,8 @@ It is also possible to play with 8 players, but the player who is dealt the **"3
 A specific type of Mekurifuda is traditionally used: **Komatsu**.
 
 ![komatsu_deck.png](/suryongfiles/komatsu_deck.png =500x)
+
+Use **48 cards** from the deck; remove the extra Onifuda (demon card).
 
 >Any type of Mekurifuda may be used. In the absence of Mekurifuda, a deck of western playing cards may also be used by removing all 10's. Clubs=Clubs; Swords=Spades; Cups=Hearts; Coins=Diamonds.
 {.is-warning}
