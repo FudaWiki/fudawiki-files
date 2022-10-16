@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T13:26:12.112Z
+date: 2022-10-16T14:52:26.311Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -56,6 +56,42 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 |**Kurouma**|Suruga, Shizuoka, Hokkaido|Design is identical to Fukutoku except the 2 of Coins has a Black horse on the top coin and 本 on the bottom coin. The 2 of coins is also overprinted with gold rings.</br> There was a screw-up between the black and red overprints and the outline drawings of the Maids and the Horses; All 10 (Maids) of Swords, Cups and Coins have outline drawings of Horses, while all 11 (Horses) of Swords, Cups and Coins have outline drawings of Maids!|
 |**Mitsuogi**|Echigo, Wakasa, Omi, Etchu, Echizen, and Hokkaido|Design is identical to Fukutoku and Kurouma, but the dragons and courts are drawn slightly differently and with very faint humanoid characteristics.</br>Also,the 2 of Coins has three golden hand fans with a red sun on each of them, arranged in a circle on the top coin, while the bottom coin is black and overprinted with a feather-like pattern inside the circle.|
 |**Komatsu**|Echizen, Tsuruga, Takefu, Fukui, Mikuni-Minato, and Kishu|Swords and Cups suits are made of very thin lines; Coins are very small dots. Courts and dragons are all abstract, made up of thin black and red strokes.</br>There are no overprints on the cards.</br> Comes with a red "Onifuda".|
+
+# Other Cards that Mimicked a Mekurifuda deck
+## Shimafuda
+Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. “Character Cards”) or Ichi-Ni-San (一二三, lit. “One Two Three”, not to be confused with the game of the same name) is a type of Mekurifuda derivative that remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan. It is used to play [a game of the same name](/en/mekurifuda/games/shimafuda).
+
+![shimafuda_cards.png](/suryongfiles/shimafuda_cards.png =500x)
+
+The cards do not bear any Portuguese-derived designs; instead, numbers were represented by kanji on the upper half of each card, and points were represented by sticks or circles on the lower half of each card. However, the structure of the deck is consistent with mekurifuda decks, with the number 2 having three cards with points on them.
+
+## Hanafuda
+Hanafuda can be used to mimic a mekurifuda deck. Each flower represents a **month** of the year, which actually **corresponds to a number** in a mekurifuda deck.
+
+The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where the type of cards rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
+
+|Mekurifuda</br>Number|Hanafuda</br>Month|Flower</br>Icon|Flower</br>Name|
+|:---:|:---:|:---:|:---:|
+|**1 (Dragon)**|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)|[Pine](/en/hanafuda/suits/pine)|
+|**2**|February|![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)|[Willow](/en/hanafuda/suits/willow)|
+|**3**|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|
+|**4**|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)|[Wisteria](/en/hanafuda/suits/wisteria)|
+|**5**|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)|[Iris](/en/hanafuda/suits/iris)|
+|**6**|June|![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)|[Paulownia](/en/hanafuda/suits/paulownia)|
+|**7**|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|
+|**8**|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|
+|**9**|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|
+|**10 (Maid**)|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|[Maple](/en/hanafuda/suits/maple)|
+|**11 (Horse)**|November|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|[Peony](/en/hanafuda/suits/peony)|
+|**12 (King)**|December|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|
+
+The **highest scoring** card of each month (except for Willow; it's the Swallow card) correspond to the **Clubs** suit of mekurifuda.
+
+The **ribbons**, as well as the Geese card and the yellow Paulownia chaff, correspond to the **Swords** suit of mekurifuda.
+
+The **Rainman** corresponds to the **2 of Coins**.
+
+**Other cards** correspond to the **Junks** of mekurifuda.
 
 # Gallery
 |Pattern|The Deck|
