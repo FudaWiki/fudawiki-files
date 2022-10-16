@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: true
-date: 2022-07-13T15:32:39.823Z
+date: 2022-10-16T12:06:38.878Z
 tags: banking games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-13T15:32:39.823Z
@@ -16,7 +16,11 @@ A simple and widely popular game, it in many ways resembles Baccarat and Blackja
 Game setup involves choosing a dealer - 親 [おや, *oya*], deciding the seating arrangement of the other players, and shuffling the deck. Certain ground rules should also be agreed upon before play begins.
 
 ## Equipment
-Oicho-Kabu is traditionally played with a [*kabufuda*](/en/kabufuda) deck. This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
+Oicho-Kabu is traditionally played with a [*kabufuda*](/en/kabufuda) deck. 
+
+![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+This simple deck contains 40 cards, consisting of four identical series of the numbers 1 to 10.
 
 Since kabufuda decks are somewhat uncommon, they are often emulated with a hanafuda deck by removing all November and December cards and assigning values to the remaining cards based on month order. So all January cards are 1, February cards are 2, and so on, up to October which is 10.
 
