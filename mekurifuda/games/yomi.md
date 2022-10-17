@@ -2,7 +2,7 @@
 title: Yomi
 description: The ancestor of hanafuda sequence games such as Poka and Hiyoko.
 published: true
-date: 2022-10-12T13:40:22.181Z
+date: 2022-10-17T04:17:27.956Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T07:44:58.686Z
@@ -13,7 +13,7 @@ Yomi (読み - よみ, lit. “Reading”) is a type of sequence game that was p
 It is the ancestor of hanafuda games such as [Poka](/en/hanafuda/games/poka) and [Hiyoko](/en/hanafuda/games/hiyoko), and shares the same gameplay mechanics.
 
 
-Originally, it was played using Tensho Karuta, which were faithful copies of the Portuguese playing cards. It was also thought to be played using local decks with abstract designs based on Tensho Karuta, hence giving them the term "Mekuri Karuta" or "Mekurifuda". 
+Originally, it was played using Tensho Karuta, which were faithful copies of the Portuguese playing cards. It was also thought to be played using local [mekurifuda](/en/mekurifuda) patterns with abstract designs based on Tensho Karuta, hence giving them the term "Yomi Karuta" or "Yomifuda". 
 
 There were many different variants of this game, but very few have survived. The last known surviving Yomi game is [Kakkuri](/en/mekurifuda/games/kakkuri), which is played in the town of Yafune, part of the city of Echizen, Fukui prefecture in Japan.
 
