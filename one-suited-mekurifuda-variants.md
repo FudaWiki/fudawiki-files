@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-10-16T13:22:28.389Z
+date: 2022-10-17T06:30:55.480Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -55,7 +55,7 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 |Pattern|The Deck|
 |:---|:---:|
 |**Kabufuda**|![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png)|
-|**Kinseizan**|![kinseizan_deck.png](/suryongfiles/kinseizan_deck.png)|
+|**Kinseizan**|![kinseizan_deck_corrected.png](/suryongfiles/kinseizan_deck_corrected.png)|
 |**Irinokichi**|![irinokichi_deck.png](/suryongfiles/irinokichi_deck.png)|
 |**Hosonokichi**|-|
 ## Mame Karuta
