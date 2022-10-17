@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-08T07:08:16.078Z
+date: 2022-10-17T04:13:33.756Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -78,7 +78,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Karafuto Prefecture (Now South Sakhalin)|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
-|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
+|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|-|
 |[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Akehama Town, Ehime Prefecture, Japan|
 |[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
