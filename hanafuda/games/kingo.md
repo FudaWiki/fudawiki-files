@@ -2,7 +2,7 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-10-17T04:08:45.381Z
+date: 2022-10-17T04:11:22.981Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
@@ -71,7 +71,7 @@ During a player's turn, he/she **draws a card** from the draw pile and put it in
 Afterward, the player can **keep drawing cards** until his/her hand value total **becomes close to 15**, or **pass the turn**  to the next player if he/she thinks the next draw will push his/her hand's value beyond 15.
 
 ## Bareta
-If the player's hand value **reaches 16 or higher**, his/her hand is called **Bareta** (バレタ). The player **automatically loses the round** and has to pass the turn to the next player immediately. In addition, **the wager he/she must place in the pot during that round is doubled**.
+If the player's hand value **reaches 16 or higher**, his/her hand is called **Bareta** (バレタ, lit. 'busted'). The player **automatically loses the round** and has to pass the turn to the next player immediately. In addition, **the wager he/she must place in the pot during that round is doubled**.
 
 > If all players have Bareta, then the round is voided, all wagers go back to the players, and the cards must be redealt by the same dealer.
 {.is-info}
