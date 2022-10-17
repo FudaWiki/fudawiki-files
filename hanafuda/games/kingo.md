@@ -2,7 +2,7 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-10-16T13:13:13.756Z
+date: 2022-10-17T00:42:38.223Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
@@ -99,7 +99,55 @@ If it appears during showdown, **the amount in the pot is tripled** (*normal wag
 
 A player with Kingo **beats all players regardless of their hand**.
 
+# Kingo: Banking Variant
+The game is mostly the same as mentioned above, except that all bettors play against the dealer, instead of each player playing against everyone.
+
+## Setup
+### Choosing the Dealer
+The method mentioned above may be used to determine the seating order, by checking the sequence of the cards drawn by each player.
+
+If the dealer represents an establishment- say, when playing at a casino or gambling parlour- then their role will obviously be fixed, though the other players may still use this process to determine their seating order.
+
+### Dealing the Cards
+The dealer shuffles the cards and deals **three** cards to each player's hand, starting from the player to the dealer's right up to the dealer himself/herself. The rest of the cards are put face-down on the table as the draw pile.
+
+### Choosing a Card and Discarding the Rest
+Each player chooses 1 card from their hand that they like, and discards the other 2 cards.
+
+> If all 3 cards are '10', you may request for a re-deal.
+{.is-info}
+
+The dealer takes all discarded cards and shuffles them into the draw pile.
+
+### Placing the Wager
+Each player then places a wager into the table to form the **pot**, which will be received by the winner of the round.
+
+## Gameplay
+Each round, the **player to the dealer's right is the first to play**, and the dealer is last to play. Turn to play goes counter-clockwise.
+
+During a player's turn, he/she **draws a card** from the draw pile and put it in his/hand to increase the value of their hand.
+
+Afterward, the player can **keep drawing cards** until his/her hand value total **becomes close to 15**, or **pass the turn** to the next player if he/she thinks the next draw will push his/her hand's value beyond 15.
+
+### Bareta
+If the player's hand value **reaches 16 or higher**, his/her hand is called **Bareta** (バレタ). The player **automatically loses the round** and has to pass the turn to the next player immediately. In addition, **the wager he/she must place in the pot during that round is doubled**.
+
+> If all players have Bareta, then the round is voided, all wagers go back to the players, and the cards must be redealt by the same dealer.
+{.is-info}
+
+## Showdown
+The round ends once all players have passed their turn. All players then reveal their hands.
+
+**The player with the highest hand value (up to 15) wins the round, takes the pot, and becomes the dealer for the next round.**
+
+> If two or more players have the highest hand value, then they split the pot equally. If the pot cannot be split equally, the player nearest to the dealer's right takes the largest share. In both cases, the player nearest to the dealer's right becomes the dealer for the next round.
+{.is-info}
+
+# UNDER CONSTRUCTION
+
+
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%94
 - https://tanoshiikoto.com/hanafuda-kingo/
 - https://japanplayingcardmuseum.com/2-3-2-2-kingocarta-specialcard-set/
+- https://web.archive.org/web/20140518172925/http://www.geocities.jp/xmbwq497/gihou/kingo.html
