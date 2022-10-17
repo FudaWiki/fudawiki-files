@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-12T00:40:58.846Z
+date: 2022-10-17T04:15:33.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -21,7 +21,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Isuri](/en/mekurifuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|Ise|
 |[Judan](/en/mekurifuda/games/judan)|-|-|Japan|Komatsu|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Japan|Komatsu|
-|[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|Tensho Karuta|
+|[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|Tensho Karuta or Mekurifuda|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Japan|Kurofuda|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|Japan|Akahachi|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Japan|-|
@@ -30,7 +30,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Japan|-|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|Ise|
 |[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Japan|Ise|
-|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|Tensho Karuta|
+|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|Tensho Karuta or Yomifuda|
 
 ## Games using One-Suited Decks
 For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/games).
@@ -42,7 +42,7 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |[Dosari](/en/kabufuda/games/dosari)|-|-|Japan|Kinseizan|
 |[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Japan|Irinokichi|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|Daini|
-|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|Kingofuda|
+|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|-|Tensho Karuta or Kingofuda|
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Japan|Daini|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|Mefuda or Daini|
 |[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|Komaru|
