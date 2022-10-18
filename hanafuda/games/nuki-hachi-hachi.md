@@ -2,7 +2,7 @@
 title: Nuki Hachi-hachi
 description: A 2-player hachihachi variant that uses less cards.
 published: true
-date: 2022-10-18T07:35:59.031Z
+date: 2022-10-18T07:36:39.593Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-18T02:06:08.802Z
@@ -206,7 +206,7 @@ If this player, by the end of the round, has managed to capture **106** or more 
 ### Mizuten Bonus/Penalty
 If the dealer, having declared their intent to play blind, manages to capture at least **106** card points by the end of the round, they are paid 1 *kan* by **all other players**, including the inactive ones.
 
-Conversely, if they fail to capture at least 106 card points, they must pay 1 *kan* to their active opponent.
+Conversely, if the dealer fails to capture at least 106 card points, they must pay 1 *kan* to their active opponent.
 
 # Bibliography
 - https://web.archive.org/web/20141204034916/http://www.geocities.jp/xmbwq497/gihou/nukihachihachi.html
