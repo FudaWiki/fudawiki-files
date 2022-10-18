@@ -2,7 +2,7 @@
 title: Nuki Hachi-hachi
 description: A 2-player hachihachi variant that uses less cards.
 published: true
-date: 2022-10-18T07:00:16.575Z
+date: 2022-10-18T07:35:59.031Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-18T02:06:08.802Z
@@ -27,8 +27,9 @@ No method is stipulated for choosing the initial dealer. A hanafuda-specific met
 
 **The winner of each round becomes the dealer for the next round.**
 
+
 ## Dealing the Cards
-**The dealing method is the same as in Hachi-hachi; 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.**
+**The dealing method is the same as in Hachi-hachi; 7 cards are dealt to each player face-down, and 6 cards to the table face-up to form the field.**
 
 The remainder of the deck is placed face-down next to the field to form the draw pile.
 
@@ -38,6 +39,13 @@ The remainder of the deck is placed face-down next to the field to form the draw
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
+
+## *Mizuten* (optional)
+After the cards are dealt, but before the players look at their hands, the dealer may declare their intent to "play blind" [不見転 - むずてん, mizuten]; in other words, **the dealer decides to play the round without checking their hand first**. 
+
+Once this is declared, the dealer is committed to playing the round and may not drop out.
+
+At the end of the game, the dealer who declared Mizuten either gets a bonus, or a penalty, depending on their captured card points.
 
 ## Field Multiplier
 Field Multipliers are the same as in Hachi-hachi, except the **Grand Field is omitted**.
@@ -71,7 +79,7 @@ The Teyaku in this game is the same as in Hachi-hachi, but with **Standing Tripl
 
 The teyaku within each group are mutually exclusive, meaning that **each player scores for their single most valuable teyaku in each of Groups A and B.** 
 
-# The Dropout Phase
+# The Join/Drop Phase
 > **Skip this phase if only 2 players are playing.**
 {.is-info}
 
@@ -143,10 +151,17 @@ If any player possesses at least one dekiyaku in their score pile, then points a
 If no player has managed to form any *dekiyaku*, then the players check if they have captured **Sixteen Chaff**.
 
 ### Sixteen Chaff
-As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture **16 Chaff cards** (for this purpose, all [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards count as Chaff). This player takes **12 *kan*** from their opponent, plus an additional **2 *kan*** for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.
+As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture **16 Chaff cards** (for this purpose, all [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards count as Chaff). 
+
+This player takes **12 *kan*** from their opponent, plus an additional **2 *kan*** for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.
 
 > Including the Willow cards, there are a total of 19 Chaff cards in the deck.
 {.is-info}
+
+> Unlike in Hachi-hachi, Sixteen Chaff **does not cancel** other forms of scoring.
+{.is-info}
+
+
 
 ### Card Points
 If Sixteen Chaff is not obtained, then the players proceed to count the point values of the cards in their score pile to determine the winner. 
@@ -187,6 +202,11 @@ If this player, by the end of the round, has managed to **capture all four cards
 *Escape* [抜け役 - ぬけやく, *nukeyaku*] is available to any player who claimed a Group B teyaku.
 
 If this player, by the end of the round, has managed to capture **106** or more total card points, then the opponent pays them **1 *kan***.
+
+### Mizuten Bonus/Penalty
+If the dealer, having declared their intent to play blind, manages to capture at least **106** card points by the end of the round, they are paid 1 *kan* by **all other players**, including the inactive ones.
+
+Conversely, if they fail to capture at least 106 card points, they must pay 1 *kan* to their active opponent.
 
 # Bibliography
 - https://web.archive.org/web/20141204034916/http://www.geocities.jp/xmbwq497/gihou/nukihachihachi.html
