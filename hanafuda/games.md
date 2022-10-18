@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-17T04:13:33.756Z
+date: 2022-10-18T07:40:57.266Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -70,7 +70,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Japan|
-|[Jūnishi Awase](/en/junishi-awase)|2-4|Fishing|Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-8|Showdown|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
@@ -96,7 +95,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Japan|
-|[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2-4|Fishing|Japan|
+|[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
 |[Oto-Roku](/en/hanafuda/games/oto-roku)|5-6|Showdown|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
@@ -118,7 +117,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Taiyaku](/en/hanafuda/games/taiyaku), a.k.a Echigobana|2-3 per round, max 7 per game|Fishing|Echigo Province (Now Niigata Prefecture), Japan|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|Japan|
-|[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
 |[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Hokkaido region, Japan|
