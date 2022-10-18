@@ -2,7 +2,7 @@
 title: Taoshi
 description: A mekurifuda game that is a predecessor to Sudaoshi.
 published: true
-date: 2022-10-18T12:19:29.424Z
+date: 2022-10-18T12:29:10.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T09:01:27.001Z
@@ -84,6 +84,40 @@ Teyaku are **mutually exclusive**; players may only avail their highest scoring 
 |<h2 align="left">Group C: Combination Teyaku</h2><br>Combination of Group A and B.|||
 |36|**Four Reds + Triplet**<br/>赤四三本 [あかしさんぼん, *akashi-sanbon*]|Four "reds" and a Triplet.|
 |60|**Five Reds + Triplet**<br/>赤五三本 [あかごさんぼん, *akago-sanbon*]|Five "reds" and a Triplet.|
+
+# Join/Drop Phase
+> **Skip this phase if only 3 players are playing.**
+{.is-info}
+
+After players evaluate their hand, they must decide if they would like to play this round, or sit out.
+
+Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until **three** players have announced their intent to play, or until everyone but three players have decided to drop out, whichever comes first.
+
+> Dropout penalties were not attested in this game. Decide first before playing if dropout penalties will be implemented as a house rule.
+{.is-warning}
+
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. 
+
+Likewise, as soon as everyone but three people decide to drop out, then any remaining players are forced to play this round.
+
+> Forced-out compensations were not attested in this game. Decide first before playing if forced-out compensations will be implemented as a house rule.
+{.is-warning}
+
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
+
+# Teyaku Showdown
+The active players may **claim the points of their *teyaku***. To do so, they must reveal all the relevant cards from their hand: 
+* For teyaku in Group A or C, show all cards that are part of the combination. 
+* For teyaku in Group B, only the Red cards need to be shown.
+
+The points earned for *teyaku* are paid to a player by each of the other active opponents, in typical zero-sum fashion. 
+
+However, the points earned for certain *teyaku* that end the round prematurely are paid to a player by each of the other players, active or not. The player with this Teyaku must declare **"botta!"** to announce that the round is ended.
+
+Once teyaku points are claimed, the players hide their cards again, and the round begins.
+
+>*Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.*
+{.is-info}
 
 # Gameplay
 In each round, the dealer is the first to play, and turn to play passes anti-clockwise (↺) around the table. The core gameplay and turn structure of Hachi-Hachi is typical of games in the *Hana-Awase* family. Note that there is no *sage/koi-koi*  decision when a yaku is made; rather, **all hands are fully played out, and any point exchanges for yaku are calculated in conjuction with the points for captured cards.**
