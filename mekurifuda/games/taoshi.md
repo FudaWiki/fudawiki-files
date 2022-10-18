@@ -2,7 +2,7 @@
 title: Taoshi
 description: A mekurifuda game that is a predecessor to Sudaoshi.
 published: true
-date: 2022-10-18T09:01:27.001Z
+date: 2022-10-18T12:19:29.424Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T09:01:27.001Z
@@ -10,15 +10,33 @@ dateCreated: 2022-10-18T09:01:27.001Z
 
 UNDER CONSTRUCTION
 
-**Taoshi** - 倒し [タオシ, lit. "knocking down"] is a [mekurifuda](/en/mekurifuda) [game](/en/mekurifuda/games) for 3 players.
+**Taoshi** - 倒し [タオシ, lit. "knocking down"] is a [mekurifuda](/en/mekurifuda) [game](/en/mekurifuda/games) for 3 to 6 players, although only 3 players play at once.
 
 It has three major distinguishing features: an unusual distribution of card values, with Sword cards being the least valuable instead of Cups and Coins; a sizeable list of teyaku which have similarities to those in [Hachi-hachi](/en/hanafuda/games/hachi-hachi); and the relative paucity of dekiyaku: only one that is capturable by any player, and another that can only be captured by the player to the left of the dealer.
 
-# Equipment
+There exists a related game called [Sudaoshi](/en/hanafuda/games/sudaoshi), which is played using hanafuda.
+
+# The Cards
 48 cards of either an Akahachi or Ise deck may be used. Remove the extra "onifuda/bakefuda" from the deck.
 
 ![akahachi_deck.png](/suryongfiles/akahachi_deck.png =500x)
 ![ise_deck.png](/suryongfiles/ise_deck.png =500x)
+
+## Card Points
+- The **6 of clubs** is worth **9 points**.
+- The **7, 8, and 9 of clubs** are worth **face value**.
+- **Other clubs** are worth **5 points each**.
+- **All Swords except the 2 of swords** are worth **1 point each**, and are considered **Junks** in the game.
+- The **2 of swords and all other cards** are worth **6 points each**.
+
+The deck has a total of **234 points**.
+
+## Bakefuda (Ghost Cards)
+The **1 (Dragon) of Clubs** is considered a "bakefuda", and is called "pinbake".
+Likewise, the **12 (King) of Clubs** is also considered "bakefuda", and is called "kiribake".
+
+Bakefuda are not described in the rules as cards of any suit during the matching phase of the game, however, **they can be used as cards of any suit in three of the Teyaku in this game (Triplet, Four-of-a-kind, and Five-of-a-kind).**
+
 
 # Setup
 ## Choosing the Dealer
@@ -40,16 +58,32 @@ The remainder of the deck is placed face-down next to the field to form the draw
 
 
 # Teyaku
-The **Teyaku** - 手役 [てやく] in this game are similar to those used in Hachi-Hachi.
+The **Teyaku** - 手役 [てやく] in this game resemble those used in Hachi-Hachi, and could be considered the origin of those Teyaku.
 
-Teyaku are mutually exclusive; players may only avail their highest scoring Teyaku.
+Note that some Teyaku **end the round prematurely** (there will be no matching phase). The person with this Teyaku must declare **"botta!"** to announce that the round is ended.
 
-|Points|Name|Description|
+Teyaku are **mutually exclusive**; players may only avail their highest scoring Teyaku.
+
+|Value (in points)|Name|Description|
 |:---:|:---:|:---|
-|10|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|20|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards of different months.|
-|30|**Four-Three**<br/>四三 [しそう, *shisou*]|Four cards of one suit and a triplet of another.|
-|10|**Three Ribbons**<br>短三枚 [なさけ, *nasake*]|Any 3 Ribbons and/or [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. Note that only the second player, i.e. the one to the right of the dealer, may claim this particular Lucky Hand!|
+|<h2 align="left">Group A: Set Teyaku</h2>|||
+|12|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards with the same number. **Bakefuda may be included.**|
+|60|**Two Triplets**<br/>[きば, *kiba*]|A Triplet, and another Triplet.|
+|36|**Three Pairs**<br/>[とん, *ton*]|Three pairs of cards- a pair being two cards with the same number.|
+|60|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards with the same number. **Bakefuda may be included.**|
+|***100</br>"Botta!"***|**Five of a Kind**<br/>手五 [てご, *tego*]|Five cards with the same number (i.e. a Four of a Kind plus a Bakefuda.). ***All other players, including inactive ones, must pay the person who claimed this Teyaku. The round ends prematurely.***|
+|60|**Triplet and Two Pairs**<br/>[あぜまめ, *azemame*]|A Triplet and two pairs.|
+|***100</br>"Botta!"***|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a Triplet. ***All other players, including inactive ones, must pay the person who claimed this Teyaku. The round ends prematurely.***|
+
+|<h2 align="left">Group B: Red Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* cards with either **Swords** or '**2**'s, as well as all **Bakefuda**, are considered **Reds**.|||
+|12|**Four Reds**<br/>赤四 [あかし, *akashi*]|Four "reds".|
+|36|**Five Reds**<br/>赤五 [あかご, *akago*]|Five "reds".|
+|60|**Six Reds**<br/>赤六 [あかろく, *akaroku*]|Six "reds".|
+|***100</br>"Botta!"***|**Seven Reds**<br/>赤七 [あかなな, *akanana*]|Seven "reds". ***All other players, including inactive ones, must pay the person who claimed this Teyaku. The round ends prematurely.***|
+
+|<h2 align="left">Group C: Combination Teyaku</h2><br>Combination of Group A and B.|||
+|36|**Four Reds + Triplet**<br/>赤四三本 [あかしさんぼん, *akashi-sanbon*]|Four "reds" and a Triplet.|
+|60|**Five Reds + Triplet**<br/>赤五三本 [あかごさんぼん, *akago-sanbon*]|Five "reds" and a Triplet.|
 
 # Gameplay
 In each round, the dealer is the first to play, and turn to play passes anti-clockwise (↺) around the table. The core gameplay and turn structure of Hachi-Hachi is typical of games in the *Hana-Awase* family. Note that there is no *sage/koi-koi*  decision when a yaku is made; rather, **all hands are fully played out, and any point exchanges for yaku are calculated in conjuction with the points for captured cards.**
