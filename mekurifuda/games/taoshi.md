@@ -2,13 +2,11 @@
 title: Taoshi
 description: A mekurifuda game that is a predecessor to Sudaoshi.
 published: true
-date: 2022-10-18T12:46:06.253Z
+date: 2022-10-18T12:46:18.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T09:01:27.001Z
 ---
-
-UNDER CONSTRUCTION
 
 **Taoshi** - 倒し [タオシ, lit. "knocking down"] is a [mekurifuda](/en/mekurifuda) [game](/en/mekurifuda/games) for 3 to 6 players, although only 3 players play at once.
 
