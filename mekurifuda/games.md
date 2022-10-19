@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-19T14:26:21.868Z
+date: 2022-10-19T15:38:27.526Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -16,7 +16,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 ## Games using Four-Suited Decks
 |Game|Players|Family|Origin|Pattern Used|
 |:---|:---:|:---:|---:|---:|
-|[Dontsuku](/en/mekurifuda/games/dontsuku), a.k.a. Donchiku|-|-|Japan|Kurofuda|
+|[Dontsuku](/en/mekurifuda/games/dontsuku), a.k.a. Donchiku|2-8|Showdown|Japan|Kurofuda|
 |[Hiyoko](/en/mekurifuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|Ise|
 |[Isuri](/en/mekurifuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|Ise|
 |[Judan](/en/mekurifuda/games/judan)|-|-|Japan|Komatsu|
