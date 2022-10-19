@@ -2,13 +2,11 @@
 title: Dontsuku
 description: A kingo variant played in Kamikita district, Aomori prefecture, Japan.
 published: true
-date: 2022-10-19T15:36:01.686Z
+date: 2022-10-19T15:36:22.037Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T13:58:53.606Z
 ---
-
-UNDER CONSTRUCTION
 
 **Dontsuku** (どんつく) is a [Kingo](/en/hanafuda/games/kingo) variant for 2 to 8 players. It was attested to be played in the Kamikita district, in the Aomori prefecture in Japan.
 
