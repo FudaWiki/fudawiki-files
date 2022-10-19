@@ -2,7 +2,7 @@
 title: Otoroku
 description: A kingo variant once popular in the Tokai region of Japan.
 published: true
-date: 2022-10-19T14:16:12.371Z
+date: 2022-10-19T14:39:34.633Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-19T04:24:43.394Z
@@ -22,8 +22,6 @@ It was also originally designed to be played with a 4-suited [mekurifuda](/en/me
 A standard **40-card Kabufuda deck** may also be used.
 
 If western playing cards are used, remove all Jacks, Queens, Kings, and Jokers.
-
-In addition to the cards, **Go Stones** are used to keep track of the players' scores.
 
 # Hanafuda Months Table
 >If playing with Hanafuda, familiarity with which month corresponds to which value is required.
