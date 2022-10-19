@@ -2,7 +2,7 @@
 title: Otoroku
 description: A kingo variant once popular in the Tokai region of Japan.
 published: true
-date: 2022-10-19T14:40:13.296Z
+date: 2022-10-19T14:41:19.397Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-19T04:24:43.394Z
@@ -50,7 +50,7 @@ A decision must be made as to how long the game will last - 12 rounds is traditi
 Finally, a decision must also be made as to how much points a **share** (the amount paid during the end of each round) costs per round. It may be fixed throughout the game, or changed every time a round starts (the decision of which may be done either before or after dealing the cards, usually by the dealer).
 
 ## Choosing the Dealer and Seating Position
-There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. 
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have all players draw one card each. 
 
 The player who drew a suit for the earliest month becomes the dealer. All other players sit on the opposite side of the table and become bettors. 
 
