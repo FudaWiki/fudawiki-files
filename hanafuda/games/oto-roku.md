@@ -2,7 +2,7 @@
 title: Otoroku
 description: A kingo variant once popular in the Tokai region of Japan.
 published: true
-date: 2022-10-19T04:24:43.394Z
+date: 2022-10-19T14:16:12.371Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-19T04:24:43.394Z
@@ -47,80 +47,69 @@ Game setup involves choosing the dealer - 親 [おや, oya] and determining the 
 
 A decision must be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or until all but one player runs out of stones.
 
-Next, a decision must be made if all players will **play against each other**, or **against the dealer only**.
+Finally, a decision must also be made as to how much points a **share** (the amount paid during the end of each round) costs per round. It may be fixed throughout the game, or changed every time a round starts (the decision of which may be done either before or after dealing the cards, usually by the dealer).
 
-Finally, a decision must also be made as to how much points a **wager** costs per round. It may be fixed throughout the game, or changed every time a round starts (the decision of which may be done either before or after dealing the cards, usually by the dealer).
-
-## Choosing the Dealer
+## Choosing the Dealer and Seating Position
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. 
 
-The player who drew a suit for the earliest month becomes the dealer, while the 2nd earliest sits on the dealer's right, and so on. The player with the latest month sits on the dealer's left, and will have special rules in the game.
+The player who drew a suit for the earliest month becomes the dealer. All other players sit on the opposite side of the table and become bettors. 
 
-> If bettors are playing against the dealer, then all bettors must sit on the opposite side of the table against the dealer. The 2nd earliest sits to the dealer's farthest right, while the latest month sits to the dealer's farthest left.
-{.is-info}
+Next, the seating position of the bettors are determined.
 
-If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+The player who drew 2nd earliest sits to the farthest right of the dealer and is called the **first bettor**, while the player with the latest month sits to the farthest left and is called the **last bettor**. The last bettor will have special rules in the game.
+
+In cases where there is a tie, the players re-draw cards.
 
 ## Dealing the Cards
-The dealer shuffles the cards and deals one card to each player's hand, starting from the player to the dealer's right up to the dealer himself/herself. The rest of the cards are put face-down on the table as the draw pile.
-
-> ![kingo_setup.png](/suryongfiles/kingo_setup.png =300x)
-{.is-success}
-
-## Placing the Wager
-Each player then places a wager into the table to form the **pot**, which will be received by the winner of the round.
-
-> If bettors are all playing against the dealer, then only the bettors must place wagers on the table. Each wager must be segregated for each player.
-{.is-info}
+The dealer shuffles the cards and deals one card to each player's hand, starting from the first bettor to the last bettor and then finally to the dealer themselves. The rest of the cards are put face-down on the table near the dealer as the draw pile.
 
 # Gameplay
-Each round, the player to the dealer's right is the first to play. Turn to play goes counter-clockwise.
+Each round, the first bettor is the first to play. Turn to play goes counter-clockwise.
 
-During a player's turn, he/she **draws a card** from the draw pile and put it in his/hand to increase the value of their hand.
-
-Afterward, the player can **keep drawing cards** until his/her hand value total **becomes close to 15**, or **pass the turn**  to the next player if he/she thinks the next draw will push his/her hand's value beyond 15.
-
-A player may only have 5 cards in their hand. Once a player's hand reaches 5 cards, they must pass the turn to the next player.
-
-## Last Player's Advantage
-Unlike other players whose hand value total must not exceed 15 points, the player to the dealer's left **may reach 16 points, which is considered a stronger hand than 15.**
+During a bettor's turn, they are **given one more card face-up** by the dealer. the bettor may **ask the dealer for another card**, one at a time, until their hand value total **becomes close to 15**; however, **a bettor may not have more than 5 cards in hand**. Or, the bettor may **pass the turn** to the next bettor.
 
 ## Buta
-If the player's hand value **reaches 16 or higher (17 or higher for the player to the dealer's left)**, his/her hand is called **Buta** (ブタ, "zero"). 
+If the player's hand value **reaches 16 or higher (17 or higher for the last bettor)**, his/her hand is called **Buta** (ブタ, "zero"). 
 
-The player **automatically loses the round** and must **reveal their hand and pass the turn to the next player immediately.**
+The player **automatically loses the round**.
 
-> If all players have Bareta, then the round is voided, all wagers go back to the players, and the cards must be redealt by the same dealer.
-{.is-info}
+The player must **reveal their hand to all players**, then **discard their hand**, **pay 1 share to the dealer**, and **pass the turn to the next player.**
+
+## Last Bettor's Advantage
+Unlike other players whose hand value total must not exceed 15 points, the last bettor **may reach 16 points, which is considered a stronger hand than 15.**
+
+## Dealer's Turn
+Once all bettors have passed their turns, the dealer adds 1 card to their own hand.
+
+The dealer may add as many more cards into their hand as they want.
 
 # Showdown
-The round ends once all players have passed their turn. All players who didn't have a *buta* hand then reveal their hands for the showdown.
+Once the dealer has finished their turn, all players who didn't have a *buta* hand then **reveal their hands** for the showdown.
 
-> The yaku in the rules suggest that it is a banking game where bettors play against the dealer, as opposed to a showdown game where all players play against each other. However, the payout is not explained in the rules. For sake of completeness, both methods will be explained below.
-{.is-warning}
-
-## Method 1. Players versus Everyone
-**The player with the highest hand value wins the round, takes the pot, and becomes the dealer for the next round.**
-
-> If two or more players have the highest hand value, then they split the pot equally. If the pot cannot be split equally, the player nearest to the dealer's right takes the largest share. In both cases, the player nearest to the dealer's right becomes the dealer for the next round.
-{.is-info}
-
-## Method 2. Dealer versus Bettors
-- If the bettor has a **higher value than the dealer**, the **bettor wins** an amount equal to their wager. (*This may be reduced by the rental fee (tera-zen) to the gambling parlor*)
-- If the bettor has a **lower value than the dealer**, the **dealer wins** and takes the player's wager.
-- If both dealer and bettor have **equal hands worth 15 points**, then it is considered a **tie**. The bettor takes back their wager.
-- If both dealer and bettor have **equal hands worth less than 15**, then the **dealer wins**.
+- If the bettor has a **higher value than the dealer**, the **bettor wins** and the **dealer pays 1 share** to the bettor. (*This may be reduced by the rental fee (tera-zen) to the gambling parlor*)
+- If the bettor has a **lower value than the dealer**, the **dealer wins** and the **bettor pays 1 share** to the dealer.
+- If both dealer and bettor have **equal hands worth 15 points**, then it is considered a **tie**. No exchange will be made.
+- If both dealer and bettor have **equal hands worth less than 15**, then the **dealer wins**, and the **bettor pays 1 share** to the dealer.
 
 In any case, **the dealer retains their dealer status.**
 
+## Special condition: Dealer's choice
+If the dealer has only **2 cards in hand**, and the value of the hand is **10 or more**, then they may **choose any bettor(s) to have a showdown with**.
+
+Bettors who are **not chosen** must **discard their hand**, but they don't have to reveal it to other players or pay 1 share to the dealer.
+
 # Teyaku
-Other than the point values, there are also Teyaku which are usually strong hands. Note that some Teyaku can only be availed by the Dealer, Non-dealer, or the player to the dealer's left.
+Other than the point values, there are also Teyaku which are considered strong hands. 
+
+All Teyaku hands are considered **not *buta***, regardless of the value of the hand. The exception is if a player forms a Teyaku that they cannot avail, and is also a *buta* hand.
+
+Note that some Teyaku can only be availed by certain players.
 
 |Player who can avail|Name|Description|
 |:---:|:---:|:---|
-|Non-dealer only|**Undefeatable**<br/>負けず  [まけず, *makezu*]|A two-card hand consisting of a ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)June and a ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)September.</br>**Beats all hands.**|
-|Dealer's Left only|**Otoroku**<br/>おとろく|A two-card hand consisting of a ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)June and a ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)October.</br>**Beats all hands except Undefeatable.**|
-|Dealer's Left only|**Otoroku**<br/>おとろく|A two-card hand consisting of a ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)July and a ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)September.</br>**Beats all hands except Undefeatable.**|
+|Bettors only|**Undefeatable**<br/>負けず  [まけず, *makezu*]|A two-card hand consisting of a ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)June and a ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)September.</br>**Beats all hands.**|
+|Last bettor only|**Otoroku**<br/>おとろく|A two-card hand consisting of a ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)June and a ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)October.</br>**Beats all hands.**|
+|Last bettor only|**Otoroku**<br/>おとろく|A two-card hand consisting of a ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)July and a ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)September.</br>**Beats all hands.**|
 |Dealer only|**Birds**<br/>とりとり [*toritori*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)</br>**Beats all hands except Undefeatable and Otoroku.**|
 |Everyone|**5 pieces 5 and below**<br/>五下五枚 [ごしたごまい - *goshita gomai*]|A five-card hand consisting of only cards that are ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)May or earlier.</br>**Stronger than 15, Weaker than Birds.**|
 |Everyone|**14.5 Yaku**|A two-card hand consisting of a ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)January and a ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)September.</br>**Stronger than 14, Weaker than 15.**|
