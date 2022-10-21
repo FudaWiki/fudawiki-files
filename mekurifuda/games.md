@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-19T15:38:27.526Z
+date: 2022-10-21T14:11:52.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -40,7 +40,7 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |:---|:---:|:---:|---:|---:|
 |[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
-|[Dare](/en/kabufuda/games/dare)|-|Showdown|Japan|Komaru|
+|[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Japan|Komaru|
 |[Dosari](/en/kabufuda/games/dosari)|-|-|Japan|Kinseizan|
 |[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Japan|Irinokichi|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|Daini|
