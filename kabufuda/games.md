@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-10-19T14:25:16.905Z
+date: 2022-10-21T14:11:00.792Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -17,7 +17,7 @@ Also, some of these games were originally played using different one-suited [Mek
 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|[Dare](/en/kabufuda/games/dare)|-|Showdown|Japan|
+|[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Japan|
 |[Gomai-Kabu](/en/kabufuda/games/gomai-kabu)|2-8|Showdown|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-10|Showdown|Japan|
