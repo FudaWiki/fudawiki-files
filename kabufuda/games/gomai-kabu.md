@@ -2,13 +2,15 @@
 title: Gomai-Kabu
 description: A simple, luck-based Kabufuda game for 2-8 players
 published: true
-date: 2022-10-16T11:35:46.092Z
+date: 2022-10-21T13:50:47.122Z
 tags: kabufuda games, showdown games
 editor: markdown
 dateCreated: 2022-04-01T18:08:00.849Z
 ---
 
-**Gomai-Kabu** is an extremely simple game based on luck in which players compare their chosen stacks of cards in an attempt to form the best hand.
+**Gomai-Kabu** [五枚かぶ - '5-card kabu'] is an extremely simple game based on luck in which players compare their chosen stacks of cards in an attempt to form the best hand.
+
+Other games similar to this game exist, such as [Dorijitgo-ttaeng](/en/hanafuda/games/seotda#dorijitgo-ttaeng) and [Dare](/en/kabufuda/games/dare).
 
 # Setup
 Determine who will be dealer. If playing for money or points, set an agreed-upon bet size for the round.
