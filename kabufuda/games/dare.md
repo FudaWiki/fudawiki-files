@@ -2,7 +2,7 @@
 title: Dare
 description: A kabufuda game. Make 3 sets that matches the score on the field!
 published: true
-date: 2022-10-21T14:10:27.832Z
+date: 2022-10-21T14:13:07.952Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-21T14:10:27.832Z
@@ -21,6 +21,9 @@ Determine who will be dealer. If playing for money or points, set an agreed-upon
 **39 cards** of a [*kabufuda*](/en/kabufuda) deck are used. Remove the Special 1 card (the red one).
 
 ![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+> The game has also been attested to be played using a one-suited [mekurifuda](/en/mekurifuda) deck called **Komaru**.
+{.is-info}
 
 If needed, a *kabufuda* deck can be emulated with a *hanafuda* deck by removing the November and December suits and assigning a value to each of the cards equal to the month it represents (January = 1, February = 2, et cetera). If playing for money, chips or other small tokens should be used to represent points and assist in tracking bets.
 
