@@ -2,7 +2,7 @@
 title: Shirinma
 description: A mekurifuda showdown game with an auction element.
 published: true
-date: 2022-10-22T16:48:42.213Z
+date: 2022-10-22T16:56:10.770Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T05:02:23.186Z
@@ -65,7 +65,7 @@ If the card is a "showdown card", then the player must p**lace the corresponding
 ### Double-riding (Auction)
 Any other player may then **bid to buy half of the rights** to the player's "showdown card".
 
-> You may bid any amount of chips as you like.
+> You may bid as many chips as you like.
 {.is-info}
 
 The highest bidder wins the rights and places their bid into the pot.
