@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-22T17:12:56.369Z
+date: 2022-10-22T17:18:57.437Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -47,3 +47,8 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Japan|Daini|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|Mefuda or Daini|
 |[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|Komaru|
+
+# Other Lists of Games
+- [Hanafuda Games](/en/hanafuda/games)
+- [Kabufuda Games](/en/kabufuda/games)
+- [Other Karuta Games](/en/karuta/games)
