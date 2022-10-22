@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-22T17:10:35.629Z
+date: 2022-10-22T17:12:56.369Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -21,14 +21,11 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Isuri](/en/mekurifuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|Ise|
 |[Judan](/en/mekurifuda/games/judan)|-|-|Japan|Komatsu|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Japan|Komatsu|
-|[Kasuto](/en/mekurifuda/games/kasutowo)|-|-|Japan|-|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|Tensho Karuta or Mekurifuda|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Japan|Kurofuda|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|Japan|Akahachi|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Tōkai region, Japan|-|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Japan|-|
-|[Sento](/en/mekurifuda/games/sentowo)|-|-|Japan|-|
-|[Senrokuto](/en/mekurifuda/games/senrokutowo)|-|-|Japan|-|
 |[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|Japan|Komatsu|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Japan|Shimafuda|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Japan|-|
