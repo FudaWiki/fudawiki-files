@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-21T14:11:52.050Z
+date: 2022-10-22T16:58:47.090Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -27,7 +27,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Tōkai region, Japan|-|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Japan|-|
 |[Sento](/en/mekurifuda/games/sentowo)|-|-|Japan|-|
-|[Shirinma](/en/mekurifuda/games/shirinma)|-|-|Japan|Komatsu|
+|[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|Japan|Komatsu|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Japan|Shimafuda|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Japan|-|
 |[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Japan|Akahachi or Ise|
