@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-21T14:11:23.417Z
+date: 2022-10-22T17:14:12.903Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -76,6 +76,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Karafuto Prefecture (Now South Sakhalin)|
+|[Kasuto](/en/hanafuda/games/kasutowo)|-|-|Japan|-|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|-|
@@ -110,6 +111,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
+|[Sento](/en/hanafuda/games/sentowo)|-|-|Japan|-|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Gushikawa, Uruma City, Okinawa, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
