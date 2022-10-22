@@ -2,7 +2,7 @@
 title: Shimafuda
 description: A fishing game played with uniquely designed mekurifuda cards.
 published: true
-date: 2022-10-16T14:53:44.900Z
+date: 2022-10-22T17:03:00.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T04:41:56.419Z
@@ -54,6 +54,9 @@ The game can be played by 3 or 4 people.
 # Game Setup
 ## Equipment
 All 49 cards of the Shimafuda deck are used (Onifuda included!).
+
+> It is possible to play this game using a hanafuda deck, but you have to know the **Nagoya month sequence**. Also, the Shirofuda may take place of the Onifuda.
+{.is-warning}
 
 Chips may be helpful for keeping track of scores.
 
