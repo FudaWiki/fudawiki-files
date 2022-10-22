@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-22T17:14:12.903Z
+date: 2022-10-22T17:17:19.776Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -233,3 +233,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
 - *Tobaku Ni Kansuru chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696.
 - "Bakabana", https://web.archive.org/web/20040810024856/http://homepage3.nifty.com/noguta/karuta/usuki.html
+
+# Other Lists of Games
+- [Kabufuda Games](/en/kabufuda/games)
+- [Four-suited and One-suited Mekurifuda Games](/en/mekurifuda/games)
+- [Other Karuta Games](/en/karuta/games)
