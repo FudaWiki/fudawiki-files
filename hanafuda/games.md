@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-22T17:17:19.776Z
+date: 2022-10-23T12:18:37.833Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -127,7 +127,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Tokyo, Japan|
 |[Yari-Tori](/en/hanafuda/games/yari-tori)|2|Showdown|Nagoya region, Japan|
 |[Yari-Tori Tokotoko](/en/hanafuda/games/yari-tori-tokotoko)|2|Showdown|Nagoya region, Japan|
-|[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
+|[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|Guessing|-|
 |[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
 |[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Kanagawa Region, Japan|
