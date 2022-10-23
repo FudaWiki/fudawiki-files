@@ -2,7 +2,7 @@
 title: Yatchaba
 description: Guess the months of the 3 cards.
 published: true
-date: 2022-10-23T14:49:53.353Z
+date: 2022-10-23T17:58:12.437Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-23T14:49:53.353Z
@@ -46,7 +46,7 @@ If the last player chooses to continue, then all players, starting with the deal
 
 *For example, in a 4-player game, the 4th player chooses to continue. The dealer then places 5 chips into the pot, the 2nd player places 6 chips, the 3rd player places 7 chips, and the 4th player places 8 chips, then the 4th player chooses again whether to continue or stop. If the 4th player chooses to continue, then the dealer places 9 chips, the 2nd player places 10 chips...*
 
-> Optional Rule: After the last player declares to continue, 
+> Optional Rule: After the last player declares to continue, each player may declare to "pass" from placing any further chips, by placing 1 chip into the pot.
 {.is-info}
 
 However, if the last player chooses to stop, then the dealer reveals the 3 face-down cards by flipping them face-up. The dealer then checks if their prediction is correct.
