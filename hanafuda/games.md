@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-10-24T03:31:08.784Z
+date: 2022-10-24T07:08:18.722Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -109,6 +109,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[San-Zoku Go-Jū](/en/hanafuda/games/san-zoku-go-ju)|3|Fishing|Japan|
 |[San-Zoku Tsuppari](/en/hanafuda/games/san-ju-tsuppari/#san-zoku-tsuppari)|3|Fishing|Japan|
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
+|[Senbon-Hana](/en/hanafuda/games/senbon-hana)|-|-|Japan|
 |[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Sento](/en/hanafuda/games/sentowo)|-|-|Japan|-|
@@ -133,6 +134,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Kanagawa Region, Japan|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
 |[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|
+|[Zeze-Hana](/en/hanafuda/games/zeze-hana)|-|-|Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
