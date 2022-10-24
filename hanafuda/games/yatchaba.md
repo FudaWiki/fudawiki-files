@@ -2,7 +2,7 @@
 title: Yatchaba
 description: Guess the months of the 3 cards.
 published: true
-date: 2022-10-24T03:30:35.041Z
+date: 2022-10-24T14:46:40.559Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-10-23T14:49:53.353Z
@@ -39,11 +39,6 @@ After the dealer declares their guess, **each player**, starting with the dealer
 
 >In the book "28 Kinds of Hanafuda Games" each player must follow a specific order of amounts to be placed on the pot: 3, 7, 11, 12, 16, 22, 26, 30, 31, 35, 41, 45, and 50. 50 is the maximum amount; if a player places 50 chips, the next player places 50 chips as well. However, in practice, this is not followed.
 {.is-info}
-
-Alternatively, instead of participating in placing increasing amount of chips in the pot, a player may choose to declare to **"pass" from placing any further chips until the next round.** They must **place 1 chip into the pot** after declaring to "pass". 
-
-However, each player may "pass" **only twice per game**, otherwise, they will lose the right to be a "guesser" during the game!
-
 
 Once the **player to the dealer's left ("last player")** has placed their chips into the pot, that player has the choice whether to **continue** the sequence of placing chips or to **stop it**.
 
