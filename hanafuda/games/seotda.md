@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-20T11:39:16.207Z
+date: 2022-10-24T16:17:55.777Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-23T06:45:33.075Z
 **Seotda** [섰다 or 섯다, lit. 'stood up'] is a Korean Hanafuda game for 2-20 players in which players bet on the value of their dealt cards across multiple rounds, similar to other showdown games like Poker. The name comes from the word shouted to indicate the start of betting.
 
 
-Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead, adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
+Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead and adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
 
 # Equipment
 **Seotda** is played using **20 cards** of a *Hanafuda* deck, consisting of only the two most valuable types of the cards from January to October.
@@ -57,7 +57,7 @@ For example, the dealer deals each player two cards in regular 3-card variant. I
 
 |HAND|CARDS|
 |:---:|---|
-|**Bright 3 and 8**<br>삼팔광땡<br>(*Sampal Gwangttaeng*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|**Bright Pair of 3 and 8**<br>삼팔광땡<br>(*Sampal Gwangttaeng*)|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
 |**Bright Pair**</br>광땡</br>(*Gwangttaeng*)|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)</br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)<br>1 and 8 is stronger than 1 and 3.|
 |**Pair**<br>땡</br>(*Ttaeng*)|Any two cards of the same month. Latest month is the strongest.<br>10 is the strongest, and is called **Jangttaeng** (장땡).</br>1 is the weakest, and is called **Ppingttaeng** (삥땡).|
 |**1 and 2**<br>알리</br>(*Alli*)|A Pine (1) ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) and a Plum Blossom (2) ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x).|
@@ -132,11 +132,11 @@ If a player fails to create a 3-card combination, the player **busts** (황, *hw
 
 ## Double Pair
 
-In Dorijitgo-ttaeng, a single hand may compose 2 or more hand rank combinations.
+In Dorijitgo-ttaeng, a single hand may compose multiple hand rank combinations.
 For example, ![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/50.svg#hanafuda-card =50x)![](/sheldonchen-cards/51.svg#hanafuda-card =50x)![](/sheldonchen-cards/91.svg#hanafuda-card =50x)![](/sheldonchen-cards/100.svg#hanafuda-card =50x) may be considered as a **1 and 9** (5-5-0 / 1-9) or a **Pair of 5** (1-9-0 / 5-5).
 
-In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results in 2 **different** pairs trumps all regular hands. If two or more players have a Double Pair, compare the higher Pair among Double Pairs.
-![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/61.svg#hanafuda-card =50x)![](/sheldonchen-cards/70.svg#hanafuda-card =50x)![](/sheldonchen-cards/71.svg#hanafuda-card =50x) is a **Double Pair of 6 and 2**.
+In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results in 2 **different** pairs trumps all regular hands. If two or more players have a Double Pair, compare the higher Pairs.
+![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/61.svg#hanafuda-card =50x)![](/sheldonchen-cards/70.svg#hanafuda-card =50x)![](/sheldonchen-cards/71.svg#hanafuda-card =50x) is a **Double Pair of 7 and 2**.
 ![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/30.svg#hanafuda-card =50x)![](/sheldonchen-cards/60.svg#hanafuda-card =50x) is a **Double Pair of Bright and 2** (only when Bright Pairs are allowed)
 
 ## Dealing variants
