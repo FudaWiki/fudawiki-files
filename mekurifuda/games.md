@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-22T17:18:57.437Z
+date: 2022-10-24T04:03:08.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -31,6 +31,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Japan|-|
 |[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Japan|Akahachi or Ise|
 |[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Japan|Ise|
+|[Tenshu](/en/mekurifuda/games/tenshu)|4-7|Fishing|Uozu, Toyama Prefecture, Japan|Fukutoku|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|Tensho Karuta or Yomifuda|
 
 ## Games using One-Suited Decks
