@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T08:30:14.487Z
+date: 2022-10-26T09:04:21.516Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -141,8 +141,28 @@ Some regional rules are listed below. *Decide first before applying these rules 
 - If the card drawn is **Semimaru** (蝉丸), then **all players' hands are placed into the pot**.
 - **Semimaru** (蝉丸) has the same effect as a card with a **bald** person on it.
 
-## Ao Kanmuri (青冠, blue crown')
-Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used.
+## Ao Kanmuri (青冠, 'blue crown')
+The game is played by 2 teams of 2 players per team. Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. 
+
+The game goes as follows:
+- All players sit around in a circle. Teammates sit facing each other.
+- Deal 25 cards to each player's hand.
+- Determine the first player using any method you prefer. Turns move counterclockwise starting with the first player.
+- The first player puts out one card on the table as an "attack".
+-- If the next player has a card of the same type as the attack card (or if they have a card that defeats the attack card), they "receive" the attack by putting it on the attack card. Then they place another card on the table as an "attack".
+-- If the next player doesn't have a card of the same type, or if they don't feel like "receiving" it, then they pass the turn to the next player.
+- The game continues until one team runs out of cards in hand. That team wins the game.
+
+**Cards are classified into different types:**
+- Emperor Tenchi - defeats all cards.
+- Emperor Jito - defeats all cards except Emperor Tenchi.
+- Bald (Monk/Priest)
+- Woman
+- Man wearing Yagoro (Arrow)
+- Man wearing vertical eboshi
+- Man wearing horizontal eboshi
+- Man wearing a black/colored crown
+
 
 
 # Bibliography
