@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T09:05:37.549Z
+date: 2022-10-26T14:03:01.592Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -132,17 +132,17 @@ The common rules are as follows:
 - If the card drawn is **Semimaru** (蝉丸), then **you are disqualified from the game**.
 
 ### Regional Rules
-Some regional rules are listed below. *Decide first before applying these rules in the game*:
+There are many regional variations in the rules of the game, some of which are listed below. *Decide first before applying these rules in the game*:
 - Instead of just one face-down stack, it is split into **multiple face-down stacks**, and a player may draw a card from any one of these stacks.
 - If the card drawn is a **woman**, and the **pot is empty**, then **keep the card in your hand and draw another card.**
 - If the card drawn is from the **Imperial Family (Emperor/Prince)**, then **keep it in your hand and draw multiple cards.**
 - If the card drawn is from the **Imperial Family (Emperor/Prince)**, then **keep it in your hand and take all cards from all players' hands.**
-- If the card drawn is **on an elevated platform**, then **keep it in your hand and draw another card.**
+- If the card drawn is a person **on an elevated platform**, then **keep it in your hand and draw another card.**
 - If the card drawn is **Semimaru** (蝉丸), then **all players' hands are placed into the pot**.
 - **Semimaru** (蝉丸) has the same effect as a card with a **bald** person on it.
 
 ## Ao Kanmuri (青冠, 'blue crown')
-The game is played by 2 teams of 2 players per team. Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. 
+This shedding game is played by 2 teams of 2 players per team. Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. 
 
 The game goes as follows:
 - All players sit around in a circle. Teammates sit facing each other.
@@ -164,9 +164,58 @@ The game goes as follows:
 - Man wearing a black/colored crown
 
 ## Ginkō (銀行, 'bank')
-“Bank” is a family game that was popular in various regions until the 1950s and 1960s. Waka poems are not used, 1 for letter cards, 10 for crown cards, 50 for princess cards, 150 for bow holder cards (there are 2 of them), 300 for eboshi cards, 400 for priests, and 400 for daitsuki cards (emperor and royal family) is worth 500, and Semimaru 's bill is worth the highest 1,000. One of the players becomes the "bank" and places 4 or 5 cards face down, and then the other players place a portion of the cards they received in advance and place a bet in front of the cards placed by the bank. So, when the bank opens the bill while saying something like "Akikata wa", if the bank's bill has a higher score, it is confiscated; Pay other players as interest. (There are also detailed rules, such as if the empty person is a boy and loses, the bank will take twice as much, and if the person is a boy, the bank will take three times as much.) The person with the most points on the bills in hand wins, and the bank collects too many points again. Sometimes the bank deliberately puts down cards with less points, loses, and continues the game.
+“Ginkō” is a game played by both adults and children using [Hyakunin Isshu Karuta](/en/uta-garuta/ogura-hyakunin-isshu), that was popular in various regions of Japan until the 1950s and 1960s. 
+
+All 200 cards of Hyakunin Isshu Karuta are used.
+
+**Cards are classified into different types:**
+- Torifuda - worth 1 pt. each
+- Men wearing a black/colored crown - worth 10 pts. each
+- Women - worth 50 pts. each
+- Men holding a bow (there are two of them) - worth 150 pts. each
+- Man wearing Eboshi - worth 300 pts. each
+- Bald (Monk/Priest) - worth 400 pts. each
+- Person on an elevated platform (Royal family) - worth 500 pts. each
+- Semimaru (蝉丸) - 1000 pts.
+
+One of the players becomes the "bank". Other players are bettors.
+
+Each bettor is given an arbitrary amount of cards before the game starts.
+
+The bank then places 4 or 5 cards face down. 
+
+Each of the other players wagers as many cards as they like on one of the face-down cards. *(The wagered cards should be segregated per player.)*
+
+Once all players have placed their bets, the bank flips the cards they have bet on face-up. 
+- If the bank's card has a higher score than the player's bet, the bank confiscates the bet.
+- If the bank's card has the same score, it is a tie, and the bet is returned to the bettor.
+- If the bank's card has a lower score, the bank returns to bet to the bettor and pays them an equal amount of cards as the bet. 
+
+> Sometimes there are also detailed rules, such as if the bank wins against a bettor's Bald card, the bank will take twice the amount of cards as the bet, and if the bank has a Bald card and wins, the bank will take three times as much. 
+{.is-info}
+
+## Ginkōya (銀行屋, 'banker')
+It is a more simplified variant of Ginkō, also played using [Hyakunin Isshu Karuta](/en/uta-garuta/ogura-hyakunin-isshu).
+
+Only the 100 Yomifuda of Hyakunin Isshu Karuta are used.
+
+One of the players becomes the "bank". Other players are bettors.
+
+Each bettor is given 10 cards before the game starts.
+
+The bank then places 4 cards face down. 
+
+Each of the other players wagers as many cards as they like on one of the face-down cards. *(The wagered cards should be segregated per player.)*
+
+Once all players have placed their bets, the bank flips the cards they have bet on face-up. 
+- If the flipped card is a man, it is a tie, and the bet is returned to the bettor.
+- If the flipped card is a bald monk/priest, the bank wins and takes the bet.
+- If the flipped card is a woman, the bettor wins the same number of cards as their bet.
+- If the flipped card is Semimaru (蝉丸), the bank wins 5x the number of cards in the bet.
+- If the flipped card is Shokushi Naishinno (式子内親王), the bettor wins 5x the number of cards in the bet.
 
 # Bibliography
 - https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu
 - https://en.wikipedia.org/wiki/Uta-garuta
 - https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96#%E3%81%8B%E3%82%8B%E3%81%9F
+- https://bunkatorekisi.blog.fc2.com/blog-entry-492.html
