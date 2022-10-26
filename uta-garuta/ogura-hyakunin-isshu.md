@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T06:07:42.673Z
+date: 2022-10-26T06:55:50.764Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -84,6 +84,31 @@ Since it is a team battle, there are some rules:
 - If a player grabs a Torifuda from the opponent's side, then they move one Torifuda from their own side to the opponent's side.
 - If a player takes the wrong Torifuda, then the opponent moves one of their Torifuda to the player's side as a penalty.
 - The team who has no more Torifuda on their side wins the game.
+
+## Relay Karuta (リレーかるた - 'Relay Karuta')
+
+It is a variant of Genpei War where:
+- Each team member play in turns instead of all at once.
+- Turnover of players of both teams occur every 10 poems read.
+- If an opponent took a Torifuda from a player's side, the player passes their turn to their next teammate.
+
+## Competitive Karuta (競技かるた - *Kyougi Karuta*)
+
+## Mubeyama Karuta (むべ山かるた)
+[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
+
+The torifuda is divided equally between a preset number of players, who then arrange them neatly in rows. The reader reads the Yomifuda, and the player must then check their cards if they have the corresponding Torifuda. If they do, they flip it face-down. A player is paid points for either completing a row of Torifuda, or flipping a Torifuda of special "yaku" poems, which contain certain words.
+
+The game is named after a "yaku" poem in the game, which is written by Fun'ya no Yasuhide:
+
+**#22**
+
+|Japanese|Romaji|English|
+|:---|:---|:---|
+|吹くからに</br>秋の草木の</br>しをるれば</br></br>**むべ山**風を</br>あらしといふらむ|*Fuku kara ni*</br>*Aki no kusaki no*</br>*Shiorureba*</br></br>***Mube yama** kaze o*</br>*Arashi to iuran*|It is by its breath</br>That autumn's leaves of trees and grass</br>Are wasted and driven.</br></br>So they call this mountain wind</br>The wild one, the destroyer.|
+
+
+
 
 # Bibliography
 - https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu
