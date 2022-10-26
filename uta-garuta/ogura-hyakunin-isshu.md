@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T09:04:21.516Z
+date: 2022-10-26T09:05:37.549Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -163,7 +163,8 @@ The game goes as follows:
 - Man wearing horizontal eboshi
 - Man wearing a black/colored crown
 
-
+## Ginkō (銀行, 'bank')
+“Bank” is a family game that was popular in various regions until the 1950s and 1960s. Waka poems are not used, 1 for letter cards, 10 for crown cards, 50 for princess cards, 150 for bow holder cards (there are 2 of them), 300 for eboshi cards, 400 for priests, and 400 for daitsuki cards (emperor and royal family) is worth 500, and Semimaru 's bill is worth the highest 1,000. One of the players becomes the "bank" and places 4 or 5 cards face down, and then the other players place a portion of the cards they received in advance and place a bet in front of the cards placed by the bank. So, when the bank opens the bill while saying something like "Akikata wa", if the bank's bill has a higher score, it is confiscated; Pay other players as interest. (There are also detailed rules, such as if the empty person is a boy and loses, the bank will take twice as much, and if the person is a boy, the bank will take three times as much.) The person with the most points on the bills in hand wins, and the bank collects too many points again. Sometimes the bank deliberately puts down cards with less points, loses, and continues the game.
 
 # Bibliography
 - https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu
