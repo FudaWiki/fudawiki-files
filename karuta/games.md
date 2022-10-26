@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-10-26T14:12:18.379Z
+date: 2022-10-26T15:40:47.582Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -20,7 +20,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |[Goita](/en/goita)|||Japan|
 |[Hachinin Meri](/en/karuta/unsun/hachi-nin-meri)|8|Trick-taking|Japan|
 |[Iroha Karuta](/en/iroha)|-|-|Japan|
-|[Ita Karuta](/en/uta-garuta/ogura-hyakunin-isshu/ita-karuta), a.k.a Shimonoku Karuta|-|-|Hokkaido region, Japan|
+|[Shimonoku Karuta](/en/uta-garuta/ogura-hyakunin-isshu#shimonoku-karuta-%E4%B8%8B%E3%81%AE%E5%8F%A5%E3%81%8B%E3%82%8B%E3%81%9F), a.k.a Ita Karuta|6|-|Hokkaido region, Japan|
 |[Junishi-Awase](/en/junishi-awase)|3|Fishing|Japan|
 |[Kai Ooi](/en/kai-ooi)||Matching|Japan|
 |[Kazoku-Awase](/en/kazoku-awase)|||Japan|
