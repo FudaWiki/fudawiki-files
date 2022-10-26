@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-10-25T06:57:25.459Z
+date: 2022-10-26T00:22:22.753Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
