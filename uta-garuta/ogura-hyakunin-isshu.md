@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T03:35:47.502Z
+date: 2022-10-26T03:57:08.811Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -30,7 +30,10 @@ Each corresponding **Torifuda** contains **only the latter half of the poem**, u
 {.is-info}
 
 # General Premise of the Game
-The game is played with 1 person reading the Yomifuda, and player(s) competing in the game. 
+The game is played with **1 person reading the Yomifuda** (hereafter refered to as the **"reader"**), and player(s) competing in the game. 
+
+> Only the players compete in the game. The reader's role is to read the Yomifuda only.
+{.is-warning}
 
 A preset number of Torifuda are shuffled and laid on the floor. 
 
@@ -68,6 +71,21 @@ The reader only reads the latter half of the poems, and players must grab the ca
 
 It seems the original purpose of this game is for practice purposes, by familiarizing with the first half of the poems by listening only to the latter half of the poems being read.
 
+## Genpei War (源平合戦 - *Genpei-Gassen*)
+It is a competition between two teams of one or more players per team.
+The two teams are called Genji (源氏) and Heiji (平氏).
+
+Each team sits on the opposite sides, and in between them the Torifuda are laid neatly: 50 cards near the Genji side and 50 cards near the Heiji side.
+They are arranged in three rows: 17 cards at the bottom row, 17 cards at the middle row, and 16 cards at the top row.
+
+The gameplay is the same as "Scatter and Pick Up"; players can grab Torifuda on either side.
+
+Since it is a team battle, there are some rules:
+- If a player grabs a Torifuda from the opponent's side, then they move one Torifuda from their own side to the opponent's side.
+- If a player takes the wrong Torifuda, then the opponent moves one of their Torifuda to the player's side as a penalty.
+- The team who has no more Torifuda on their side wins the game.
+
 # Bibliography
 - https://en.wikipedia.org/wiki/Ogura_Hyakunin_Isshu
 - https://en.wikipedia.org/wiki/Uta-garuta
+- https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96#%E3%81%8B%E3%82%8B%E3%81%9F
