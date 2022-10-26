@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-24T16:17:55.777Z
+date: 2022-10-26T05:38:40.168Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -135,7 +135,7 @@ If a player fails to create a 3-card combination, the player **busts** (황, *hw
 In Dorijitgo-ttaeng, a single hand may compose multiple hand rank combinations.
 For example, ![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/50.svg#hanafuda-card =50x)![](/sheldonchen-cards/51.svg#hanafuda-card =50x)![](/sheldonchen-cards/91.svg#hanafuda-card =50x)![](/sheldonchen-cards/100.svg#hanafuda-card =50x) may be considered as a **1 and 9** (5-5-0 / 1-9) or a **Pair of 5** (1-9-0 / 5-5).
 
-In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results in 2 **different** pairs trumps all regular hands. If two or more players have a Double Pair, compare the higher Pairs.
+In **Double Pair** variant (춘추땡, *chunchu-ttaeng*), a hand which results in 2 **different** pairs trumps all regular hands. If two or more players have a Double Pair, compare the higher Pairs. If still tied, compare the lower Pairs.
 ![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/61.svg#hanafuda-card =50x)![](/sheldonchen-cards/70.svg#hanafuda-card =50x)![](/sheldonchen-cards/71.svg#hanafuda-card =50x) is a **Double Pair of 7 and 2**.
 ![](/sheldonchen-cards/10.svg#hanafuda-card =50x)![](/sheldonchen-cards/20.svg#hanafuda-card =50x)![](/sheldonchen-cards/21.svg#hanafuda-card =50x)![](/sheldonchen-cards/30.svg#hanafuda-card =50x)![](/sheldonchen-cards/60.svg#hanafuda-card =50x) is a **Double Pair of Bright and 2** (only when Bright Pairs are allowed)
 
