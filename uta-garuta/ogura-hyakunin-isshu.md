@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T07:03:29.952Z
+date: 2022-10-26T08:30:14.487Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -38,6 +38,9 @@ The game is played with **1 person reading the Yomifuda** (hereafter refered to 
 A preset number of Torifuda are shuffled and laid on the floor. 
 
 As the reader reads a poem on the Yomifuda, the player(s) must search on the floor the corresponding Torifuda in which the latter half of the poem is written, as quickly as possible.
+
+> It is a great advantage if you have memorized the poems before playing the game.
+{.is-warning}
 
 The objective is to grab as many Torifuda in the game as possible.
 
@@ -92,10 +95,12 @@ It is a variant of Genpei War where:
 - Turnover of players of both teams occur every 10 poems read.
 - If an opponent took a Torifuda from a player's side, the player passes their turn to their next teammate.
 
-## Competitive Karuta (競技かるた - *Kyougi Karuta*)
+## Competitive Karuta (競技かるた - *Kyōgi Karuta*)
 [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta) is a full-fledged competition held under the rules set by the All Japan Karuta Association. 
 
-It is characterized by using only 50 Torifuda, which is half of what is used in "Scatter and Pick up"(however, all 100 Yomifuda are read).
+It is a one-on-one game characterized by using **only 50 Torifuda**, which is half of what is used in "Scatter and Pick up". However, all 100 Yomifuda are read by the reader.
+
+Playing at a competitive level requires a high level of dexterity, agility, and memory, and is considered as a kind of sport in Japan.
 
 # Other Games using Hyakunin Isshu Karuta
 ## Mubeyama Karuta (むべ山かるた)
@@ -111,7 +116,33 @@ The game is named after a "yaku" poem in the game, which is written by Fun'ya no
 |:---|:---|:---|
 |吹くからに</br>秋の草木の</br>しをるれば</br></br>**むべ山**風を</br>あらしといふらむ|*Fuku kara ni*</br>*Aki no kusaki no*</br>*Shiorureba*</br></br>***Mube yama** kaze o*</br>*Arashi to iuran*|It is by its breath</br>That autumn's leaves of trees and grass</br>Are wasted and driven.</br></br>So they call this mountain wind</br>The wild one, the destroyer.|
 
+## Bōzu Mekuri (坊主めくり, "flip the baldies")
+Bōzu-mekuri seems to have been devised as a game that even children who have not memorized the poems can play, but it is not clear when and where it originated or who invented it.
 
+Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. They are placed in **a face-down stack on the table**.
+
+Any number of players may play the game. After the first player is decided using rock-paper-scissors or any other method, players sit around the face-down stack. Turn moves counter-clockwise, starting with the first player previously mentioned.
+
+**Each player draws one card from the stack**, and depending on the drawn card, an effect will take place, then the player's turn ends and the player to their right takes their turn. The game ends when the face-down stack runs out of cards. The player with the most cards in hand wins the game.
+
+The common rules are as follows:
+- If the card drawn is a **man**, **keep it in your hand**.
+- If the card drawn has a **bald head** (i.e. a monk/priest), **put this card along with all cards in your hand onto the table face-up as the "pot"**.
+- If the card drawn is a **woman**, **keep it in your hand, and take all cards in the pot.**
+- If the card drawn is **Semimaru** (蝉丸), then **you are disqualified from the game**.
+
+### Regional Rules
+Some regional rules are listed below. *Decide first before applying these rules in the game*:
+- Instead of just one face-down stack, it is split into **multiple face-down stacks**, and a player may draw a card from any one of these stacks.
+- If the card drawn is a **woman**, and the **pot is empty**, then **keep the card in your hand and draw another card.**
+- If the card drawn is from the **Imperial Family (Emperor/Prince)**, then **keep it in your hand and draw multiple cards.**
+- If the card drawn is from the **Imperial Family (Emperor/Prince)**, then **keep it in your hand and take all cards from all players' hands.**
+- If the card drawn is **on an elevated platform**, then **keep it in your hand and draw another card.**
+- If the card drawn is **Semimaru** (蝉丸), then **all players' hands are placed into the pot**.
+- **Semimaru** (蝉丸) has the same effect as a card with a **bald** person on it.
+
+## Ao Kanmuri (青冠, blue crown')
+Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used.
 
 
 # Bibliography
