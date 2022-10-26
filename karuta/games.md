@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-10-26T01:57:40.659Z
+date: 2022-10-26T02:07:02.288Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -11,6 +11,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 # Other Karuta Games
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
+|[Bozu Mekuri](/en/uta-garuta/ogura-hyakunin-isshu/bozu-mekuri)|-|-|Japan|
 |[Dosai Karuta](/en/dosai-karuta)|||Japan|
 |[Garafuda](/en/garafuda)|||Japan|
 |[Goita](/en/goita)|||Japan|
