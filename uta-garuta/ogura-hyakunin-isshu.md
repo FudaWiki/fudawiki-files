@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T03:59:16.297Z
+date: 2022-10-26T06:07:42.673Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -76,7 +76,7 @@ It is a competition between two teams of one or more players per team.
 The two teams are called Genji (源氏) and Heiji (平氏).
 
 Each team sits on the opposite sides, and in between them the Torifuda are laid neatly: 50 cards near the Genji side and 50 cards near the Heiji side.
-They are arranged in three rows: 17 cards at the bottom row, 17 cards at the middle row, and 16 cards at the top row.
+The Torifuda on each side are arranged in three rows: 17 cards at the bottom row, 17 cards at the middle row, and 16 cards at the top row.
 
 The gameplay is the same as "Scatter and Pick Up"; players can grab Torifuda on either side.
 
