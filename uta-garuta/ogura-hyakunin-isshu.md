@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T14:03:01.592Z
+date: 2022-10-26T15:39:33.545Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -101,6 +101,53 @@ It is a variant of Genpei War where:
 It is a one-on-one game characterized by using **only 50 Torifuda**, which is half of what is used in "Scatter and Pick up". However, all 100 Yomifuda are read by the reader.
 
 Playing at a competitive level requires a high level of dexterity, agility, and memory, and is considered as a kind of sport in Japan.
+
+## Shimonoku Karuta (下の句かるた)
+Shimonoku Karuta is a unique [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) Karuta game played in the Hokkaido region of Japan.
+
+The card sets are slightly different than typical Hyakunin Isshu Karuta sets.
+
+The 100 Yomifuda are the same as in standard Hyakunin Isshu sets: cards made of paper cardstock, with the illustration of the poet, the poet's name, and the poem in its entirety; however only the last verse of the poem is read out, hence the name **Shimonoku ("last verse")**. 
+
+The 100 **Torifuda**, however, are **made of wood**, such as Japanese cypress, and have a unique calligraphy style in which the last part of the poem is written in hentaigana. The set of wooden cards are also called **'*ita karuta*' (板かるた, "plank cards")**.
+
+Two teams compete against each other, with three players per team: one offense, one mid-fielder, and one defense. Opposing midfielders sit facing each other, while a team's offense face the opposing team's defense.
+
+Each team has 50 Torifuda and must divide them between 3 players. 
+The initial placement is 5 or more Torifuda to each player, but it is common to divide it into **5 to offense, 5 to midfielder, and 40 to defense**. 
+
+When the cards a player has are read and they have less than 5 Torifuda, another teammate must pass 1 Torifuda to that player between readings to **keep at least 5 Torifuda per player**. 
+Also, if the total number of Torifuda in the team is **14 or less**, each teammate will have **3 or more Torifuda**, and if the total number of Torifuda is **8 or less**, each teammate will have **1 or more Torifuda**.
+
+The Torifuda that can be grabbed by a player are only their own Torifuda and the Torifuda of the opponent directly opposite them, and they cannot take the Torifuda of other players regardless of team. 
+
+If you grab the Torifuda of the opponent in front of you, then you send one of your Torifuda to the opponent in front of you. 
+
+If you grabbed the wrong Torifuda, The opposing team's defense player sends one card to your team's offense player.
+
+When the team has 2 Torifuda remaining, the player who has no more Torifuda and the opponent opposite him will leave, and it will be a 2-on-2 match. (when your opponent leaves, pass your card to one of your teammates.)
+
+If there is only one remaining Torifuda, it will be a one-on-one match, and if **there are zero Torifuda, your team wins**. 
+
+>*Even if a team with 2 Torifuda or less remaining gains Torifuda to have 3 or more Torifuda, it will not return to a 3-on-3 match.*
+{.is-info}
+
+## Nanae Town Shimonoku Karuta
+There is a Shimonoku Karuta rule variant played in Nanae Town in southern Hokkaido.
+
+Again, there are two teams playing against each other, and there are 3 players per team.
+
+The players in the middle has 20 Torifuda arranged in two rows of 7 cards and one row of 6 cards. Players on the sides each have 15 Torifuda arranged in three rows of 5 cards.
+
+If you grabbed the wrong Torifuda (the situation of which is hereafter refered to as "Teppa"), then any one of the opposing players sends one card to a player in your team opposite that opponent.
+
+*"Teppa" after taking the original card is invalid , and it is valid for the opponent team to "Teppa" their hand (= hand / teammate's hand directly to the opposing team hand), and when both you and your opponent "teppa" and your teammate takes the opponent's card, it becomes "chonchon" (= you cannot pass your hand to the opponent team. , remain unchanged). Also, after teppa, when the next bill is being read, the bill cannot be handed over to the person who teppa (= invalid).*
+
+*The type of "karafuda" that is read first is free, and the reading varies considerably depending on the reader.*
+
+*Cards can be freely moved within the team, and it is common for all three members of the team to have an equal number of cards as much as possible. When you have 6 cards, make it 2nd row, and when you have 5 cards, make it 1st row. When arranging the cards, align the tip of the card with the line on your side of the double line in the center of the sheet. Basically, when the yomifuda begins to be read, the hands must be placed on the knees, and acts such as hitting the floor and intimidating , which are often seen in games with general rules, can never be done.*
+
+*When your team runs out of cards, either end will drop first, followed by the other end, leaving the middle player. Of course, the opposing team either escapes accordingly, or moves to the place of the missing player with the card and fights.*
 
 # Other Games using Hyakunin Isshu Karuta
 ## Mubeyama Karuta (むべ山かるた)
@@ -219,3 +266,4 @@ Once all players have placed their bets, the bank flips the cards they have bet 
 - https://en.wikipedia.org/wiki/Uta-garuta
 - https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96#%E3%81%8B%E3%82%8B%E3%81%9F
 - https://bunkatorekisi.blog.fc2.com/blog-entry-492.html
+- https://ja.wikipedia.org/wiki/%E4%B8%8B%E3%81%AE%E5%8F%A5%E3%81%8B%E3%82%8B%E3%81%9F
