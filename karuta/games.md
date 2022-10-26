@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-10-22T17:39:03.924Z
+date: 2022-10-26T01:57:40.659Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -21,6 +21,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |[Kai Ooi](/en/kai-ooi)||Matching|Japan|
 |[Kazoku-Awase](/en/kazoku-awase)|||Japan|
 |[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta)|||Japan|
+|[Obousan Mekuri](/en/uta-garuta/ogura-hyakunin-isshu/obousan-mekuri)|-|-|Japan|
 |[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|-|-|Japan|
 |[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
 |[Tori-sashi](/en/tori-sashi)|||Japan|
