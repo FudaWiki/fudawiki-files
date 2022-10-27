@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T08:20:02.225Z
+date: 2022-10-27T09:31:16.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -124,9 +124,60 @@ The theme of this set is **Sadness**, and the Torifuda contain the following wor
 {.is-warning}
 
 # As a gambling game
+The following ruleset was recorded in *"Bakuchi Shikata Fūbunsho"* ('Report book on the Methods of Gambling'), a report book of the Edo Town Magistrate's Office written during the Kansei era (1789-1802).
 
+First, the amounts paid to a player for achieving certain actions are determined:
+- Payment for completing the 2nd row
+- Payment for completing the 3rd row
+- Payment for completing the 4th row
+- Payment for completing the 5th row
+- Payment for flipping a Torifuda with the words "tsuki", "yuki", or "hana"
+- Payment for flipping a Torifuda of the poem #22 (which contains the phrase "Mubeyama kaze wo..."). *This should be the highest value among all amounts.*
+
+During the time the book was written, the currency being used was the Mon (文).
+
+The game is played by 4 players, each having 25 Torifuda.
+
+Each player arranges the Torifuda in a pyramid formation:
+- Place 1 face-down card on the peak. This is the "hidden card".
+- Place 4 cards face-up on the 2nd row.
+- Place 5 cards face-up on the 3rd row.*
+- Place 7 cards face-up on the 4th row.
+- Place 8 cards face-up on the 5th row.
+
+> *The book actually mentions to put 6 cards on the 3rd row, but that would make the total number of Torifuda to 26. So it is assumed to be a mistake and that the 3rd row actually has 5 cards.
+{.is-info}
+
+> It is also possible to play such that there is no face-down card, by removing the card at the peak and placing it face-up on the 3rd row instead. Decide first whether to use this formation before playing the game.
+{.is-warning}
+
+The reader draws a Yomifuda from the deck and starts reading it out loud. Players must recognize the poem being read, and check their cards if they have the corresponding Torifuda. If they do, they flip it face-down.
+
+A player is paid Mon by each of the other players for the following:
+- Having the poem of their hidden card read. Worth 200 Mon according to the book.
+- Completing the 2nd row
+- Completing the 3rd row
+- Completing the 4th row
+- Completing the 5th row
+- Flipping a Torifuda with the words "tsuki", "yuki", or "hana"
+- Flipping a Torifuda of the poem #22 (which contains the phrase "Mubeyama kaze wo...")
+
+The game ends when a player **finishes every row of Torifuda on their table**. The player with the most Mon wins.
+
+## 5-player gambling game
+It is also possible to play the game with 5 players, each having 20 Torifuda.
+
+The Torifuda are arranged in a truncated pyramid formation as follows:
+- Place 3 cards face-up on the 1st row.
+- Place 4 cards face-up on the 2nd row.
+- Place 6 cards face-up on the 3rd row.
+- Place 7 cards face-up on the 4th row.
+
+Other than the changed formation and the lack of hidden card, the game is played exactly the same as mentioned above.
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96#%E3%81%8B%E3%82%8B%E3%81%9F
 - https://japanplayingcardmuseum.com/5-5-2-3-mubeyamacarta-started-genrokuera/
 - https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html
+- https://japanplayingcardmuseum.com/5-5-5-1-mubeyamacarta-changed-gamblinggame/
+- https://www.asahi-net.or.jp/~rp9h-tkhs/dg_mubey.htm
