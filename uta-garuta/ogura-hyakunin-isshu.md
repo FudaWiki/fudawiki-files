@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-26T15:39:33.545Z
+date: 2022-10-27T10:51:58.314Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -152,6 +152,7 @@ If you grabbed the wrong Torifuda (the situation of which is hereafter refered t
 # Other Games using Hyakunin Isshu Karuta
 ## Mubeyama Karuta (むべ山かるた)
 [Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
+
 
 The torifuda are divided equally between a preset number of players, who then arrange them neatly in rows. The reader reads the Yomifuda, and the player must then check their cards if they have the corresponding Torifuda. If they do, they flip it face-down. A player is paid points for either completing a row of Torifuda, or flipping a Torifuda of special "yaku" poems, which contain certain words.
 
