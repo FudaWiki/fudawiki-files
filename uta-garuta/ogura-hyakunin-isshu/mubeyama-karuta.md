@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T09:36:54.509Z
+date: 2022-10-27T09:37:10.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -174,7 +174,7 @@ The Torifuda are arranged in a truncated pyramid formation as follows:
 - Place 6 cards face-up on the 3rd row.
 - Place 7 cards face-up on the 4th row.
 
-Other than the changed formation and the lack of hidden card, the game is played exactly the same as mentioned above.
+Other than the changed formation and the lack of hidden card, the game is played exactly the same as the 4-player version.
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96#%E3%81%8B%E3%82%8B%E3%81%9F
