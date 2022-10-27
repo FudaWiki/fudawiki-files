@@ -1,8 +1,8 @@
 ---
 title: Iroha Karuta
-description: Aphabet cards.
+description: Alphabet cards.
 published: true
-date: 2022-10-27T10:45:50.940Z
+date: 2022-10-27T10:47:21.681Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
