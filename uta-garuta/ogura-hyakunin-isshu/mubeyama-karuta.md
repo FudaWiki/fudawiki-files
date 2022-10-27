@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T09:31:16.694Z
+date: 2022-10-27T09:36:54.509Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -124,6 +124,7 @@ The theme of this set is **Sadness**, and the Torifuda contain the following wor
 {.is-warning}
 
 # As a gambling game
+## 4-player Mubeyama
 The following ruleset was recorded in *"Bakuchi Shikata Fūbunsho"* ('Report book on the Methods of Gambling'), a report book of the Edo Town Magistrate's Office written during the Kansei era (1789-1802).
 
 First, the amounts paid to a player for achieving certain actions are determined:
@@ -164,7 +165,7 @@ A player is paid Mon by each of the other players for the following:
 
 The game ends when a player **finishes every row of Torifuda on their table**. The player with the most Mon wins.
 
-## 5-player gambling game
+## 5-player Mubeyama
 It is also possible to play the game with 5 players, each having 20 Torifuda.
 
 The Torifuda are arranged in a truncated pyramid formation as follows:
