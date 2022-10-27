@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T04:48:38.205Z
+date: 2022-10-27T08:20:02.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -77,13 +77,13 @@ However, the interesting part of this game are the "yaku" poems. These are poems
 |Japanese</br>(*Romaji*, 'English')|[Poem number](https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html)|
 |:---|:---|:---|
 |**人** - ひと</br>(*hito*, 'person')|#8, #11, #18, #25, #28, #38, **#39**, #40, #41, #44, #47, #58, #63, **#66**, #92|
-|**恋** - こい</br>(*koi*, 'love')|#13, #27, **#39**, #46, #65, **#68**, #84, #88|
-|**関** - せき</br>(*seki*, 'gate')|#10, #62, #78|
+|**戀** - こひ</br>(*kohi*, 'love')|#13, #27, **#39**, #46, #65, **#68**, #84, #88|
+|**關** - せき</br>(*seki*, 'gate')|#10, #62, #78|
 |**雪** - ゆき</br>(*yuki*, 'snow')|#4, #15, #31, #96|
 |**月** - つき</br>(*tsuki*, 'moon')|#7, #21, #36, #57, #59, **#68**, #79, #81|
 |**花** - はな</br>(*hana*, 'flower')|#29, #33, #35, **#66**|
 
-> Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but it sees that I have found more. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
+> Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but it seems that I have found **39 of them in total**. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
 {.is-warning}
 
 - If a player flips a Torifuda that contains **one of the above key words**, that player **passes one face-up Torifuda to the player on their right**. 
