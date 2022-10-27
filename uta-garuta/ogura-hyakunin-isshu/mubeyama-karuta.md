@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T02:56:22.876Z
+date: 2022-10-27T03:54:09.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -70,8 +70,7 @@ When playing with 6 players, each player is given 16 Torifuda, arranged neatly b
 
 The gameplay is the same as in the Okayama version, however, instead of aiming to form a line of face-down cards, players aim to place **all of their cards face-down**. So in this regard, it resembles Blackout Bingo more than it does regular Bingo.
 
-However, the interesting part of this game are the "yaku" poems. These are poems whose latter half of the poem contain specific words or phrases. 
-They are considered powerful in this game, because they allow you to pass your face-up cards to another player, thereby increasing your chance of winning the game.
+However, the interesting part of this game are the "yaku" poems. These are poems whose latter half of the poem contain specific words or phrases (with exception of poems #1 and #100). They are considered powerful in this game, because they allow players to pass their Torifuda to other players.
 
 ### Yaku Poem Set 1 (pass to the right)
 "Yaku" poems in this set include those whose Torifuda contain the following key words:
@@ -84,7 +83,7 @@ They are considered powerful in this game, because they allow you to pass your f
 |月 - つき</br>(*tsuki*, 'moon')|#7, #21, #36, #57, #59, **#68**, #79, #81|
 |花 - はな</br>(*hana*, 'flower')|#29, #33, #35, **#66**|
 
-> Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but I seem to have found more. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
+> Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but it sees that I have found more. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
 {.is-warning}
 
 - If a player flips a Torifuda that contains **one of the above key words**, that player **passes one face-up Torifuda to the player on their right**. 
@@ -94,7 +93,7 @@ They are considered powerful in this game, because they allow you to pass your f
 - If a player flips a Torifuda that contains **two of the above key words**, that player **passes two face-up Torifuda to the player on their right**. These cards include those of poems **#39, #66, and #68**.
 
 ### Yaku Poem Set 2 - (pass to everyone)
-"Yaku" poems in this set include those whose Torifuda contain the following key phrases:
+The theme of this set is **Mountains**, and the Torifuda contain the following key phrases:
 
 |Japanese</br>(*Romaji*, 'English')|[Poem number](https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html)|
 |:---|:---|:---|
@@ -108,8 +107,18 @@ They are considered powerful in this game, because they allow you to pass your f
 
 - If a player flips a Torifuda of the **poem #22** (the one which contains the phrase "Mubeyama kaze wo..."), that player **passes two face-up Torifuda to each of the other players.**. This is regarded as the most powerful Yaku poem in the game since you pass many cards away from your table, which will make victory easier to achieve.
 
-### Yaku Poem Set 3 (receive from everone)
+### Yaku Poem Set 3 (receive from everyone)
 Unlike the first 2 Yaku poem sets which are advantageous, the Yaku poems in the 3rd set are **disadvantageous** to the player who flip the Torifuda.
+
+The theme of this set is **Sadness**, and the Torifuda contain the following words:
+
+|Japanese</br>(*Romaji*, 'English')|[Poem number](https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html)|
+|:---|:---|:---|
+|**泣く** -  なく</br>(*naku*, 'cry')|#14, #34, #83|
+|**悲し** - かなし</br>(*kanashi*, 'sadness')|#under construction|
+|**をとめの姿** - をとめのすがた</br>(*otome no sugata*, 'maiden's appearance')|#12|
+|**外山の霞** - とやまのかすみ</br>(*toyama no kasumi*, 'Toyama mountain mist')|#73|
+|**むべ山風を** - むべやまかぜを</br>(*mubeyama kaze wo*, 'Mubeyama mountain wind')|**#22**|
 
 # As a gambling game
 
