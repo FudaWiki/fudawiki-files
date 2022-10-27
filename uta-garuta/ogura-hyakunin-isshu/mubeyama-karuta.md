@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T03:54:09.468Z
+date: 2022-10-27T04:37:59.876Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -76,12 +76,12 @@ However, the interesting part of this game are the "yaku" poems. These are poems
 "Yaku" poems in this set include those whose Torifuda contain the following key words:
 |Japanese</br>(*Romaji*, 'English')|[Poem number](https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html)|
 |:---|:---|:---|
-|人 - ひと</br>(*hito*, 'person')|#8, #11, #18, #25, #28, #38, **#39**, #40, #41, #44, #47, #58, #63, **#66**, #92|
-|恋 - こい</br>(*koi*, 'love')|#13, #27, **#39**, #46, #65, **#68**, #84, #88|
-|関 - せき</br>(*seki*, 'gate')|#10, #62, #78|
-|雪 - ゆき</br>(*yuki*, 'snow')|#4, #15, #31, #96|
-|月 - つき</br>(*tsuki*, 'moon')|#7, #21, #36, #57, #59, **#68**, #79, #81|
-|花 - はな</br>(*hana*, 'flower')|#29, #33, #35, **#66**|
+|**人** - ひと</br>(*hito*, 'person')|#8, #11, #18, #25, #28, #38, **#39**, #40, #41, #44, #47, #58, #63, **#66**, #92|
+|**恋** - こい</br>(*koi*, 'love')|#13, #27, **#39**, #46, #65, **#68**, #84, #88|
+|**関** - せき</br>(*seki*, 'gate')|#10, #62, #78|
+|**雪** - ゆき</br>(*yuki*, 'snow')|#4, #15, #31, #96|
+|**月** - つき</br>(*tsuki*, 'moon')|#7, #21, #36, #57, #59, **#68**, #79, #81|
+|**花** - はな</br>(*hana*, 'flower')|#29, #33, #35, **#66**|
 
 > Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but it sees that I have found more. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
 {.is-warning}
@@ -115,10 +115,13 @@ The theme of this set is **Sadness**, and the Torifuda contain the following wor
 |Japanese</br>(*Romaji*, 'English')|[Poem number](https://jti.lib.virginia.edu/japanese/hyakunin/frames/hyakuframes.html)|
 |:---|:---|:---|
 |**泣く** -  なく</br>(*naku*, 'cry')|#14, #34, #83|
-|**悲し** - かなし</br>(*kanashi*, 'sadness')|#under construction|
-|**をとめの姿** - をとめのすがた</br>(*otome no sugata*, 'maiden's appearance')|#12|
-|**外山の霞** - とやまのかすみ</br>(*toyama no kasumi*, 'Toyama mountain mist')|#73|
-|**むべ山風を** - むべやまかぜを</br>(*mubeyama kaze wo*, 'Mubeyama mountain wind')|**#22**|
+|**悲し** - かなし</br>(*kanashi*, 'sadness')|**#5**, #93|
+|**涙** - なみだ</br>(*namida*, 'tears')|**#82, #86**|
+
+- If a player flips a Torifuda that contains the words "naku", "kanashi", and "namida", that player **receives one face-up Torifuda from each of the other players.**
+
+>Note that only poems #5, #82, and #86 contain the actual words in their original meaning, while in poems #14, #34, #83, and #93, the words only appear in a pun.
+{.is-warning}
 
 # As a gambling game
 
