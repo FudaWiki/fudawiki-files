@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T04:37:59.876Z
+date: 2022-10-27T04:48:38.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -108,7 +108,7 @@ The theme of this set is **Mountains**, and the Torifuda contain the following k
 - If a player flips a Torifuda of the **poem #22** (the one which contains the phrase "Mubeyama kaze wo..."), that player **passes two face-up Torifuda to each of the other players.**. This is regarded as the most powerful Yaku poem in the game since you pass many cards away from your table, which will make victory easier to achieve.
 
 ### Yaku Poem Set 3 (receive from everyone)
-Unlike the first 2 Yaku poem sets which are advantageous, the Yaku poems in the 3rd set are **disadvantageous** to the player who flip the Torifuda.
+Unlike the first 2 Yaku poem sets which are advantageous, the Yaku poems in the 3rd set are **disadvantageous** to the player who flip the Torifuda. These are also called **"Batsu" poems**.
 
 The theme of this set is **Sadness**, and the Torifuda contain the following words:
 
