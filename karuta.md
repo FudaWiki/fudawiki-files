@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-10-28T01:57:49.548Z
+date: 2022-10-28T02:15:34.365Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -22,7 +22,7 @@ dateCreated: 2022-04-01T17:55:45.745Z
 |Tensho Karuta|The predecessor of Mekuri Karuta, and described as a faithful recreation of the original Portuguese playing cards. They were widely popular in Japan prior to the banning of Portuguese playing cards. Likewise, they can be used to play a similar [variety of games](/en/mekurifuda/games) to their *toranpu* and hanafuda relatives.|
 |[Unsun Karuta](/en/unsun)|75 cards. 5 suits of 15 cards each. Primarily associated with the 8-player trick-taking game [Hachi-Nin Meri](en/karuta/unsun/hachi-nin-meri).|
 |[Sunkun Karuta](/en/sunkun)|96 cards + 1 portuguese dragon (joker). 6 suits of 16 cards each.
-|[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|200 cards - Two decks of 100 cards each. One deck's *yomifuda* [reading cards] each contain a *waka* poem and a depiction of the poet; the other deck's *torifuda* [grabbing cards] only contain the second half of the poem depicted on one card from the first deck. This belongs to a wider family of [Uta-Garuta](/en/uta-garuta), poetry cards. The *yomifuda* are also sometimes used to play [other games](/en/uta-garuta/ogura-hyakunin-isshu/games) not involving poetry.|
+|[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|200 cards - Two decks of 100 cards each. One deck's *yomifuda* [reading cards] each contain a *waka* poem and a depiction of the poet; the other deck's *torifuda* [grabbing cards] only contain the second half of the poem depicted on one card from the first deck. This belongs to a wider family of [Uta-Garuta](/en/uta-garuta), poetry cards. The *yomifuda* are also sometimes used to play [other games](/en/uta-garuta/ogura-hyakunin-isshu#other-games-using-hyakunin-isshu-karuta) not involving poetry.|
 |[Iroha-Karuta](/en/iroha)|96 cards - Two decks of 48 cards each. Essentially a simpler variant of Uta-Garuta. Each card in the first deck features a (usually *hiragana*) character, and each card in the second deck contains a proverb or quote beginning with a character from the first deck.|
 |[Tehonbiki](/en/tehonbiki)|3 types of cards are used: Harifuda (handled by the players), Hikifuda (handled by the banker), and Mefuda (large wooden tiles, also handled by the banker). The common trait between these 3 types of cards are their composition; 6 cards bearing or representing the numbers 1 to 6.|
 |[Junishi-Awase](/en/junishi-awase)|48 cards - Consists of 4 cards for each of the 12 Chinese Zodiac Animals. May be in either Menko or Playing Card format. Each card has points written on them, which vary depending on the manufacturer.|
