@@ -2,7 +2,7 @@
 title: Kyōgi karuta
 description: An official hyakunin isshu game played in a highly competitive level. A fraction of a second could be the difference between each player taking a card!
 published: true
-date: 2022-10-28T08:28:36.281Z
+date: 2022-10-28T13:21:00.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T04:14:59.339Z
@@ -44,7 +44,7 @@ There are rules for arranging the Territory:
 - In a player's territory, the cards should be arranged in **3 rows** that are **1cm (or about 1 finger width) apart**.
 - The **width of the territory should be 87cm (about the width of 16.5 cards)**. Any number of Torifuda may be placed on the left and right sides of each row. They may also place Torifuda in the middle of the row.
 
-Considering the rules above, a player may arrange your Torifuda in any order they want. The goal is to arrange them in a manner that they could easily remember the location of each card in their territory.
+Considering the rules above, a player may arrange their Torifuda in any order they want. The goal is to arrange them in a manner that they could easily remember the location of each card in their territory.
 
 ## Memorization Phase
 After the Torifuda are arranged satisfactorily, the reader gives a **15-minute period** for the players to **memorize the placement** of their Torifuda and their opponent’s Torifuda. 
