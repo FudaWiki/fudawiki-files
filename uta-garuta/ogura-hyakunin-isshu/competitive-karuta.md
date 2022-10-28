@@ -2,7 +2,7 @@
 title: Kyōgi karuta
 description: An official hyakunin isshu game played in a highly competitive level. A fraction of a second could be the difference between each player taking a card!
 published: true
-date: 2022-10-28T07:15:35.792Z
+date: 2022-10-28T07:34:21.022Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T04:14:59.339Z
@@ -34,7 +34,7 @@ As courtesy, players bow to each other, saying "Yoroshiku onegaishimasu".
 The Torifuda are then wash-shuffled on the floor, keeping all cards face-down.
 
 After the Torifuda are shuffled well, **each player takes 25 Torifuda.** 
-The remaining 50 Torifuda, called Karafuda ('empty cards') are set aside and not used in the game.
+The remaining 50 Torifuda, called ***Karafuda*** ('empty cards') are set aside and not used in the game.
 
 ## Arranging the Territories
 Each player then **arranges their Torifuda** on the floor face-up. This would become their "Territory".
@@ -74,12 +74,12 @@ There are two ways of grabbing the Torifuda:
 - Touching it.
 - Swiping it and other nearby cards away from the territory. This is called *fuda-oshi* (札押し, 'pushing cards away')
 
-A player may grab a card from either of the two territories.
+A player may grab a card from either of the two territories it appears in.
 
-**The first player to grab the correct Torifuda takes it into a face-down stack beside them:**
+**The first player to grab the correct Torifuda takes it into a face-down stack beside them. In addition:**
 - If it was grabbed from their own territory, the game continues as normal.
-- If it was grabbed from their opponent's territory, then the player gives one card from their territory to the opponent, who then places it into their own territory.
-- If both players grabbed the Torifuda at the same time, it is taken by the player whose territory the Torifuda is in.
+- If it was grabbed **from their opponent**'s territory, then the **player gives one Torifuda** from their territory **to the opponent**, who then places it into their own territory.
+- If both players grabbed the Torifuda at the **same time**, it is **taken by the player whose territory the Torifuda is in**.
 
 > Due to the nature of the game, it is inevitable that there will be cases where some of the Torifuda will be thrown away from their original position.
 At this point, the players must **put the scattered Torifuda back into their original positions**, **while raising one of their arms up** to signal the reader to wait until they finish putting back the cards.
@@ -96,12 +96,16 @@ In any case, the **reader** then proceeds to **read the second half of the poem*
 The **reader** then draws another Yomifuda, then after **pausing for a second**, **reads the first half of the poem**.
 
 # Faults (お手つき - *o-tetsuki*)
-Faults are actions in which a player is penalized for.
+Faults are illegal moves in which a player is penalized for.
 
-|Fault|Romaji|English|
-|:---|:---|:---|
-|難波津に</br>咲くやこの花</br>冬ごもり</br></br>今を春べと</br>咲くやこの花|*Naniwa-zu ni*</br>*Sakuya kono hana*</br>*fuyu-gomori*</br></br>*Ima o haru-be to*</br>*Sakuya kono hana*|In Naniwa bay,</br>Flowers are blooming</br>After laying dormant in winter.</br></br>Now that spring has come,</br>Flowers are blooming!|
+If a player commits a fault, the **opponent gives one Torifuda** from their territory **to the player**, who then places it into their own territory.
 
+Faults in the game include the following:
+- Touching a Torifuda while a poem of a *karafuda* is being read.
+- Touching a Torifuda in the territory where the correct Torifuda is not located.
+- Touching a Torifuda in the opponent's territory while the opponent grabs the correct Torifuda in the player's own territory. This is considered as a **Double Fault**, and the **opponent gives two Torifuda** instead of one.
+
+Note that touching the wrong Torifuda in the **territory where the correct Torifuda is located** is ***not considered a Fault***. This is the reason why swiping away the correct Torifuda along with other cards nearby is possible.
 # End of Game
 The game continues until one player runs out of Torifuda in their territory.
 
