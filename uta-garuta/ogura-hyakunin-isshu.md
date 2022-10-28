@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-28T02:18:19.437Z
+date: 2022-10-28T02:21:02.941Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -102,6 +102,21 @@ It is a one-on-one game characterized by using **only 50 Torifuda**, which is ha
 
 Playing at a competitive level requires a high level of dexterity, agility, and memory, and is considered as a kind of sport in Japan.
 
+## Mubeyama Karuta (むべ山かるた)
+[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
+
+
+The torifuda are divided equally between a preset number of players, who then arrange them neatly in rows. The reader reads the Yomifuda, and the player must then check their cards if they have the corresponding Torifuda. If they do, they flip it face-down. A player is paid points for either completing a row of Torifuda, or flipping a Torifuda of special "yaku" poems, which contain certain words.
+
+The game is named after a "yaku" poem in the game, which is written by Fun'ya no Yasuhide:
+
+**#22**
+
+|Japanese|Romaji|English|
+|:---|:---|:---|
+|吹くからに</br>秋の草木の</br>しをるれば</br></br>**むべ山**風を</br>あらしといふらむ|*Fuku kara ni*</br>*Aki no kusaki no*</br>*Shiorureba*</br></br>***Mube yama** kaze o*</br>*Arashi to iuran*|It is by its breath</br>That autumn's leaves of trees and grass</br>Are wasted and driven.</br></br>So they call this mountain wind</br>The wild one, the destroyer.|
+
+
 ## Shimonoku Karuta (下の句かるた)
 Shimonoku Karuta is a unique [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) Karuta game played in the Hokkaido region of Japan.
 
@@ -149,19 +164,6 @@ If you grabbed the wrong Torifuda (the situation of which is hereafter refered t
 
 *When your team runs out of cards, either end will drop first, followed by the other end, leaving the middle player. Of course, the opposing team either escapes accordingly, or moves to the place of the missing player with the card and fights.*
 
-## Mubeyama Karuta (むべ山かるた)
-[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
-
-
-The torifuda are divided equally between a preset number of players, who then arrange them neatly in rows. The reader reads the Yomifuda, and the player must then check their cards if they have the corresponding Torifuda. If they do, they flip it face-down. A player is paid points for either completing a row of Torifuda, or flipping a Torifuda of special "yaku" poems, which contain certain words.
-
-The game is named after a "yaku" poem in the game, which is written by Fun'ya no Yasuhide:
-
-**#22**
-
-|Japanese|Romaji|English|
-|:---|:---|:---|
-|吹くからに</br>秋の草木の</br>しをるれば</br></br>**むべ山**風を</br>あらしといふらむ|*Fuku kara ni*</br>*Aki no kusaki no*</br>*Shiorureba*</br></br>***Mube yama** kaze o*</br>*Arashi to iuran*|It is by its breath</br>That autumn's leaves of trees and grass</br>Are wasted and driven.</br></br>So they call this mountain wind</br>The wild one, the destroyer.|
 
 
 # Other Games using Hyakunin Isshu Karuta
