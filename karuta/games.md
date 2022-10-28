@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-10-27T13:02:14.404Z
+date: 2022-10-28T08:48:43.379Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -19,13 +19,14 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |[Ginkōya](/en/uta-garuta/ogura-hyakunin-isshu#gink%C5%8Dya-%E9%8A%80%E8%A1%8C%E5%B1%8B-banker)|2-6|Banking|Japan|
 |[Goita](/en/goita)|-|Beating|Japan|
 |[Hachinin Meri](/en/karuta/unsun/hachi-nin-meri)|8|Trick-taking|Japan|
-|[Iroha Karuta](/en/iroha)|1+|Concentration|Japan|
-|[Shimonoku Karuta](/en/uta-garuta/ogura-hyakunin-isshu#shimonoku-karuta-%E4%B8%8B%E3%81%AE%E5%8F%A5%E3%81%8B%E3%82%8B%E3%81%9F), a.k.a Ita Karuta|6|Concentration|Hokkaido region, Japan|
+|[Iroha Karuta](/en/iroha)|1+|Reaction|Japan|
 |[Junishi-Awase](/en/junishi-awase)|3|Fishing|Japan|
 |[Kai Ooi](/en/kai-ooi)|2+|Concentration|Japan|
 |[Kazoku-Awase](/en/kazoku-awase)|||Japan|
+|[Kyōgi karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta) ("Competitive Karuta")|2|Reaction|Japan|
 |[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta)|varies|Bingo|Okayama prefecture, Japan|
-|[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|1+|Concentration|Japan|
+|[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|1+|Reaction|Japan|
+|[Shimonoku Karuta](/en/uta-garuta/ogura-hyakunin-isshu#shimonoku-karuta-%E4%B8%8B%E3%81%AE%E5%8F%A5%E3%81%8B%E3%82%8B%E3%81%9F), a.k.a Ita Karuta|6|Reaction|Hokkaido region, Japan|
 |[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
 |[Tori-sashi](/en/tori-sashi)|||Japan|
 
