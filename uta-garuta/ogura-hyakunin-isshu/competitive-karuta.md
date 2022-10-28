@@ -2,7 +2,7 @@
 title: Kyōgi karuta
 description: An official hyakunin isshu game played in a highly competitive level. A fraction of a second could be the difference between each player taking a card!
 published: true
-date: 2022-10-28T07:34:21.022Z
+date: 2022-10-28T08:28:36.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T04:14:59.339Z
@@ -67,16 +67,21 @@ The reader then repeats the latter half of the poem (Ima o harube to...). At thi
 
 The **reader then draws a Yomifuda** from the stack and **reads the first half of the poem**.
 
-As the reader reads the poem on the Yomifuda, each player must **search on the floor the corresponding Torifuda** in which the latter half of the poem is written, as quickly as possible, and, if the corresponding Torifuda is on the floor, **grab it** before the other player does.
+As the reader reads the poem on the Yomifuda, each player must **search on the floor the corresponding Torifuda** in which the latter half of the poem is written, as quickly as possible.
 
 ### If the correct Torifuda is on the floor...
+The player must **grab it with their *dominant hand*** before the other player does.
+
+> This is because there is a rule that a player **may only use one hand to grab the Torifuda throughout the entire game**, so it is advised that the dominant hand be used to do so.
+{.is-warning}
+
 There are two ways of grabbing the Torifuda:
 - Touching it.
 - Swiping it and other nearby cards away from the territory. This is called *fuda-oshi* (札押し, 'pushing cards away')
 
 A player may grab a card from either of the two territories it appears in.
 
-**The first player to grab the correct Torifuda takes it into a face-down stack beside them. In addition:**
+**The first player to grab the correct Torifuda takes it into a face-down stack behind them. In addition:**
 - If it was grabbed from their own territory, the game continues as normal.
 - If it was grabbed **from their opponent**'s territory, then the **player gives one Torifuda** from their territory **to the opponent**, who then places it into their own territory.
 - If both players grabbed the Torifuda at the **same time**, it is **taken by the player whose territory the Torifuda is in**.
@@ -88,7 +93,7 @@ At this point, the players must **put the scattered Torifuda back into their ori
 > The order of the Torifuda in a player's territory may also be rearranged at any time during the game, but the player must inform the opponent beforehand. However, excessive rearrangement is considered poor sportsmanship.
 {.is-info}
 
-### If the correct Torifuda is not on the floor...
+### If the correct Torifuda is NOT on the floor...
 - A player must not touch any of the Torifuda on the floor if a poem of a *Karafuda* is read. **They should wait until the next Yomifuda is read**.
 
 In any case, the **reader** then proceeds to **read the second half of the poem**. At this time, the players should be ready to strike again.
@@ -100,12 +105,24 @@ Faults are illegal moves in which a player is penalized for.
 
 If a player commits a fault, the **opponent gives one Torifuda** from their territory **to the player**, who then places it into their own territory.
 
-Faults in the game include the following:
-- Touching a Torifuda while a poem of a *karafuda* is being read.
-- Touching a Torifuda in the territory where the correct Torifuda is not located.
-- Touching a Torifuda in the opponent's territory while the opponent grabs the correct Torifuda in the player's own territory. This is considered as a **Double Fault**, and the **opponent gives two Torifuda** instead of one.
+>If both players commit a fault at the same time, they cancel each other out.
+{.is-info}
 
-Note that touching the wrong Torifuda in the **territory where the correct Torifuda is located** is ***not considered a Fault***. This is the reason why swiping away the correct Torifuda along with other cards nearby is possible.
+The most common faults in the game include the following:
+- Touching any Torifuda while a poem of a *karafuda* is being read.
+- Touching a wrong Torifuda in the territory where the correct Torifuda is not located.
+- Touching a wrong Torifuda in the opponent's territory while the opponent grabs the correct Torifuda in the player's own territory. This is considered as a **Double Fault**, and the **opponent gives two Torifuda** instead of one.
+
+> Note that touching the wrong Torifuda in the **territory where the correct Torifuda is located** is ***not considered a Fault***. This is the reason why swiping away the correct Torifuda along with other cards nearby is possible.
+{.is-info}
+
+Other less common faults include:
+- Touching any Torifuda using the wrong hand.
+- Touching any Torifuda before the reader starts reading the Yomifuda.
+- Touching both territories while a poem of a *karafuda* is being read. This is called *Karadabu* (空ダブ, 'empty double') and is also considered as a **Double Fault**, and the **opponent gives two Torifuda** instead of one.
+- Any kind of disobedience to the rules of the game.
+
+
 # End of Game
 The game continues until one player runs out of Torifuda in their territory.
 
