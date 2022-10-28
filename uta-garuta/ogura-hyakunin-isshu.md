@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-27T10:51:58.314Z
+date: 2022-10-28T02:18:19.437Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -149,7 +149,6 @@ If you grabbed the wrong Torifuda (the situation of which is hereafter refered t
 
 *When your team runs out of cards, either end will drop first, followed by the other end, leaving the middle player. Of course, the opposing team either escapes accordingly, or moves to the place of the missing player with the card and fights.*
 
-# Other Games using Hyakunin Isshu Karuta
 ## Mubeyama Karuta (むべ山かるた)
 [Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
 
@@ -163,6 +162,11 @@ The game is named after a "yaku" poem in the game, which is written by Fun'ya no
 |Japanese|Romaji|English|
 |:---|:---|:---|
 |吹くからに</br>秋の草木の</br>しをるれば</br></br>**むべ山**風を</br>あらしといふらむ|*Fuku kara ni*</br>*Aki no kusaki no*</br>*Shiorureba*</br></br>***Mube yama** kaze o*</br>*Arashi to iuran*|It is by its breath</br>That autumn's leaves of trees and grass</br>Are wasted and driven.</br></br>So they call this mountain wind</br>The wild one, the destroyer.|
+
+
+# Other Games using Hyakunin Isshu Karuta
+
+There are other games played using Hyakunin Isshu Karuta which do not utilize the poems on the cards, and therefore do not require any memorization of the poems to play the game.
 
 ## Bōzu Mekuri (坊主めくり, "flip the baldies")
 Bōzu-mekuri seems to have been devised as a game that even children who have not memorized the poems can play, but it is not clear when and where it originated or who invented it.
