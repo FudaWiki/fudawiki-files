@@ -1,8 +1,8 @@
 ---
 title: Kyōgi karuta
-description: An official hyakunin isshu game played in a highly competitive level. A fraction of a second could be the difference between taking a card!
+description: An official hyakunin isshu game played in a highly competitive level. A fraction of a second could be the difference between each player taking a card!
 published: true
-date: 2022-10-28T04:16:13.778Z
+date: 2022-10-28T04:17:06.406Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T04:14:59.339Z
