@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-08-14T08:18:29.498Z
+date: 2022-11-03T21:28:22.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -399,7 +399,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hana Yori Dango 2 (<span lang='ja'>花よりダンゴ2</span>)](/en/hanafuda/video-games/x68/hana-yori-dango-2)
 * [Hanafuda Hourouki (<span lang='ja'>花札放浪記</span>)](/en/hanafuda/video-games/x68/hanafuda-hourouki)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/x68/hanafuda-koi-koi)
-* [Hanafuda Koi-Koi (<span lang='ja'>花札コイコイ</span>)](/en/hanafuda/video-games/x68/hanafuda-koi-koi)
+* [Hanafuda Koi-Koi (<span lang='ja'>花札コイコイ</span>)](/en/hanafuda/video-games/x68/hanafuda-koikoi)
 * [Hanafuda Koi-Koi (SX-WINDOW) (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/x68/hanafuda-koi-koi-sx-window)
 * [Hanafuda Tengoku (<span lang='ja'>花札天国</span>)](/en/hanafuda/video-games/x68/hanafuda-tengoku)
 * [THE SuperKABU (<span lang='ja'>THE SuperKABU</span>)](/en/hanafuda/video-games/x68/the-superkabu)
