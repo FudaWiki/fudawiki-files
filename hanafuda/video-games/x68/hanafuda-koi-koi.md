@@ -1,8 +1,8 @@
 ---
-title: Hanafuda Koi-Koi
+title: Hanafuda こいこい-こいこい (1992)
 description: 
 published: true
-date: 2022-11-03T21:35:40.181Z
+date: 2022-11-03T21:36:57.413Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T23:06:31.357Z
