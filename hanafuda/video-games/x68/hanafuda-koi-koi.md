@@ -1,8 +1,8 @@
 ---
-title: Hanafuda Koi-Koi (1992)
+title: Hanafuda Koi-Koi (1988)
 description: 
 published: true
-date: 2022-11-03T21:37:27.637Z
+date: 2022-11-03T21:37:51.127Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T23:06:31.357Z
