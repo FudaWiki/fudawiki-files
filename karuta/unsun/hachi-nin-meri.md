@@ -2,7 +2,7 @@
 title: Hachinin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-10-28T09:15:14.256Z
+date: 2022-11-04T09:03:01.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
@@ -10,19 +10,44 @@ dateCreated: 2022-10-28T09:15:14.256Z
 
 under construction
 
-For 8 players.
+Hachi-Nin Meri (八人メリ, "eight people *meri*") is a trick-taking game played in Hitoyoshi city, in the island of Kyushu in Japan.
+
+It is thought of to be related to the European game, Ombre.
+
+It is designed to be played by 8 players, as **2 teams of 4 players each**.
 
 # The deck
-There are 5 suits, with 15 cards per suit, for a total of 75 cards.
-Suits are categorized into 2 groups: Long Suits and Round Suits. They correspond to Black Suits and Red Suits of Western Playing Cards respectively.
-The Long suits are: Clubs and Swords.
-The Round suits are: Cups, Coins, and Drums.
-For Long Suits (Clubs and Swords), increasing number (1-9) means increasing value.
-For Round Suits (Cups, Coins, and Drums), decreasing number (9-1) means increasing value.
-The courts, in increasing value, are: Dragons, Maids, Knights (Horsemen), Kings (Samurai), Gods (Gods of Fortune), and Chinese (Chinese Officials).
+A complete deck of Unsun Karuta is used.
 
-# GAME COMPOSITION
-Unsun Karuta is a trick taking game.
+This deck contains 5 suits, with 15 cards per suit, for a total of **75 cards**.
+
+## Suits
+Suits are categorized into 2 groups: **Long Suits and Round Suits**. 
+- The Long suits are: Clubs and Swords.
+- The Round suits are: Cups, Coins, and Drums.
+
+>The groups correspond to Black Suits and Red Suits of Western Playing Cards respectively.
+{.is-info}
+
+## Numbers and Courts
+The sequence of numbers are described as follows:
+- For Long Suits (Clubs and Swords), increasing number (1-9) means increasing value.
+- For **Round Suits** (Cups, Coins, and Drums), **decreasing number (9-1)** means **increasing value**.
+
+In any suit, the courts are more valueable than the number cards.
+
+The courts, in increasing value, are: 
+|Value|Japanese Name|English Name|Depiction|
+|:---|:---|:---|:---|
+|10|Robai|Dragon|A dragon (may be Portuguese or Chinese)|
+|11|Sota|Maid|A woman|
+|12|Uma|Horse|A knight or horseman riding a horse|
+|13|Kiri|King|A Samurai|
+|14|Un|God|One of the Seven Lucky Gods|
+|15|Sun|Chinese|A Chinese official wearing a *futou*|
+
+# Game Composition
+Unsun Karuta is a trick-taking game.
 There are 9 Hands per round, and there are 8 rounds per game.
 A whole session of Unsun Karuta is played in best of 3 games. The team who won two games wins the entire session.
 
@@ -30,9 +55,11 @@ A whole session of Unsun Karuta is played in best of 3 games. The team who won t
 The objective is for each team to get as many tricks as possible (each trick is 1 point), as well as obtain yaku for extra points.
 
 # SETUP
-Eight people split into two teams of four players each. 
+Eight people split into two teams of four players each. The teams are called Genji and Heiji.
+
 The two teams sit alternately; on a round table, each player must be facing a team-mate, and must be seated in between two players from the opposing team.
 Decide who is the dealer. (There is no recommended method of choosing dealer; decide as you wish.)
+
 After the round ends, the dealer for the next round will be the player to the dealer’s left.
 
 # SELECTING THE LEADER
