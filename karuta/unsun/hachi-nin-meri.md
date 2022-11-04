@@ -2,13 +2,11 @@
 title: Hachinin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-11-04T09:05:51.995Z
+date: 2022-11-04T16:26:38.950Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
 ---
-
-under construction
 
 Hachi-Nin Meri (八人メリ, "eight people *meri*") is a trick-taking game played in Hitoyoshi city, in the island of Kyushu in Japan.
 
@@ -49,155 +47,203 @@ The courts, in increasing value, are:
 |14|Un|God|One of the Seven Lucky Gods|
 |15|Sun|Chinese|A Chinese official wearing a *futou*|
 
-# Game Composition
-Unsun Karuta is a trick-taking game.
-There are 9 Hands per round, and there are 8 rounds per game.
-A whole session of Unsun Karuta is played in best of 3 games. The team who won two games wins the entire session.
+# The Full Campaign
+A whole session of Unsun Karuta is played in best of **3 game sets**. 
 
-# OBJECTIVE
-The objective is for each team to get as many tricks as possible (each trick is 1 point), as well as obtain yaku for extra points.
+Each set (ひときり, *hitokiri*) is composed of **8 games**, and each game (ひとまき, *hitomaki*) consists of **9 rounds**.
 
-# SETUP
-Eight people split into two teams of four players each. The teams are called Genji and Heiji.
+**The team who won two sets wins the entire session.**
 
-The two teams sit alternately; on a round table, each player must be facing a team-mate, and must be seated in between two players from the opposing team.
-Decide who is the dealer. (There is no recommended method of choosing dealer; decide as you wish.)
+# Objective
+The objective is for each team to get as many tricks as possible (each trick is 1 point), as well as perform a yaku for extra points.
 
-After the round ends, the dealer for the next round will be the player to the dealer’s left.
+**The team with the most points wins the game.**
 
-# SELECTING THE LEADER
-Step 1: Dealer cuts the deck into 2 piles, shuffles each pile, and deals 9 cards to each player. 
-The last 3 cards are put as a stack on the table face-down.
+# Game Setup
+Eight people split into two teams of four players each. The teams are called **Genji** and **Heiji**.
 
-Step 2: The top card of the stack is turned face-up. This card becomes the “Large Trump”, which will determine the trump suit. 
-Cards of the same suit as the Large Trump are called “trump” cards; Cards not of the same suit as the Large Trump are called “non-trump” cards. 
+> The names reference the Taira and Minamoto clans during the Genpei War. The same names are used to refer to teams during team battles in [Hyakunin Isshu Karuta](/en/uta-garuta/ogura-hyakunin-isshu).
+{.is-info}
 
-Step 3: Each player looks at their hand for a Dragon of the same suit as the Large Trump.
-The player who has a Dragon trump card declares “I have the dragon!”, and takes the Trump into his/her hand. The player now has 10 cards in hand.
-Whether or not the player declares his/her Dragon trump card is up to the player. He/she may also decide to “Hide the Dragon” by not declaring it. (In that case, some Yaku will increase in value (see Yaku below). This is mainly played by the losing team to turn the tables into their favor)
-There is also a case when nobody has a Dragon trump card, because it is in one of the face-down cards in the stack. In that case, nobody can declare to have a Dragon trump card.
-If nobody declares to have a Dragon trump card, or if the Large Trump is a Dragon, then the dealer takes the Trump into his/her hand.
+The **two teams sit alternately**; on a round table, each player must be facing a team-mate, and must be seated in between two players from the opposing team.
+
+## Choosing the Dealer (親, *oya*)
+There is no recommended method of choosing the first dealer; decide as you wish.
+
+> After the game ends, the dealer for the next game will be the **player to the dealer’s left**. When a set of 8 games is finished, all players will have had the chance to become dealer.
+{.is-info}
+
+## Dealing the Cards
+**The dealer then deals 9 cards to each player**. The process is described as follows:
+- The dealer cuts the deck into 2 face-down piles and shuffles each pile. *The two piles do not have to be exactly equal in height.*
+- The dealer then takes 1 pile and deals cards, **3 cards at a time**, to each player, **starting with the player to their left, clockwise**, until the pile runs out of cards, or has less than 3 cards.
+
+> Optional: The dealer may deal 3 cards to the player to their left, and let that player examine their cards before proceeding to deal to the other players. That player may request for a redeal if they wish.
+{.is-info}
+
+- The dealer takes the other pile, adds any leftover cards on it, and continues dealing the cards from where the dealer left off. The dealer does this until there are 9 cards in each player's hand, and **there are 3 cards left in the pile**.
+
+> Optional: The player to the dealer's left may cut the 2nd pile after the dealer adds the leftover cards to it. Afterward, the dealer may place the bottom card of the pile on top of it. The dealer then proceeds to continue the deal.
+{.is-info}
+
+The leftover pile of 3 cards is then placed face-down on the table as the **widow**.
+
+## Determining the Trump Suit
+The top card of the widow is turned face-up. This card is called **Open Trump** (オキ絵, *oki-e*), and it's suit is called the **trump suit** or **trumps** (絵, *e*). *This trump suit will be used for one entire game.*
+
+> Cards of the **same suit** as the Open Trump are called **trump cards**; Cards **not of the same suit** as the Open Trump are called **non-trump cards**. 
+{.is-info}
+
+## Choosing who takes the Lead
+After the Open Trump is revealed, each player then looks for a **Dragon of Trumps** in their hand.
+
+The player who has a Dragon of Trumps may **declare “I have the dragon!”**, and 
+**reveal it** to the other players. **That player then takes the lead.**
+
+> They may also decide not to declare and reveal it. This is called "Hidden Dragon" (隠しロバイ, *kakushi robai*). In that case, some Yaku will increase in value (see Yaku below). This is mainly played by the losing team to turn the tables into their favor.
+{.is-info}
+
+If **nobody declares** to have a Dragon of Trumps, or if the **Open Trump is a Dragon**, then the **dealer takes the lead**.
+
 Step 4: The player who took the Large Trump becomes the Leader of the round, and for his/her first turn, he/she begins the Opening Lead.
 
-# 1st HAND OPENING LEAD 
-Step 1: The leader chooses a card from his/her hand that he/she wants to play on the first trick, and places it on the table near him/her face-down.
-Step 2: The leader places another card from his/her hand face-down which he/she doesn’t need.
-Step 3: The leader places the remaining two face-down cards on top of the discarded stack.
-Step 4: The leader finally flips this stack of four cards right side up.
-The card that the leader has played is revealed, on top of the face-up stack. (When the trick is taken, all 4 cards of the stack are taken also.)
+# First Round
+## The Opening Lead (打ち出し, *uchi-dashi*)
+The player who has the lead *may* take the Open Trump into their hand.
+
+The player then plays the **opening lead by putting it on the table face-down**. The player then places the **Open Trump (or any card from their hand** if they took the Open Trump) face-down on top of the opening lead, and then the **two remaining cards from the widow** are placed face-down on top of it.
+
+The leader finally flips this stack of four cards face-up to **reveal only the card led.**
+
+> When the trick is taken, all 4 cards of the stack are taken also.
+{.is-info}
+
 Note that in any Hand other than the 1st one, the Opening Lead is done by the leader by playing any card from his/her hand.
 
-# TRICK PHASE (There are 9 tricks per round)
-After the opening lead, each player plays 1 card from the hand. Turns move in clockwise order.
-At this time, there is no obligation to follow the suit played by the previous player until the "Meri" and "Monchi" tricks described below. You can play any cards you like.
+## Continuation of Play
+Turns move in clockwise order, so the turn passes from the leader to the player to their left.
 
-Trump cards must be played face-down; non-trump cards must be played face-up. (Except during “Meri”)
-Sometimes, a player who has played a trump card is followed by another player who plays another trump card, and another one, etc.… These successive trump cards are checked during the decision phase to see if a Yaku is formed.
-Also, if a player has a Dragon of Clubs, it is always considered a trump card regardless of the suit of the Large Trump. This card must always be played face-down. (Except during “Meri”)
+After the opening lead, each of the other players **plays** (指す, *sasu*) 1 card from the hand:
+- **Trump cards** must be played **face-down**.
+- Non-trump cards must be played face-up.
 
-When all 8 players have played their card, the trick phase is over and the winner of the trick will be decided in the showdown.
+> If a player has a **Dragon of Clubs** (テンカ, *tenka*), it is always considered a **trump card** regardless of the suit of the Open Trump. This card **must be played face-down**.
+{.is-warning}
 
-# SHOWDOWN  (After every end of trick)
-## Situation 1
-If nobody played a trump card, the player with the strongest non-trump card wins and that player’s team takes the trick (the stack of all cards played during the trick phase). Each trick is worth 1 point.
-### STRENGTH OF NON-TRUMP CARDS IN GENERAL:
-1.	Chinese 
-2.	Gods
-3.	Kings
-4.	Knights
-5.	Maids
-6.	Dragons except Dragon of Clubs
-7.	Strongest number card to weakest number card. 
-For Long suits, 9 is strongest, 1 is weakest.
-For Round suits, 1 is strongest, 9 is weakest.
-However, if the Large Trump is any suit other than Swords, the Dragon of Swords is considered a number card “1.5” (i.e., with a strength between a 2 of swords and 1 of swords)
+> At this time, there is no obligation to follow the suit played by the previous player until the "Meri" and "Monchi" rounds which will be described below. **A player may play any one of their cards.**
+{.is-info}
 
-### STRENGTH OF NON-TRUMP CARDS PER SUIT:
-Clubs			: Chinese, God, King, Knight, Maid, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Swords			: Chinese, God, King, Knight, Maid, 9, 8, 7, 6, 5, 4, 3, 2, Dragon, 1
-Cups, Coins, Drums	: Chinese, God, King, Knight, Maid, Dragon, 1, 2, 3, 4, 5, 6, 7, 8, 9
-Note that the Dragon of Clubs isn’t included; it is always considered a trump card regardless of the suit of the Large Trump.
+Sometimes, players play trumps in succession. A player who has played a trump card is followed by the next player (an opponent) who plays another trump card. This is called **"trampling"** (踏ん, *fun*). However, the next player (teammate of the first player in this scenario) may also play another trump card to follow the opponent. This is called **"chasing"** (追う, *ou*), and is considered a Yaku if that player wins the round.
 
-### STRENGTH OF NON-TRUMP CARDS PER SUIT (IF THE LARGE TRUMP IS SWORDS):
-Clubs			: Chinese, God, King, Knight, Maid, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Swords			: Chinese, God, King, Knight, Maid, Dragon, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Cups, Coins, Drums	: Chinese, God, King, Knight, Maid, Dragon, 1, 2, 3, 4, 5, 6, 7, 8, 9
+When all 8 players have played their card, it's time for the showdown.
 
-## Situation 2
-If one player played a trump card, that player flips it over to reveal to other players that it is indeed a trump card. That player wins, and that player’s team takes the trick. 
+## Showdown
+### Situation 1: Players played trumps
+If two or more players played a trump card, those players reveal their cards. The player with the **strongest “trump” card** wins, and that player's team takes the trick (the stack of all cards played during the trick phase). Each trick is worth 1 point.
 
-## Situation 3
-If two or more players played a trump card, those players reveal their cards. The player with the strongest “trump” card wins and takes the trick.
-### STRENGTH OF TRUMP CARDS IN GENERAL:
+If **only one player played a trump card**, then that player reveals their card and **wins by default**.
+
+*The strength of Trump Cards are listed below in descending order:*
 1.	Chinese
 2.	Gods
 3.	Maids
 4.	Dragon of Clubs
 5.	Other Dragons
 6.	Kings
-7.	Knights
+7.	Horses
 8.	Strongest number card to weakest number card. 
-For Long suits, 9 is strongest, 1 is weakest.
-For Round suits, 1 is strongest, 9 is weakest.
-Note that the Dragon of Clubs ranks higher than other Dragons.
-However, if the suit of the Large Trump is Clubs, then the Dragon of Clubs is of the same strength as the other dragons.
+- For Long suits, 9 is strongest, 1 is weakest.
+- For Round suits, 1 is strongest, 9 is weakest.
 
-### STRENGTH OF TRUMP CARDS PER SUIT:
-Clubs		      : Chinese, God, Maid, Dragon, King, Knight, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Swords		      : Chinese, God, Maid, Dragon of Clubs, Dragon, King, Knight, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Cups, Coins, Drums: Chinese, God, Maid, Dragon of Clubs, Dragon, King, Knight, 1, 2, 3, 4, 5, 6, 7, 8, 9
+> Note that the Dragon of Clubs ranks higher than other Dragons.
+However, if the **Trump suit is Clubs**, then the **Dragon of Clubs is of the same strength as the other Dragons**.
+{.is-info}
 
-### STRENGTH OF TRUMP CARDS PER SUIT (IF THE LARGE TRUMP IS CLUBS):
-Clubs		      : Chinese, God, Maid, Dragon, King, Knight, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Swords		      : Chinese, God, Maid, Dragon, King, Knight, 9, 8, 7, 6, 5, 4, 3, 2, 1
-Cups, Coins, Drums: Chinese, God, Maid, Dragon, King, Knight, 1, 2, 3, 4, 5, 6, 7, 8, 9
+### Situation 2: All players played non-trumps
+If nobody played a trump card, then the player with the strongest card **of the suit led** wins, and that player’s team takes the trick.
 
-If Yaku is formed by the winner, that player’s team gets additional points depending on the Yaku formed. These points are tabulated.
+*The strength of Non-trump cards are listed below in descending order:*
+1.	Chinese 
+2.	Gods
+3.	Kings
+4.	Horses
+5.	Maids
+6.	Dragons *except Dragon of Clubs (which is always a Trump card)*
+7.	Strongest number card to weakest number card. 
+- For Long suits, 9 is strongest, 1 is weakest.
+- For Round suits, 1 is strongest, 9 is weakest.
 
-The winner of the trick becomes the leader during the next trick phase. (The card played by the leader will determine if the trick is “Meri”, “Monchi”, or neither.)
-After 9 tricks have been taken (and all hands run out of cards), the round ends.
+However, if the **Trump suit is not Swords**, then the  Dragon of Swords is considered a number card “1.5” (一本半, *ipponhan*), which means it has a strength between a 2 of swords and 1 of swords.
 
-# MERI
-In any Hand except the first one, when the leader plays a trump card, the trick is considered “Meri”. 
+### Yaku
+**A yaku is formed when one of the following conditions are met:**
+- When the winner "chased" during the round. *(This is not counted if the round is "Meri").*
+- When the winner plays a "Chinese" and beats the opponent's "God".
+- When the winner plays a "God" and beats the opponent's "Maid".
+- When the winner plays a "Maid" and beats the opponent's "Dragon".
+- When the winner plays a "Dragon" and beats the opponent's "King".
+- When the winner plays a "2" and beats the opponent's "1". (When trump card is a long suit)
+- When the winner plays an "8" and beats the opponent's "9". (When trump card is a round suit)
 
-In this case, each of the following players MUST play a trump card face-up on their turn if they have one on their hand.
-If you don’t have a trump card, you can play any card, but you will lose the trick, of course.
-Also, if at the beginning of the round, you only have one trump card in your hand and it’s a Chinese, then you don’t have to play it during “Meri”.
-After the “Meri” trick is taken, the remaining tricks are “Monchi”. There can only be one “Meri” trick in the entire round.
+There are some **restrictions**:
+- It doesn’t count if you beat a card of your own teammate.
+- It doesn't count if a trump card that is stronger than any of the cards involved in the yaku has already been played during the game.
 
-Note: If the leader plays a trump card during the Opening Lead, it doesn’t count as “Meri”.
+If a Yaku is formed by the winner, that player’s team gets an additional **2 points.** 
+However, it can be increased to **5 points** when one of the following conditions are met:
+- If a "hidden dragon" is involved in the yaku (whether it beats a King or it is beaten by a Maid).
+- If a yaku is formed during the 9th round.
 
-# MONCHI
-After the “Meri” trick is taken, the remaining tricks are “Monchi” until the round ends.
-During “Monchi”, Each of the following players after the “launch” must either play a card of the same suit as the “launched” card face-up, or play a trump card face-down.
+> Points received from forming yaku are tabulated.
+{.is-info}
 
-# YAKU
-A yaku is formed when it is not Meri and players play trump cards in succession (the winner is the one who put out "Otta!"), or when of the following conditions is met:
-When the winner puts out "Sun" and beats the opponent's "Un".
-When the winner puts out "Un" and beats the opponent's "Sota".
-When the winner puts out "Sota" and beats the opponent's "Robai".
-When the winner puts out "Robai" and beats the opponent's "Rei".
-When the winner gives a "2" and wins the opponent's "1". (When trump card is a long suit)
-When the winner gives an "8" and wins the opponent's "9". (When trump card is a round suit)
+## The next Leader
+The winner of the round **leads the next round**.
 
-Restrictions:
-It doesn’t count if you win against your own teammate.
-It also doesn’t count if a trump card higher than the trump used to beat another trump card in a Yaku is already present during the showdown before the Yaku was revealed.
+# Succeeding Rounds
+## The Opening Lead
+The player may lead any card from their hand. 
 
-## YAKU SCORING
-Each "yaku" is worth 2 tricks.
-Furthermore, if a Yaku is made during the 9th round, then the hand is not worth 2 tricks, but 5 tricks.
+When the card led is a non-trump card, then all players don't have to follow suit just like in the first round.
 
-If the game is played with a hidden dragon :
-When the winner puts out "Sota" and beats the opponent's "Robai". Take 5 tricks.
-When the winner puts out "Robai" and beats the opponent's "Rei". Take 5 tricks.
-If the yaku is made during the 9th round, it still is worth 5 tricks.
+However, when **the card led is a trump card**, the round is called **“Meri”**.
 
-# WINNING THE GAME
-One deal of 9 rounds is called "hitomaki," and the score for "hitomaki" is the difference in the number of tricks earned. Therefore, the basic score is 1, 3, 5, 7, and 9, plus the additional trick value for any "yaku".
-Once a deal “hitomaki” is finished, the next dealer is the player to the previous dealer’s left.
-A full game consists of 8 “hitomaki” (i.e. all players have become dealer), and is called “hitokiri”. The team with highest points in the full game is the winner of one “hitokiri” game.
-Unsun Karuta is played for best of 3 games (“honkatsu”). If a team wins the first two games, it is called “hitokatsu”. If both teams win on each of the first two games, a third game is played (“san no kiri”), and the winner of the third game is the winner of the “honkatsu”.
+## Meri
+In this round, each of the following players ***must* play a trump card face-up on their turn** if they have one on their hand.
+
+> All cards played must be **face-up** during Meri.
+{.is-warning}
+
+> If you don’t have a trump card in your hand, you can play any card, but you will lose the trick, of course.
+{.is-info}
+
+Also, if at the beginning of the game, **you only have one trump card in your hand and it’s a Chinese of Trumps**, then you don’t have to play it during “Meri”. This rule is called **ichi-mai-zun** (一枚ズン, 'one Chinese card')
+
+> NOTE: If the leader plays a trump card during the first round, it doesn’t count as “Meri”. It only counts after the first round.
+{.is-warning}
+
+## Monchi
+After the “Meri” round ends, all remaining rounds are called **“Monchi”** until the game ends.
+
+During “Monchi”, each of the following players after the lead must either **play** a card of the **same suit as the led card** face-up, or play a **trump card** face-down.
+
+> However, when **the card led is a trump card**, the round becomes **“Meri”** again.
+{.is-warning}
+
+# End of Game
+A game ends when all 9 rounds are played, and all 9 tricks have been taken.
+
+Each team counts how many tricks they have taken, as well as points for forming yaku.
+
+**The team with the most points wins the game.** 
+
+# End of a Set
+A set ends when all 8 games have been played.
+
+Each team counts the total points they have accumulated throughout all 8 games.
+
+**The team with the most points wins the set.** 
 
 # Bibliography
 - https://kubotaya.exblog.jp/41676/
+- Virginia and Harold Wayland, *"Unsun Karuta"*.
