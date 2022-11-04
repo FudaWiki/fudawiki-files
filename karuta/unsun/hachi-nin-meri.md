@@ -2,7 +2,7 @@
 title: Hachinin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-11-04T09:03:01.469Z
+date: 2022-11-04T09:05:01.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
@@ -34,7 +34,10 @@ The sequence of numbers are described as follows:
 - For Long Suits (Clubs and Swords), increasing number (1-9) means increasing value.
 - For **Round Suits** (Cups, Coins, and Drums), **decreasing number (9-1)** means **increasing value**.
 
-In any suit, the courts are more valueable than the number cards.
+> Note that cards that have the number '1' have **1 pip** instead of a dragon. Dragons play a different role in this deck.
+{.is-warning}
+
+In any suit, the courts are more valuable than the number cards.
 
 The courts, in increasing value, are: 
 |Value|Japanese Name|English Name|Depiction|
