@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-11-05T02:09:10.376Z
+date: 2022-11-05T02:17:53.921Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -39,7 +39,7 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 ## Numbers and Courts
 |Number|English</br>names|Japanese</br>names|Notes|
 |:---|:---|:---|:---|
-|1|Dragon/Ace|Pin/Un/Aza|*Pin* is the kabu term for 'one', and likely has Portuguese origins.</br>*Un* from Portuguese *Um* meaning 'one'.</br>*Aza* from Portuguese *As* meaning 'ace', refering specifically to the Dragon of Clubs.|
+|1|Dragon/Ace|Pin/Tsun/Un/Aza|*Pin* is the kabu term for 'one', and likely has Portuguese origins.</br> *Tsun* also likely has Portuguese origins.</br>*Un* from Portuguese *Um* meaning 'one'.</br>*Aza* from Portuguese *As* meaning 'ace', refering specifically to the Dragon of Clubs.|
 |2|Two|Ni|-|
 |3|Three|San|-|
 |4|Four|Shi/Yon|-|
