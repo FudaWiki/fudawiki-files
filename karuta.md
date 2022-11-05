@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-11-04T08:28:20.084Z
+date: 2022-11-05T04:24:26.055Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-01T17:55:45.745Z
 
 **Karuta** [骨牌 - かるた] is a general term for Japanese-style playing cards (as opposed to *toranpu*, Western-style playing cards). These fall into a wide array of categories and subcategories, some of which are detailed below.
 
-> The term *karuta* is also often used specifically in reference to the competitive game of [Hyakunin-Isshu](/en/hyakunin-isshu).
+> The term *karuta* is also often used specifically in reference to the competitive game of [Hyakunin-Isshu](/en/uta-garuta/ogura-hyakunin-isshu).
 {.is-warning}
 
 # Types of Karuta
