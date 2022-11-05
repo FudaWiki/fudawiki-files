@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-10-22T17:18:07.404Z
+date: 2022-11-05T08:34:11.377Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -36,7 +36,7 @@ This is a list of contemporary creations to be played with a kabufuda deck. It i
 ## Greyson
 |Game|Players|Family|
 |:---|:---:|:---:|
-|[Devil](/en/newgames/devil-440), a.k.a. 440|-|Sequence|
+|[Devil](/en/newgames/devil-440), a.k.a. 440|2-8|Sequence|
 
 # Other Lists of Games
 - [Hanafuda Games](/en/hanafuda/games)
