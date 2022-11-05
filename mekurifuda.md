@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-11-05T00:38:35.263Z
+date: 2022-11-05T02:09:10.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -22,7 +22,7 @@ Eventually these card decks would be banned due to their association with gambli
 
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 # Deck Overview
-Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** 
+Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** In some decks, a **joker card** is used, called **Onifuda** ('demon card') or Bakefuda ('monster card').
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
@@ -36,21 +36,23 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 |Cups|Copas|Koppu / Kotsu|Kuchibiru ('Lips')|
 |Coins|Ouros|Oru / Ouru|Taiko ('Drums') / Tama ('Orbs')|
 
-## Card Names
-| NUMBER | Clubs</br>[Hau/Pao] | Swords</br>[Isu] | Coins</br>[Oru/Ouru] | Cups</br>[Koppu/Kotsu]|
-|:------:|:---:|:---:|:---:|:---:|
-| **1</br>(Dragon)** | Aza | Pin | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **2** | Ao ni</br>(Blue 2) | Ebi ni</br>(Shrimps 2) | Taiko ni</br>(Drums 2) | Kuchibiru no ni</br>(Lips of 2) |
-| **3** | Ao san</br>(Blue 3) | Aka san</br>(Red 3) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **4**  | Ao shi</br>(Blue 4) | Aka shi</br>(Red 4) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **5**  | Ao go</br>(Blue 5) | Aka go</br>(Red 5) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **6**  | Ao roku</br>(Blue 6) | Aka roku</br>(Red 6) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **7**  | Ao nana</br>(Blue 7) | Aka nana</br>(Red 7) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **8**  | Ao hachi</br>(Blue 8) | Aka hachi</br>(Red 8) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **9**  | Ao kyu</br>(Blue 9) | Aka kyu</br>(Red 9) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **10</br>(Maid)**  | Shaka jū</br>(Buddha 10) | Sudare jū</br>(Blinds 10) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **11</br>(Horse)**  | Ao uma</br>(Blue Horse) | Jū no uma</br>(10-pt. Horse) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **12</br>(King)**  | Ao kiri</br>(Blue King) | Jū no kiri</br>(10-pt. King) | Subeta</br>(Junk) | Subeta</br>(Junk) |
+## Numbers and Courts
+|Number|English</br>names|Japanese</br>names|Notes|
+|:---|:---|:---|:---|
+|1|Dragon/Ace|Pin/Un/Aza|*Pin* is the kabu term for 'one', and likely has Portuguese origins.</br>*Un* from Portuguese *Um* meaning 'one'.</br>*Aza* from Portuguese *As* meaning 'ace', refering specifically to the Dragon of Clubs.|
+|2|Two|Ni|-|
+|3|Three|San|-|
+|4|Four|Shi/Yon|-|
+|5|Five|Go|-|
+|6|Six|Roku|-|
+|7|Seven|Nana/Shichi|-|
+|8|Eight|Hachi|-|
+|9|Nine|Ku/Kyu|-|
+|10|Maid|Juu/Tou/Sota|*Juu/Tou* means 'ten' in Japanese.</br>*Sota* is exactly the Portuguese term meaning 'servant'.|
+|11|Horse/Knight|Uma/Kaba|*Uma* means 'horse' in Japanese.</br>*Kaba* is a shortening of Portuguese *cavalo* ('horse') or *cavaleiro* ('horseman').|
+|12|King|Kiri/Rei|*Kiri* is likely a shortening of Latin *Christus*.</br>*Rei* is exactly the Portuguese term meaning 'king'.|
+
+
 
 # Kinds of Mekurifuda
 |Pattern|Played in|Description|
