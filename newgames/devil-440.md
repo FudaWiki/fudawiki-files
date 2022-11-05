@@ -2,7 +2,7 @@
 title: Devil  
 description: a kabufuda game similar to last card or UNO.
 published: true
-date: 2022-11-05T05:00:49.804Z
+date: 2022-11-05T05:02:17.864Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T05:00:49.804Z
@@ -15,10 +15,10 @@ The game is similar to [Oni](/en/newgames/oni_greyson).
 # Goal
 The goal of a player during a round is to discard all of their cards in hand before other players could do the same. During the game, a player tries to get as few points as possible to stay in the game.
 
-Once a player accumulates a certain amount of points- 180 being the minimum, then the game ends, and the player with the least amount of points wins.
+Once a player reaches the target score, which is a certain amount of points (180 being the minimum), then the game ends, and the player with the least amount of points wins.
 
 # Setup
-First, players must agree to the amount of the goal score, either 270 points or 570 points.
+First, players must agree to the amount of the target score.
 
 Next, determine the first dealer. Each player draws a card from the face-down deck, and the player with the earliest month becomes the dealer.
 
