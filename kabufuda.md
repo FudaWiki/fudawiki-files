@@ -2,7 +2,7 @@
 title: Kabufuda
 description: Japanese single-suited cards
 published: true
-date: 2022-11-05T02:47:47.075Z
+date: 2022-11-05T02:57:24.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:37.683Z
@@ -36,6 +36,7 @@ For a list of games played using these cards, see [Kabufuda Games](/en/kabufuda/
 - The Red '1' card is called *Aza-pin* (赤ピン, 'red one'). The pronunciation of *Aza* comes from the Portuguese *As* meaning 'ace', but the Japanese kanji 赤 means 'red'.
 - The Special '4' card is called *Tama-shi* (玉四, 'round four') or *Kin-shi* (金四, 'gold four').
 - The '10' card is also nicknamed *Otou-san* (お父さん, 'father'), which is a pun refering to its rank of 10, and also the Jack depicted on the card.
+- The term *buta* refers to having 0 points, which is used in typical kabu and kingo games. 
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E6%A0%AA%E6%9C%AD
