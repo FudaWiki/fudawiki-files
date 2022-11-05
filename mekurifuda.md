@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-10-16T15:20:14.278Z
+date: 2022-11-05T00:38:35.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -27,6 +27,14 @@ Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda de
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
 Some Mekurifuda patterns have gold and silver overprints to differentiate which card is which suit and to identify the point values of cards when playing Mekuri.
+
+## Names of Suits
+|English</br>names|Portuguese</br>names|Japanese</br>names|Japanese</br>nicknames|
+|:---|:---|:---|:---|
+|Clubs|Paus|Hau / Pau|Ao ('Blue')|
+|Swords|Espadas|Isu|Aka ('Red')|
+|Cups|Copas|Koppu / Kotsu|Kuchibiru ('Lips')|
+|Coins|Ouros|Oru / Ouru|Taiko ('Drums') / Tama ('Orbs')|
 
 ## Card Names
 | NUMBER | Clubs</br>[Hau/Pao] | Swords</br>[Isu] | Coins</br>[Oru/Ouru] | Cups</br>[Koppu/Kotsu]|
@@ -63,7 +71,11 @@ Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. �
 
 ![shimafuda_cards.png](/suryongfiles/shimafuda_cards.png =500x)
 
-The cards do not bear any Portuguese-derived designs; instead, numbers were represented by kanji on the upper half of each card, and points were represented by sticks or circles on the lower half of each card. However, the structure of the deck is consistent with mekurifuda decks, with the number 2 having three cards with points on them.
+The cards do not bear any Portuguese-derived designs; instead, numbers were represented by kanji on the upper half of each card, and points were represented by sticks or circles on the lower half of each card. 
+
+However, the structure of the deck is consistent with mekurifuda decks, with the number 2 having three cards with points on them (*In a mekurifuda deck, the number 2 has three scoring cards: the 2 of Clubs, 2 of Swords, and 2 of Coin*s). 
+
+Also, cards with **circles** on the lower half correspond to the **Swords** suit of mekurifuda decks, while cards **without markings** on the lower half correspond to the **Junks** of mekurifuda decks.
 
 ## Hanafuda
 [Hanafuda](/en/hanafuda) can be used to mimic a mekurifuda deck. Each flower represents a **month** of the year, which actually **corresponds to a number** in a mekurifuda deck.
