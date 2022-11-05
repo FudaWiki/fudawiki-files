@@ -2,7 +2,7 @@
 title: Hachinin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-11-04T16:26:38.950Z
+date: 2022-11-05T01:51:58.789Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
@@ -127,7 +127,7 @@ After the opening lead, each of the other players **plays** (指す, *sasu*) 1 c
 - **Trump cards** must be played **face-down**.
 - Non-trump cards must be played face-up.
 
-> If a player has a **Dragon of Clubs** (テンカ, *tenka*), it is always considered a **trump card** regardless of the suit of the Open Trump. This card **must be played face-down**.
+> If a player has a **Dragon of Clubs** (天下, *tenka*), it is always considered a **trump card** regardless of the suit of the Open Trump. This card **must be played face-down**.
 {.is-warning}
 
 > At this time, there is no obligation to follow the suit played by the previous player until the "Meri" and "Monchi" rounds which will be described below. **A player may play any one of their cards.**
