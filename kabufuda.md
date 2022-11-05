@@ -2,7 +2,7 @@
 title: Kabufuda
 description: Japanese single-suited cards
 published: true
-date: 2022-11-05T02:57:24.731Z
+date: 2022-11-05T09:55:21.778Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:37.683Z
@@ -22,21 +22,20 @@ For a list of games played using these cards, see [Kabufuda Games](/en/kabufuda/
 
 |Rank|Japanese Name|Cards|
 |:---:|:---:|:---:|
-|1 (Ace)|Pin/Unsun*|![1_red.png](/kabufuda/1_red.png) ![1_black.png](/kabufuda/1_black.png) ![1_black.png](/kabufuda/1_black.png) ![1_black.png](/kabufuda/1_black.png)|
-|2|Nizo/Nizou|![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png)|
-|3|Santa/Sanzun|![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png)|
-|4|Yotsuya/Yonzun*|![4_silver.png](/kabufuda/4_silver.png) ![4_black.png](/kabufuda/4_black.png) ![4_black.png](/kabufuda/4_black.png) ![4_black.png](/kabufuda/4_black.png)|
-|5|Gosu/Goke/Goken|![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png)|
-|6|Roppo/Rokken|![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png)|
-|7|Nanaken/Naki/Shichiken|![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png)|
-|8|Oicho|![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png)|
-|9|Kabu|![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png)|
-|10 (Jack)|Buta/Tou*|![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png)|
+|1 (Ace)|Pin*|![1_red.png](/kabufuda/1_red.png) ![1_black.png](/kabufuda/1_black.png) ![1_black.png](/kabufuda/1_black.png) ![1_black.png](/kabufuda/1_black.png)|
+|2|Ni|![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png) ![2.png](/kabufuda/2.png)|
+|3|San|![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png) ![3.png](/kabufuda/3.png)|
+|4|Shi/Yon*|![4_silver.png](/kabufuda/4_silver.png) ![4_black.png](/kabufuda/4_black.png) ![4_black.png](/kabufuda/4_black.png) ![4_black.png](/kabufuda/4_black.png)|
+|5|Go|![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png) ![5.png](/kabufuda/5.png)|
+|6|Roku|![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png) ![6.png](/kabufuda/6.png)|
+|7|Nana/Shichi|![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png) ![7.png](/kabufuda/7.png)|
+|8|Hachi|![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png) ![8.png](/kabufuda/8.png)|
+|9|Kyu/Ku|![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png)|
+|10 (Jack)|Juu/Tou*|![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png)|
 
 - The Red '1' card is called *Aza-pin* (赤ピン, 'red one'). The pronunciation of *Aza* comes from the Portuguese *As* meaning 'ace', but the Japanese kanji 赤 means 'red'.
 - The Special '4' card is called *Tama-shi* (玉四, 'round four') or *Kin-shi* (金四, 'gold four').
 - The '10' card is also nicknamed *Otou-san* (お父さん, 'father'), which is a pun refering to its rank of 10, and also the Jack depicted on the card.
-- The term *buta* refers to having 0 points, which is used in typical kabu and kingo games. 
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E6%A0%AA%E6%9C%AD
