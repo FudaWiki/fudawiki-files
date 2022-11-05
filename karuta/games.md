@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-11-05T14:55:05.664Z
+date: 2022-11-05T14:56:09.292Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -17,7 +17,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |[Garafuda](/en/garafuda)|7 or 10|Bingo|Edo, Japan (now Tokyo)|
 |[Ginkō](/en/uta-garuta/ogura-hyakunin-isshu#gink%C5%8D-%E9%8A%80%E8%A1%8C-bank)|2+|Banking|Japan|
 |[Ginkōya](/en/uta-garuta/ogura-hyakunin-isshu#gink%C5%8Dya-%E9%8A%80%E8%A1%8C%E5%B1%8B-banker)|2-6|Banking|Japan|
-|[Goita](/en/goita)|4|Beating|Japan|
+|[Goita](/en/goita)|4|Beating|Noto Town, Fugeshi District, Ishikawa Prefecture, Japan|
 |[Hachi-nin Meri](/en/karuta/unsun/hachi-nin-meri)|8|Trick-taking|Japan|
 |[Iroha Karuta](/en/iroha)|1+|Reaction|Japan|
 |[Junishi-Awase](/en/junishi-awase)|3|Fishing|Japan|
