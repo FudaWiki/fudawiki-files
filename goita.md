@@ -2,7 +2,7 @@
 title: Goita
 description: A team-play shedding game using special Shogi pieces.
 published: true
-date: 2022-11-06T01:03:48.802Z
+date: 2022-11-06T05:01:28.751Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:54:05.421Z
@@ -36,16 +36,50 @@ Pieces are listed in descending rank.
 |Pawn|fuhyō|歩兵|hyō|し|
 
 # Setup
-Four players sit around a table in a manner such that teammates are facing each other.
 
-## Choosing the Dealer
+
+## Choosing the Dealer/Teammate
+None of the methods mentioned below are stipulated: Any one of the methods below may be used, depending on whether the players want the freedom to choose who is their teammate or who deals.
+
+### Method A: Choosing the Dealer at Random
+
+### Method A1: Using all pieces
+Before starting, players agree first who will be their teammates in the game.
+
 Each player faces up on the ceiling so that they cannot see the pieces.
 
 The pieces are then mixed on the table, and each player takes one piece.
 
 **The player with the highest ranking piece becomes the dealer.** The pieces used to determine the dealer are then returned to the table.
 
+### Method A2: Using 4 pieces
+Before starting, players agree first who will be their teammates in the game.
+
+Each player faces up on the ceiling so that they cannot see the pieces.
+
+Four pieces- three Pawns and one of another rank- are then mixed on the table, and each player takes one piece.
+
+**The player who takes the non-Pawn piece becomes the dealer.** The four pieces are then returned to the table.
+
+### Method B: Choosing the Teammates at Random
+Each player faces up on the ceiling so that they cannot see the pieces.
+
+Four pieces- two Pawns and two of another rank- are then mixed on the table, and each player takes one piece.
+
+**Players who took pieces of the same rank belong to the same team.** The four pieces are then returned to the table.
+
+**Teammates who took both non-Pawn pieces must then agree which one of them will become the dealer.**
+
+### Method C: Choosing the Teammates and Dealer at Random
+Each player faces up on the ceiling so that they cannot see the pieces.
+
+Four pieces- two Pawns, one White King, and one Black King- are then mixed on the table, and each player takes one piece.
+
+**Players who took pieces of the same rank belong to the same team. The player who took the White King becomes the dealer.** The four pieces are then returned to the table.
+
 ## Dealing the Pieces
+Four players sit around a table in a manner such that teammates are facing each other.
+
 While the players are not looking, the pieces on the table are all turned face-down by the dealer and gently mixed.
 
 Once the mixing is done, the pieces are arranged in a circle. The other players may now look at the table.
