@@ -2,7 +2,7 @@
 title: Goita
 description: A team-play shedding game using special Shogi pieces.
 published: true
-date: 2022-11-06T05:36:33.063Z
+date: 2022-11-06T05:38:53.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:54:05.421Z
@@ -25,7 +25,7 @@ The set contains 2 Kings, 2 Rooks, 2 Bishops, 4 Golds, 4 Silvers, 4 Knights, 4 L
 Pieces are listed in descending rank.
 |English name|Shogi name|Shogi marking|Goita name|Goita marking|
 |:---|:---|:---:|:---|:---:|
-|White King|ōshō|王将|dama|王|
+|White King|ōshō|王将|ō/dama|王|
 |Black King|gyokushō|玉将|gyoku|玉|
 |Rook|hisha|飛車|hisha|飛|
 |Bishop|kakugyō|角行|kaku|角|
