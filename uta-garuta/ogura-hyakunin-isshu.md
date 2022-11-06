@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-10-28T02:21:02.941Z
+date: 2022-11-06T01:14:48.660Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -198,14 +198,15 @@ There are many regional variations in the rules of the game, some of which are l
 ## Ao Kanmuri (青冠, 'blue crown')
 This shedding game is played by 2 teams of 2 players per team. Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. 
 
-The game goes as follows:
+The game proceeds goes as follows:
 - All players sit around in a circle. Teammates sit facing each other.
 - Deal 25 cards to each player's hand.
 - Determine the first player using any method you prefer. Turns move counterclockwise starting with the first player.
-- The first player puts out one card on the table as an "attack".
--- If the next player has a card of the same type as the attack card (or if they have a card that defeats the attack card), they "receive" the attack by putting it on the attack card. Then they place another card on the table as an "attack".
+- From this point, the game proceeds in similar fashion to [Goita](/en/goita): The first player puts out one card on the table as an "attack".
+-- If the next player has a card of the same type as the attack card (or if they have a card that defeats the attack card), they "defend" the attack by putting it on the table. Then they place another card on the table as an "attack".
 -- If the next player doesn't have a card of the same type, or if they don't feel like "receiving" it, then they pass the turn to the next player.
-- The game continues until one team runs out of cards in hand. That team wins the game.
+-- If all 3 players fail to "defend", then the attacker puts out another card on the table as a new "attack".
+- The game continues until one player runs out of cards in hand. That player's team wins the game.
 
 **Cards are classified into different types:**
 - Emperor Tenchi - defeats all cards.
