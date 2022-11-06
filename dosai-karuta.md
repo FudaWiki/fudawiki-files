@@ -2,7 +2,7 @@
 title: Dōsai Karuta
 description: A proverb-matching karuta turned into a gambling game similar to Bingo.
 published: true
-date: 2022-11-06T08:58:08.883Z
+date: 2022-11-06T09:04:40.122Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-06T08:58:08.883Z
@@ -46,12 +46,12 @@ For example, the Matsui Tengudo version contained only 62 proverbs. The set cont
 > **NEEDS MORE DOCUMENTATION**
 {.is-warning}
 
-1. Each player, starting with the dealer, take turns reading the yomifuda in their own pile.
-2. As a Yomifuda is read, each player checks for the corresponding torifuda in their territory. The player who has the corresponding torifuda flips it face-down.
-3. If the top card or all of the horizontal rows in the territory are flipped face-down, that player is paid the total score of the turned down cards from each of the other players (except Bozu). Only the first person to do so has this privilege, and the second and subsequent players to do so will not be paid for it. So this can only happen 4 times during a round.
-4. At every 5th yomifuda read, the score that can be obtained is doubled.
-5. If there is a score immediately after the Bake-fuda is read, the person who has read Bake-fuda will get the score instead of the player who flipped the card.
-6. The round ends when a player flips down all 10 torifuda in their territory.
+- Each player, starting with the dealer, take turns reading the yomifuda in their own pile.
+- As a Yomifuda is read, each player checks for the corresponding torifuda in their territory. The player who has the corresponding torifuda flips it face-down.
+- If the top card or all of the horizontal rows in the territory are flipped face-down, that player is paid the total score of the turned down cards from each of the other players (except Bozu). Only the first person to do so has this privilege, and the second and subsequent players to do so will not be paid for it. So this can only happen 4 times during a round.
+- At every 5th yomifuda read, the score that can be obtained is doubled.
+- If there is a score immediately after the Bake-fuda is read, the person who has read Bake-fuda will get the score instead of the player who flipped the card.
+- The round ends when a player flips down all 10 torifuda in their territory.
 
 ## Scoring Cards
 > **NEEDS MORE DOCUMENTATION**
