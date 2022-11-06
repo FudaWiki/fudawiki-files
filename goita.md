@@ -2,7 +2,7 @@
 title: Goita
 description: A team-play shedding game using special Shogi pieces.
 published: true
-date: 2022-11-06T05:41:03.616Z
+date: 2022-11-06T05:41:53.195Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:54:05.421Z
@@ -26,7 +26,7 @@ Pieces are listed in descending rank.
 |English name|Shogi name|Shogi marking|Goita name|Goita marking|
 |:---|:---|:---:|:---|:---:|
 |White King|ōshō|王将|ō/dama|王|
-|Black King|gyokushō|玉将|gyoku|玉|
+|Black King|gyokushō|玉将|ō/dama|玉|
 |Rook|hisha|飛車|hisha|飛|
 |Bishop|kakugyō|角行|kaku|角|
 |Gold|kinshō|金将|kin|金|
