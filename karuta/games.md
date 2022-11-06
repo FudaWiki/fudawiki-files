@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-11-05T14:56:09.292Z
+date: 2022-11-06T09:03:50.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -13,7 +13,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |:---|:---:|:---:|---:|
 |[Ao Kanmuri](https://fudawiki.org/en/uta-garuta/ogura-hyakunin-isshu#ao-kanmuri-%E9%9D%92%E5%86%A0-blue-crown), a.k.a Iro Kanmuri|4|Beating|Japan|
 |[Bōzu Mekuri](/en/uta-garuta/ogura-hyakunin-isshu#b%C5%8Dzu-mekuri-%E5%9D%8A%E4%B8%BB%E3%82%81%E3%81%8F%E3%82%8A-flip-the-baldies)|2+|War|Japan|
-|[Dosai Karuta](/en/dosai-karuta)|-|-|Japan|
+|[Dosai Karuta](/en/dosai-karuta)|6?|Bingo|Japan|
 |[Garafuda](/en/garafuda)|7 or 10|Bingo|Edo, Japan (now Tokyo)|
 |[Ginkō](/en/uta-garuta/ogura-hyakunin-isshu#gink%C5%8D-%E9%8A%80%E8%A1%8C-bank)|2+|Banking|Japan|
 |[Ginkōya](/en/uta-garuta/ogura-hyakunin-isshu#gink%C5%8Dya-%E9%8A%80%E8%A1%8C%E5%B1%8B-banker)|2-6|Banking|Japan|
