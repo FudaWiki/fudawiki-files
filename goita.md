@@ -2,7 +2,7 @@
 title: Goita
 description: A team-play shedding game using special Shogi pieces.
 published: true
-date: 2022-11-06T05:38:53.694Z
+date: 2022-11-06T05:41:03.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:54:05.421Z
@@ -31,9 +31,9 @@ Pieces are listed in descending rank.
 |Bishop|kakugyō|角行|kaku|角|
 |Gold|kinshō|金将|kin|金|
 |Silver|ginshō|銀将|gin|銀|
-|Knight|keima|桂馬|bakko|馬|
-|Lance|kyōsha|香車|gon|香|
-|Pawn|fuhyō|歩兵|hyō/shi|し|
+|Knight|keima|桂馬|bakko/uma|馬|
+|Lance|kyōsha|香車|gon/kyosu|香|
+|Pawn|fuhyō|歩兵|hyō/fu/shi|し|
 
 # Setup
 
