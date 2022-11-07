@@ -2,13 +2,15 @@
 title: Tori-sashi
 description: A role game from the Edo period.
 published: true
-date: 2022-11-07T08:21:57.753Z
+date: 2022-11-07T08:53:13.367Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T02:32:15.649Z
 ---
 
 Tori-sashi [鳥刺し, 'bird catcher'] is a role game thought to be played as a drinking party game in the Edo period. The game is best played with 6 or more players.
+
+Special karuta containing the names of the roles, the illustration of the roles, or both, have been made in the past.
 
 # Roles
 Each role is indicated on each card. 
@@ -42,7 +44,7 @@ The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catc
 The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
 The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
 
-The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord.
+The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
 
 - If the Bird Catcher chooses correctly, then the Lord will ask for another bird.
 
@@ -53,6 +55,7 @@ The **Bird Catcher** then **finds the person with the card containing the name o
 The game may be played as many times as desired.
 
 ## Playing for Chips
+In this version of the game, a **minimum of 7 players is required: 3 players playing the role of humans, and at least 4 players taking the role of a bird.** If there are more players, non-bird roles that act as "jokers" in the game may be added.
 
 Depending on the number of players, an equal number of cards should be prepared. 
 
@@ -71,19 +74,43 @@ The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catc
 The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
 The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
 
-The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord.
+> There is **only one bird needed to be caught** per game, and it cannot be changed during the game.
+{.is-warning}
+
+The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
 
 - If the Bird Catcher chooses correctly, then the game ends and the human role players win: the **player holding the correct bird pays 1 chip to the Lord, Servant, and the Bird Catcher**.
-- If the Bird Catcher chooses the wrong bird, then the **Lord, Servant, and the Bird Catcher pays 1 chip to the player holding the wrong bird**. The game continues.
+- If the Bird Catcher chooses a non-bird, then the game ends and the human role players lose. The **Lord, Servant, and the Bird Catcher pay 2 chips to the player holding the non-bird**.
+- If the Bird Catcher chooses the wrong bird, then the Bird Catcher is out of the game. The **Lord, Servant, and the Bird Catcher pay 1 chip to the player holding the wrong bird**. The game continues.
 
+The **Lord** tells to the **Servant**, *"Servant, why don't you try catching a [name of bird] yourself?"*
 
+The **Servant** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
 
-If the Bird Catcher chooses all birds correctly, the game ends and the Bird Catcher wins.
+- If the Servant chooses correctly, then the game ends: the **player holding the correct bird pays 2 chips to the Lord and Servant**.
+- If the Servant chooses a non-bird, then the game ends and the human role players lose. The **Lord and Servant pay 4 chips to the player holding the non-bird**.
+- If the Servant chooses the wrong bird, then the Servant is out of the game. The **Lord and Servant pay 2 chips to the player holding the wrong bird**. The game continues.
 
-If the Bird Catcher chooses the wrong bird, then the Bird Catcher drinks/takes a punishment. The game then ends.
+The Lord says, *"I will catch a [name of bird] myself."*
 
-The game may be played as many times as desired.
+The **Lord** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
 
+- If the Lord chooses correctly, then the game ends: the **player holding the correct bird pays 4 chips to the Lord**.
+- If the Lord chooses a non-bird, then the game ends and the human role players lose. The **Lord pays 8 chips to the player holding the non-bird**.
+- If the Lord chooses the wrong bird, then the game ends and the human role players lose. The **Lord pays 4 chips to the player holding the wrong bird**.
+
+The game may be played for a desired number of games, or until a player runs out of chips.
+
+# Tori-sashi using Hanafuda
+Since a hanafuda deck contains many birds, a selection of hanafuda cards can be used to play Tori-sashi.
+
+Lord: Full Moon
+Servant: Curtain
+Bird Catcher: Rainman
+
+6 Birds: Crane, Bush Warbler, Cuckoo, Geese, Swallow, Chicken(Phoenix)
+
+Non-Birds: Bridge, Butterflies, Boar, Sake Cup, Deer, or any Ribbon or Chaff.
 
 # Bibliography
 - https://www.asahi-net.or.jp/~rp9h-tkhs/dg_toris.htm
