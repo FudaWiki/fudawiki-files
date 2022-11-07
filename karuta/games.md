@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-11-06T09:03:50.444Z
+date: 2022-11-07T08:58:03.022Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -28,7 +28,7 @@ dateCreated: 2022-10-22T17:39:03.924Z
 |[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|1+|Reaction|Japan|
 |[Shimonoku Karuta](/en/uta-garuta/ogura-hyakunin-isshu#shimonoku-karuta-%E4%B8%8B%E3%81%AE%E5%8F%A5%E3%81%8B%E3%82%8B%E3%81%9F), a.k.a Ita Karuta|6|Reaction|Hokkaido region, Japan|
 |[Tehonbiki](/en/tehonbiki)|2+|Banking|Japan|
-|[Tori-sashi](/en/tori-sashi)|||Japan|
+|[Tori-sashi](/en/tori-sashi)|6+|Role|Japan|
 
 # Japanese Games using Western Playing Cards
 |Game|Players|Family|Origin|
