@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-04-10T15:17:34.946Z
+date: 2022-11-07T13:57:02.382Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -33,4 +33,5 @@ The following chart displays the cards in their standard order and categorizatio
 
 # See Also
 - [Kabufuda](/en/kabufuda)
-- [Mekuri Karuta](/en/mekurifuda)
+- [Mekurifuda](/en/mekurifuda)
+- [Karuta](/en/karuta)
