@@ -2,7 +2,7 @@
 title: Tori-sashi
 description: A role game from the Edo period.
 published: true
-date: 2022-11-07T02:32:15.649Z
+date: 2022-11-07T08:21:57.753Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T02:32:15.649Z
@@ -33,18 +33,50 @@ Shuffle the cards well and deal to each player. Players may not show to the othe
 
 Once all players received their roles, the game begins.
 
-The **Lord** tells to the **Servant**, *"I'm going to play with the bird catcher today. Call the bird catcher."*
+The **Lord** tells to the **Servant**, *"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
 
-The **Servant** tells to the **Bird Catcher**, *"Your lord is calling you. Come."*
+The **Servant** tells to the **Bird Catcher**, *"Bird catcher, Your lord is calling you. Come."*
 
-The **Bird Catcher** appears in front of the **Lord** and **Servant**.
+The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catcher."*.
 
-The **Lord** tells to the **Servant**, *"Catch a [name of bird] today."*
-The **Servant** tells the same to the **Bird Catcher**.
+The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
+The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
 
 The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord.
 
-If the Bird Catcher chooses correctly, then the Lord will ask for another bird.
+- If the Bird Catcher chooses correctly, then the Lord will ask for another bird.
+
+- If the Bird Catcher chooses **all birds correctly**, the **Bird Catcher wins** and the game ends.
+
+- If the Bird Catcher chooses the **wrong bird**, then the **Bird Catcher loses and drinks/takes a punishment**. The game ends.
+
+The game may be played as many times as desired.
+
+## Playing for Chips
+
+Depending on the number of players, an equal number of cards should be prepared. 
+
+Before starting the game, give 24 chips to each player.
+
+Shuffle the cards well and deal to each player. Players may not show to the other players the cards they have.
+
+Once all players received their roles, the game begins.
+
+The **Lord** tells to the **Servant**, *"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
+
+The **Servant** tells to the **Bird Catcher**, *"Bird catcher, Your lord is calling you. Come."*
+
+The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catcher."*.
+
+The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
+The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
+
+The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord.
+
+- If the Bird Catcher chooses correctly, then the game ends and the human role players win: the **player holding the correct bird pays 1 chip to the Lord, Servant, and the Bird Catcher**.
+- If the Bird Catcher chooses the wrong bird, then the **Lord, Servant, and the Bird Catcher pays 1 chip to the player holding the wrong bird**. The game continues.
+
+
 
 If the Bird Catcher chooses all birds correctly, the game ends and the Bird Catcher wins.
 
@@ -52,7 +84,6 @@ If the Bird Catcher chooses the wrong bird, then the Bird Catcher drinks/takes a
 
 The game may be played as many times as desired.
 
-## Gambling Game
 
 # Bibliography
 - https://www.asahi-net.or.jp/~rp9h-tkhs/dg_toris.htm
