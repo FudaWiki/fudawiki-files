@@ -2,7 +2,7 @@
 title: Tsuki Narabe
 description: Form 5 months in a sequence to win the game!
 published: true
-date: 2022-11-08T04:18:57.546Z
+date: 2022-11-08T04:19:55.309Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-11-08T04:18:57.546Z
@@ -41,7 +41,7 @@ Decide first who will be the dealer using any method you prefer.
 
 Dealer shuffles and deals 4 cards to each player. The rest of the deck is placed face-down on the table as the draw pile.
 
-Starting with the dealer counter-clockwise, each player draws a card from the draw pile and adds it to their hand. Then the player discards a card from their hand which they do not need.
+Starting with the dealer counter-clockwise, each player draws a card from the draw pile and adds it to their hand. Then the player discards a card from their hand which they do not need. Turn passes to the next player.
 
 Once a player has 4 cards in month sequence (example: May, June, July, August), then the player continues their turns as normal until they could draw a card that completes the month sequence (regarding the previous example, this would either be an April or a September card). When they do, they reveal their hand to other players and declare victory.
 
