@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-08T03:37:50.042Z
+date: 2022-11-08T03:40:43.641Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -170,6 +170,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Kage|2|Sequence|
 |Orochi|2-4|Sequence|
 |Simplified Game for Beginners|2-4|Fishing|
+|Sota|2-10|Showdown|
+|Sutda|2-10|Showdown|
 |Sutda (Simplified)|2-10|Showdown|
 |Tensho (Simplified)|2|Fishing|
 ## Japan Competition Club
