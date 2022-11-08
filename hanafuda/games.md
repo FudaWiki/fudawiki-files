@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-08T04:26:57.158Z
+date: 2022-11-08T08:18:29.778Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -138,10 +138,7 @@ These games, while not as widespread today as those listed above, are variously 
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
-## *Author Unknown*
-|Game|Players|Family|
-|:---|:---:|---:|
-|[Tsuki Narabe](/newgames/tsuki-narabe)|3-4|Draw and Discard|
+
 ## CC
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -159,6 +156,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |[Gardening](/newgames/robert_goodwin_-_gardening.pdf)|2|Draw and Discard|
 ## IndianWolf Studios
+**The rules for these games can be found on the book, [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).**
 |Game|Players|Family|
 |:---|:---:|---:|
 |Hachi (Simplified)|2|Fishing|
@@ -233,7 +231,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |Mekuri-Kabu (Turning Up Nine)|2-10|Showdown|
 |Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
-|Tsuki-Narabe (Month Arrangement)|3-4|Draw and Discard|
+|[Tsuki-Narabe (Month Arrangement)](/newgames/tsuki-narabe)|3-4|Draw and Discard|
 |Yon-San (Four-Three)|3|Commerce|
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
