@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-09T06:52:03.436Z
+date: 2022-11-09T08:10:46.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -32,11 +32,28 @@ The following chart displays the cards in their standard order and categorizatio
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
 
 ## Suits
-As described above, there are usually 12 suits in a hanafuda deck, each visually represented by a plant or flower on the face of the card.
+As described above, there are usually 12 suits in a hanafuda deck, each visually represented by **a plant or flower** on the face of the card *(see composition chart above)*.
 
-These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially useful for playing Sequence and Showdown games.
+These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially required when playing Sequence and Showdown games.
 
 Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
+
+## Types
+In addition to the suits, hanafuda decks are categorized by their types, which are denoted by various animals and objects on the card that are not a plant/flower.
+
+Typically, there are 4 types of cards:
+- **Chaff** [カス, *kasu*] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
+
+> An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, called the **Lightning** card, is used as a **wild card** in some games.
+{.is-info}
+
+- **Ribbons** [短冊, *tanzaku*] - Also known as Scrolls, Slips, Strips, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku** on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
+
+- **Animals** [たね, *tane*, possibly meaning 'subject'] - Also called Seeds or Tens [十, *tou*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
+
+- **Brights** [光, *hikari*] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The **Crane**, the **Curtain**, the **Full Moon**, the **Rainman**, and the **Phoenix**.
+
+
 
 # See Also
 - [Kabufuda](/en/kabufuda)
