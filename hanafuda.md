@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-07T13:57:02.382Z
+date: 2022-11-09T06:52:03.436Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -30,6 +30,13 @@ The following chart displays the cards in their standard order and categorizatio
 |10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|-|![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =80x)|![101.svg](/sheldonchen-cards/101.svg#hanafuda-card =80x)|![102.svg](/sheldonchen-cards/102.svg#hanafuda-card =80x)![103.svg](/sheldonchen-cards/103.svg#hanafuda-card =80x)|
 |11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|![110.svg](/sheldonchen-cards/110.svg#hanafuda-card =80x)|![111.svg](/sheldonchen-cards/111.svg#hanafuda-card =80x)|![112.svg](/sheldonchen-cards/112.svg#hanafuda-card =80x)|![113.svg](/sheldonchen-cards/113.svg#hanafuda-card =80x)|
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
+
+## Suits
+As described above, there are usually 12 suits in a hanafuda deck, each visually represented by a plant or flower on the face of the card.
+
+These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially useful for playing Sequence and Showdown games.
+
+Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
 
 # See Also
 - [Kabufuda](/en/kabufuda)
