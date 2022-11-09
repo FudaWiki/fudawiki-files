@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-09T08:10:46.782Z
+date: 2022-11-09T09:12:47.905Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -53,7 +53,18 @@ Typically, there are 4 types of cards:
 
 - **Brights** [光, *hikari*] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The **Crane**, the **Curtain**, the **Full Moon**, the **Rainman**, and the **Phoenix**.
 
+## Poems [古歌, *waka*]
+In old Hanafuda decks and some regional Hanafuda patterns, some of the Chaff cards contain poems written on them. These poems are only decorative, and have no purpose in any traditional game played with hanafuda known to date. 
 
+They are thought to have been devised as a way to attract people into buying them, as people at the time were fascinated with poetry, and as soon as poetry fell out of fashion among hanafuda players, manufacturers started removing the poems from the hanafuda designs. 
+
+
+## Wild Cards [鬼札 *onifuda*, lit. “demon card”]
+Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 cards; In games where wild cards are required, at least one of the cards **within** the 48 cards of the deck are used. For example, in [Mushi], the Chaff of [Willow](/en/hanafuda/suits/willow) is used as a **wild card**.
+
+However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
+
+# Using Hanafuda as a Substitute for Other Decks
 
 # See Also
 - [Kabufuda](/en/kabufuda)
