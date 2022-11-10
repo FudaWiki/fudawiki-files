@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-10T03:13:49.133Z
+date: 2022-11-10T03:14:15.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -70,7 +70,7 @@ However, certain regional hanafuda patterns included a Wild Card outside of the 
 Since most [Kabufuda](/en/kabufuda) games use only the numbers on the cards, A hanafuda deck can be used to play Kabufuda games, since each flower represents a **month** of the year, which corresponds to a **number** in a kabufuda deck. In games where special cards are used, Bright cards are typically used as their substitute.
 
 ## As a Mekurifuda Substitute
-Hanafuda decks can and has been used to play [Mekurifuda](/en/mekurifuda/games) games. It is for this reason that theory that Hanafuda was used as a substitute for Mekurifuda after they have been banned by the government was created.
+Hanafuda decks can and have been used to play [Mekurifuda](/en/mekurifuda/games) games. It is for this reason that theory that Hanafuda was used as a substitute for Mekurifuda after they have been banned by the government was created.
 
 Each flower represents a **month** of the year, which **corresponds to a number** in a mekurifuda deck.
 
