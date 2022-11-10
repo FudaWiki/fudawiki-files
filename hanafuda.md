@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-09T09:12:47.905Z
+date: 2022-11-10T03:13:49.133Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -65,6 +65,41 @@ Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 c
 However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
 
 # Using Hanafuda as a Substitute for Other Decks
+
+## As a Kabufuda Substitute
+Since most [Kabufuda](/en/kabufuda) games use only the numbers on the cards, A hanafuda deck can be used to play Kabufuda games, since each flower represents a **month** of the year, which corresponds to a **number** in a kabufuda deck. In games where special cards are used, Bright cards are typically used as their substitute.
+
+## As a Mekurifuda Substitute
+Hanafuda decks can and has been used to play [Mekurifuda](/en/mekurifuda/games) games. It is for this reason that theory that Hanafuda was used as a substitute for Mekurifuda after they have been banned by the government was created.
+
+Each flower represents a **month** of the year, which **corresponds to a number** in a mekurifuda deck.
+
+The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where the type of cards rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
+
+|Mekurifuda</br>Number|Hanafuda</br>Month|Flower</br>Icon|Flower</br>Name|
+|:---:|:---:|:---:|:---:|
+|**1 (Dragon)**|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)|[Pine](/en/hanafuda/suits/pine)|
+|**2**|February|![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)|[Willow](/en/hanafuda/suits/willow)|
+|**3**|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|
+|**4**|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)|[Wisteria](/en/hanafuda/suits/wisteria)|
+|**5**|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)|[Iris](/en/hanafuda/suits/iris)|
+|**6**|June|![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)|[Paulownia](/en/hanafuda/suits/paulownia)|
+|**7**|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|
+|**8**|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|
+|**9**|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|
+|**10 (Maid**)|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|[Maple](/en/hanafuda/suits/maple)|
+|**11 (Horse)**|November|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|[Peony](/en/hanafuda/suits/peony)|
+|**12 (King)**|December|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|
+
+In the Nagoya month sequence, four of the months were shuffled about. The purpose seems to be so that the **Willow suit**, which has three scoring cards, takes the role of the **number 2** in a mekurifuda deck, which also has three scoring cards (*it is also worth mentioning that it is impossible to play certain mekuri games with a hanafuda deck if the standard month sequence is used, unless one junk of each month is marked to distinguish it from the other*), and that the **Phoenix card** takes the role of the **6 of Clubs** in a mekurifuda deck, which is usually overprinted with a gold 壽 (*kotobuki*, 'longevity').
+
+The **highest scoring** card of each month (except for Willow; it's the Swallow card) correspond to the **Clubs** suit of mekurifuda.
+
+The **ribbons**, as well as the Geese card and the yellow Paulownia chaff, correspond to the **Swords** suit of mekurifuda.
+
+The **Rainman** corresponds to the **2 of Coins**.
+
+**Other cards** correspond to the **Junks** of mekurifuda.
 
 # See Also
 - [Kabufuda](/en/kabufuda)
