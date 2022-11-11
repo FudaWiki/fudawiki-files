@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T06:16:46.992Z
+date: 2022-11-11T06:47:16.575Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -34,9 +34,26 @@ In some games, there are also **Special Yaku** (特殊役, tokushuyaku), which m
 They may also refer to Teyaku or Dekiyaku which are treated differently from other normal Teyaku or Dekiyaku. For instance, in Hachi-hachi, Special Yaku are Dekiyaku that are checked separately from normal Dekiyaku, and do not stop the round unlike normal Dekiyaku.
 
 
-# Glossary
+# Lists of Yaku Names
 
-Here will be a list of all yaku, especially those that occur in many games. I expect they will eventually be alphabetized (by English or Japanese?), with links to individual pages, which themselves can give details on any alternative names, the contents of the yaku, cultural significance of the imagery in the combination, and further links to games utilizing those yaku.
+The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their Japanese names. 
+
+For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
+
+> Note that Yaku outside of games that cannot be played using Hanafuda cards are **not included** in these lists.
+{.is-warning}
+
+## List of Teyaku
+
+|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|:---:|:---:|:---:|:---|:---|
+|-|-|-|-|-|
+
+|-|-|-|-|-|
+
+
+
+
 
 Animals (Tane)
 
