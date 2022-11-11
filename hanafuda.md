@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-11T03:11:39.096Z
+date: 2022-11-11T03:13:46.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 *Hanafuda* 花札 [はなふだ], lit. “flower cards,” are Japanese playing cards used to play a wide variety of games, similarly to the standard Western playing card format. **Unlike Western cards, which consist of 4 suits of 13 cards each, however, the standard hanafuda deck consists of 12 suits of 4 cards each.**
 
-**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one [Bright](/en/hanafuda/types/brights) card, one [Poetry Ribbon](/en/hanafuda/types/ribbons#poetry-ribbons), and two [Chaff](/en/hanafuda/types/chaff), whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one [Plain Ribbon](/en/hanafuda/types/ribbons#plain-ribbons), one [Animal](/en/hanafuda/types/animals), and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across typess and suits.
+**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across typess and suits.
 
 For a list of traditional designs and how they differ, see [Hanafuda Patterns](/en/hanafuda/patterns). For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
 
@@ -32,14 +32,14 @@ The following chart displays the cards in their standard order and categorizatio
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
 
 ## Suits
-As described above, there are usually 12 suits in a hanafuda deck, each visually represented by **a plant or flower** on the face of the card *(see composition chart above)*.
+As described above, there are usually 12 [**suits**](/en/hanafuda/suits) in a hanafuda deck, each visually represented by **a plant or flower** on the face of the card *(see composition chart above)*.
 
 These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially required when playing Sequence and Showdown games.
 
 Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
 
 ## Types
-In addition to the suits, hanafuda decks are categorized by their [types](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
+In addition to the suits, hanafuda decks are categorized by their [**types**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
 
 Typically, there are 4 types of cards:
 - **Chaff** [カス, *kasu*] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
