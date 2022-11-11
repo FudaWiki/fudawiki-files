@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T06:59:37.823Z
+date: 2022-11-11T08:03:34.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -38,19 +38,28 @@ They may also refer to Teyaku or Dekiyaku which are treated differently from oth
 
 UNDER CONSTRUCTION
 
-The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their Japanese names. 
+The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their most popular Japanese names. 
 
 For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
 
 > Note that Yaku outside of games that cannot be played using Hanafuda cards are **not included** in these lists.
 {.is-warning}
 
-## List of Teyaku
+## List of Teyaku Names
 
 |Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Sanbon|三本|Triplet|Three cards of the same month.|Used in some games played using Mekurifuda such as Taoshi before it was adopted into Hanafuda and it became popularized in the game Hachi-hachi.|
-|Tate-sanbon|立三本|Standing Triplet|Three of a kind from the months of Wisteria, Iris, or Bush Clover, or the three Paulownia Chaff cards.|Used in some games played using Mekurifuda such as Taoshi before it was adopted into Hanafuda and it became popularized in the game Hachi-hachi.|
+|Futa-sanbon|二三本|Two Triplets|Two Triplets.|Also known as **Kiba** in Taoshi. Has mekurifuda origins.|
+|Futa-tate-sanbon|二立三本|Two Standing Triplets|Two "Tate-sanbon".|-|
+|Haneken|跳剣|Triplet and Two Pairs|Sanbon + Two pairs.|Also known as **Azemame** in Taoshi. Has mekurifuda origins.|
+|Ichinishi|一二四|One-Two-Four|A singleton, a pair, and a Four-of-a-kind.|-|
+|Kuttsuki|喰付|Sticky|Three or four pairs.|Also known as **Ton** in Taoshi. Has mekurifuda origins. Either 3 or four pairs are used, depending on the game.|
+|Sanbon|三本|Triplet|Three cards of the same month.|Has mekurifuda origins.|
+|Sanbon Tate-sanbon|三本立三本|Triplet and Standing Triplet|Sanbon + Tate-sanbon|-|
+|Shisou|四三|Four-Three|Teshi + Sanbon|Has mekurifuda origins. There is a belief that if a player forms this Teyaku, they are "facing death" [死相, *shisou*], and to get rid of this curse, the cards must be burned.|
+|Tate-sanbon|立三本|Standing Triplet|Three of a kind from the months of Wisteria, Iris, or Bush Clover, or the three Paulownia Chaff cards.|Popularized in Hachi-hachi, these cards are considered "unlucky" during the actual matching phase, so they became a higher-scoring Sanbon to balance the game.|
+|Tego|手五|Five-of-a-kind|Four cards of the same month + Wild card|Used only in some games where a Wild Card is used, such as Taoshi.|
+|Teshi|手四|Four-of-a-kind|Four cards of the same month.|Has mekurifuda origins.|
 
 |-|-|-|-|-|
 
