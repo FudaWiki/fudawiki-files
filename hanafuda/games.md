@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-08T08:18:29.778Z
+date: 2022-11-11T08:21:43.711Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -40,7 +40,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Showdown|Japan|
 |[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
 |[Ba Chō-Han](/en/hanafuda/games/ba-cho-han)|2+|Showdown|Tōhoku region, Japan|
-|[Baka](/en/hanafuda/games/toppa)|3|Fishing|Hokkaido region, Japan|
+|[Baka](/en/hanafuda/games/toppa#baka)|3|Fishing|Hokkaido region, Japan|
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana)|2-4|Fishing|Japan|
 |[Batta Maki](/en/hanafuda/games/shoniban), a.k.a Batta|2+|Banking|Kanto Region, Japan|
