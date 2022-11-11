@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T08:43:33.260Z
+date: 2022-11-11T08:56:59.624Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -40,7 +40,7 @@ The following Hanafuda Yaku will be categorized according to their type and comp
 
 For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
 
-> Note that Yaku outside of games that cannot be played using Hanafuda cards are **not included** in these lists.
+> Note that Yaku outside of games that can be played using Hanafuda cards are **not included** in these lists.
 {.is-warning}
 
 ## List of Teyaku Names
