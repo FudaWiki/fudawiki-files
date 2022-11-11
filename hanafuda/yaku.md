@@ -2,15 +2,17 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-08-15T05:51:22.986Z
+date: 2022-11-11T06:16:46.992Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
 ---
 
-In many hanafuda games, a **yaku** (役, literally *'role/position'*) refers to a **set of cards** which, when obtained by a player, typically gives that player points for that set.
+In Japanese games, a **Yaku** (役, literally *'role/position'*) refers to a specific situation, which, when it occurs, typically gives certain players points.
 
-Typically there are two kinds of Yaku: **Teyaku** and **Dekiyaku**.
+In most hanafuda games, the term "**yaku**" refers to a **set of cards** which, when obtained by a player, typically gives that player points for that set.
+
+Typically there are two kinds of Yaku: **Teyaku** and **Dekiyaku**. Other Yaku that either do not meet the definition of the two, or are treated specially are called **Special Yaku**.
 
 
 
