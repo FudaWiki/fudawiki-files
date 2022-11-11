@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T08:28:51.471Z
+date: 2022-11-11T08:43:33.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -52,8 +52,8 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Futa-sanbon|二三本|Two Triplets|Two Triplets.|Also known as **Kiba** in Taoshi, and **Futa-tesan** [二手三] in Roppyakken. Has mekurifuda origins.|
 |Haneken|跳剣|Triplet and Two Pairs|Sanbon + Two pairs.|Also known as **Azemame** in Taoshi. Has mekurifuda origins.|
 |Ichinishi|一二四|One-Two-Four|A singleton, a pair, and a Four-of-a-kind.|-|
-|Karasu|空素|Empty Hand|All cards are Chaff.|Also known as **Sou-gasu** [総ガス, 'all Chaff'] in Roppyakken, and **Sou-gara** [総ガラ, 'all Chaff'] in Toppa.|
-|Kuttsuki|喰付|Sticky|Three or four pairs.|Also known as **Ton** in Taoshi. Has mekurifuda origins. Either 3 or four pairs are used, depending on the game.|
+|Karasu|空素|Empty Hand|All Chaff in hand.|Also known as **Sou-gasu** [総ガス, 'all Chaff'] in Roppyakken, **Sou-gara** [総ガラ, 'all Chaff'] in Toppa, and **Hiraya** in Hiraya.|
+|Kuttsuki|喰付|Sticky|Three or four pairs.|Also known as **Ton** in Taoshi, and **Sanzokuichi** in Toppa. Has mekurifuda origins. Either 3 or four pairs are used, depending on the game.|
 |Pika-ichi|光一|One Bright|One Bright, the rest are Chaff.|-|
 |Sanbon|三本|Triplet|Three cards of the same month.|Also known as **Tesan** [手三] in Roppyakken. Has mekurifuda origins.|
 |Shisou|四三|Four-Three|Teshi + Sanbon|Has mekurifuda origins. There is a belief that if a player forms this Teyaku, they are "facing death" [死相, *shisou*], and to get rid of this curse, the cards must be burned.|
