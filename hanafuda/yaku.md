@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T12:25:08.481Z
+date: 2022-11-11T12:47:59.126Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -51,20 +51,24 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Aka|赤|Red|Two or more Ribbon cards. May require specific number of Ribbon cards (Akashi, Akago, Akaroku, Akanana) like in Taoshi, or it may require that the rest of the cards be Chaff, like in Hachi-hachi.|The name comes from the Swords suit (nicknamed 'Aka') of a Mekurifuda deck, which is the equivalent of Ribbons in Hanafuda.|
 |Futa-sanbon|二三本|Two Triplets|Two Triplets.|Also known as **Kiba** in Taoshi, and **Futa-tesan** [二手三] in Roppyakken. Has mekurifuda origins.|
 |Hachikara|八空|Eight Empties|Exactly 8 Chaff in hand.|Used if the hand has 8 cards.|
-|Haneken|跳剣|Triplet and Two Pairs|Sanbon + Two pairs.|Also known as **Azemame** in Taoshi. Has mekurifuda origins.|
+|Haneken|跳剣|Triplet and Two Pairs|Sanbon + Two pairs.|Also known as **Azemame** in Taoshi. It is also called **Hanekenzan**, **Kenzan**, or **Yakoken**. Has mekurifuda origins.|
 |Futa-teshi|二手四|Two Four-of-a-kinds|Two Four-of-a-kinds.|Can only be used if the hand has 8 cards.|
 |Ichinishi|一二四|One-Two-Four|A singleton, a pair, and a Four-of-a-kind.|-|
 |Karasu|空素|Empty Hand|All Chaff in hand.|Also known as **Sou-gasu** [総ガス, 'all Chaff'] in Roppyakken, **Sou-gara** [総ガラ, 'all Chaff'] in Toppa, and **Hiraya** in Hiraya.|
+|Kinkira|キンキラ|No Chaffs|No Chaff in hand.|Also known as **Kingira** or **Su-nashi** [素なし, 'no basic']. Used as a Teyaku in some Hachi-hachi rulesets.|
 |Kuttsuki|喰付|Sticky|Three or four pairs.|Also known as **Ton** in Taoshi, and **Sanzokuichi** in Toppa. Has mekurifuda origins. Either 3 or four pairs are used, depending on the game.|
+|Nasake|短三枚|Three Ribbons|Three Ribbon cards.|Used in Sudaoshi.|
 |Pika-ichi|光一|One Bright|One Bright, the rest are Chaff.|-|
 |Sanbon|三本|Triplet|Three cards of the same month.|Also known as **Tesan** [手三] in Roppyakken. Has mekurifuda origins.|
 |Shichikara|七空|Seven Empties|Exactly 7 Chaff in hand.|Used if the hand has 8 cards.|
-|Shisou|四三|Four-Three|Teshi + Sanbon|Has mekurifuda origins. There is a belief that if a player forms this Teyaku, they are "facing death" [死相, *shisou*], and to get rid of this curse, the cards must be burned.|
+|Shisou|四三|Four-Three|Teshi + Sanbon|Also called **Shisan**. Has mekurifuda origins. There is a belief that if a player forms this Teyaku, they are "facing death" [死相, *shisou*], and to get rid of this curse, the cards must be burned.|
 |Tan-ichi|短一|One Ribbon|One Ribbon, the rest are Chaff.|-|
 |Tate-sanbon|立三本|Standing Triplet|Three of a kind from the months of Wisteria, Iris, or Bush Clover, or the three Paulownia Chaff cards.|Popularized in Hachi-hachi, these cards are considered "unlucky" during the actual matching phase, so they became a higher-scoring Sanbon to balance the game.|
 |Tego|手五|Five-of-a-kind|Four cards of the same month + Wild card|Used only in some games where a Wild Card is used, such as Taoshi.|
+|Teikoku|帝国|Empire|Three Red Poetry Ribbons or Blue Ribbons in hand.|Used as a Teyaku in some Hachi-hachi rulesets. May be a reduced form of **Zoro**.|
 |Teshi|手四|Four-of-a-kind|Four cards of the same month.|Has mekurifuda origins.|
 |To-ichi|十一|One Animal|One Animal, the rest are Chaff.|-|
+|Zoro|ゾロ|Set|Dekiyaku in hand. Some dekiyaku might not be counted depending on the ruleset.|Used as a Teyaku in some Hachi-hachi rulesets. The name is also used to refer to a type of Dekiyaku in some games.|
 
 ### Teyaku in Showdown games
 UNDER CONSTRUCTION
