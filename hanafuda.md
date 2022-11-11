@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-10T03:14:15.914Z
+date: 2022-11-11T03:11:39.096Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -39,7 +39,7 @@ These suits represent the 12 months of the year; more specifically, the 12 **mon
 Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
 
 ## Types
-In addition to the suits, hanafuda decks are categorized by their types, which are denoted by various animals and objects on the card that are not a plant/flower.
+In addition to the suits, hanafuda decks are categorized by their [types](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
 
 Typically, there are 4 types of cards:
 - **Chaff** [カス, *kasu*] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
