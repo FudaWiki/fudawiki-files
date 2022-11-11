@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-11T06:47:16.575Z
+date: 2022-11-11T06:59:37.823Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -36,6 +36,8 @@ They may also refer to Teyaku or Dekiyaku which are treated differently from oth
 
 # Lists of Yaku Names
 
+UNDER CONSTRUCTION
+
 The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their Japanese names. 
 
 For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
@@ -47,7 +49,8 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 
 |Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|-|-|-|-|-|
+|Sanbon|三本|Triplet|Three cards of the same month.|Used in some games played using Mekurifuda such as Taoshi before it was adopted into Hanafuda and it became popularized in the game Hachi-hachi.|
+|Tate-sanbon|立三本|Standing Triplet|Three of a kind from the months of Wisteria, Iris, or Bush Clover, or the three Paulownia Chaff cards.|Used in some games played using Mekurifuda such as Taoshi before it was adopted into Hanafuda and it became popularized in the game Hachi-hachi.|
 
 |-|-|-|-|-|
 
