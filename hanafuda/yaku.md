@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T15:19:13.762Z
+date: 2022-11-12T15:47:51.183Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,17 +147,20 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 
 
 ## List of Dekiyaku Names
-
-Animals (Tane)
-
-Boar-Deer-Butterfly (猪鹿蝶 \[いのしかちょう, *Ino–Shika–Chō\])*
-
-Flower Viewing (花見酒 \[はなみざけ, *Hanami-Zake*\])
-
-Moon Viewing (月見酒 \[つきみざけ, *Tsukimi-Zake*\])
-
-Poetry Ribbons (Aka-Tan)
-
-Purple Ribbons (Ao-Tan)
-
-Ribbons (Tanzaku)
+|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|:---:|:---:|:---:|:---|:---|
+|Akatan|赤短|Poetry Ribbons|Three Red Poetry Ribbons.|Also known as **Akayoroshi** [赤よろし] or **Ura Sugawara** [裏菅原]. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan Aotan no Chōfuku|赤短・青短の重複|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Ame-shikō|雨四光|Rainy Four Brights|Four Bright cards including Rainman.|Also known as **Ame-iri Shiko** [雨入四光].|
+|Aotan|青短|Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Gokō|五光|Five Brights|Five Bright Cards.|-|
+|Hanami de Ippai|花見で一杯|Flower-viewing|Curtain and Sake Cup.|Also known as **Hanamizake** [花見酒].|
+|Inoshikachō|猪鹿蝶|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
+|Kasu|カス|Chaff|Ten or more Chaff cards.|-|
+|Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|-|
+|Sankō|三光|Three Brights|Three Bright cards excluding Rainman.|-|
+|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|-|
+|Tane|タネ|Animals|Five or more Animal cards.|-|
+|Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|-|
+|Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
+|Tsukimi de Ippai|月見で一杯|Moon-viewing|Full Moon and Sake Cup.|Also known as **Tsukimizake** [月見酒].|
