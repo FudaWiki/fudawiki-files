@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T08:55:29.231Z
+date: 2022-11-12T14:12:17.579Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -76,36 +76,55 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Zoro|ゾロ|Set|Dekiyaku in hand. Some dekiyaku might not be counted depending on the ruleset.|Used as a Teyaku in some Hachi-hachi rulesets. The name is also used to refer to a type of Dekiyaku in some games, as well as a Pair in showdown games.|
 
 ### Teyaku in Showdown games
-**NOTE: Cards are described based on their month value.**
+**NOTE: Cards are described based on their *month value*.**
+
+**Also, typically *all* cards in hand must belong to the Yaku (*there should be no extra cards*) unless specified otherwise, or the Yaku will not be counted.**
 
 |Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
 |*Amhaeng-eosa*|암행어사|Bright Pair Smasher|Cuckoo and Boar. The order doesn't matter.|Hanafuda-specific rule, used in Seotda.|
-|Arashi|嵐|Triplet|Three cards of the same month.|-|
-|Arashi-kabu|嵐かぶ|Nine-pt. Triplet|Three 3's.|Local rule. Named because it is an Arashi that forms a 9-point hand in Kabu games.|
-|Doshippin|ドシッピン|Ten-Ten-One|10, 10, 1. The order doesn't matter.|Local rule.|
-|Fūjin|風神|Wind God|3, 7, 10. The order doesn't matter.|Local rule.|
-|Gogo|ゴゴ|Five-Five|A pair of 5's.|Also known as **Gongo** in Kachi-kachi. Local rule in Kabu games.|
+|Arashi|嵐|Triplet|Three cards of the same month.|Also known as **Bong** [봉] in 3-card Seotda, and **Zoro** in Kingo.|
+|Arashi-kabu|嵐かぶ|Nine-pt. Triplet|Three 3's.|Local rule in Kabu games. Named because it is an Arashi that forms a 9-point hand in Kabu games.|
+|*Chodan*|초단|Grass Ribbons|The three red Ribbons without writing, excluding the Willow Ribbon. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
+|*Cheongdan*|청단|Blue Ribbons|The three blue Ribbons. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
+|*Chunchu-ttaeng*|춘추땡|Double Pair|Two Pairs in [a five-card] hand.|Used as a variation rule in Dorijitgo-ttaeng.|
+|Doshippin|ドシッピン|Ten-Ten-One|10, 10, 1. The order doesn't matter.|Local rule in Kabu games.|
+|Fūjin|風神|Wind God|3, 7, 10. The order doesn't matter.|Local rule in Kabu games.|
+|*Godori*|고도리|Five Birds|Bush Warbler, Cuckoo, and Geese. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
+|Gogo|五五|Five-Five|A pair of 5's.|Also known as **Gongo** in Kachi-kachi. Local rule in Kabu games.|
+|*Gonjil*|곤질|Seven-Five|7 and 5. The order doesn't matter.|Used in the Jeju Island variant of Seotda.|
 |Goppin|五一|Five-One|5 and 1. The order may or may not matter depending on the game.|Used in Kachi-kachi.|
+|*Gwangbong*|광봉|Three Brights|Crane, Curtain, and Full Moon. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
 |*Gwangttaeng*|광땡|Bright Pair|A pair of Brights; specifically Crane and Full Moon, or Crane and Curtain|Hanafuda-specific rule. Used in Seotda.|
-|Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule.|
-|Junjun|十十|Ten-One|A pair of 10's.|Used in the game Kachi-kachi, and the game is also named after this yaku. Also known as **Kachi-kachi**. Also known as **Jangttaeng** [장땡] in Seotda.|
-|Kudari|下り|Straight Down|Descending month order (Ex. 3, 2, 1). You cannot follow a 1 with a 10.|Local rule.|
+|Hachihachi|八八|Eight-Eight|A pair of 8's.|Used in Kachi-kachi, it is also known as **Pachipachi** or **Pappa**.|
+|*Hongdan*|홍단|Poetry Ribbons|The three poetry Ribbons. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
+|Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule in Kabu games.|
+|Junjun|十十|Ten-Ten|A pair of 10's.|Used in the game Kachi-kachi, and the game is also named **Junjun** after this yaku. Also known as **Kachi-kachi**. Also known as **Jangttaeng** [장땡] in Seotda.|
+|Kudari|下り|Straight Down|Descending month order (Ex. 3, 2, 1). You cannot follow a 1 with a 10.|Local rule in Kabu games.|
+|Kunkun|九九|Nine-Nine|A pair of 9's.|Used in Kachi-kachi, it is also known as **Kukku**.|
 |Kuppin|九一|Nine-One|9 and 1. The order may or may not matter depending on the game.|Also known as **Gupping** [구삥] in Seotda.|
 |*Meongteongguri Sagu*|멍텅구리 사구|Animal Four-Nine|Cuckoo and Sake Cup. The order doesn't matter.|Hanafuda-specific rule. Used in Seotda.|
-|Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule.|
-|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** in Kachi-kachi, and **Alli** [알리] in Seotda. A local rule rarely adopted in Kabu games.|
-|Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule.|
+|Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule in Kabu games.|
+|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** in Kachi-kachi, **Alli** [알리] in Seotda, and **Ipping** [이삥] in the Jeju Island variant. A local rule rarely adopted in Kabu games.|
+|Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule in Kabu games.|
+|Pin|一|One|Two cards, one of which is a 1.|Also known as **Pping** [삥] in the Jeju Island variant of Seotda.|
+|Pinpin|一一|One-One|A pair of 1's.|Used in Kachi-kachi, and is also known as **Sanza**. Also known as **Ppingttaeng** [삥땡] in Seotda.|
 |Raijin|雷神|Thunder God|4, 7, 9. The order doesn't matter.|Local rule.|
+|Rokuroku|六六|Six-Six|A pair of 6's.|Used in Kachi-kachi, it is also known as **Ryunryun** or **Munmu**.|
 |Roppin|六一|Six-One|6 and 1. The order may or may not matter depending on the game.|Used in Kachi-kachi.|
+|*Sampping*|삼삥|Three-One|3 and 1. The order doesn't matter.|Used in the Jeju Island variant of Seotda.|
 |San-hachi Hikari|三八光|Three-Eight Bright Pair|Curtain and Full Moon. The order doesn't matter.|Also known as **Sampal Gwangttaeng** [삼팔광땡] in Seotda. A hanafuda-specific rule that is sometimes adopted as a local rule in Kabu games.|
+|Sansan|三三|Three-Three|A pair of 3's.|Used in Kachi-kachi, and is also known as **Sanza**.|
+|Shichishichi|七七|Seven-Seven|A pair of 7's.|Used in Kachi-kachi, it is also known as **Chicchi** or **Nananana**.|
 |Shidō|四十|Four-Ten|4 and 10. The order may or may not matter depending on the game.|Also known as **Jangsa** [장사] in Seotda. Local rule in Kabu games.|
-|Shippin|四一|Four-One|4 and 1. The order may or may not matter depending on the game.|Also known as **Doksa** [독사] in Shippin.|
-|Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Also known as Seryuk [세륙] in Seotda. Local rule in Kabu games. The name is a pun of its goroawase meaning 'four-six'.|
+|Shippin|四一|Four-One|4 and 1. The order may or may not matter depending on the game.|Also known as **Doksa** [독사] in Seotda, and **Sapping** [사삥] in its Jeju Island variant.|
+|Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Also known as **Shiroku** in Kachi-kachi, and **Seryuk** [세륙] in Seotda. Local rule in Kabu games. The name is a pun of its goroawase meaning 'four-six'.|
+|Shisshi|四四|Four-Four|A pair of 4's.|Used in Kachi-kachi, it is also known as **Yonyon** or **Shusshu**.|
+|Tamashī|魂|Soul|Special 4 and Special 1. (In Hanafuda, you may use Crane and Cuckoo) The order doesn't matter.|Used in Kachi-kachi, and is also known as **Gongohan** [五五半, 'Five-Five and a Half']. The name is a pun of the Special 4 card, *Tamashi* [玉四]. The name *Gongohan* refers to its value, which is between that of a pair of 5's and that of a pair of 6's.|
 |Tōichi|十一|Ten-One|10, 1. The order may or may not matter depending on the game.|Also known as **Toppin** in Kachi-kachi, and **Jangpping** [장삥] in Seotda. Local rule in Kabu games.|
 |Tsuke|ツケ|Two-Two-One|2, 2, 1. The order doesn't matter.|Used in Hankan and Shoniban.|
-|Tsuru|ツル|Two-Two|A pair of 2's.|Local rule.|
-|Wake-fuda|分け札|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Sagu** [사구] or **Gusa** [구사] in Seotda. Local rule in Kabu games.|
+|Tsuru|ツル|Two-Two|A pair of 2's.|Also known as **Ninnin** or **Ninni** in Kachi-kachi. Local rule in Kabu games.|
+|Wake-fuda|分け札|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Sagu** [사구] or **Gusa** [구사] in Seotda, and **Pabun** [파분] in the Jeju Island variant of the game. Local rule in Kabu games.|
 |Zoro|ゾロ|Pair|Two cards of the same month.|Also known as **Ttaeng** [땡] in Seotda. A local rule that is rarely adopted in Kabu games; usually only Tsuru and Gogo are adopted.|
 |Zoro Tsubushi|ゾロつぶし|Pair Smasher|3 and 7, or Curtain and Boar. The order doesn't matter.|Also known as **Ttaengjab-i** [땡잡이] in Seotda. As a local rule in Kabu games, it beats all Pairs. In Seotda, it beats all Pairs except a pair of 10's.|
 
