@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T14:43:52.297Z
+date: 2022-11-12T14:50:10.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -85,7 +85,6 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Amhaeng-eosa*|암행어사|Bright Pair Smasher|Cuckoo and Boar. The order doesn't matter.|Hanafuda-specific rule, used in Seotda. It beats Bright Pairs. The name literally means 'Secret Royal Inspector'.|
 |Arashi|嵐|Triplet|Three cards of the same month.|Also known as **Bong** [봉] in 3-card Seotda, and **Zoro** in Kingo.|
 |Arashi-kabu|嵐かぶ|Nine-pt. Triplet|Three 3's.|Local rule in Kabu games. Named because it is an Arashi that forms a 9-point hand in Kabu games.|
-|Buta Keri|ブタ蹴り|Bust Kick|A Kabu hand worth 0 points (the *ones* digit of the total value is 0).|An optional local rule in Kachi-kachi, this normally bad hand beats all other hands.|
 |*Chodan*|초단|Grass Ribbons|The three red Ribbons without writing, excluding the Willow Ribbon. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
 |*Cheongdan*|청단|Blue Ribbons|The three blue Ribbons. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
 |*Chunchu-ttaeng*|춘추땡|Double Pair|Two Pairs in [a five-card] hand.|Used as a variation rule in Dorijitgo-ttaeng.|
@@ -101,7 +100,6 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Hachihachi|八八|Eight-Eight|A pair of 8's.|Used in Kachi-kachi, it is also known as **Pachipachi** or **Pappa**.|
 |*Hongdan*|홍단|Poetry Ribbons|The three poetry Ribbons. The order doesn't matter.|Hanafuda-specific rule. Used in 3-card Seotda.|
 |Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule in Kabu games.|
-|Inketsu Keri|インケツ蹴り|1-pt. Kick|A Kabu hand worth 1 point (the *ones* digit of the total value is 1).|An optional local rule in Kachi-kachi, this normally bad hand beats all other hands.|
 |Ittan Jūroku|いったん十六|Two-card Sixteen|Two cards with a number total of 16 points.|Used in Kingo games.|
 |Junjun|十十|Ten-Ten|A pair of 10's.|Used in the game Kachi-kachi, and the game is also named **Junjun** after this yaku. Also known as **Kachi-kachi**. Also known as **Jangttaeng** [장땡] in Seotda.|
 |Kingo|金五|Golden Fives|Three 5's.|Used in Kingo games. The name refers to the hand consisting of all 5's, and also having a total of 15 points.|
@@ -110,7 +108,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kuppin|九一|Nine-One|9 and 1. The order may or may not matter depending on the game.|Also known as **Gupping** [구삥] in Seotda.|
 |*Meongteongguri Sagu*|멍텅구리 사구|Animal Four-Nine|Cuckoo and Sake Cup. The order doesn't matter.|Hanafuda-specific rule. Used in Seotda.|
 |Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule in Kabu games.|
-|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** as a local rule in Kachi-kachi, **Alli** [알리] in Seotda, and **Ipping** [이삥] in the Jeju Island variant. A local rule rarely adopted in Kabu games.|
+|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** as a local rule Special Yaku in Kachi-kachi, **Alli** [알리] in Seotda, and **Ipping** [이삥] in the Jeju Island variant. A local rule rarely adopted in Kabu games.|
 |Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule in Kabu games.|
 |Pin|一|One|Two cards, one of which is a 1.|Also known as **Pping** [삥] in the Jeju Island variant of Seotda.|
 |Pinpin|一一|One-One|A pair of 1's.|Used in Kachi-kachi, and is also known as **Sanza**. Also known as **Ppingttaeng** [삥땡] in Seotda.|
