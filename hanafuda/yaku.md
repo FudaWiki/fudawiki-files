@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T15:11:32.719Z
+date: 2022-11-12T15:19:13.762Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -137,6 +137,13 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Zoro|ゾロ|Pair|Two cards of the same month.|Also known as **Ttaeng** [땡] in Seotda. A local rule that is rarely adopted in Kabu games; usually only Tsuru and Gogo are adopted.|
 |Zoro Tsubushi|ゾロつぶし|Pair Smasher|3 and 7, or Curtain and Boar. The order doesn't matter.|Also known as **Ttaengjab-i** [땡잡이] in Seotda. As a local rule in Kabu games, it beats all Pairs. In Seotda, it beats all Pairs except a pair of 10's.|
 
+### Teyaku in Sequence games
+|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|:---:|:---:|:---:|:---|:---|
+|Bake Sanmai|化三枚 |Three Pieces Ghosts|Three Bake-fuda.|Used in Poka.|
+|Buttakuri|ブッタクリ|Four-of-a-kind|Four cards of the same month.|Used in Poka.|
+|Mitsu Kuttsuki|三双|Three Sticky|Three pairs, a pair being two cards of the same month.|Used in Poka.|
+|Pin Sanmai|ピン三枚|Three Pieces One|Three 1's.|Used in Poka.|
 
 
 ## List of Dekiyaku Names
