@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T05:01:33.339Z
+date: 2022-11-12T05:21:44.261Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -40,7 +40,7 @@ They may also refer to Teyaku or Dekiyaku which are treated differently from oth
 
 The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their most popular Japanese names. 
 
-> If the original name is in Korean and there is no Japanese name equivalent, then it will be listed in Korean instead.
+> If the original name is in Korean and there is no Japanese name equivalent, then it will be *listed in Korean instead*.
 {.is-warning}
 
 For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
@@ -89,18 +89,21 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule.|
 |Kudari|下り|Straight Down|Descending month order (Ex. 3, 2, 1). You cannot follow a 1 with a 10.|Local rule.|
 |Kuppin|九一|Nine-One|9 and 1. The order may or may not matter depending on the game.|Also known as **Gupping** [구삥] in Seotda.|
+|*Meongteongguri Sagu*|멍텅구리 사구|Animal Four-Nine|Cuckoo and Sake Cup. The order doesn't matter.|Hanafuda-specific rule. Used in Seotda.|
 |Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule.|
 |Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Alli** [알리] in Seotda. A local rule rarely adopted in Kabu games.|
 |Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule.|
 |Raijin|雷神|Thunder God|4, 7, 9. The order doesn't matter.|Local rule.|
 |San-hachi Hikari|三八光|Three-Eight Bright Pair|Curtain and Full Moon. The order doesn't matter.|Also known as **Sampal Gwangttaeng** [삼팔광땡] in Seotda. A hanafuda-specific rule that is sometimes adopted as a local rule in Kabu games.|
+|*Sagu*|사구|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Gusa** [구사]. Used in Seotda.|
 |Shidō|四十|Four-Ten|4 and 10. The order may or may not matter depending on the game.|Also known as **Jangsa** [장사] in Seotda. Local rule in Kabu games.|
 |Shippin|四一|Four-One|4 and 1. The order may or may not matter depending on the game.|Also known as **Doksa** [독사] in Shippin.|
-|Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Local rule. The name is a pun of its goroawase meaning 'four-six'.|
+|Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Also known as Seryuk [세륙] in Seotda. Local rule in Kabu games. The name is a pun of its goroawase meaning 'four-six'.|
 |Tōichi|十一|Ten-One|10, 1. The order may or may not matter depending on the game.|Also known as Jangpping [장삥] in Seotda. Local rule in Kabu games.|
 |Tsuke|ツケ|Two-Two-One|2, 2, 1. The order doesn't matter.|Used in Hankan and Shoniban.|
 |Tsuru|ツル|Two-Two|A pair of 2's.|Local rule.|
 |Zoro|ゾロ|Pair|Two cards of the same month.|Also known as **Ttaeng** [땡] in Seotda. A local rule that is rarely adopted in Kabu games; usually only Tsuru and Gogo are adopted.|
+|Zoro Tsubushi|ゾロつぶし|Pair Smasher|3 and 7, or Curtain and Boar. The order doesn't matter.|Also known as **Ttaengjab-i** [땡잡이] in Seotda. As a local rule in Kabu games, it beats all Pairs. In Seotda, it beats all Pairs except a pair of 10's.|
 
 
 
