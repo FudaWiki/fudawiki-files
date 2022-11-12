@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T05:27:19.477Z
+date: 2022-11-12T05:33:42.992Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -96,13 +96,13 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule.|
 |Raijin|雷神|Thunder God|4, 7, 9. The order doesn't matter.|Local rule.|
 |San-hachi Hikari|三八光|Three-Eight Bright Pair|Curtain and Full Moon. The order doesn't matter.|Also known as **Sampal Gwangttaeng** [삼팔광땡] in Seotda. A hanafuda-specific rule that is sometimes adopted as a local rule in Kabu games.|
-|*Sagu*|사구|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Gusa** [구사]. Used in Seotda.|
 |Shidō|四十|Four-Ten|4 and 10. The order may or may not matter depending on the game.|Also known as **Jangsa** [장사] in Seotda. Local rule in Kabu games.|
 |Shippin|四一|Four-One|4 and 1. The order may or may not matter depending on the game.|Also known as **Doksa** [독사] in Shippin.|
 |Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Also known as Seryuk [세륙] in Seotda. Local rule in Kabu games. The name is a pun of its goroawase meaning 'four-six'.|
 |Tōichi|十一|Ten-One|10, 1. The order may or may not matter depending on the game.|Also known as Jangpping [장삥] in Seotda. Local rule in Kabu games.|
 |Tsuke|ツケ|Two-Two-One|2, 2, 1. The order doesn't matter.|Used in Hankan and Shoniban.|
 |Tsuru|ツル|Two-Two|A pair of 2's.|Local rule.|
+|Wake-fuda|分け札|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Sagu** [사구] or **Gusa** [구사] in Seotda. Local rule in Kabu games.|
 |Zoro|ゾロ|Pair|Two cards of the same month.|Also known as **Ttaeng** [땡] in Seotda. A local rule that is rarely adopted in Kabu games; usually only Tsuru and Gogo are adopted.|
 |Zoro Tsubushi|ゾロつぶし|Pair Smasher|3 and 7, or Curtain and Boar. The order doesn't matter.|Also known as **Ttaengjab-i** [땡잡이] in Seotda. As a local rule in Kabu games, it beats all Pairs. In Seotda, it beats all Pairs except a pair of 10's.|
 
