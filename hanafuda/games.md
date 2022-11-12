@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-12T13:27:28.060Z
+date: 2022-11-12T13:28:54.185Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -116,6 +116,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Gushikawa, Uruma City, Okinawa, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
+|[Soro](/en/hanafuda/games/soro)|-|Showdown|Okinawa, Japan|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
