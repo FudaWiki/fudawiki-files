@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T08:47:15.315Z
+date: 2022-11-12T08:55:29.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -85,15 +85,16 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Arashi-kabu|嵐かぶ|Nine-pt. Triplet|Three 3's.|Local rule. Named because it is an Arashi that forms a 9-point hand in Kabu games.|
 |Doshippin|ドシッピン|Ten-Ten-One|10, 10, 1. The order doesn't matter.|Local rule.|
 |Fūjin|風神|Wind God|3, 7, 10. The order doesn't matter.|Local rule.|
-|Gogo|ゴゴ|Five-Five|A pair of 5's.|Local rule.|
+|Gogo|ゴゴ|Five-Five|A pair of 5's.|Also known as **Gongo** in Kachi-kachi. Local rule in Kabu games.|
 |Goppin|五一|Five-One|5 and 1. The order may or may not matter depending on the game.|Used in Kachi-kachi.|
 |*Gwangttaeng*|광땡|Bright Pair|A pair of Brights; specifically Crane and Full Moon, or Crane and Curtain|Hanafuda-specific rule. Used in Seotda.|
 |Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule.|
+|Junjun|十十|Ten-One|A pair of 10's.|Used in the game Kachi-kachi, and the game is also named after this yaku. Also known as **Kachi-kachi**. Also known as **Jangttaeng** [장땡] in Seotda.|
 |Kudari|下り|Straight Down|Descending month order (Ex. 3, 2, 1). You cannot follow a 1 with a 10.|Local rule.|
 |Kuppin|九一|Nine-One|9 and 1. The order may or may not matter depending on the game.|Also known as **Gupping** [구삥] in Seotda.|
 |*Meongteongguri Sagu*|멍텅구리 사구|Animal Four-Nine|Cuckoo and Sake Cup. The order doesn't matter.|Hanafuda-specific rule. Used in Seotda.|
 |Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule.|
-|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Alli** [알리] in Seotda. A local rule rarely adopted in Kabu games.|
+|Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** in Kachi-kachi, and **Alli** [알리] in Seotda. A local rule rarely adopted in Kabu games.|
 |Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule.|
 |Raijin|雷神|Thunder God|4, 7, 9. The order doesn't matter.|Local rule.|
 |Roppin|六一|Six-One|6 and 1. The order may or may not matter depending on the game.|Used in Kachi-kachi.|
