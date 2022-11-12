@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T14:50:10.672Z
+date: 2022-11-12T15:11:32.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -102,14 +102,18 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ichinisan|一二三|One-Two-Three|1, 2, 3. The order doesn't matter.|Local rule in Kabu games.|
 |Ittan Jūroku|いったん十六|Two-card Sixteen|Two cards with a number total of 16 points.|Used in Kingo games.|
 |Junjun|十十|Ten-Ten|A pair of 10's.|Used in the game Kachi-kachi, and the game is also named **Junjun** after this yaku. Also known as **Kachi-kachi**. Also known as **Jangttaeng** [장땡] in Seotda.|
+|Karami|からみ|Four or One|If a hand contains either a 4 or a 1.|Used in the game Shippin.|
 |Kingo|金五|Golden Fives|Three 5's.|Used in Kingo games. The name refers to the hand consisting of all 5's, and also having a total of 15 points.|
 |Kudari|下り|Straight Down|Descending month order (Ex. 3, 2, 1). You cannot follow a 1 with a 10.|Local rule in Kabu games.|
 |Kunkun|九九|Nine-Nine|A pair of 9's.|Used in Kachi-kachi, it is also known as **Kukku**.|
 |Kuppin|九一|Nine-One|9 and 1. The order may or may not matter depending on the game.|Also known as **Gupping** [구삥] in Seotda.|
+|Makezu|負けず|Undefeatable|6 and 9.|Used in Otoroku. A specific 2-card hand with a total number of 15 points.|
 |*Meongteongguri Sagu*|멍텅구리 사구|Animal Four-Nine|Cuckoo and Sake Cup. The order doesn't matter.|Hanafuda-specific rule. Used in Seotda.|
 |Nanagosan|七五三|Seven-Five-Three|7, 5, 3. The order doesn't matter.|Local rule in Kabu games.|
 |Niichi|二一|Two-One|2, 1. The order may or may not matter depending on the game.|Also known as **Kenpei** as a local rule Special Yaku in Kachi-kachi, **Alli** [알리] in Seotda, and **Ipping** [이삥] in the Jeju Island variant. A local rule rarely adopted in Kabu games.|
 |Nobori|上り|Straight Up|Ascending month order (Ex. 1, 2, 3). You cannot follow a 10 with a 1.|Local rule in Kabu games.|
+|Otoroku|尾六|Last Bettor Sixteen|6 and 10|Used in Otoroku. A specific 2-card hand with a total number of 16 points. The name literally means 'Tail Six'.|
+|Otoroku|尾六|Last Bettor Sixteen|7 and 9.|Used in Otoroku. A specific 2-card hand with a total number of 16 points. The name literally means 'Tail Six'.|
 |Pin|一|One|Two cards, one of which is a 1.|Also known as **Pping** [삥] in the Jeju Island variant of Seotda.|
 |Pinpin|一一|One-One|A pair of 1's.|Used in Kachi-kachi, and is also known as **Sanza**. Also known as **Ppingttaeng** [삥땡] in Seotda.|
 |Raijin|雷神|Thunder God|4, 7, 9. The order doesn't matter.|Local rule.|
@@ -124,8 +128,9 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shippin|四一|Four-One|4 and 1. The order may or may not matter depending on the game.|Also known as **Doksa** [독사] in Seotda, and **Sapping** [사삥] in its Jeju Island variant.|
 |Shiro|白|White|4 and 6. The order may or may not matter depending on the game.|Also known as **Shiroku** as a local rule in Kachi-kachi, and **Seryuk** [세륙] in Seotda. Local rule in Kabu games. The name is a pun of its goroawase meaning 'four-six'.|
 |Shisshi|四四|Four-Four|A pair of 4's.|Used in Kachi-kachi, it is also known as **Yonyon** or **Shusshu**.|
-|Tamashī|魂|Soul|Special 4 and Special 1. (In Hanafuda, you may use Crane and Cuckoo) The order doesn't matter.|Used in Kachi-kachi, and is also known as **Gongohan** [五五半, 'Five-Five and a Half']. The name is a pun of the Special 4 card, *Tamashi* [玉四]. The name *Gongohan* refers to its value, which is between that of a pair of 5's and that of a pair of 6's.|
-|Tōichi|十一|Ten-One|10, 1. The order may or may not matter depending on the game.|Also known as **Toppin** in Kachi-kachi, and **Jangpping** [장삥] in Seotda. Local rule in Kabu games.|
+|Sorokabu|ソロカブ|Field Triplet|Three 5's, 6's, 7's, or 8's.|Used in Kyo-kabu. The cards on the first field are always 5, 6, 7, and 8.|
+|Tamashī|魂|Soul|Special 4 and Special 1. (In Hanafuda, you may use Crane and Cuckoo) The order doesn't matter.|Used in Kachi-kachi, and is also known as **Gongohan** [五五半, 'Five-Five and a Half']. Also known as **Toritori** in Otoroku. The name is a pun of the Special 4 card, *Tamashi* [玉四]. The name *Gongohan* refers to its value, which is between that of a pair of 5's and that of a pair of 6's.|
+|Tōichi|十一|Ten-One|10 and 1. The order may or may not matter depending on the game.|Also known as **Toppin** in Kachi-kachi, and **Jangpping** [장삥] in Seotda. Local rule in Kabu games.|
 |Tsuke|ツケ|Two-Two-One|2, 2, 1. The order doesn't matter.|Used in Hankan and Shoniban.|
 |Tsuru|ツル|Two-Two|A pair of 2's.|Also known as **Ninnin** or **Ninni** in Kachi-kachi. Local rule in Kabu games.|
 |Wake-fuda|分け札|Four-Nine|4 and 9. The order doesn't matter.|Also known as **Sagu** [사구] or **Gusa** [구사] in Seotda, and **Pabun** [파분] in the Jeju Island variant of the game. Local rule in Kabu games.|
