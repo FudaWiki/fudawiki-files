@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T05:21:44.261Z
+date: 2022-11-12T05:27:19.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -80,6 +80,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 
 |Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
+|*Amhaeng-eosa*|암행어사|Bright Pair Smasher|Cuckoo and Boar. The order doesn't matter.|Hanafuda-specific rule, used in Seotda.|
 |Arashi|嵐|Triplet|Three cards of the same month.|-|
 |Arashi-kabu|嵐かぶ|Nine-pt. Triplet|Three 3's.|Local rule. Named because it is an Arashi that forms a 9-point hand in Kabu games.|
 |Doshippin|ドシッピン|Ten-Ten-One|10, 10, 1. The order doesn't matter.|Local rule.|
