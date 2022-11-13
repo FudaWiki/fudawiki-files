@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T08:28:27.280Z
+date: 2022-11-13T08:38:52.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -146,7 +146,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 ## List of Dekiyaku Names
 |Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan|赤短|Poetry Ribbons|Three Red Poetry Ribbons.|Also known as **Akayoroshi** [赤よろし] or **Ura Sugawara** [裏菅原], and **Kozan** [小三] in Roppyakken. Also known as **Hongdan** [홍단] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan|赤短|Poetry Ribbons|Three Red Poetry Ribbons.|Also known as **Akayoroshi** [赤よろし], **Ura Sugawara** [裏菅原] or simply **Sugawara** [菅原] or **Urasu** [裏す]. Also known as **Kozan** [小三] in Roppyakken. Also known as **Hongdan** [홍단] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku|赤短・青短の重複|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame-shikō|雨四光|Rainy Four Brights|Four Bright cards including Rainman.|Also known as **Ame-iri Shiko** [雨入四光].|
 |Ame-sankō|雨三光|Rainy Three Brights|Three Bright cards including Rainman.|Also known as **Bi Samgwang** [비삼광] in Korean.|
@@ -163,14 +163,15 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean.|
 |Matsu Shima|松島|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima|紅葉島|Four Maples|Four Maple cards.|Also known as **Pungyak** [풍약] in Korean. Has mekurifuda origins.|
-|Nanatan|七短|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Also known as **Chiltti** [칠띠] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Nanatan|七短|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Also known as **Shōnana** [しょう七] in the game Toppa. Also known as **Chiltti** [칠띠] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|Also known as **Teppō** [鉄砲] in Roppyakken (**Daepo** [대포] in Korean), **Taihō** [大砲] in Yamayaku, and **Tsukihana Ippai** [月花一杯] in Changara.|
 |Omote Sugawara|表菅原|Spring|Crane, Bush Warbler, Curtain.|Also known as **Sanko** [三光] or **Ichinisan** [一二三] in Mushi, and **Ōzan** [大三] in Roppyakken. Also known as **Il-i-sam** [일이삼] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
 |Rokutan|六短|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima|桜島|Four Cherry Blossoms|Four Cherry Blossom cards.|Has mekurifuda origins.|
 |Sankō|三光|Three Brights|Three Bright cards excluding Rainman.|Also known as **Samgwang** [삼광] in Korean.|
-|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō**. Also known as **Sagwang** [사광] in Korean.|
+|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō** or **Honshi** [本四]. Also known as **Sagwang** [사광] in Korean.|
 |Shima|島|Four-of-a-Kind|Four cards of the same month.|Also known as **Zoro**. Has mekurifuda origins.|
+|Tan|短|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa.|
 |Tane|タネ|Animals|Five or more Animal cards.|Also known as **Yeolkkeut** [열끗] in Korean.|
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
 |Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
