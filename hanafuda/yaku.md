@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T07:36:08.406Z
+date: 2022-11-13T08:22:42.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -159,12 +159,12 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Inoshikachō|猪鹿蝶|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|Also known as **Inoshika** [이노시카] in Korean.|
 |Kasu|カス|Chaff|Ten or more Chaff cards.|Also known as **Pi** [피] in Korean.|
 |Kiri Shima|桐島|Four Paulownias|Four Paulownia cards.|Also known as **Ttongyak** [똥약] in Korean. Has mekurifuda origins.|
-|Kusatan|草短|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Also known as **Chodan** [초단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Kusatan|草短|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Also known as **Kusa** or **Kusaken**. Also known as **Chodan** [초단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean.|
 |Matsu Shima|松島|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima|紅葉島|Four Maples|Four Maple cards.|Also known as **Pungyak** [풍약] in Korean. Has mekurifuda origins.|
 |Nanatan|七短|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Also known as **Chiltti** [칠띠] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|Also known as **Teppo** [鉄砲] in Roppyakken (**Daepo** [대포] in Korean).|
+|Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|Also known as **Teppō** [鉄砲] in Roppyakken (**Daepo** [대포] in Korean), **Taihō** [大砲] in Yamayaku, and **Tsukihana Ippai** [月花一杯] in Changara.|
 |Omote Sugawara|表菅原|Spring|Crane, Bush Warbler, Curtain.|Also known as **Sanko** [三光] or **Ichinisan** [一二三] in Mushi, and **Ōzan** [大三] in Roppyakken. Also known as **Il-i-sam** [일이삼] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
 |Rokutan|六短|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima|桜島|Four Cherry Blossoms|Four Cherry Blossom cards.|Has mekurifuda origins.|
@@ -175,5 +175,9 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
 |Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
 |Tsukimi de Ippai|月見で一杯|Moon-viewing|Full Moon and Sake Cup.|Also known as **Tsukimizake** [月見酒] or **Tsukimi** [月見]. Also known as **Ppai** [빠이] in Korean.|
+|*Tti Daepo*|띠 대포|Drinking Ribbons|Cherry Blossom Ribbon, Geese, Chrysanthemum Ribbon.|Korean local rule.|
+|*Tti Inoshika*|띠 이노시카|Boar-Deer-Butterflies Ribbons|3 Ribbons matching the months of Boar, Deer,and Butterflies.|Korean local rule.|
 |Ume Shima|梅島|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
-|Yanagi Shima|柳島|Four Willows|Four Willow cards.|Also known as **Ame Shima** [雨島]. Also known as **Biyak** [비약] or **Bijori** [비조리] in Korean. Has mekurifuda origins.|
+|*Tti Ppai*|띠 빠이|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
+|*Tti Ppai*|띠 빠이|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
+|Yanagi Shima|柳島|Four Willows|Four Willow cards.|Also known as **Ame Shima** [雨島] or **Ame Zoro** [雨ゾロ]. Also known as **Biyak** [비약] or **Bijori** [비조리] in Korean. Has mekurifuda origins.|
