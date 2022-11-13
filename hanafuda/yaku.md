@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T08:38:52.240Z
+date: 2022-11-13T08:44:46.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -152,12 +152,14 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ame-sankō|雨三光|Rainy Three Brights|Three Bright cards including Rainman.|Also known as **Bi Samgwang** [비삼광] in Korean.|
 |Aotan|青短|Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Also known as **Cheongdan** [청단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Bōzu Shima|坊主島|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins.|
-|Fuji Shima|藤島|Four Wisterias|Four Wisteria cards.|Has mekurifuda origins.|
+|Fuji Shima|藤島|Four Wisterias|Four Wisteria cards.|Also known as **Fuji** in the game Toppa. Has mekurifuda origins.|
 |*Godori*|고도리|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō|五光|Five Brights|Five Bright Cards.|Also known as **Ogwang** [오광] in Korean.|
 |Hanami de Ippai|花見で一杯|Flower-viewing|Curtain and Sake Cup.|Also known as **Hanamizake** [花見酒] or **Hanami** [花見]. Also known as **Ppai** [빠이] in Korean.|
 |Inoshikachō|猪鹿蝶|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|Also known as **Inoshika** [이노시카] in Korean.|
-|Kasu|カス|Chaff|Ten or more Chaff cards.|Also known as **Pi** [피] in Korean.|
+|Inu|いぬ|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
+|Kanko|かんこ|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
+|Kasu|カス|Chaff|Ten or more Chaff cards.|Also known as **Kara** [空]. Also known as **Pi** [피] in Korean.|
 |Kiri Shima|桐島|Four Paulownias|Four Paulownia cards.|Also known as **Ttongyak** [똥약] in Korean. Has mekurifuda origins.|
 |Kusatan|草短|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Also known as **Kusa** or **Kusaken**. Also known as **Chodan** [초단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean.|
