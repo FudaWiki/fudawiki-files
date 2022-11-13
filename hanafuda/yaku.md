@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-12T15:47:51.183Z
+date: 2022-11-13T02:58:55.294Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -38,10 +38,7 @@ They may also refer to Teyaku or Dekiyaku which are treated differently from oth
 
 # Lists of Yaku Names
 
-The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order of their most popular Japanese names. 
-
-> If the original name is in Korean and there is no Japanese name equivalent, then it will be *listed in Korean instead*.
-{.is-warning}
+The following Hanafuda Yaku will be categorized according to their type and composition and arranged in the alphabetical order. 
 
 For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en/hanafuda/yaku/glossary).
 
@@ -51,7 +48,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 ## List of Teyaku Names
 
 ### Teyaku in Fishing games
-|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
 |Aka|赤|Red|Two or more Ribbon cards. May require specific number of Ribbon cards (Akashi, Akago, Akaroku, Akanana) like in Taoshi, or it may require that the rest of the cards be Chaff, like in Hachi-hachi.|The name comes from the Swords suit (nicknamed 'Aka') of a Mekurifuda deck, which is the equivalent of Ribbons in Hanafuda.|
 |Futa-sanbon|二三本|Two Triplets|Two Triplets.|Also known as **Kiba** in Taoshi, and **Futa-tesan** [二手三] in Roppyakken. Has mekurifuda origins.|
@@ -80,7 +77,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 
 **Also, typically *all* cards in hand must belong to the Yaku (*there should be no extra cards*) unless specified otherwise, or the Yaku will not be counted.**
 
-|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
 |*Amhaeng-eosa*|암행어사|Bright Pair Smasher|Cuckoo and Boar. The order doesn't matter.|Hanafuda-specific rule, used in Seotda. It beats Bright Pairs. The name literally means 'Secret Royal Inspector'.|
 |Arashi|嵐|Triplet|Three cards of the same month.|Also known as **Bong** [봉] in 3-card Seotda, and **Zoro** in Kingo.|
@@ -138,7 +135,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Zoro Tsubushi|ゾロつぶし|Pair Smasher|3 and 7, or Curtain and Boar. The order doesn't matter.|Also known as **Ttaengjab-i** [땡잡이] in Seotda. As a local rule in Kabu games, it beats all Pairs. In Seotda, it beats all Pairs except a pair of 10's.|
 
 ### Teyaku in Sequence games
-|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
 |Bake Sanmai|化三枚 |Three Pieces Ghosts|Three Bake-fuda.|Used in Poka.|
 |Buttakuri|ブッタクリ|Four-of-a-kind|Four cards of the same month.|Used in Poka.|
@@ -147,7 +144,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 
 
 ## List of Dekiyaku Names
-|Japanese Name</br>(Romaji)|Japanese Name</br>(Kanji)| English Name|Composition|Additional Information|
+|Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
 |Akatan|赤短|Poetry Ribbons|Three Red Poetry Ribbons.|Also known as **Akayoroshi** [赤よろし] or **Ura Sugawara** [裏菅原]. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku|赤短・青短の重複|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
