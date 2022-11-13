@@ -2,13 +2,13 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-07-10T11:07:58.195Z
+date: 2022-11-13T09:14:07.242Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
 ---
 
-Enshu-bana (遠州花, lit. “Enshu Flowers”) is a [Hana-Awase](https://fudawiki.org/en/hanafuda/games/hana-awase) variant for two to three players, played in the Shizuoka Prefecture of Japan. Locally, it is known as Shishibochushin (ししぼちゅしん).
+Enshu-bana (遠州花, lit. “Enshu Flowers”) is a [Hana-Awase](https://fudawiki.org/en/hanafuda/games/hana-awase) variant for two to three players, played in the Shizuoka Prefecture of Japan. Locally, it is known as Shishibochūshin (ししぼちゅうしん).
 
 The game features **3 teyaku and 8 dekiyaku**. At every round, players place a wager into the pot, and dealer deals the cards. Players then check for teyaku in their hand. Afterward, the gameplay is the same as Hana-awase, and **play continues until all players' hands run out of cards**. 
 
@@ -75,8 +75,8 @@ Playing with Teyaku is optional; some play without Teyaku.
 | 2x your score<br>(or 3x your score) | **Blue Ribbons**  <br>(Aotan) | The three Blue Ribbons:<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon) |
 | 50 pts. | **Moon and Cuckoo** (Tsukihoto) | [![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) |
 | 50 pts. | **Boar and Butterflies** (Shishibo) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies) |
-| 50 pts. | **Boar and Rainman** (Shishichu) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
-| 100 pts. | **Boar, Butterflies, Rainman** (Sokuyaku/Shishibochushin) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
+| 50 pts. | **Boar and Rainman** (Shishichū) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
+| 100 pts. | **Boar, Butterflies, Rainman** (Sokuyaku/Shishibochūshin) | [![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) |
 | 50 pts. | Four cards of the same month.<br>Only Iris![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x), Chrysanthemum![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x), and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted. |
 
 
