@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T08:44:46.109Z
+date: 2022-11-13T09:24:15.910Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -148,7 +148,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |:---:|:---:|:---:|:---|:---|
 |Akatan|赤短|Poetry Ribbons|Three Red Poetry Ribbons.|Also known as **Akayoroshi** [赤よろし], **Ura Sugawara** [裏菅原] or simply **Sugawara** [菅原] or **Urasu** [裏す]. Also known as **Kozan** [小三] in Roppyakken. Also known as **Hongdan** [홍단] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku|赤短・青短の重複|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Ame-shikō|雨四光|Rainy Four Brights|Four Bright cards including Rainman.|Also known as **Ame-iri Shiko** [雨入四光].|
+|Ame-shikō|雨四光|Rainy Four Brights|Four Bright cards including Rainman.|Also known as **Ame-iri Shiko** [雨入四光]. Also known as **Shikō**, if the same Yaku excluding Rainman is called Honshikō (Real Four Brights).|
 |Ame-sankō|雨三光|Rainy Three Brights|Three Bright cards including Rainman.|Also known as **Bi Samgwang** [비삼광] in Korean.|
 |Aotan|青短|Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Also known as **Cheongdan** [청단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Bōzu Shima|坊主島|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins.|
@@ -171,12 +171,16 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Rokutan|六短|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima|桜島|Four Cherry Blossoms|Four Cherry Blossom cards.|Has mekurifuda origins.|
 |Sankō|三光|Three Brights|Three Bright cards excluding Rainman.|Also known as **Samgwang** [삼광] in Korean.|
-|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō** or **Honshi** [本四]. Also known as **Sagwang** [사광] in Korean.|
+|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō**, **Honshikō** [本四光], or **Honshi** [本四]. Also known as **Ten'nō** [天皇] in Shishibochushin. Also known as **Sagwang** [사광] in Korean.|
 |Shima|島|Four-of-a-Kind|Four cards of the same month.|Also known as **Zoro**. Has mekurifuda origins.|
-|Tan|短|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa.|
+|Shishibo|ししぼ|Boar on Peony|Boar and Butterflies.|An early reference states this yaku as **Shishi Botan** [獅子牡丹]. This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
+|Shishibochūshin|ししぼちゅうしん|Boar-Butterflies-Rainman|Boar, Butterflies, Rainman.|Also known as **Sokuyaku** [そくやく]. Used in the game Shishibochushin, which is named after this Yaku.|
+|Shishichu|ししちゅ|Boar and Rainman|Boar and Rainman.|Used in the game Shishibochushin.|
+|Tan|短|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa. Also known as **Shōnana** in Kushiro Toppa.|
 |Tane|タネ|Animals|Five or more Animal cards.|Also known as **Yeolkkeut** [열끗] in Korean.|
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
 |Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
+|Tsukihoto|月ホト|Moon Cuckoo|Full Moon and Cuckoo|Old hanafuda designs such as Echigobana did not have the crescent moon on the Cuckoo card, so the Full Moon card is the only card in the deck that depicts a moon.|
 |Tsukimi de Ippai|月見で一杯|Moon-viewing|Full Moon and Sake Cup.|Also known as **Tsukimizake** [月見酒] or **Tsukimi** [月見]. Also known as **Ppai** [빠이] in Korean.|
 |*Tti Daepo*|띠 대포|Drinking Ribbons|Cherry Blossom Ribbon, Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Inoshika*|띠 이노시카|Boar-Deer-Butterflies Ribbons|3 Ribbons matching the months of Boar, Deer,and Butterflies.|Korean local rule.|
