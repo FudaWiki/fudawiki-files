@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T08:22:42.606Z
+date: 2022-11-13T08:28:27.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -181,3 +181,5 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*|띠 빠이|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Ppai*|띠 빠이|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Yanagi Shima|柳島|Four Willows|Four Willow cards.|Also known as **Ame Shima** [雨島] or **Ame Zoro** [雨ゾロ]. Also known as **Biyak** [비약] or **Bijori** [비조리] in Korean. Has mekurifuda origins.|
+|-|-|Greater Blues|Butterflies, Sake Cup, Deer. (i.e. the Animals of the same months as the Blue Ribbons)|Used in the game Sakura.|
+|-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
