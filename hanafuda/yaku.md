@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-13T04:29:03.015Z
+date: 2022-11-13T07:22:08.660Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -151,21 +151,24 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ame-shikō|雨四光|Rainy Four Brights|Four Bright cards including Rainman.|Also known as **Ame-iri Shiko** [雨入四光].|
 |Ame-sankō|雨三光|Rainy Three Brights|Three Bright cards including Rainman.|Also known as **Bi Samgwang** [비삼광] in Korean.|
 |Aotan|青短|Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Also known as **Cheongdan** [청단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Fuji Shima|藤島|Four Wisterias|Four Wisteria cards.|Has mekurifuda origins.|
 |*Godori*|고도리|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō|五光|Five Brights|Five Bright Cards.|Also known as **Ogwang** [오광] in Korean.|
 |Hanami de Ippai|花見で一杯|Flower-viewing|Curtain and Sake Cup.|Also known as **Hanamizake** [花見酒] or **Hanami** [花見].|
 |Inoshikachō|猪鹿蝶|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
 |Kasu|カス|Chaff|Ten or more Chaff cards.|Also known as **Pi** [피] in Korean.|
+|Kiri Shima|桐島|Four Paulownias|Four Paulownia cards.|Also known as **Ttongyak** [똥약] in Korean. Has mekurifuda origins.|
 |Kusatan|草短|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Also known as **Chodan** [초단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
+|Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean.|
 |Nanatan|七短|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|-|
-|Omote Sugawara|表菅原|Spring|Crane, Bush Warbler, Curtain.|Also known as **Sanko** [三光] or **Ichinisan** [一二三] in Mushi. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
+|Omote Sugawara|表菅原|Spring|Crane, Bush Warbler, Curtain.|Also known as **Sanko** [三光] or **Ichinisan** [一二三] in Mushi, and **Ōzan** [大三] in Roppyakken. Also known as **Il-ee-sam** [일이삼] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
 |Shima|島|Four-of-a-Kind|Four cards of the same month.|Also known as **Zoro**. Has mekurifuda origins.|
 |Rokutan|六短|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sankō|三光|Three Brights|Three Bright cards excluding Rainman.|Also known as **Samgwang** [삼광] in Korean.|
-|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Sagwang** [사광] in Korean.|
+|Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō**. Also known as **Sagwang** [사광] in Korean.|
 |Tane|タネ|Animals|Five or more Animal cards.|Also known as **Yeolkkeut** [열끗] in Korean.|
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
 |Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
 |Tsukimi de Ippai|月見で一杯|Moon-viewing|Full Moon and Sake Cup.|Also known as **Tsukimizake** [月見酒] or **Tsukimi** [月見].|
+|Yanagi Shima|柳島|Four Willows|Four Willow cards.|Also known as **Ame Shima** [雨島]. Also known as **Biyak** [비약] in Korean. Has mekurifuda origins.|
