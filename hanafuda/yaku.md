@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T03:52:14.882Z
+date: 2022-11-14T04:02:12.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -171,6 +171,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Matsu Shima|松島|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima|紅葉島|Four Maples|Four Maple cards.|Also known as **Pungyak** [풍약] in Korean. Has mekurifuda origins.|
+|Nakazō|仲蔵|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Nanatan|七短|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Also known as **Shōnana** [しょう七] in the game Toppa. Also known as **Chiltti** [칠띠] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Nomi|飲み|Drinking|Curtain, Full Moon, Sake Cup.|Also known as **Teppō** [鉄砲] in Roppyakken (**Daepo** [대포] in Korean), **Taihō** [大砲] in Yamayaku, and **Tsukihana Ippai** [月花一杯] in Changara.|
 |Omote Sugawara|表菅原|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|Also known as **Sanko** [三光] in Mushi, **Ichinisan** [一二三] in Hachi, and **Ōzan** [大三] in Roppyakken. Also known as **Il-i-sam** [일이삼] in Korean. The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
@@ -190,6 +191,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Goshiroku|短の五四六|5-4-6 Ribbons *or* Lesser 5-4-6|Ribbons of Iris, Wisteria, and Peony.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Tan no Kirishima|短の霧島|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Tan no Kumanosan|短の熊野サン|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The "mano" part is still unknown (goroawase for 11?).|
+|Tan no Nakazō|短の仲蔵|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called **Akazō** [赤蔵], which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*.|
 |Tan no Shichigosan|短の七五三|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Shichigosan is also read as *Nanagosan*. Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
 |Tan no Yashima|短の八島|Eight Islands' Ribbons *or* Lesser 8-4-11|Geese, Wisteria Ribbon, Willow Ribbon.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
