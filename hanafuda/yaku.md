@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T03:12:18.262Z
+date: 2022-11-14T03:39:15.544Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -163,7 +163,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kanko|かんこ|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu|カス|Chaff|Ten or more Chaff cards.|Also known as **Kara** [空]. Also known as **Pi** [피] in Korean.|
 |Kiri Shima|桐島|Four Paulownias|Four Paulownia cards.|Also known as **Ttongyak** [똥약] in Korean. Has mekurifuda origins.|
-|Kiri Shima|霧島|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
+|Kirishima|霧島|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Kumanosan|熊野サン|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The "mano" part is still unknown (goroawase for 11?).|
 |Kusatan|草短|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Also known as **Kusa** or **Kusaken**. Also known as **Chodan** [초단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Matsukiribōzu|松桐坊主|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Also known as **Sanko** [三光] or **Nichigessei** [日月星], referencing the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]). Also known as **Songwoldong** [송월동] in Korean.|
@@ -175,6 +175,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Rokutan|六短|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima|桜島|Four Cherry Blossoms|Four Cherry Blossom cards.|Has mekurifuda origins.|
 |Sankō|三光|Three Brights|Three Bright cards excluding Rainman.|Also known as **Samgwang** [삼광] in Korean.|
+|Shichigosan|七五三|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Also read as **Nanagosan**. Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
 |Shikō|四光|Four Brights|Four Bright cards excluding Rainman.|Also known as **Yonkō**, **Honshikō** [本四光], or **Honshi** [本四]. Also known as **Ten'nō** [天皇] in Shishibochushin. Also known as **Sagwang** [사광] in Korean.|
 |Shima|島|Four-of-a-Kind|Four cards of the same month.|Also known as **Zoro**. Has mekurifuda origins.|
 |Shishibo|ししぼ|Boar on Peony|Boar and Butterflies.|An early reference states this yaku as **Shishi Botan** [獅子牡丹]. This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
@@ -183,8 +184,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan|短|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa. Also known as **Shōnana** in Kushiro Toppa.|
 |Tane|タネ|Animals|Five or more Animal cards.|Also known as **Yeolkkeut** [열끗] in Korean.|
 |Tan no Gorōjū|短の御老中|Elder Ribbons *or* Lesser 5-6-10|Ribbons of Iris, Peony, and Maple.|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
-|Tan no Kiri Shima|短の霧島|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
+|Tan no Kirishima|短の霧島|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Tan no Kumanosan|短の熊野サン|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The "mano" part is still unknown (goroawase for 11?).|
+|Tan no Shichigosan|短の七五三|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Shichigosan is also read as *Nanagosan*. Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
+|Tan no Yashima|短の八島|Eight Islands' Ribbons *or* Lesser 8-4-11|Geese, Wisteria Ribbon, Willow Ribbon.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Tanzaku|短冊|Ribbons|Five or more Ribbon cards.|Also known as **Tti** [띠] in Korean.|
 |Tsuki-fuda|月札|Cards of the Month|Four cards of the same month as the current round.|Also known as **Dori Shima** [通りシマ] in Suhara-bana.|
 |Tsukihoto|月ホト|Moon Cuckoo|Full Moon and Cuckoo|Old hanafuda designs such as Echigobana did not have the crescent moon on the Cuckoo card, so the Full Moon card is the only card in the deck that depicts a moon.|
@@ -195,5 +198,6 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*|띠 빠이|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Ppai*|띠 빠이|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Yanagi Shima|柳島|Four Willows|Four Willow cards.|Also known as **Ame Shima** [雨島] or **Ame Zoro** [雨ゾロ]. Also known as **Biyak** [비약] or **Bijori** [비조리] in Korean. Has mekurifuda origins.|
+|Yashima|八島|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |-|-|Greater Blues|Butterflies, Sake Cup, Deer. (i.e. the Animals of the same months as the Blue Ribbons)|Used in the game Sakura.|
 |-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
