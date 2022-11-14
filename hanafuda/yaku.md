@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T09:06:17.211Z
+date: 2022-11-14T13:28:25.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -162,20 +162,21 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Gorōjū</br>御老中|-|Elder *or* Greater 5-6-10|Bridge, Butterflies, Deer|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
 |Goshiroku</br>五四六|-|5-4-6 *or* Greater 5-4-6|Bridge, Cuckoo, Butterflies|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Hanami de Ippai</br>花見で一杯|**Hanamizake** [花見酒], **Hanami** [花見], **Ppai** [빠이] in Korean, **Ippai** in Palauan|Flower-viewing|Curtain and Sake Cup.|-|
-|Inoshikachō</br>猪鹿蝶|**Inoshika** [이노시카] in Korean|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
+|Inoshikachō</br>猪鹿蝶|**Inoshika** [이노시카] in Korean, **Inoskasio** in Palauan|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
 |Inu</br>いぬ|-|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
 |Jūshichihachi</br>十七八|-|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
 |Kanko</br>かんこ|-|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
 |Kiri Shima</br>桐島|**Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
-|Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
+|Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kumanosan</br>熊野サン|-|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Matsukiribōzu</br>松桐坊主|**Sanko** [三光], **Nichigessei** [日月星], **Songwoldong** [송월동] in Korean, **Mats Kiri Bo** in Palauan|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head. Sanko and Nichigessei are references to the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
 |Matsu Shima</br>松島|-|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
 |Nakazō</br>仲蔵|-|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
-|Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean, **Nanatang** in Palauan|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons), and has Mekurifuda origins.|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
@@ -193,7 +194,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Den</br>短のデン|-|Lesser 2-11-12|Plum Blossom Ribbon, Willow Ribbon, Yellow Paulownia Chaff.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Tan no Gorōjū</br>短の御老中|-|Elder Ribbons *or* Lesser 5-6-10|Ribbons of Iris, Peony, and Maple.|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
 |Tan no Goshiroku</br>短の五四六|-|5-4-6 Ribbons *or* Lesser 5-4-6|Ribbons of Iris, Wisteria, and Peony.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
-|Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
+|Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Kumanosan</br>短の熊野サン|-|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*.|
 |Tan no Sangoro</br>短の三五六|-|3-5-6 Ribbons *or* Lesser 3-5-6|Ribbons of Cherry Blossom, Iris, and Peony.|Possibly has mekurifuda origins.|
