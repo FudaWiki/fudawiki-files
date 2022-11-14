@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T08:33:28.973Z
+date: 2022-11-14T08:36:55.344Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -182,7 +182,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
 |Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
-|Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Sagwang** [사광] in Korean|Four Brights|Four Bright cards excluding Rainman.|-|
+|Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
 |Shima</br>島|**Zoro** [ゾロ]|Four-of-a-Kind|Four cards of the same month.|Has mekurifuda origins.|
 |Shishibo</br>ししぼ|**Shishi Botan** [獅子牡丹]|Boar on Peony|Boar and Butterflies.|This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
 |Shishibochūshin</br>ししぼちゅうしん|**Sokuyaku** [そくやく]|Boar-Butterflies-Rainman|Boar, Butterflies, Rainman.|Used in the game Shishibochushin, which is named after this Yaku.|
