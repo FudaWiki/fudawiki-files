@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T13:28:25.819Z
+date: 2022-11-14T13:31:59.644Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,11 +147,11 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Kozan** [小三] (in Roppyakken), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hongdan** [홍단] in Korean |Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Kozan** [小三] (in Roppyakken), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|**Bi Samgwang** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
-|Aotan</br>青短|**Aoyoroshi** [青よろし], **Cheongdan** [청단] in Korean. |Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Aotan</br>青短|**Aoyoroshi** [青よろし], **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
 |Bōzu Shima</br>坊主島|-|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
@@ -170,7 +170,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kiri Shima</br>桐島|**Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
 |Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kumanosan</br>熊野サン|-|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
-|Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean, **Ksaiak** in Palauan|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Matsukiribōzu</br>松桐坊主|**Sanko** [三光], **Nichigessei** [日月星], **Songwoldong** [송월동] in Korean, **Mats Kiri Bo** in Palauan|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head. Sanko and Nichigessei are references to the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
 |Matsu Shima</br>松島|-|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
