@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T03:46:42.970Z
+date: 2022-11-14T03:52:14.882Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -153,11 +153,12 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ame-sankō|雨三光|Rainy Three Brights|Three Bright cards including Rainman.|Also known as **Bi Samgwang** [비삼광] in Korean.|
 |Aotan|青短|Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Also known as **Cheongdan** [청단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Bōzu Shima|坊主島|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
-|Den|霧島|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
+|Den|デン|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Fuji Shima|藤島|Four Wisterias|Four Wisteria cards.|Also known as **Fuji** in the game Toppa. Has mekurifuda origins.|
 |*Godori*|고도리|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō|五光|Five Brights|Five Bright Cards.|Also known as **Ogwang** [오광] in Korean.|
 |Gorōjū|御老中|Elder *or* Greater 5-6-10|Bridge, Butterflies, Deer|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
+|Goshiroku|五四六|5-4-6 *or* Greater 5-4-6|Bridge, Cuckoo, Butterflies|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Hanami de Ippai|花見で一杯|Flower-viewing|Curtain and Sake Cup.|Also known as **Hanamizake** [花見酒] or **Hanami** [花見]. Also known as **Ppai** [빠이] in Korean.|
 |Inoshikachō|猪鹿蝶|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|Also known as **Inoshika** [이노시카] in Korean.|
 |Inu|いぬ|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
@@ -184,7 +185,9 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shishichu|ししちゅ|Boar and Rainman|Boar and Rainman.|Used in the game Shishibochushin.|
 |Tan|短|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa. Also known as **Shōnana** in Kushiro Toppa.|
 |Tane|タネ|Animals|Five or more Animal cards.|Also known as **Yeolkkeut** [열끗] in Korean.|
+|Tan no Den|短のデン|Lesser 2-11-12|Plum Blossom Ribbon, Willow Ribbon, Yellow Paulownia Chaff.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Tan no Gorōjū|短の御老中|Elder Ribbons *or* Lesser 5-6-10|Ribbons of Iris, Peony, and Maple.|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
+|Tan no Goshiroku|短の五四六|5-4-6 Ribbons *or* Lesser 5-4-6|Ribbons of Iris, Wisteria, and Peony.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Tan no Kirishima|短の霧島|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri*, mixed with the goroawase for 4. The '*ma*' part is still unknown (goroawase for 11?).|
 |Tan no Kumanosan|短の熊野サン|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The "mano" part is still unknown (goroawase for 11?).|
 |Tan no Shichigosan|短の七五三|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Shichigosan is also read as *Nanagosan*. Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
