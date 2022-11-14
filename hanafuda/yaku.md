@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T06:03:14.234Z
+date: 2022-11-14T07:40:51.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -151,11 +151,11 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|***Bi Samgwang*** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
-|Aotan</br>青短||Blue Ribbons|Three Blue Ribbons.|Also known as **Aoyoroshi** [青よろし]. Also known as **Cheongdan** [청단] in Korean. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Aotan</br>青短|**Aoyoroshi** [青よろし], **Cheongdan** [청단] in Korean. |Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
-|Bōzu Shima</br>坊主島||Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
-|Den</br>デン||Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
-|Fuji Shima</br>藤島||Four Wisterias|Four Wisteria cards.|Also known as **Fuji** in the game Toppa. Has mekurifuda origins.|
+|Bōzu Shima</br>坊主島|-|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
+|Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
+|Fuji Shima</br>藤島|**Fuji** (in Toppa)|Four Wisterias|Four Wisteria cards.|Has mekurifuda origins.|
 |*Godori*</br>고도리||Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō</br>五光||Five Brights|Five Bright Cards.|Also known as **Ogwang** [오광] in Korean.|
 |Gorōjū</br>御老中||Elder *or* Greater 5-6-10|Bridge, Butterflies, Deer|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
