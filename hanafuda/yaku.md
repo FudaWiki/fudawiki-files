@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T15:36:02.184Z
+date: 2022-11-14T15:44:03.115Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -173,7 +173,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Inu</br>いぬ|-|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
 |Ippai Nomi</br>一杯呑|-|One Drink|Sake Cup plus a Bright (except Rainman)|Used in Hon-bana.|
 |Jūshichihachi</br>十七八|-|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
-|Kamisan</br>上三|**Shimosan**|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
+|Kamisan</br>上三|-|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
 |Kanko</br>かんこ|-|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
 |Kiri Shima</br>桐島|**Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
