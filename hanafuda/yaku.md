@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:41:33.243Z
+date: 2022-11-15T08:46:25.399Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -152,7 +152,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|**Bi Samgwang** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
-|Aotan</br>青短|**Aoyoroshi** [青よろし], **Muratan** [紫短], **Chokushi** [勅使] (in Hon-bana), **Mimu** [ミム] (in Suhara-bana), **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Aotan</br>青短|**Aoyoroshi** [青よろし], **Ao** [青], **Muratan** [紫短], **Chokushi** [勅使] (in Hon-bana), **Mimu** [ミム] (in Suhara-bana), **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
 |Botankiri</br>ぼたんきり|-|Greater 4-5-6|Cuckoo, Bridge, Butterflies|Possibly has mekurifuda origins. Etymology unknown; It does not mean "Peony Paulownia".|
 |Bōzu Kaburi</br>坊主頭|-|Top Baldies|Full Moon and Geese|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
@@ -171,7 +171,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Fuji Shima</br>藤島|**Fuji Tsubo** [藤壷], **Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Has mekurifuda origins. Equivalent of Shi Yaku in Kujuroku.|
 |Ganbo</br>がんぼ|**Noarashi** [野荒し], **Inoshikagan** [猪鹿雁], **Akiyaku** [秋役] (in Suhara-bana)|Crop Destroyers|Boar, Deer, Geese|Etymology of Ganbo is unknown; It does not mean "Goose Peony".|
 |*Godori*</br>고도리|-|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
-|Gokō</br>五光|*Go-ō* [五王], **Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
+|Gokō</br>五光|*Go-ō* [五王], **Oiran** [花魁], **Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
 |Gorōjū</br>御老中|-|Elder *or* Greater 5-6-10|Bridge, Butterflies, Deer|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
 |Goshiroku</br>五四六|-|5-4-6 *or* Greater 5-4-6|Bridge, Cuckoo, Butterflies|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Gotan</br>五短|-|Five Ribbons|Five Ribbon cards.|-|
@@ -267,5 +267,6 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Yanagi Shima</br>柳島|**Ame Shima** [雨島], **Ame Zoro** [雨ゾロ], **Biyak** [비약], **Bijori** [비조리] in Korean|Four Willows|Four Willow cards.|Has mekurifuda origins.|
 |Yashima</br>八島|-|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Yashima</br>八島|-|Eight Islands|Full Moon, Cuckoo, Bush Warbler.|Same as the Yaku of the same name mentioned above, but the Rainman is replaced with the Bush Warbler for some reason.|
+|-|-|Fifteen Chaff|15 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Greater Blues|Butterflies, Sake Cup, Deer. (i.e. the Animals of the same months as the Blue Ribbons)|Used in the game Sakura.|
 |-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
