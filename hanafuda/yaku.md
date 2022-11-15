@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T03:32:07.223Z
+date: 2022-11-15T03:35:08.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -160,7 +160,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
 |Danjō</br>ダンジョオ|-|Specials|Special 1, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
 |Danjūrō</br>団十郎|**Ebi** [海老] (in Kekoro)|Club 1-2-10 *or* Greater 1-2-10|Crane, Rainman, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
-|Danna</br>ダンナ|-|Special 1 and 4|Special 1, Special 4 (in a Kabufuda deck)|Used only in Kujuroku, and it seems that the game has been attested to be played using a Kabufuda deck.|
+|Danna</br>ダンナ|-|Special 1 and 4|Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
 |Dansan</br>ダンサン|-|Specials-Three|Special 4, Special 1, Four 3's (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
 |Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Deu</br>出雨|-|Downpour|Boar, Full Moon, Rainman.|Used only in the game Kekoro.|
@@ -191,7 +191,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
 |Nakazō</br>仲蔵|-|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean, **Nanatang** in Palauan|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Kabufuda deck)|Used only in Kujuroku, and it seems that the game has been attested to be played using a Kabufuda deck.|
+|Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
 |Nihai Nomi</br>二杯呑|-|Two Drinks|Sake Cup plus two Brights (excluding Rainman)|Used in Hon-bana.|
 |Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
