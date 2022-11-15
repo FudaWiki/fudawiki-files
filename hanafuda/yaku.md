@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T09:04:03.072Z
+date: 2022-11-15T09:05:36.101Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -273,4 +273,5 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
 |-|-|Night Phoenix|Full Moon and Phoenix|-|
 |-|-|Rainy Night|Full Moon and Rainman|-|
+|-|-|Rainy Two Brights|Rainman and either Crane, Curtain, or Phoenix.|-|
 |-|-|Two Brights|Any two of Crane, Curtain, or Phoenix.|-|
