@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-10-09T15:01:09.255Z
+date: 2022-11-15T03:53:15.834Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -36,7 +36,7 @@ The game shares the same gameplay as [Hana-Awase](/en/hanafuda/games/hana-awase)
 | Oni/Gaji  | "Demon" |1|
 | Jizo  | "Buddha" |1|
 
-* There is no distinction betwen Special "3" and Normal "3" cards.
+* There is no name distinction between Special "3" and Normal "3" cards.
 
 # Equipment
 40 cards plus the Oni-fuda (demon card) of the Daini deck are used, for a total of 41 cards. 
@@ -120,13 +120,43 @@ At the end of the round, if all players run out of cards in hand, and the Oni-fu
 ## Dekiyaku
 If a player forms a yaku, the round ends immediately, and the player **receives chips** from the other 2 participating players.
 
+> You may choose any **one** of the following Dekiyaku Set Configurations, prior to playing the game.
+{.is-warning}
+
+### Configuration A.
 | NAME OF YAKU | Composition | Value (in Chips) |
 |:------|:---|:---|
 | **Shi Yaku** | Four "4"s | 4 |
 | **San Yaku** | Four "3"s | 6 |
-| **Danjou** | Oni-fuda + I-tsun + I-shi | 8 |
+| **Danjoo** | Oni-fuda + I-tsun + I-shi | 8 |
 | **Shi-Dan**  | Four "4"s + Oni-fuda | 12 |
 | **Shi-Dan-San**  | Four "4"s + Oni-fuda + Four "3"s | 18 |
+
+### Configuration B.
+| NAME OF YAKU | Composition | Value (in Chips) |
+|:------|:---|:---|
+| **Shi Yaku** | Four "4"s | 4 |
+| **San Yaku** | Four "3"s | 6 |
+| **Danjoo** | Oni-fuda + Special "3" + I-shi | 8 |
+| **Shi-Dan-San**  | Four "4"s + I-tsun + One Baka-tsun + Four "3"s | 18 |
+
+### Configuration C.
+| NAME OF YAKU | Composition | Value (in Chips) |
+|:------|:---|:---|
+| **Shi Yaku** | Four "4"s | 4 |
+| **San Yaku** | Four "3"s | 6 |
+| **Danjoo** | I-tsun + Special "3" + I-shi | 8 |
+| **Shi-San** | Four "4"s + Four "3"s| 10 |
+| **Shi-Dan** | Four "4"s + I-tsun + Special "3" | 12 |
+| **Dan-San** | Four "3"s + I-tsun + I-shi | 14 |
+| **Shi-Dan-San**  | Four "4"s + I-tsun + Four "3"s | 18 |
+
+### Configuration D.
+| NAME OF YAKU | Composition | Value (in Chips) |
+|:------|:---|:---|
+| **San Shima** | Four "3"s | 10 |
+| **Danna** | I-tsun + I-shi | 15 |
+| **Nejikomi** | Four "3"s + I-tsun + I-shi | 30 |
 
 ## Scoring when no Dekiyaku is formed
 Each player's total **card points** are then counted.
