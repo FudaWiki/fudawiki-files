@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:27:30.119Z
+date: 2022-11-15T08:29:37.440Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -154,7 +154,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Aotan</br>青短|**Aoyoroshi** [青よろし], **Muratan** [紫短], **Chokushi** [勅使] (in Hon-bana), **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
 |Botankiri</br>ぼたんきり|-|Greater 4-5-6|Cuckoo, Bridge, Butterflies|Possibly has mekurifuda origins. Etymology unknown; It does not mean "Peony Paulownia".|
-|Bōzu Shima</br>坊主島|-|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
+|Bōzu Shima</br>坊主島|**Bōzu Zoro** [坊主ゾロ]|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Chōka</br>蝶花|-|Butterfly on Flower|Butterflies and Curtain|-|
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku.|
