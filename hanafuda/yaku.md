@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T02:05:39.752Z
+date: 2022-11-15T03:32:07.223Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -158,7 +158,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku.|
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
+|Danjō</br>ダンジョオ|-|Specials|Special 1, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
 |Danjūrō</br>団十郎|**Ebi** [海老] (in Kekoro)|Club 1-2-10 *or* Greater 1-2-10|Crane, Rainman, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
+|Danna</br>ダンナ|-|Special 1 and 4|Special 1, Special 4 (in a Kabufuda deck)|Used only in Kujuroku, and it seems that the game has been attested to be played using a Kabufuda deck.|
+|Dansan</br>ダンサン|-|Specials-Three|Special 4, Special 1, Four 3's (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
 |Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Deu</br>出雨|-|Downpour|Boar, Full Moon, Rainman.|Used only in the game Kekoro.|
 |Ebizō</br>海老蔵|-|Shrimp Club 1-10|Crane, Willow Ribbon, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor. Same as Danjūrō except the 2 of clubs is replaced with 2 of swords (nicknamed "2 of shrimps")|
@@ -188,22 +191,27 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
 |Nakazō</br>仲蔵|-|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean, **Nanatang** in Palauan|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Kabufuda deck)|Used only in Kujuroku, and it seems that the game has been attested to be played using a Kabufuda deck.|
 |Nihai Nomi</br>二杯呑|-|Two Drinks|Sake Cup plus two Brights (excluding Rainman)|Used in Hon-bana.|
 |Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Omote Gorōjū</br>表御老中|-|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Sakura Shima</br>桜島|**San Yaku** [三役] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
+|Sakura Shima</br>桜島|**San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
 |Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
-|Shidansan</br>シダンサン|-|Four-Devil-Three|Four 3's, Onifuda, Four 4's (in a Daini deck)|Used only in Kujuroku.|
-|Shidansan</br>シダンサン|-|Four-One-Three|Four 3's, Special 1, One Normal 1, Four 4's (in a Daini deck)|Variant of the above yaku of the same name.|
+|Shidan</br>シダン|-|Four-Devil|Four 4's, Onifuda(in a Daini deck)|Used only in Kujuroku.|
+|Shidan</br>シダン|-|Four-Specials|Four 4's, Special 1, Special 3(in a Daini deck)|Variant of the above yaku of the same name.|
+|Shidansan</br>シダンサン|-|Four-Devil-Three|Four 4's, Onifuda, Four 3's (in a Daini deck)|Used only in Kujuroku.|
+|Shidansan</br>シダンサン|-|Four-Special-Three|Four 4's, Special 1, Four 3's (in a Daini deck)|Variant of the above yaku of the same name.|
+|Shidansan</br>シダンサン|-|Four-Ones-Three|Four 4's, Special 1, One Normal 1, Four 3's (in a Daini deck)|Variant of the above yaku of the same name.|
 |Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
 |Shima</br>島|**Zoro** [ゾロ]|Four-of-a-Kind|Four cards of the same month.|Has mekurifuda origins.|
 |Shimozan</br>下三|**Shimosan**|Lowest Three *or* Greater 1-2-3|Crane, Rainman, Curtain.|Originally a Mekuri Yaku consisting of Clubs 1, 2, and 3. Same as Omote Sugawara except the Bush Warbler is replaced with Rainman due to use of Nagoya month sequence.|
 |Shinshichihachi</br>四七八|-|4-7-8 Ribbons *or* Lesser 4-7-8|Willow Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
+|Shisan</br>シサン|-|Four-Three|Four 4's, Four 3's (in a Daini deck)|Used only in Kujuroku as an optional yaku.|
 |Shishibo</br>ししぼ|**Shishi Botan** [獅子牡丹]|Boar on Peony|Boar and Butterflies.|This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
 |Shishibochūshin</br>ししぼちゅうしん|**Sokuyaku** [そくやく]|Boar-Butterflies-Rainman|Boar, Butterflies, Rainman.|Used in the game Shishibochushin, which is named after this Yaku.|
 |Shishichu</br>ししちゅ|-|Boar and Rainman|Boar and Rainman.|Used in the game Shishibochushin.|
