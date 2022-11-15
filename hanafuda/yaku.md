@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:09:00.065Z
+date: 2022-11-15T08:11:16.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,7 +147,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|**Bi Samgwang** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
@@ -202,7 +202,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Omote Gorōjū</br>表御老中|-|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
-|Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
+|Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Uwa-dango** [上だんこ] (in Nara Hana-awase), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima</br>桜島|**San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
