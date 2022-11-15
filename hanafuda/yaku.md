@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:29:37.440Z
+date: 2022-11-15T08:32:07.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -149,11 +149,13 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |:---:|:---:|:---:|:---|:---|
 |Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|**Bi Samgwang** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
 |Aotan</br>青短|**Aoyoroshi** [青よろし], **Muratan** [紫短], **Chokushi** [勅使] (in Hon-bana), **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
 |Botankiri</br>ぼたんきり|-|Greater 4-5-6|Cuckoo, Bridge, Butterflies|Possibly has mekurifuda origins. Etymology unknown; It does not mean "Peony Paulownia".|
+|Bōzu Kaburi</br>坊主頭|-|Top Baldies|Full Moon and Geese|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Bōzu Shima</br>坊主島|**Bōzu Zoro** [坊主ゾロ]|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Chōka</br>蝶花|-|Butterfly on Flower|Butterflies and Curtain|-|
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
