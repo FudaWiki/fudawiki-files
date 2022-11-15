@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:11:16.064Z
+date: 2022-11-15T08:27:30.119Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -172,6 +172,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Gokō</br>五光|*Go-ō* [五王], **Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
 |Gorōjū</br>御老中|-|Elder *or* Greater 5-6-10|Bridge, Butterflies, Deer|Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10.|
 |Goshiroku</br>五四六|-|5-4-6 *or* Greater 5-4-6|Bridge, Cuckoo, Butterflies|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
+|Gotan</br>五短|-|Five Ribbons|Five Ribbon cards.|-|
 |Gundari</br>グンダリ|-|Gundari|Bush Warbler, Deer, Phoenix|Possibly has mekurifuda origins. Etymology unknown.|
 |Hanami de Ippai</br>花見で一杯|**Hanamizake** [花見酒], **Hanami** [花見], **Ppai** [빠이] in Korean, **Ippai** in Palauan|Flower-viewing|Curtain and Sake Cup.|-|
 |Hana no Utage</br>花の宴|-|Flower Banquet|Curtain and either Sake Cup or Cherry Blossom Ribbon.|An old yaku that is a precursor to Hanami de Ippai.|
@@ -184,6 +185,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kamisan</br>上三|-|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
 |Kanko</br>かんこ|**Yatsuhashi** [八ツ橋]|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
+|Kasuyaku</br>カス役|-|Chaff Yaku|Seven Chaff cards for Dealer, Eight Chaff cards for 2nd player, Nine Chaff cards for last player. Value increases if more Chaff are collected.|Used only in Sendai-hana.|
 |Kikukiri</br>菊桐|-|Coat of Arms|Sake Cup and Phoenix|An old yaku based on the 2 Coat of Arms of the Imperial Family.|
 |Kiri Shima</br>桐島|**Kiri Tsubo** [桐壷], **Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
 |Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
@@ -211,6 +213,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
 |Sanmura</br>三紫|-|Three Purple Flowers|Wisteria Chaff, Iris Chaff, Paulownia Chaff (excluding the Yellow Paulownia chaff)|An old yaku, the composition is only an assumption based on descriptions.|
 |Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
+|Shichihaccha</br>しちはっちゃー|-|Four Sevens/Eights/Nines|Four "7"s, or Four "8"s, or Four"9"s (in a Shimafuda deck).|Used only in the game Shimafuda. Players score for each Four-of-a-kind they make.|
 |Shichiseki</br>七夕|-|Seven Red Ribbons|All seven Red Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Shidan</br>シダン|-|Four-Devil|Four 4's, Onifuda(in a Daini deck)|Used only in Kujuroku.|
 |Shidan</br>シダン|-|Four-Specials|Four 4's, Special 1, Special 3(in a Daini deck)|Variant of the above yaku of the same name.|
@@ -227,7 +230,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shishibochūshin</br>ししぼちゅうしん|**Sokuyaku** [そくやく]|Boar-Butterflies-Rainman|Boar, Butterflies, Rainman.|Used in the game Shishibochushin, which is named after this Yaku.|
 |Shishichu</br>ししちゅ|-|Boar and Rainman|Boar and Rainman.|Used in the game Shishibochushin.|
 |Takasago</br>高砂|-|Takasago|Sake Cup, Crane, Butterflies|An old Yaku named after a Noh song. The composition is remembered using the following mnemonic: A couple raises a toast **(Sake Cup)** to a Noh song “Takasago”, which compares their relationship to 2 pine trees **(Crane)**, and to a Gidayu song “Chou no Michiyuki” (Flight of the butterflies **(Butterflies)**), which sang that even death cannot separate two people.|
-|Tan</br>短|**Shōnana** in Kushiro Toppa|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa.|
+|Tan</br>短|**Shōnana** (in Kushiro Toppa)|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa.|
 |Tane</br>タネ|**Yeolkkeut** [열끗] in Korean|Animals|Five or more Animal cards.||
 |Tan no Den</br>短のデン|-|Lesser 2-11-12|Plum Blossom Ribbon, Willow Ribbon, Yellow Paulownia Chaff.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Tan no Deu</br>短の出雨|-|Downpour Ribbons|Bush Clover Ribbon, Geese, Willow Ribbon.|Used only in the game Kekoro.|
