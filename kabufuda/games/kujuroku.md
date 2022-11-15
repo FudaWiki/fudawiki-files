@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-11-15T03:53:15.834Z
+date: 2022-11-15T03:55:45.937Z
 tags: hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -121,6 +121,9 @@ At the end of the round, if all players run out of cards in hand, and the Oni-fu
 If a player forms a yaku, the round ends immediately, and the player **receives chips** from the other 2 participating players.
 
 > You may choose any **one** of the following Dekiyaku Set Configurations, prior to playing the game.
+{.is-warning}
+
+> Note that Configuration B and C use the Special "3" card, so they cannot be played using a Kabufuda deck.
 {.is-warning}
 
 ### Configuration A.
