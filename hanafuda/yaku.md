@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T06:42:37.458Z
+date: 2022-11-15T08:09:00.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -155,6 +155,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
 |Botankiri</br>ぼたんきり|-|Greater 4-5-6|Cuckoo, Bridge, Butterflies|Possibly has mekurifuda origins. Etymology unknown; It does not mean "Peony Paulownia".|
 |Bōzu Shima</br>坊主島|-|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
+|Chōka</br>蝶花|-|Butterfly on Flower|Butterflies and Curtain|-|
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku.|
 |Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
@@ -165,7 +166,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Deu</br>出雨|-|Downpour|Boar, Full Moon, Rainman.|Used only in the game Kekoro.|
 |Ebizō</br>海老蔵|-|Shrimp Club 1-10|Crane, Willow Ribbon, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor. Same as Danjūrō except the 2 of clubs is replaced with 2 of swords (nicknamed "2 of shrimps")|
-|Fuji Shima</br>藤島|**Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Has mekurifuda origins. Equivalent of Shi Yaku in Kujuroku.|
+|Fuji Shima</br>藤島|**Fuji Tsubo** [藤壷], **Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Has mekurifuda origins. Equivalent of Shi Yaku in Kujuroku.|
 |Ganbo</br>がんぼ|**Noarashi** [野荒し], **Inoshikagan** [猪鹿雁]|Crop Destroyers|Boar, Deer, Geese|Etymology of Ganbo is unknown; It does not mean "Goose Peony".|
 |*Godori*</br>고도리|-|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō</br>五光|*Go-ō* [五王], **Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
@@ -173,15 +174,18 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Goshiroku</br>五四六|-|5-4-6 *or* Greater 5-4-6|Bridge, Cuckoo, Butterflies|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Shigoro*.|
 |Gundari</br>グンダリ|-|Gundari|Bush Warbler, Deer, Phoenix|Possibly has mekurifuda origins. Etymology unknown.|
 |Hanami de Ippai</br>花見で一杯|**Hanamizake** [花見酒], **Hanami** [花見], **Ppai** [빠이] in Korean, **Ippai** in Palauan|Flower-viewing|Curtain and Sake Cup.|-|
+|Hana no Utage</br>花の宴|-|Flower Banquet|Curtain and either Sake Cup or Cherry Blossom Ribbon.|An old yaku that is a precursor to Hanami de Ippai.|
 |Honjūsou</br>本十三|-|Thirteen Chaff|Thirteen Chaff cards.|Used in Hiraya.|
+|Ichō no Ga</br>紅葉の賀|-|Autumn Leaves|Curtain and either Deer or Maple Ribbon.|-|
 |Inoshikachō</br>猪鹿蝶|**Nabe** [鍋] (in Kusuri-gui), **Inoshika** [이노시카] in Korean, **Inoskasio** in Palauan|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
 |Inu</br>いぬ|-|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
 |Ippai Nomi</br>一杯呑|-|One Drink|Sake Cup plus a Bright (except Rainman)|Used in Hon-bana.|
 |Jūshichihachi</br>十七八|-|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
 |Kamisan</br>上三|-|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
-|Kanko</br>かんこ|-|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
+|Kanko</br>かんこ|**Yatsuhashi** [八ツ橋]|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
-|Kiri Shima</br>桐島|**Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
+|Kikukiri</br>菊桐|-|Coat of Arms|Sake Cup and Phoenix|An old yaku based on the 2 Coat of Arms of the Imperial Family.|
+|Kiri Shima</br>桐島|**Kiri Tsubo** [桐壷], **Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
 |Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kirishima</br>霧島|-|Mist Island|Phoenix, Cuckoo, Bush Warbler.|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except the Rainman is replaced with Bush Warbler for some reason.|
 |Kotori</br>小鳥|-|Small Birds|Bush Warbler, Cuckoo, Swallow.|These birds are drawn smaller in old hanafuda designs.|
@@ -202,8 +206,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Sakura Shima</br>桜島|**San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
+|Sanbeni</br>三紅|-|Three Red Flowers|Plum Chaff, Peony Chaff, Bush Clover Chaff|An old yaku, the composition is only an assumption based on descriptions.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
+|Sanmura</br>三紫|-|Three Purple Flowers|Wisteria Chaff, Iris Chaff, Paulownia Chaff (excluding the Yellow Paulownia chaff)|An old yaku, the composition is only an assumption based on descriptions.|
 |Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
 |Shichiseki</br>七夕|-|Seven Red Ribbons|All seven Red Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Shidan</br>シダン|-|Four-Devil|Four 4's, Onifuda(in a Daini deck)|Used only in Kujuroku.|
@@ -244,12 +250,12 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Toyak|-|Nine Animals|Cuckoo, Bridge, Butterflies, Boar, Geese, Sake Cup, Deer, Swallow, Yellow Paulownia Chaff. May or may not include the Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *tōyaku* [十役].|
 |Tsuki-fuda</br>月札|**Dori Shima** [通りシマ] (in Suhara-bana)|Cards of the Month|Four cards of the same month as the current round.|-|
 |Tsukihoto</br>月ホト|-|Moon Cuckoo|Full Moon and Cuckoo|Old hanafuda designs such as Echigobana did not have the crescent moon on the Cuckoo card, so the Full Moon card is the only card in the deck that depicts a moon.|
-|Tsukimi de Ippai</br>月見で一杯|**Tsukimizake** [月見酒], **Tsukimi** [月見], **Ppai** [빠이] in Korean, **Ippai** in Palauan|Moon-viewing|Full Moon and Sake Cup.|-|
+|Tsukimi de Ippai</br>月見で一杯|**Tsukimizake** [月見酒], **Tsukimi** [月見], **Tsuki no Utage** [月の宴], **Ppai** [빠이] in Korean, **Ippai** in Palauan|Moon-viewing|Full Moon and Sake Cup.|-|
 |*Tti Daepo*</br>띠 대포|-|Drinking Ribbons|Cherry Blossom Ribbon, Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Inoshika*</br>띠 이노시카|-|Boar-Deer-Butterflies Ribbons|3 Ribbons matching the months of Boar, Deer,and Butterflies.|Korean local rule.|
 |*Tti Ppai*</br>띠 빠이|-|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Ppai*</br>띠 빠이|-|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
-|Ume Shima</br>梅島|-|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
+|Ume Shima</br>梅島|**Ume Tsubo** [梅壷]|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
 |Ura Gorōjū</br>裏御老中|-|Lesser Elder *or* Lesser 5-6-10|Iris Ribbon, Phoenix, Maple Ribbon.|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Tan no Gorōjū except the Peony Ribbon card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Yanagi Shima</br>柳島|**Ame Shima** [雨島], **Ame Zoro** [雨ゾロ], **Biyak** [비약], **Bijori** [비조리] in Korean|Four Willows|Four Willow cards.|Has mekurifuda origins.|
 |Yashima</br>八島|-|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
