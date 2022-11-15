@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-14T15:44:03.115Z
+date: 2022-11-15T02:05:39.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -156,11 +156,13 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Botankiri</br>ぼたんきり|-|Greater 4-5-6|Cuckoo, Bridge, Butterflies|Possibly has mekurifuda origins. Etymology unknown; It does not mean "Peony Paulownia".|
 |Bōzu Shima</br>坊主島|-|Four Baldies|Four Susuki Grass cards.|Has mekurifuda origins. Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head.|
 |Chume Mats Kiri Bo|-|Plum-Pine-Paulownia-Baldy|Matsukiribōzu + Bush Warbler|Used in Palauan Hanakuda. The name is borrowed from Ume [梅] and Matsukiribōzu [松桐坊主].|
+|Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku.|
+|Danjō</br>ダンジョオ|-|Devil|Onifuda, Special 3, Special 4 (in a Daini deck)|Variant of the above yaku of the same name.|
 |Danjūrō</br>団十郎|**Ebi** [海老] (in Kekoro)|Club 1-2-10 *or* Greater 1-2-10|Crane, Rainman, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Deu</br>出雨|-|Downpour|Boar, Full Moon, Rainman.|Used only in the game Kekoro.|
 |Ebizō</br>海老蔵|-|Shrimp Club 1-10|Crane, Willow Ribbon, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor. Same as Danjūrō except the 2 of clubs is replaced with 2 of swords (nicknamed "2 of shrimps")|
-|Fuji Shima</br>藤島|**Fuji** (in Toppa)|Four Wisterias|Four Wisteria cards.|Has mekurifuda origins.|
+|Fuji Shima</br>藤島|**Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Has mekurifuda origins. Equivalent of Shi Yaku in Kujuroku.|
 |Ganbo</br>がんぼ|**Noarashi** [野荒し], **Inoshikagan** [猪鹿雁]|Crop Destroyers|Boar, Deer, Geese|Etymology of Ganbo is unknown; It does not mean "Goose Peony".|
 |*Godori*</br>고도리|-|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō</br>五光|**Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
@@ -192,10 +194,12 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Omote Gorōjū</br>表御老中|-|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
-|Sakura Shima</br>桜島|-|Four Cherry Blossoms|Four Cherry Blossom cards.|Has mekurifuda origins.|
+|Sakura Shima</br>桜島|**San Yaku** [三役] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
 |Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
+|Shidansan</br>シダンサン|-|Four-Devil-Three|Four 3's, Onifuda, Four 4's (in a Daini deck)|Used only in Kujuroku.|
+|Shidansan</br>シダンサン|-|Four-One-Three|Four 3's, Special 1, One Normal 1, Four 4's (in a Daini deck)|Variant of the above yaku of the same name.|
 |Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
 |Shima</br>島|**Zoro** [ゾロ]|Four-of-a-Kind|Four cards of the same month.|Has mekurifuda origins.|
 |Shimozan</br>下三|**Shimosan**|Lowest Three *or* Greater 1-2-3|Crane, Rainman, Curtain.|Originally a Mekuri Yaku consisting of Clubs 1, 2, and 3. Same as Omote Sugawara except the Bush Warbler is replaced with Rainman due to use of Nagoya month sequence.|
