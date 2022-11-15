@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-15T08:46:25.399Z
+date: 2022-11-15T09:04:03.072Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -150,7 +150,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
-|Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
+|Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Jū Yoshiwara** [十吉原] (in Taiyaku), **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
 |Ame-sankō</br>雨三光|**Bi Samgwang** [비삼광] in Korean|Rainy Three Brights|Three Bright cards including Rainman.|-|
 |Aotan</br>青短|**Aoyoroshi** [青よろし], **Ao** [青], **Muratan** [紫短], **Chokushi** [勅使] (in Hon-bana), **Mimu** [ミム] (in Suhara-bana), **Cheongdan** [청단] in Korean, **Chauotang** in Palauan|Blue Ribbons|Three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Arasi|-|Six Brights|Five Brights + Bush Warbler.|Used in Palauan Hanakuda. The name is borrowed from Japanese *arashi* [嵐].|
@@ -183,7 +183,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Inoshikachō</br>猪鹿蝶|**Nabe** [鍋] (in Kusuri-gui), **Inoshika** [이노시카] in Korean, **Inoskasio** in Palauan|Boar-Deer-Butterflies|Boar, Deer, Butterflies.|-|
 |Inu</br>いぬ|-|Four Bush Clovers|Four Bush Clover cards.|Has mekurifuda origins.|
 |Ippai Nomi</br>一杯呑|-|One Drink|Sake Cup plus a Bright (except Rainman)|Used in Hon-bana.|
-|Jitsu-getsu</br>日月|-|Sun and Moon|Crane and Full Moon|-|
+|Jitsu-getsu</br>日月|**Yoru-hiru** [夜昼]|Sun and Moon|Crane and Full Moon|-|
 |Jūshichihachi</br>十七八|-|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
 |Kamisan</br>上三|-|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
 |Kanko</br>かんこ|**Yatsuhashi** [八ツ橋]|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
@@ -224,7 +224,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shidansan</br>シダンサン|-|Four-Devil-Three|Four 4's, Onifuda, Four 3's (in a Daini deck)|Used only in Kujuroku.|
 |Shidansan</br>シダンサン|-|Four-Special-Three|Four 4's, Special 1, Four 3's (in a Daini deck)|Variant of the above yaku of the same name.|
 |Shidansan</br>シダンサン|-|Four-Ones-Three|Four 4's, Special 1, One Normal 1, Four 3's (in a Daini deck)|Variant of the above yaku of the same name.|
-|Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Shihonyaku** [四本役] (in Suhara-bana), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
+|Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Shihonyaku** [四本役] (in Suhara-bana), **Jūni Yoshiwara** [十二吉原] (in Taiyaku), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
 |Shikō</br>四光|-|Four Shinies|Matsukiribōzu + Lightning|An old variant of the above yaku of the same name.|
 |Shima</br>島|**Zoro** [ゾロ]|Four-of-a-Kind|Four cards of the same month.|Has mekurifuda origins.|
 |Shimozan</br>下三|**Shimosan**|Lowest Three *or* Greater 1-2-3|Crane, Rainman, Curtain.|Originally a Mekuri Yaku consisting of Clubs 1, 2, and 3. Same as Omote Sugawara except the Bush Warbler is replaced with Rainman due to use of Nagoya month sequence.|
@@ -267,6 +267,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Yanagi Shima</br>柳島|**Ame Shima** [雨島], **Ame Zoro** [雨ゾロ], **Biyak** [비약], **Bijori** [비조리] in Korean|Four Willows|Four Willow cards.|Has mekurifuda origins.|
 |Yashima</br>八島|-|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Yashima</br>八島|-|Eight Islands|Full Moon, Cuckoo, Bush Warbler.|Same as the Yaku of the same name mentioned above, but the Rainman is replaced with the Bush Warbler for some reason.|
+|Yozakura</br>夜桜|-|Night Cherry Blossoms|Curtain and Full Moon|-|
 |-|-|Fifteen Chaff|15 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Greater Blues|Butterflies, Sake Cup, Deer. (i.e. the Animals of the same months as the Blue Ribbons)|Used in the game Sakura.|
 |-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
+|-|-|Night Phoenix|Full Moon and Phoenix|-|
+|-|-|Rainy Night|Full Moon and Rainman|-|
+|-|-|Two Brights|Any two of Crane, Curtain, or Phoenix.|-|
