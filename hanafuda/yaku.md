@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T06:17:09.218Z
+date: 2022-11-16T06:24:31.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -229,7 +229,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
 |Sanmura</br>三紫|-|Three Purple Flowers|Wisteria Chaff, Iris Chaff, Paulownia Chaff (excluding the Yellow Paulownia chaff)|An old yaku, the composition is only an assumption based on descriptions.|
-|Shichigosan</br>七五三|**Nanagosan**|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
+|Shichigosan</br>七五三|**Nanagosan**, **Ura Shichigosan** [裏七五三] (in Tensho)|7-5-3 *or* Greater 7-5-3|Boar, Bridge, Curtain.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Shichihaccha</br>しちはっちゃー|-|Four Sevens/Eights/Nines|Four "7"s, or Four "8"s, or Four"9"s (in a Shimafuda deck).|Used only in the game Shimafuda. Players score for each Four-of-a-kind they make.|
 |Shichiseki</br>七夕|-|Seven Red Ribbons|All seven Red Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Shidan</br>シダン|-|Four-Devil|Four 4's, Onifuda(in a Daini deck)|Used only in Kujuroku.|
@@ -261,7 +261,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Kumanosan</br>短の熊野サン|-|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri), **Omote Nakazō** [表仲蔵] (in Tensho)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Sangoro</br>短の三五六|-|3-5-6 Ribbons *or* Lesser 3-5-6|Ribbons of Cherry Blossom, Iris, and Peony.|Possibly has mekurifuda origins.|
-|Tan no Shichigosan</br>短の七五三|**Tan no Nanagosan**|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
+|Tan no Shichigosan</br>短の七五三|**Tan no Nanagosan**, **Omote Shichigosan** [表七五三] (in Tensho)|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Shimozan</br>短の下三|**Tan no Shimosan**, **Omote Ichinisan** [表一二三] (in Tensho)|Lowest Three Ribbons *or* Lesser 1-2-3|Ribbons of Pine, Willow, and Cherry Blossom.|Has mekurifuda origins. Same as Aka-tan except Plum Blossom is replaced with Willow due to use of Nagoya month sequence. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Yashima</br>短の八島|-|Eight Islands' Ribbons *or* Lesser 8-4-11|Geese, Wisteria Ribbon, Willow Ribbon.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Yashima</br>短の八島|-|Eight Islands' Ribbons|Geese, Wisteria Ribbon, Plum Blossom Ribbon.|Same as the Yaku of the same name mentioned above, but Willow is replaced with Plum Blossom for some reason.|
