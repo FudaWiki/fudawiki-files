@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T02:51:05.061Z
+date: 2022-11-16T03:07:55.605Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,7 +147,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Ura refers to it being composed of low-scoring cards. However, Omote refers to the sharp edge of a blade, alluding to the set comprising of all Sword cards of a mekurifuda deck.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Jū Yoshiwara** [十吉原] (in Taiyaku), **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
@@ -235,7 +235,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shikō</br>四光|**Yonkō**, **Honshikō** [本四光], **Honshi** [本四], **Ten'nō** [天皇] (in Shishibochushin), **Shihonyaku** [四本役] (in Suhara-bana), **Jūni Yoshiwara** [十二吉原] (in Taiyaku), **Sagwang** [사광] in Korean, **Skok** in Palauan|Four Brights|Four Bright cards excluding Rainman.|-|
 |Shikō</br>四光|-|Four Shinies|Matsukiribōzu + Lightning|An old variant of the above yaku of the same name.|
 |Shima</br>島|**Zoro** [ゾロ]|Four-of-a-Kind|Four cards of the same month.|Has mekurifuda origins.|
-|Shimozan</br>下三|**Shimosan**|Lowest Three *or* Greater 1-2-3|Crane, Rainman, Curtain.|Originally a Mekuri Yaku consisting of Clubs 1, 2, and 3. Same as Omote Sugawara except the Bush Warbler is replaced with Rainman due to use of Nagoya month sequence.|
+|Shimozan</br>下三|**Shimosan**, **Ura Ichinisan** [裏一二三] (in Tensho)|Lowest Three *or* Greater 1-2-3|Crane, Rainman, Curtain.|Originally a Mekuri Yaku consisting of Clubs 1, 2, and 3. Same as Omote Sugawara except the Bush Warbler is replaced with Rainman due to use of Nagoya month sequence. The Ura name refers to the back edge of a blade, alluding to its composition of Club cards.|
 |Shinshichihachi</br>四七八|-|4-7-8 Ribbons *or* Lesser 4-7-8|Willow Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
 |Shisan</br>シサン|-|Four-Three|Four 4's, Four 3's (in a Daini deck)|Used only in Kujuroku as an optional yaku.|
 |Shishibo</br>ししぼ|**Shishi Botan** [獅子牡丹]|Boar on Peony|Boar and Butterflies.|This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
@@ -257,7 +257,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*.|
 |Tan no Sangoro</br>短の三五六|-|3-5-6 Ribbons *or* Lesser 3-5-6|Ribbons of Cherry Blossom, Iris, and Peony.|Possibly has mekurifuda origins.|
 |Tan no Shichigosan</br>短の七五三|**Tan no Nanagosan**|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*.|
-|Tan no Shimozan</br>短の下三|**Tan no Shimosan**|Lowest Three Ribbons *or* Lesser 1-2-3|Ribbons of Pine, Willow, and Cherry Blossom.|Has mekurifuda origins. Same as Aka-tan except Plum Blossom is replaced with Willow due to use of Nagoya month sequence.|
+|Tan no Shimozan</br>短の下三|**Tan no Shimosan**, **Omote Ichinisan** [表一二三] (in Tensho)|Lowest Three Ribbons *or* Lesser 1-2-3|Ribbons of Pine, Willow, and Cherry Blossom.|Has mekurifuda origins. Same as Aka-tan except Plum Blossom is replaced with Willow due to use of Nagoya month sequence. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Yashima</br>短の八島|-|Eight Islands' Ribbons *or* Lesser 8-4-11|Geese, Wisteria Ribbon, Willow Ribbon.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Yashima</br>短の八島|-|Eight Islands' Ribbons|Geese, Wisteria Ribbon, Plum Blossom Ribbon.|Same as the Yaku of the same name mentioned above, but Willow is replaced with Plum Blossom for some reason.|
 |Tanzaku</br>短冊|**Tti** [띠] in Korean|Ribbons|Five or more Ribbon cards.|-|
