@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T07:50:11.716Z
+date: 2022-11-16T08:41:01.083Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,6 +147,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
+|Akashi</br>赤四|-|Red Four|Crane, Wisteria Ribbon, Phoenix|Used in Tensho. The Aka name refers to the nickname of the Sword suit "Aka", which is the mekurifuda equivalent of Ribbons in hanafuda.|
 |Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Ura refers to it being composed of low-scoring cards. May have evolved from a Mekuri yaku involving collecting the numbers 1, 2, 3.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
@@ -168,7 +169,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Den</br>デン|-|Greater 2-11-12|Bush Warbler, Rainman, Phoenix.|Used only in the game Hachi. Possibly has mekurifuda origins. The etymology is unknown.|
 |Deu</br>出雨|-|Downpour|Boar, Full Moon, Rainman.|Used only in the game Kekoro.|
 |Ebizō</br>海老蔵|-|Shrimp Club 1-10|Crane, Willow Ribbon, Deer|Originally a Yaku in Mekuri, and is named after a Kabuki actor. Same as Danjūrō except the 2 of clubs is replaced with 2 of swords (nicknamed "2 of shrimps")|
-|Fuji Shima</br>藤島|**Fuji Tsubo** [藤壷], **Fuji Zoro** [藤ゾロ], **Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Has mekurifuda origins. Equivalent of Shi Yaku in Kujuroku.|
+|Fuji Shima</br>藤島|**Fuji Tsubo** [藤壷], **Fuji Zoro** [藤ゾロ], **Fuji** (in Toppa), **Shi Yaku** [四役] (in Kujuroku), **Shi/Yon** [四] (in Tenshu)|Four Wisterias *or* Four 4's|Four Wisteria cards.|Equivalent of having four cards of the number 4 in mekurifuda.|
 |Ganbo</br>がんぼ|**Noarashi** [野荒し], **Inoshikagan** [猪鹿雁], **Akiyaku** [秋役] (in Suhara-bana)|Crop Destroyers|Boar, Deer, Geese|Etymology of Ganbo is unknown; It does not mean "Goose Peony".|
 |*Godori*</br>고도리|-|Five Birds|Bush Warbler, Cuckoo, and Geese.|Used in Go-Stop, and the game is also named *Godori* after this yaku.|
 |Gokō</br>五光|*Go-ō* [五王], **Oiran** [花魁], **Ogwang** [오광] in Korean, **Kokok** in Palauan|Five Brights|Five Bright Cards.|-|
@@ -188,7 +189,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Jūshichihachi</br>十七八|**Omote Musume** [表娘] (in Tensho)|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
 |Kakari</br>かかり|-|Cuckoo Night/Day|Cuckoo and either Crane or Full Moon|Used in the game Taiyaku.|
 |Kamisan</br>上三|**Ura Jū-umakiri** [裏十馬キリ] (in Tensho)|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
-|Kanko</br>かんこ|**Yatsuhashi** [八ツ橋], **Kakitsubata Zoro** [杜若ゾロ]|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
+|Kanko</br>かんこ|**Yatsuhashi** [八ツ橋], **Kakitsubata Zoro** [杜若ゾロ], **Go** [五] (in Tenshu), **Choyak** [초약] in Korean|Four Irises *or* Four 5's|Four Iris cards.|Equivalent of having four cards of the number 5 in mekurifuda.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
 |Kasuyaku</br>カス役|-|Chaff Yaku|Seven Chaff cards for Dealer, Eight Chaff cards for 2nd player, Nine Chaff cards for last player. Value increases if more Chaff are collected.|Used only in Sendai-hana.|
 |Kikukiri</br>菊桐|-|Coat of Arms|Sake Cup and Phoenix|An old yaku based on the 2 Coat of Arms of the Imperial Family.|
@@ -214,12 +215,14 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Nomi</br>飲み|-|Drinking|Sake Cup plus any one Bright card or the Bridge card.|Used only in the game Taiyaku.|
+|Omote Bāsan</br>表婆さん|-|Sword 10-9-8 *or* Greater 10-9-8|Maple Ribbon, Chrysanthemum Ribbon, Geese.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Gorōjū</br>表御老中|**Ura Gorōjū** [表御老中] (in Tensho)|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Omote Hasshikiri</br>表ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Geese, Wisteria Ribbon, Plum Blossom Ribbon|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Ichinijū</br>表一二十|-|Sword 1-2-10 *or* Lesser 1-2-10|Ribbons of Pine, Willow, and Maple.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-11-12 *or* Lesser 10-11-12|Ribbons of Maple, Peony, and Plum Blossom.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-9-12 *or* Lesser 10-9-12|Ribbons of Maple, Chrysanthemum, and Plum Blossom.|A variant of the above Yaku of the same name, where the Peony ribbon is replaced with Chrysanthemum.|
 |Omote Kumasan</br>表クマザン|-|Sword 9-11-3 *or* Lesser 9-11-3|Ribbons of Crysanthemum, Peony, and Cherry Blossom.|Used in Tensho. A variant of Tan no Kumanosan where Willow is replaced with Peony due to usage of Nagoya month sequence. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
+|Omote Musume Bāsan</br>表娘婆さん|-|Sword 10-9-8-7 *or* Greater 10-9-8-7|Omote Musume + Omote Bāsan|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Sashigo</br>表三四五|-|Sword 3-4-5 *or* Lesser 3-4-5|Ribbons of Cherry Blossom, Wisteria, and Iris|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Shimakiri</br>表シマキリ|-|Sword 4-11-12 *or* Lesser 4-11-12|Ribbons of Wisteria, Peony, and Plum Blossom|Used in Tensho, and is a variant of Tan no Kirishima where the Willow and Paulownia are replaced with Peony and Plum Blossom respectively, due to use of Nagoya month sequence. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote** [表], **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Uwa-dango** [上だんこ] (in Nara Hana-awase), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
@@ -228,7 +231,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Rokutan</br>六短|-|Six Red Ribbons|Six Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
-|Sakura Shima</br>桜島|**Sakura Zoro** [桜ゾロ], **San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
+|Sakura Shima</br>桜島|**Sakura Zoro** [桜ゾロ], **San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku), **San** [三] (in Tenshu), **Chokosan** [チョコ三] (in Tenshu)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Equivalent of having Four cards of the number 3 in mekurifuda.|
 |Sanbeni</br>三紅|-|Three Red Flowers|Plum Chaff, Peony Chaff, Bush Clover Chaff|An old yaku, the composition is only an assumption based on descriptions.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
@@ -250,6 +253,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Shishibo</br>ししぼ|**Shishi Botan** [獅子牡丹]|Boar on Peony|Boar and Butterflies.|This is a reference to *Karajishi* [唐獅子, Chinese Lion] sitting on a Peony flower, but the Lion is replaced with a Boar [猪, *inoshishi*]. On a side note, Botan Nabe refers to a hot pot of wild boar meat.|
 |Shishibochūshin</br>ししぼちゅうしん|**Sokuyaku** [そくやく]|Boar-Butterflies-Rainman|Boar, Butterflies, Rainman.|Used in the game Shishibochushin, which is named after this Yaku.|
 |Shishichu</br>ししちゅ|-|Boar and Rainman|Boar and Rainman.|Used in the game Shishibochushin.|
+|Taiko San</br>太鼓三|-|Drum and 3's|Four '3' cards plus the 2 of coins (in a Mekurifuda deck)|A mekurifuda yaku used in the game Tenshu. the name Taiko is a nickname of the Coins suit, and is also usually refering to the 2 of coins specifically.|
 |Takasago</br>高砂|-|Takasago|Sake Cup, Crane, Butterflies|An old Yaku named after a Noh song. The composition is remembered using the following mnemonic: A couple raises a toast **(Sake Cup)** to a Noh song “Takasago”, which compares their relationship to 2 pine trees **(Crane)**, and to a Gidayu song “Chou no Michiyuki” (Flight of the butterflies **(Butterflies)**), which sang that even death cannot separate two people.|
 |Tan</br>短|**Shōnana** (in Kushiro Toppa)|Seven "Ribbons"|Seven cards of either Ribbons or Willow cards.|Used in the game Toppa.|
 |Tane</br>タネ|**Yeolkkeut** [열끗] in Korean|Animals|Five or more Animal cards.||
@@ -263,7 +267,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons|Yellow Paulownia Chaff, Plum Blossom Ribbon, Willow Ribbon|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except Willow is replaced with Plum Blossom for some reason.|
 |Tan no Kumanosan</br>短の熊野サン|-|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
-|Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri), **Omote Nakazō** [表仲蔵] (in Tensho)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
+|Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri), **Aka** [赤] (in Tenshu), **Omote Nakazō** [表仲蔵] (in Tensho)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Sangoro</br>短の三五六|-|3-5-6 Ribbons *or* Lesser 3-5-6|Ribbons of Cherry Blossom, Iris, and Peony.|Possibly has mekurifuda origins.|
 |Tan no Shichigosan</br>短の七五三|**Tan no Nanagosan**, **Omote Shichigosan** [表七五三] (in Tensho)|7-5-3 Ribbons *or* Lesser 7-5-3|Ribbons of Bush Clover, Iris, and Cherry Blossom.|Possibly has mekurifuda origins, and shares the same numbers as the Teyaku *Nanagosan*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Shimozan</br>短の下三|**Tan no Shimosan**, **Omote Ichinisan** [表一二三] (in Tensho)|Lowest Three Ribbons *or* Lesser 1-2-3|Ribbons of Pine, Willow, and Cherry Blossom.|Has mekurifuda origins. Same as Aka-tan except Plum Blossom is replaced with Willow due to use of Nagoya month sequence. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
@@ -280,6 +284,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*</br>띠 빠이|-|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Ppai*</br>띠 빠이|-|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Ume Shima</br>梅島|**Ume Tsubo** [梅壷]|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
+|Ura Bāsan</br>裏婆さん|-|Club 10-9-8 *or* Greater 10-9-8|Deer, Sake Cup, Full Moon|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Gorōjū</br>裏御老中|Omote Gorōjū [表御老中] (in Tensho)|Lesser Elder *or* Lesser 5-6-10|Iris Ribbon, Phoenix, Maple Ribbon.|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Tan no Gorōjū except the Peony Ribbon card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Ura Hasshikiri</br>裏ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Full Moon, Cuckoo, Bush Warbler.|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Ichinisan</br>裏一二三|-|Club 1-2-3 *or* Greater 1-2-3|Crane, Swallow, Deer|Used in Tensho as a variant of Shimozan where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
@@ -287,6 +292,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ura Jū-umakiri</br>裏十馬キリ|-|Club 10-9-12 *or* Greater 10-9-12|Deer, Sake Cup, Bush Warbler.|Used in Tensho as a variant of Kamisan but with Butterflies replaced with Sake Cup for some reason. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Kumasan</br>裏クマザン|-|Club 9-11-3 *or* Greater 9-11-3|Sake Cup, Butterflies, Curtain|Used in Tensho. A variant of Kumanosan where the Rainman is replaced with Butterflies due to usage of Nagoya month sequence. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Musume</br>裏娘|-|Club 10-7-8 *or* Greater 10-7-8|Deer, Boar, Full Moon|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
+|Ura Musume Bāsan</br>裏娘婆さん|-|Club 10-9-8-7 *or* Greater 10-9-8-7|Ura Musume + Ura Bāsan|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Omote</br>裏表|-|Front and Back|Omote Sugawara + Akatan|Used in the game Taiyaku.|
 |Ura Sashigo</br>裏三四五|-|Club 3-4-5 *or* Greater 3-4-5|Curtain, Cuckoo, Bridge|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Shimakiri</br>裏シマキリ|-|Club 4-11-12 *or* Greater 4-11-12|Cuckoo, Butterflies, Bush Warbler.|Used in Tensho, and is a variant of Kirishima where the Rainman and Phoenix are replaced with Butterflies and Bush Warbler respectively, due to use of Nagoya month sequence. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
