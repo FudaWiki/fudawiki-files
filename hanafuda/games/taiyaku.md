@@ -2,7 +2,7 @@
 title: Taiyaku
 description: A hanafuda game from Echigo Province in Japan.
 published: true
-date: 2022-11-16T02:45:51.239Z
+date: 2022-11-16T02:47:35.389Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-10T03:05:47.232Z
@@ -251,7 +251,7 @@ Each Dekiyaku are sorted into groups. Generally, all Dekiyaku within each group 
 |2|**Butterflies and Phoenix**</br>きりん蝶 [きりんちょう, *kirinchō*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)</br>This dekiyaku **stacks** with other dekiyaku in this group.|
 |1|**Kill**</br>ころし [*koroshi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) plus 1 of:</br>[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 
-> It is thought that the Rainman in the Echigobana deck is supposed to be Sadakuro Ono [斧定九郎].
+> It is thought that the Rainman in the Echigobana deck is supposed to be Ono Sadakuro [斧定九郎], a murderer who got shot at and killed while disguising himself as a wild boar.
 {.is-info}
 
 # Taiyaku for Two Players
