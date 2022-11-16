@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T02:22:44.704Z
+date: 2022-11-16T02:51:05.061Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -186,15 +186,19 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ippai Nomi</br>一杯呑|-|One Drink|Sake Cup plus a Bright (except Rainman)|Used in Hon-bana.|
 |Jitsu-getsu</br>日月|**Yoru-hiru** [夜昼]|Sun and Moon|Crane and Full Moon|-|
 |Jūshichihachi</br>十七八|-|10-7-8 Ribbons *or* Lesser 10-7-8|Maple Ribbon, Bush Clover Ribbon, Geese.|Possibly has mekurifuda origins.|
+|Kakari</br>かかり|-|Cuckoo Night/Day|Cuckoo and either Crane or Full Moon|Used in the game Taiyaku.|
 |Kamisan</br>上三|-|Highest Three *or* Club 10-11-12|Deer, Butterflies, Bush Warbler.|A Mekuri Yaku consisting of Clubs Maid, Knight, and King.|
 |Kanko</br>かんこ|**Yatsuhashi** [八ツ橋], **Kakitsubata Zoro** [杜若ゾロ]|Four Irises|Four Iris cards.|Also known as **Choyak** [초약] in Korean. Has mekurifuda origins.|
 |Kasu</br>カス|**Kara** [空], **Pi** [피] in Korean|Chaff|Ten or more Chaff cards.|-|
 |Kasuyaku</br>カス役|-|Chaff Yaku|Seven Chaff cards for Dealer, Eight Chaff cards for 2nd player, Nine Chaff cards for last player. Value increases if more Chaff are collected.|Used only in Sendai-hana.|
 |Kikukiri</br>菊桐|-|Coat of Arms|Sake Cup and Phoenix|An old yaku based on the 2 Coat of Arms of the Imperial Family.|
+|Kirinchō</br>きりん蝶|-|Phoenix Butterflies|Phoenix and Butterflies.|Used in the game Taiyaku.|
 |Kiri Shima</br>桐島|**Yanagi Zoro** [桐ゾロ], **Kiri Tsubo** [桐壷], **Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
 |Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kirishima</br>霧島|-|Mist Island|Phoenix, Cuckoo, Bush Warbler.|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except the Rainman is replaced with Bush Warbler for some reason.|
+|Koto</br>こと|-|Two Small Birds|Any two of Bush Warbler, Cuckoo, or Swallow.|These birds are drawn smaller in old hanafuda designs.|
 |Kotori</br>小鳥|-|Small Birds|Bush Warbler, Cuckoo, Swallow.|These birds are drawn smaller in old hanafuda designs.|
+|Koroshi</br>殺し|-|Kill|Rainman plus an incomplete set of Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot and killed while disguising himself as a Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
 |Kumanosan</br>熊野サン|-|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kusabana</br>草花|-|Grass Flowers|Bridge, Butterflies, Sake Cup.|Unrelated to Kusatan.|
 |Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean, **Ksaiak** in Palauan|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
@@ -202,6 +206,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Matsukiribōzu</br>松桐坊主|**Sanko** [三光], **Nichigessei** [日月星], **Gorōjū** [御老中] (in Suhara-bana), **Songwoldong** [송월동] in Korean, **Mats Kiri Bo** in Palauan|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head. Sanko and Nichigessei are references to the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
 |Matsu Shima</br>松島|**Matsu Zoro** [松ゾロ]|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
+|Mukoroshi</br>無殺し|-|No Kill|Rainman + Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot and killed while disguising himself as a Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
 |Nakazō</br>仲蔵|-|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean, **Nanatang** in Palauan|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
@@ -272,6 +277,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Yashima</br>八島|-|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Yashima</br>八島|-|Eight Islands|Full Moon, Cuckoo, Bush Warbler.|Same as the Yaku of the same name mentioned above, but the Rainman is replaced with the Bush Warbler for some reason.|
 |Yozakura</br>夜桜|-|Night Cherry Blossoms|Curtain and Full Moon|-|
+|-|-|Cuckoo Night and Day|Cuckoo, Crane, Full Moon|Used in the game Taiyaku.|
 |-|-|Eleven Chaff|11 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Fifteen Chaff|15 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Five Red Ribbons|Five Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
