@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T01:59:09.464Z
+date: 2022-11-16T02:22:44.704Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,7 +147,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Jū Yoshiwara** [十吉原] (in Taiyaku), **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
@@ -210,9 +210,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Nomi</br>飲み|-|Drinking|Sake Cup plus any one Bright card or the Bridge card.|Used only in the game Taiyaku.|
 |Omote Gorōjū</br>表御老中|-|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
-|Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Uwa-dango** [上だんこ] (in Nara Hana-awase), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
+|Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote** [表], **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Uwa-dango** [上だんこ] (in Nara Hana-awase), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Rokutan</br>六短|-|Six Red Ribbons|Six Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
 |Sakura Shima</br>桜島|**Sakura Zoro** [桜ゾロ], **San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Has mekurifuda origins. Equivalent of San Yaku in Kujuroku.|
 |Sanbeni</br>三紅|-|Three Red Flowers|Plum Chaff, Peony Chaff, Bush Clover Chaff|An old yaku, the composition is only an assumption based on descriptions.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
@@ -266,14 +267,27 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*</br>띠 빠이|-|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Ume Shima</br>梅島|**Ume Tsubo** [梅壷]|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
 |Ura Gorōjū</br>裏御老中|-|Lesser Elder *or* Lesser 5-6-10|Iris Ribbon, Phoenix, Maple Ribbon.|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Tan no Gorōjū except the Peony Ribbon card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
+|Ura Omote</br>裏表|-|Front and Back|Omote Sugawara + Akatan|Used in the game Taiyaku.|
 |Yanagi Shima</br>柳島|**Yanagi Zoro** [柳ゾロ], **Ame Shima** [雨島], **Ame Zoro** [雨ゾロ], **Biyak** [비약], **Bijori** [비조리] in Korean|Four Willows|Four Willow cards.|Has mekurifuda origins.|
 |Yashima</br>八島|-|Eight Islands *or* Greater 8-4-11|Full Moon, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is a goroawase pun for 8 and 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Yashima</br>八島|-|Eight Islands|Full Moon, Cuckoo, Bush Warbler.|Same as the Yaku of the same name mentioned above, but the Rainman is replaced with the Bush Warbler for some reason.|
 |Yozakura</br>夜桜|-|Night Cherry Blossoms|Curtain and Full Moon|-|
+|-|-|Eleven Chaff|11 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Fifteen Chaff|15 Chaff cards.|Used in the game Taiyaku.|
+|-|-|Five Red Ribbons|Five Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
+|-|-|Four Red Ribbons|Four Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
+|-|-|Fourteen Chaff|14 Chaff cards.|Used in the game Taiyaku.|
 |-|-|Greater Blues|Butterflies, Sake Cup, Deer. (i.e. the Animals of the same months as the Blue Ribbons)|Used in the game Sakura.|
 |-|-|Greater Grass|Cuckoo, Bridge, Boar. (i.e. the Animals of the same months as the Grass Ribbons)|Used in the game Sakura.|
 |-|-|Night Phoenix|Full Moon and Phoenix|-|
+|-|-|One Blue Ribbon|One Blue Ribbon|Used only in the game Taiyaku.|
+|-|-|One Red Ribbon|One Red Ribbon, which may or may not have writing.|Used only in the game Taiyaku.|
 |-|-|Rainy Night|Full Moon and Rainman|-|
 |-|-|Rainy Two Brights|Rainman and either Crane, Curtain, or Phoenix.|-|
+|-|-|Ten Chaff|10 Chaff cards.|Used in the game Taiyaku.|
+|-|-|Thirteen Chaff|13 Chaff cards.|Used in the game Taiyaku.|
+|-|-|Three Red Ribbons|Three Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
+|-|-|Twelve Chaff|12 Chaff cards.|Used in the game Taiyaku.|
+|-|-|Two Blue Ribbons|Two Blue Ribbons|Used only in the game Taiyaku.|
 |-|-|Two Brights|Any two of Crane, Curtain, or Phoenix.|-|
+|-|-|Two Red Ribbons|Two Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
