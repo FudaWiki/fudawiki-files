@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T06:58:50.837Z
+date: 2022-11-16T07:02:46.749Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -215,7 +215,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Nomi</br>飲み|-|Drinking|Sake Cup plus any one Bright card or the Bridge card.|Used only in the game Taiyaku.|
 |Omote Gorōjū</br>表御老中|-|Greater Elder *or* Greater 5-6-10|Bridge, Phoenix, Deer|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Gorōjū except the Butterflies card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
-|Omote Hasshikiri</br>表ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Ribbons of Susuki Grass, Wisteria, and Plum Blossom|Used in Tensho, and is a variant of Tan no Kirishima where the Willow and Paulownia are replaced with Peony and Plum Blossom respectively, due to use of Nagoya month sequence. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
+|Omote Hasshikiri</br>表ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Geese, Wisteria Ribbon, Plum Blossom Ribbon|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Ichinijū</br>表一二十|-|Sword 1-2-10 *or* Lesser 1-2-10|Ribbons of Pine, Willow, and Maple.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-11-12 *or* Lesser 10-11-12|Ribbons of Maple, Peony, and Plum Blossom.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-9-12 *or* Lesser 10-9-12|Ribbons of Maple, Chrysanthemum, and Plum Blossom.|A variant of the above Yaku of the same name, where the Peony ribbon is replaced with Chrysanthemum.|
@@ -280,6 +280,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*</br>띠 빠이|-|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Ume Shima</br>梅島|**Ume Tsubo** [梅壷]|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
 |Ura Gorōjū</br>裏御老中|-|Lesser Elder *or* Lesser 5-6-10|Iris Ribbon, Phoenix, Maple Ribbon.|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Tan no Gorōjū except the Peony Ribbon card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
+|Ura Hasshikiri</br>裏ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Full Moon, Cuckoo, Bush Warbler.|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Ichinisan</br>裏一二三|-|Club 1-2-3 *or* Greater 1-2-3|Crane, Swallow, Deer|Used in Tensho as a variant of Shimozan where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Ichinijū</br>裏一二十|-|Club 1-2-10 *or* Greater 1-2-10|Crane, Swallow, Deer|Used in Tensho as a variant of Danjūrō where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Jū-umakiri</br>裏十馬キリ|-|Club 10-9-12 *or* Greater 10-9-12|Deer, Sake Cup, Bush Warbler.|Used in Tensho as a variant of Kamisan but with Butterflies replaced with Sake Cup for some reason. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
