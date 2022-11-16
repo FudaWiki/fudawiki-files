@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T03:10:41.386Z
+date: 2022-11-16T03:58:28.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -198,7 +198,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kirishima</br>霧島|-|Mist Island|Phoenix, Cuckoo, Bush Warbler.|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except the Rainman is replaced with Bush Warbler for some reason.|
 |Koto</br>こと|-|Two Small Birds|Any two of Bush Warbler, Cuckoo, or Swallow.|These birds are drawn smaller in old hanafuda designs.|
 |Kotori</br>小鳥|-|Small Birds|Bush Warbler, Cuckoo, Swallow.|These birds are drawn smaller in old hanafuda designs.|
-|Koroshi</br>殺し|-|Kill|Rainman plus an incomplete set of Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot and killed while disguising himself as a Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
+|Koroshi</br>殺し|-|Kill|Rainman plus an incomplete set of Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot after being mistaken for a wild Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
 |Kumanosan</br>熊野サン|-|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kusabana</br>草花|-|Grass Flowers|Bridge, Butterflies, Sake Cup.|Unrelated to Kusatan.|
 |Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean, **Ksaiak** in Palauan|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
@@ -206,7 +206,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Matsukiribōzu</br>松桐坊主|**Sanko** [三光], **Nichigessei** [日月星], **Gorōjū** [御老中] (in Suhara-bana), **Songwoldong** [송월동] in Korean, **Mats Kiri Bo** in Palauan|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head. Sanko and Nichigessei are references to the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
 |Matsu Shima</br>松島|**Matsu Zoro** [松ゾロ]|Four Pines|Four Pine cards.|Has mekurifuda origins.|
 |Momiji Shima</br>紅葉島|-|Four Maples|Four Maple cards.|Has mekurifuda origins.|
-|Mukoroshi</br>無殺し|-|No Kill|Rainman + Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot and killed while disguising himself as a Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
+|Mukoroshi</br>無殺し|-|No Kill|Rainman + Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot after being mistaken for a wild Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
 |Nakazō</br>仲蔵|-|Club 7-8-9 or Greater 7-8-9|Boar, Full Moon, Sake Cup.|Originally a Yaku in Mekuri, and is named after a Kabuki actor.|
 |Nanatan</br>七短|**Shōnana** [しょう七] (in Toppa), **Chiltti** [칠띠] in Korean, **Nanatang** in Palauan|Seven Ribbons|Seven Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
