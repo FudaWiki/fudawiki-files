@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T08:41:01.083Z
+date: 2022-11-16T08:46:02.053Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -213,6 +213,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Nejikomi</br>ネジ込ミ|-|Screw-in|Four 3's, Special 1, Special 4 (in a Daini deck)|Used only in Kujuroku as an optional Yaku.|
 |Nihai Nomi</br>二杯呑|-|Two Drinks|Sake Cup plus two Brights (excluding Rainman)|Used in Hon-bana.|
 |Nisoro|-|Three Willows *or* Set of 2's|Three Willow cards excluding the Lightning card.|Used in Palauan Hanakuda. Has mekurifuda origins, and is possibly originally a combination of all 3 scoring cards of the number 2.|
+|Nizoro</br>二ゾロ|-|Four 2's|Four '2' cards (in a mekurifuda deck)|Used in the game Taoshi. Equivalent of either Ume Shima or Yanagi Shima, depending on the month sequence.|
 |Nomi</br>飲み|**Teppō** [鉄砲] (in Roppyakken. **Daepo** [대포] in Korean, **Teppo** in Palauan), **Taihō** [大砲] (in Yamayaku), **Tsukihana Ippai** [月花一杯] (in Changara)|Drinking|Curtain, Full Moon, Sake Cup.|-|
 |Nomi</br>飲み|-|Drinking|Sake Cup plus any one Bright card or the Bridge card.|Used only in the game Taiyaku.|
 |Omote Bāsan</br>表婆さん|-|Sword 10-9-8 *or* Greater 10-9-8|Maple Ribbon, Chrysanthemum Ribbon, Geese.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
@@ -231,7 +232,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
 |Rokutan</br>六短|-|Six Ribbons|Six Ribbons. May or may not include the Willow Ribbon, and may or may not have a bonus for additional Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Rokutan</br>六短|-|Six Red Ribbons|Six Red Ribbons, which may or may not have writing.|Used only in the game Taiyaku.|
-|Sakura Shima</br>桜島|**Sakura Zoro** [桜ゾロ], **San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku), **San** [三] (in Tenshu), **Chokosan** [チョコ三] (in Tenshu)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Equivalent of having Four cards of the number 3 in mekurifuda.|
+|Sakura Shima</br>桜島|**Sakura Zoro** [桜ゾロ], **San Yaku** [三役] (in Kujuroku), **San Shima** [三島] (in Kujuroku), **San Zoro** [三ゾロ] (in Taoshi), **San** [三] (in Tenshu), **Chokosan** [チョコ三] (in Tenshu)|Four Cherry Blossoms *or* Four 3's|Four Cherry Blossom cards.|Equivalent of having Four cards of the number 3 in mekurifuda.|
 |Sanbeni</br>三紅|-|Three Red Flowers|Plum Chaff, Peony Chaff, Bush Clover Chaff|An old yaku, the composition is only an assumption based on descriptions.|
 |Sangoro</br>三五六|-|3-5-6 *or* Greater 3-5-6|Curtain, Bridge, Butterflies|Possibly has mekurifuda origins.|
 |Sankō</br>三光|**Samgwang** [삼광] in Korean|Three Brights|Three Bright cards excluding Rainman.|-|
