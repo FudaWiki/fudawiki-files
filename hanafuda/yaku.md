@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T06:01:43.450Z
+date: 2022-11-16T06:17:09.218Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -218,6 +218,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Omote Ichinijū</br>表一二十|-|Sword 1-2-10 *or* Lesser 1-2-10|Ribbons of Pine, Willow, and Maple.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-11-12 *or* Lesser 10-11-12|Ribbons of Maple, Peony, and Plum Blossom.|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Jū-umakiri</br>表十馬キリ|-|Sword 10-9-12 *or* Lesser 10-9-12|Ribbons of Maple, Chrysanthemum, and Plum Blossom.|A variant of the above Yaku of the same name, where the Peony ribbon is replaced with Chrysanthemum.|
+|Omote Kumasan</br>表クマザン|-|Sword 9-11-3 *or* Lesser 9-11-3|Ribbons of Crysanthemum, Peony, and Cherry Blossom.|Used in Tensho. A variant of Tan no Kumanosan where Willow is replaced with Peony due to usage of Nagoya month sequence. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Omote Sashigo</br>表三四五|-|Sword 3-4-5 *or* Lesser 3-4-5|Ribbons of Cherry Blossom, Wisteria, and Iris|Used in Tensho. The Omote term refers to the sharp edge of a blade, alluding to its composition of Sword cards.|
 |Omote Sugawara</br>表菅原|**Sanko** [三光] (in Mushi), **Omote** [表], **Omote Sanko** [表三光] (in Hon-bana), **Ichinisan** [一二三] (in Hachi), **Ōzan** [大三] (in Roppyakken), **Uwa-dango** [上だんこ] (in Nara Hana-awase), **Il-i-sam** [일이삼] in Korean, **Chume Mats Sakura** in Palauan|Spring *or* Greater 1-2-3|Crane, Bush Warbler, Curtain.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. The term Omote refers to its composition of high-scoring cards (as opposed to Ura, which are composed of Ribbons). It is actually the same as the Mekuri yaku Shimosan, if the standard month sequence is used.|
 |Ōtori</br>大鳥|-|Large Birds|Crane, Geese, Phoenix.|-|
@@ -279,6 +280,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Ura Ichinisan</br>裏一二三|-|Club 1-2-3 *or* Greater 1-2-3|Crane, Swallow, Deer|Used in Tensho as a variant of Shimozan where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Ichinijū</br>裏一二十|-|Club 1-2-10 *or* Greater 1-2-10|Crane, Swallow, Deer|Used in Tensho as a variant of Danjūrō where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Jū-umakiri</br>裏十馬キリ|-|Club 10-9-12 *or* Greater 10-9-12|Deer, Sake Cup, Bush Warbler.|Used in Tensho as a variant of Kamisan but with Butterflies replaced with Sake Cup for some reason. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
+|Ura Kumasan</br>裏クマザン|-|Club 9-11-3 *or* Greater 9-11-3|Sake Cup, Butterflies, Curtain|Used in Tensho. A variant of Kumanosan where the Rainman is replaced with Butterflies due to usage of Nagoya month sequence. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Omote</br>裏表|-|Front and Back|Omote Sugawara + Akatan|Used in the game Taiyaku.|
 |Ura Sashigo</br>裏三四五|-|Club 3-4-5 *or* Greater 3-4-5|Curtain, Cuckoo, Bridge|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Yanagi Shima</br>柳島|**Yanagi Zoro** [柳ゾロ], **Ame Shima** [雨島], **Ame Zoro** [雨ゾロ], **Biyak** [비약], **Bijori** [비조리] in Korean|Four Willows|Four Willow cards.|Has mekurifuda origins.|
