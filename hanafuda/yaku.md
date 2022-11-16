@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-16T03:10:09.724Z
+date: 2022-11-16T03:10:41.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -147,7 +147,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 **NOTE: Some Dekiyaku have Mekurifuda origins or are used exclusively for Mekurifuda games.**
 |Name|A.K.A.|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Ura refers to it being composed of low-scoring cards.|
+|Akatan</br>赤短|**Akayoroshi** [赤よろし], **Akayoro** [赤よろ], **Aka** [赤], **Ura Sugawara** [裏菅原], **Sugawara** [菅原], **Urasu** [裏す], **Ura** [裏], **Ura Sanko** [裏三光] (in Hon-bana), **Kozan** [小三] (in Roppyakken), **Ko Sugawara** [小菅原] (in Suhara-bana), **Tan no Ichinisan** [短の一二三] (in Hachi), **Hi** [緋] (in Kaga), **Shimo-dango** [下だんこ] (in Nara Hana-awase), **Hongdan** [홍단] in Korean, **Kodangko** in Palauan|Poetry Ribbons *or* Lesser 1-2-3|Three Red Poetry Ribbons.|The Sugawara name is a reference to the Sugawara Triplets: Matsuomaru, Umeomaru, and Sakuramaru. Ura refers to it being composed of low-scoring cards. May have evolved from a Mekuri yaku involving collecting the numbers 1, 2, 3.|
 |Akatan Aotan no Chōfuku</br>赤短・青短の重複|-|Poetry and Blue Ribbons|Three Red Poetry Ribbons plus three Blue Ribbons.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Ame Kaburi</br>雨頭|-|Top Rains|Rainman and Willow|-|
 |Ame-shikō</br>雨四光|**Ame-iri Shiko** [雨入四光], **Jū Yoshiwara** [十吉原] (in Taiyaku), **Shikō** [四光] (if the same Yaku excluding Rainman is called Honshikō (Real Four Brights))|Rainy Four Brights|Four Bright cards including Rainman.|-|
