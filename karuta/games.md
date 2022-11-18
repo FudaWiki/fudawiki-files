@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-11-07T13:37:39.569Z
+date: 2022-11-18T08:01:33.000Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -33,9 +33,8 @@ dateCreated: 2022-10-22T17:39:03.924Z
 # Japanese Games using Western Playing Cards
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|[Daifugo](/en/trump/daifugo)||Sequence|Japan|
-|[Goninkan](/en/trump/goninkan)|||Japan|
-|[Napoleon](/en/trump/napoleon)|||Japan|
+|[Daifugo](https://en.wikipedia.org/wiki/Daifug%C5%8D)||Sequence|Japan|
+|[Goninkan](https://www.pagat.com/picture/kan.html)|||Japan|
 
 # Other Lists of Games
 - [Hanafuda Games](/en/hanafuda/games)
