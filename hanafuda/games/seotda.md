@@ -2,8 +2,8 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-11-18T08:26:25.162Z
-tags: hanafuda games
+date: 2022-11-18T08:37:38.248Z
+tags: hanafuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
 ---
