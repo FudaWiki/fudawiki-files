@@ -2,8 +2,8 @@
 title: Ayame Katsugi
 description: a bakappana variant with different card points.
 published: true
-date: 2022-08-15T08:25:26.470Z
-tags: hanafuda games
+date: 2022-11-18T08:40:45.807Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-15T08:25:26.470Z
 ---
