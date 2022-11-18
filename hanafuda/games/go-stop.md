@@ -2,8 +2,8 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2022-10-13T15:31:21.512Z
-tags: hanafuda games, hwatu, fishing games
+date: 2022-11-18T08:24:34.709Z
+tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
 ---
