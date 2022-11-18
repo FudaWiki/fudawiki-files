@@ -2,8 +2,8 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2022-04-10T15:21:28.133Z
-tags: hanafuda games, fishing games
+date: 2022-11-18T08:37:00.587Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
 ---
