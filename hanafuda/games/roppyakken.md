@@ -2,8 +2,8 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-08-23T08:05:01.643Z
-tags: hanafuda games, fishing games
+date: 2022-11-18T08:36:17.246Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
 ---
