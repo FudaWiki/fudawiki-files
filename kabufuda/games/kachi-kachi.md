@@ -2,13 +2,15 @@
 title: Kachi-Kachi
 description: A Kabufuda game with multiple betting rounds and a showdown similar to Poker
 published: true
-date: 2022-07-13T09:06:48.792Z
+date: 2022-11-18T08:13:11.721Z
 tags: stripped deck, kabufuda games, showdown games
 editor: markdown
 dateCreated: 2022-04-01T18:08:06.760Z
 ---
 
 **Kachi-Kachi** is a Kabufuda game for 2-8 players in which players bet on the value of their dealt cards across multiple rounds, similar to most poker games. Optional rules add multiple special hands and unique cards for an increased element of luck. 
+
+A very similar game exists in Korea, called [Seotda](/en/hanafuda/games/seotda).
 
 # Equipment
 **Kachi-Kachi** is played using a *half deck* of *Kabufuda* cards, consisting of only two sets of the cards 1-10, including the red One and the marked Four.
