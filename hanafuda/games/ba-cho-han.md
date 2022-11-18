@@ -2,8 +2,8 @@
 title: Ba Chō-Han
 description: Traditional Japanese Dice Game... except it's Hanafuda, not dice.
 published: true
-date: 2022-08-25T14:33:25.230Z
-tags: hanafuda games
+date: 2022-11-18T08:42:52.719Z
+tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-08-25T14:33:25.230Z
 ---
