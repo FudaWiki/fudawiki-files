@@ -2,7 +2,7 @@
 title: Seotda
 description: A Korean hwatu game with Poker gameplay mechanics.
 published: true
-date: 2022-10-26T05:38:40.168Z
+date: 2022-11-18T08:26:25.162Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-23T06:45:33.075Z
@@ -12,6 +12,8 @@ dateCreated: 2022-08-23T06:45:33.075Z
 
 
 Initially played with [Tujeon](https://folkency.nfm.go.kr/en/topic/detail/1630), nowadays the game uses Hwatu or Hanafuda instead and adopted some terminology and rules from [Oicho-Kabu](/en/kabufuda/games/oicho-kabu). Also, like Poker, Seotda has many different gameplay variations, but the most basic version (the one described below) is called **2-card Seotda**.
+
+A very similar game played using Kabufuda exists in Japan, called [Kachi-kachi](/en/kabufuda/games/kachi-kachi).
 
 # Equipment
 **Seotda** is played using **20 cards** of a *Hanafuda* deck, consisting of only the two most valuable types of the cards from January to October.
