@@ -2,8 +2,8 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2022-04-10T15:20:14.548Z
-tags: hanafuda games, fishing games
+date: 2022-11-18T08:43:57.847Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T17:59:54.677Z
 ---
