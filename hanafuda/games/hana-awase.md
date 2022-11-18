@@ -2,8 +2,8 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2022-04-10T15:20:38.089Z
-tags: hanafuda games, fishing games
+date: 2022-11-18T08:31:35.739Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:34.887Z
 ---
