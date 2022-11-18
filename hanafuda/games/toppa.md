@@ -2,8 +2,8 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-08-09T03:36:10.744Z
-tags: hanafuda games
+date: 2022-11-18T08:43:25.479Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
 ---
