@@ -2,8 +2,8 @@
 title: Ishikari Toppa
 description: Hanafuda game from Ishikari Subprefecture in Hokkaido, Japan. Described as "Bakappana but with Teyaku".
 published: true
-date: 2022-08-09T03:34:20.269Z
-tags: hanafuda games
+date: 2022-11-19T03:36:13.905Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-09T02:39:04.184Z
 ---
