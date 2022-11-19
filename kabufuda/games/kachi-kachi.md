@@ -2,8 +2,8 @@
 title: Kachi-Kachi
 description: A Kabufuda game with multiple betting rounds and a showdown similar to Poker
 published: true
-date: 2022-11-18T08:13:11.721Z
-tags: stripped deck, kabufuda games, showdown games
+date: 2022-11-19T03:40:19.338Z
+tags: stripped deck, kabufuda games, showdown games, kabu-kei
 editor: markdown
 dateCreated: 2022-04-01T18:08:06.760Z
 ---
