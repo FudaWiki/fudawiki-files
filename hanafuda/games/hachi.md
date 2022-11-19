@@ -2,8 +2,8 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2022-04-10T15:20:34.969Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T03:17:32.528Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:27.904Z
 ---
