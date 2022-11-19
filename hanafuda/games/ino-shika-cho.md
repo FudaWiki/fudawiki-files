@@ -2,8 +2,8 @@
 title: Ino-Shika-Chō
 description: A simple gambling game for any number of players.
 published: true
-date: 2022-08-23T14:36:48.132Z
-tags: hanafuda games, banking games
+date: 2022-11-19T03:32:42.509Z
+tags: hanafuda games, banking games, non-conventional
 editor: markdown
 dateCreated: 2022-04-01T18:00:53.681Z
 ---
