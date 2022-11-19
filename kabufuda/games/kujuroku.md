@@ -2,8 +2,8 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-11-15T03:55:45.937Z
-tags: hanafuda games, kabufuda games
+date: 2022-11-19T03:58:47.852Z
+tags: hanafuda games, kabufuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
 ---
