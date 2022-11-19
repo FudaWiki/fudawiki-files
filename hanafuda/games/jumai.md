@@ -2,8 +2,8 @@
 title: Jū Mai
 description: A 2-player bakappana variant with an altered deal and altered card values.
 published: true
-date: 2022-04-10T15:20:49.081Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T03:38:13.898Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:01.184Z
 ---
