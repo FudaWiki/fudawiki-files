@@ -2,8 +2,8 @@
 title: Kabu-Tsukuri
 description: A simple gambling game where each player has 3 rows of 3 cards.
 published: true
-date: 2022-08-25T05:37:55.377Z
-tags: hanafuda games
+date: 2022-11-19T03:39:43.494Z
+tags: hanafuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-08-25T05:34:48.631Z
 ---
