@@ -2,8 +2,8 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2022-10-12T13:36:54.186Z
-tags: fishing games
+date: 2022-11-19T04:21:46.511Z
+tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
 ---
