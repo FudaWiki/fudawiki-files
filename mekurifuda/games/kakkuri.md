@@ -2,8 +2,8 @@
 title: Kakkuri
 description: The last surviving Yomi game.
 published: true
-date: 2022-10-16T06:54:41.946Z
-tags: hanafuda games, mekurifuda games
+date: 2022-11-19T03:43:21.730Z
+tags: hanafuda games, mekurifuda games, yomi-kei
 editor: markdown
 dateCreated: 2022-08-26T15:22:36.812Z
 ---
