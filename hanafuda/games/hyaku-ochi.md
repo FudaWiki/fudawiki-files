@@ -2,8 +2,8 @@
 title: Hyaku-Ochi
 description: A bakappana variant for 2 players. Race to 100 points!
 published: true
-date: 2022-09-06T04:01:43.745Z
-tags: hanafuda games
+date: 2022-11-19T03:29:26.206Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-24T06:58:31.142Z
 ---
