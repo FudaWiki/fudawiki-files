@@ -2,8 +2,8 @@
 title: Echobo
 description: Simplified Tehonbiki using hanafuda cards.
 published: true
-date: 2022-08-31T06:12:23.706Z
-tags: hanafuda games
+date: 2022-11-19T03:14:14.995Z
+tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
 ---
