@@ -2,8 +2,8 @@
 title: Ichi-Ni-San
 description: A 3-player hanafuda game with simple rules and few yaku
 published: true
-date: 2022-07-05T07:58:53.371Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T03:31:29.923Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:47.214Z
 ---
