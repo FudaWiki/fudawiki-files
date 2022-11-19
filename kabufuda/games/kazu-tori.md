@@ -2,8 +2,8 @@
 title: Kazu-Tori
 description: A Daini game. If the discarded card matches the declared number, you must grab it!
 published: true
-date: 2022-10-09T14:58:02.432Z
-tags: 
+date: 2022-11-19T03:47:03.851Z
+tags: mekurifuda games, non-conventional
 editor: markdown
 dateCreated: 2022-08-30T04:18:11.869Z
 ---
