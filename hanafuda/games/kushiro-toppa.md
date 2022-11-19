@@ -2,8 +2,8 @@
 title: Kushiro Toppa
 description: A Koi-koi variant from Kushiro subprefecture in Hokkaido, Japan.
 published: true
-date: 2022-08-09T02:37:40.987Z
-tags: hanafuda games
+date: 2022-11-19T03:59:44.282Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-09T02:26:28.629Z
 ---
