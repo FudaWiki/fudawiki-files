@@ -2,8 +2,8 @@
 title: Ino-Shika-Chō (Roppyakken variant)
 description: A roppyakken variant played in Hokkaido, Japan.
 published: true
-date: 2022-08-23T14:35:31.692Z
-tags: hanafuda games
+date: 2022-11-19T03:33:26.070Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-23T14:35:31.692Z
 ---
