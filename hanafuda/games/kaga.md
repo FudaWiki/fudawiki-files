@@ -2,8 +2,8 @@
 title: Kaga
 description: A 2 player hanafuda fishing game. Grab as many Four-of-a-kinds as you can!
 published: true
-date: 2022-08-24T08:05:03.658Z
-tags: hanafuda games
+date: 2022-11-19T03:41:54.302Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-24T08:00:07.446Z
 ---
