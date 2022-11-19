@@ -2,8 +2,8 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2022-08-09T08:50:47.095Z
-tags: hanafuda games
+date: 2022-11-19T03:20:06.194Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
 ---
