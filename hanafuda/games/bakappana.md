@@ -2,8 +2,8 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2022-09-06T05:34:16.974Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T02:02:25.612Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
 ---
