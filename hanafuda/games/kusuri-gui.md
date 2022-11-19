@@ -2,8 +2,8 @@
 title: Kusuri-gui
 description: A hanafuda game for 2 players. Matching the card takes the entire field!
 published: true
-date: 2022-07-22T03:29:00.516Z
-tags: hanafuda games
+date: 2022-11-19T04:03:37.975Z
+tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-07-16T07:59:02.869Z
 ---
