@@ -2,8 +2,8 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2022-04-10T15:20:41.034Z
-tags: hanafuda games, fishing games, alternate suit order, stripped deck
+date: 2022-11-19T03:24:44.576Z
+tags: hanafuda games, fishing games, alternate suit order, stripped deck, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:41.306Z
 ---
