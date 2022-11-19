@@ -2,8 +2,8 @@
 title: Dare
 description: A kabufuda game. Make 3 sets that matches the score on the field!
 published: true
-date: 2022-11-05T02:39:34.168Z
-tags: 
+date: 2022-11-19T03:12:32.904Z
+tags: kabufuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-10-21T14:10:27.832Z
 ---
