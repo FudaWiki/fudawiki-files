@@ -2,8 +2,8 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2022-04-10T15:21:04.984Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T04:20:11.225Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:40.975Z
 ---
