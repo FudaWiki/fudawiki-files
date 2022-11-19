@@ -2,8 +2,8 @@
 title: Matsu-Kiri-Bōzu
 description: A hana-awase variant for 2 players, with 3 wild cards.
 published: true
-date: 2022-08-24T09:09:22.163Z
-tags: hanafuda games
+date: 2022-11-19T04:20:42.315Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-24T09:09:22.163Z
 ---
