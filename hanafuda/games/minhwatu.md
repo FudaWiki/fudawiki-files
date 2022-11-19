@@ -2,8 +2,8 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-04-10T15:21:08.221Z
-tags: hanafuda games, hwatu, fishing games
+date: 2022-11-19T04:00:18.397Z
+tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:52.656Z
 ---
