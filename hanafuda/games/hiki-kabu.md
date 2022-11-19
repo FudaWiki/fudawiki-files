@@ -2,8 +2,8 @@
 title: Hiki-Kabu
 description: A Kabufuda game with a showdown similar to Poker
 published: true
-date: 2022-10-16T11:37:35.352Z
-tags: hanafuda games, kabufuda games
+date: 2022-11-19T03:08:52.672Z
+tags: hanafuda games, kabufuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-08-24T15:54:23.824Z
 ---
