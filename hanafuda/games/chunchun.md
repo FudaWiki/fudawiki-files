@@ -2,8 +2,8 @@
 title: Chunchun
 description: A hanafuda game from Okayama Region of Japan
 published: true
-date: 2022-07-13T03:42:03.090Z
-tags: hanafuda games
+date: 2022-11-19T03:11:29.569Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-13T03:36:57.452Z
 ---
