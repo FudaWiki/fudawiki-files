@@ -2,8 +2,8 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-11-13T09:14:07.242Z
-tags: hanafuda games
+date: 2022-11-19T03:15:11.314Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
 ---
