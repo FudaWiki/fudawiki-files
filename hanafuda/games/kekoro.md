@@ -2,8 +2,8 @@
 title: Kekoro
 description: A 2-player hanafuda game with card values like Sudaoshi and yaku similar to Hachi.
 published: true
-date: 2022-04-10T15:20:52.328Z
-tags: hanafuda games, fishing games
+date: 2022-11-19T03:47:41.594Z
+tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:10.864Z
 ---
