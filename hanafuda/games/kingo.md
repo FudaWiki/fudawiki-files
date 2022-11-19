@@ -2,8 +2,8 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-11-19T03:49:23.353Z
-tags: hanafuda games, kabufuda games
+date: 2022-11-19T03:49:58.305Z
+tags: hanafuda games, kabufuda games, mekurifuda games, kingo-kei
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
 ---
