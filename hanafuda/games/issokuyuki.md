@@ -2,8 +2,8 @@
 title: Issoku Yuki
 description: A bakappana variant for 2 players with cumulative scoring  and only one special yaku.
 published: true
-date: 2022-08-24T06:59:03.971Z
-tags: hanafuda games
+date: 2022-11-19T03:37:42.044Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-15T03:17:12.622Z
 ---
