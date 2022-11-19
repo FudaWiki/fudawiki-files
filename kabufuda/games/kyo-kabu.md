@@ -2,8 +2,8 @@
 title: Kyo-Kabu
 description: An Oicho-Kabu variant with a different deal setup.
 published: true
-date: 2022-10-16T12:04:57.366Z
-tags: hanafuda games, kabufuda games
+date: 2022-11-19T04:06:22.845Z
+tags: hanafuda games, kabufuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-07-18T16:14:00.150Z
 ---
@@ -12,15 +12,11 @@ dateCreated: 2022-07-18T16:14:00.150Z
 
 ![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
 
-> It was attested to be originally played using **Daini**, a deck with a similar structure to Kabufuda.
+> It was attested to be also played using **Mamefuda**, a one-suited Mekurifuda deck with a similar structure to Kabufuda. Mamefuda include: Daina, Mefuda, and Komaru.
 {.is-info}
 
 ![daini_deck.png](/suryongfiles/daini_deck.png =500x)
 
-> It was also attested to be played using **Mefuda**, another deck with a similar structure to Kabufuda.
-{.is-info}
-
-![mefuda_deck.png](/suryongfiles/mefuda_deck.png =500x)
 
 > If you don't have a Kabufuda deck, you may use a standard Hanafuda deck with all Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) and Paulownia ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards removed; the values of the cards will be based on the month order.
 {.is-info}
