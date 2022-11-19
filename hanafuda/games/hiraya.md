@@ -2,8 +2,8 @@
 title: Hiraya
 description: a hana-awase variant with only 1 teyaku and few dekiyaku.
 published: true
-date: 2022-09-13T15:09:00.416Z
-tags: hanafuda games
+date: 2022-11-19T03:22:06.365Z
+tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-09-13T14:53:44.905Z
 ---
