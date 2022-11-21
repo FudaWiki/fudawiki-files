@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-11-21T03:36:19.655Z
+date: 2022-11-21T09:01:05.095Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -15,6 +15,24 @@ A standard [Hanafuda](/en/hanafuda) deck consists of 12 suits, and each suit has
 The 12 suits are arranged in a sequence, which may vary depending on the game played or the region of origin. The different arrangement of suits are described below.
 
 Some specialty decks, especially those made by Matsui Tengudo, included a 13th suit, or even a 14th suit, which enable altered gameplay or a greater number of participants.
+
+# Names of Suits
+
+|Icon|Name|A.K.A.|
+|:---:|:---:|:---:|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|-|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|-|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜, *sakura*]|-|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries']|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris']|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|-|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)</br>[萩, *hagi*]|**Akamame** [赤豆, 'red beans'], **Akai-mi** [赤い実, 'red berries'], **Inoshishi** [猪, 'boar']|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)</br>[芒, *susuki*]|**Yama** [山, 'mountain'], **Tsuki** [月, 'moon'], **Bōzu** [坊主, 'monk'], **Daibōzu** [大坊主, 'great monk]|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)</br>[菊, *kiku*]|-|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)</br>[紅葉, *momiji*]|**Kaede** [楓, 'maple tree'], **Shika** [鹿, 'deer']|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)</br>[柳, *yanagi*]|**Ame** [雨, 'rain']|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|-|
+
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
