@@ -2,13 +2,19 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-10-07T15:30:05.120Z
+date: 2022-11-21T03:36:19.655Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
 ---
 
-There are 12 suits of 4 cards each in the standard [Hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also come with a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.
+Typically speaking, a **suit** in a hanafuda deck refers to the specific plant or flower on the card.
+
+A standard [Hanafuda](/en/hanafuda) deck consists of 12 suits, and each suit has 4 cards. Each suit represents one of the 12 months of the year. In practice, these represent the 12 numbers of a [Mekurifuda](/en/mekurifuda) deck, or a Portuguese playing card deck.
+
+The 12 suits are arranged in a sequence, which may vary depending on the game played or the region of origin. The different arrangement of suits are described below.
+
+Some specialty decks, especially those made by Matsui Tengudo, included a 13th suit, or even a 14th suit, which enable altered gameplay or a greater number of participants.
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
@@ -20,7 +26,7 @@ The **"Kabu"** column reflects a Hanafuda deck with the last two suits (Willow a
 
 The **"Mushi"** column is similar, but reflects instead the [Mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is commonly used to play [Osaka Mushi](/en/hanafuda/games/mushi). This order is used in the game [Mushi-Kabu](/en/kabufuda/games/kyo-kabu#mushi-kabu-kyo-kabu-variant), where the Willow and Paulownia suits were used as substitutes for the Peony and Bush Clover suits respectively.
 
-The order reflected in the final column is used in certain Japanese games from the **Nagoya** region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about. This order must have been devised to mimic the card structure of a [Mekurifuda](/en/mekurifuda) deck, so that the Hanafuda deck could be used to play games designed for Mekurifuda decks.
+The order reflected in the final column is used in certain Japanese games from the **Nagoya** region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about. This order must have been devised to mimic the card structure of a [Mekurifuda](/en/mekurifuda) deck *(most importantly, the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow suit, which has 3 non-Chaff cards, is assigned to the number 2 of a Mekurifuda deck, which sometimes utilize the 2 of coins as a scoring card)*, so that the Hanafuda deck could be used to play games designed for Mekurifuda decks.
 
 |#|Month|Icon|Standard|Korean|Kabu|Mushi|Nagoya|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
