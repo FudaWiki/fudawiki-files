@@ -2,7 +2,7 @@
 title: Hachi (using Mekurifuda)
 description: Hachi using Mekurifuda cards.
 published: true
-date: 2022-11-22T07:01:38.108Z
+date: 2022-11-22T07:03:09.175Z
 tags: mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-11-22T07:01:38.108Z
@@ -45,8 +45,8 @@ After playing a card from your hand and making a match as is appropriate, flip o
 # Card Values
 |Point Value|Type of Card|Number in Deck|
 |:---:|:---:|:---:|
-|1|Ribbons|10|
-|10|All Other Cards|38|
+|1|Swords|12|
+|10|All Other Cards|36|
 # Yaku
 There are 21 yaku in the game of Hachi, which exist as 10 pairs of All-Club and All-Sword variants, and one All-Sword yaku with no partner.
 
