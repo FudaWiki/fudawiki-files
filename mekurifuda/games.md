@@ -2,16 +2,30 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-11-22T07:10:52.828Z
+date: 2022-11-22T08:08:01.809Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
 ---
 
-# Traditional Games
 This is a list of known [mekurifuda](/en/mekurifuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 Note that some of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
+
+**There are 3 major families to which mekurifuda games tend to belong:**
+1. **Fishing** (or "Capture") games are those such as Mekuri whose main gameplay mechanism revolves around playing cards from one's hand to capture a matching card on the field. 
+2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
+3. **Sequence** games are those such as Yomi which depend upon players playing their cards to the field in numerical order, often with a goal of emptying one's hand before one's opponents.
+
+Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
+
+**Similarly, in Japan, there are 4 major families to which hanafuda games are classified, based on their gameplay elements:**
+1. **Mekuri-kei** games are fishing games that have the gameplay element of having to draw (めくる, *mekuru*) a card from the draw pile and playing it to capture a matching card on the field.
+2. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
+3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
+4. **Yomi-kei** is the Japanese term for sequence games.
+
+# Traditional Games
 
 ## Games using Four-Suited Decks
 |Game|Players|Family|Origin|Pattern Used|
