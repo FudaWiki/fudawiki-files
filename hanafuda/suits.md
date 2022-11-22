@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-11-22T02:48:31.450Z
+date: 2022-11-22T02:52:58.148Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -56,7 +56,7 @@ The order reflected in the final column is used in certain Japanese games from t
 |4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)[Wisteria](/en/hanafuda/suits/wisteria)|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria|
 |5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)[Iris](/en/hanafuda/suits/iris)|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris|
 |6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)[Peony](/en/hanafuda/suits/peony)|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony|![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow|![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia|
-|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)[Bush Clover](/en/hanafuda/suits/bush-clover)|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|Paulownia|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|
+|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)[Bush Clover](/en/hanafuda/suits/bush-clover)|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover|
 |8|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[Susuki Grass](/en/hanafuda/suits/susuki-grass)|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass|
 |9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum|
 |10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)[Maple](/en/hanafuda/suits/maple)|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple|
