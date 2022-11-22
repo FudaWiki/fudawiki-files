@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-11-22T03:16:52.300Z
+date: 2022-11-22T04:03:14.101Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -20,18 +20,18 @@ Some specialty decks, especially those made by Matsui Tengudo, included a 13th s
 
 |Icon|Name|A.K.A.|
 |:---:|:---:|:---:|
-|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|-|
-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|-|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜/櫻, *sakura*]|-|
-|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries']|
-|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris']|
-|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|-|
-|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)</br>[萩, *hagi*]|**Akamame** [赤豆, 'red beans'], **Akai-mi** [赤い実, 'red berries'], **Inoshishi** [猪, 'boar']|
-|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)</br>[芒/薄, *susuki*]|**Yama** [山, 'mountain'], **Tsuki** [月, 'moon'], **Bōzu** [坊主, 'monk'], **Daibōzu** [大坊主, 'great monk]|
-|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)</br>[菊, *kiku*]|-|
-|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)</br>[紅葉, *momiji*]|**Kaede** [楓, 'maple tree'], **Shika** [鹿, 'deer']|
-|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)</br>[柳, *yanagi*]|**Ame** [雨, 'rain']|
-|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|-|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|**Songhak** [송학, 'pine crane'] in Korean|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|**Maejo** [매조, 'plum bird'] in Korean|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜/櫻, *sakura*]|**Beojkkot** [벚꽃, 'cherry blossom'] in Korean|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries'], **Heukssari** [흑싸리, 'black bush clover'] in Korean|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris'], **Nancho** [난초, 'orchid'] in Korean|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|**Moran** [모란, 'peony'] in Korean|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)</br>[萩, *hagi*]|**Akamame** [赤豆, 'red beans'], **Akai-mi** [赤い実, 'red berries'], **Inoshishi** [猪, 'boar'], **Hongssari** [홍싸리, 'red bush clover'] in Korean|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)</br>[芒/薄, *susuki*]|**Yama** [山, 'mountain'], **Tsuki** [月, 'moon'], **Bōzu** [坊主, 'monk'], **Daibōzu** [大坊主, 'great monk], **Gongsan** [공산, 'sky mountain'] in Korean|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)</br>[菊, *kiku*]|**Gukjin** [국진] in Korean|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)</br>[紅葉, *momiji*]|**Kaede** [楓, 'maple tree'], **Shika** [鹿, 'deer'], **Danpung** [단풍, 'maple'] in Korean|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)</br>[柳, *yanagi*]|**Ame** [雨, 'rain'], **Bi** [비, 'rain'] in Korean|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|**Odong** [오동, 'paulownia'] in Korean|
 
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. 
