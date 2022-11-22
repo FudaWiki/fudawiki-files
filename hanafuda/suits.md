@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-11-21T09:01:05.095Z
+date: 2022-11-22T02:43:03.385Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -34,7 +34,9 @@ Some specialty decks, especially those made by Matsui Tengudo, included a 13th s
 |![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|-|
 
 # Arrangement of Suits
-The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
+The following chart shows the ordering of the suits according to different schemes. 
+
+The **"#"** column gives the **numeric value** for each suit, while **"Month"** gives the **month of the year** associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
 The column labeled **"Standard"** is the most common ordering used for Japanese Hanafuda games, and should be used unless otherwise specified. 
 
@@ -46,11 +48,11 @@ The **"Mushi"** column is similar, but reflects instead the [Mushibana](/en/hana
 
 The order reflected in the final column is used in certain Japanese games from the **Nagoya** region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant). It is mostly similar to the standard order, but with ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom, ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) shuffled about. This order must have been devised to mimic the card structure of a [Mekurifuda](/en/mekurifuda) deck *(most importantly, the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow suit, which has 3 non-Chaff cards, is assigned to the number 2 of a Mekurifuda deck, which sometimes utilize the 2 of coins as a scoring card)*, so that the Hanafuda deck could be used to play games designed for Mekurifuda decks.
 
-|#|Month|Icon|Standard|Korean|Kabu|Mushi|Nagoya|
+|#|Month|Standard|Korean|Kabu|Mushi|Nagoya|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
-|2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Plum Blossom|Plum Blossom|Plum Blossom|Willow|
-|3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Cherry Blossom|Cherry Blossom|Cherry Blossom|Cherry Blossom|
+|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[Pine](/en/hanafuda/suits/pine)|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine|
+|2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)[Plum Blossom](/en/hanafuda/suits/plum-blossom)|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom|Willow|
+|3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom|
 |4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[Wisteria](/en/hanafuda/suits/wisteria)|Wisteria|Wisteria|Wisteria|Wisteria|
 |5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[Iris](/en/hanafuda/suits/iris)|Iris|Iris|Iris|Iris|
 |6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[Peony](/en/hanafuda/suits/peony)|Peony|Peony|Willow|Paulownia|
@@ -59,7 +61,7 @@ The order reflected in the final column is used in certain Japanese games from t
 |9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|Chrysanthemum|Chrysanthemum|Chrysanthemum|Chrysanthemum|
 |10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[Maple](/en/hanafuda/suits/maple)|Maple|Maple|Maple|Maple|
 |11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[Willow](/en/hanafuda/suits/willow)|Paulownia|-|-|Peony|
-|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|Plum Blossom|
+|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom|
 
 # Additional Suits
 A few specialty Hanafuda decks feature additional suits, the most famous of these produced by [Matsui Tengudo](/en/hanafuda/manufacturers/matsui-tengudo). These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
