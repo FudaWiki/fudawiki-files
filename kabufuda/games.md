@@ -2,18 +2,27 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-11-05T08:34:11.377Z
+date: 2022-11-22T08:12:12.353Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
 ---
 
-# Traditional Games
 This is a list of known [kabufuda](/en/kabufuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 Note that many if not all of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
 
 Also, some of these games were originally played using different one-suited [Mekurifuda](/en/mekurifuda) decks; for the list of patterns originally used, see [Mekurifuda games](/en/mekurifuda/games).
+
+**There is 1 major family to which kabufuda games tend to belong: Showdown Games.**
+- **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
+
+**This family could be split further into 2 sub-families:**
+1. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
+2. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
+
+# Traditional Games
+
 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
