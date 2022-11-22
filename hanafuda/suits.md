@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2022-11-22T03:16:33.375Z
+date: 2022-11-22T03:16:52.300Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -22,7 +22,7 @@ Some specialty decks, especially those made by Matsui Tengudo, included a 13th s
 |:---:|:---:|:---:|
 |![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|-|
 |![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|-|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜, *sakura*]|-|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜/櫻, *sakura*]|-|
 |![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries']|
 |![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris']|
 |![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|-|
