@@ -2,13 +2,16 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2022-11-19T03:17:32.528Z
+date: 2022-11-22T07:07:07.113Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:27.904Z
 ---
 
 **Hachi** [八, はち *hachi*, lit. "Eight"] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for two players loosely based on [Hana Awase](/en/hanafuda/games/hana-awase), but with several unique characteristics, most notably its capture mechanic. In it, cards do not generally capture within their own [suit](/en/hanafuda/suits) as in other games of the genre, but rather may capture from a specific set of suits. Based on the similarity between their yaku inventories, it is likely related to the game [Kekoro](/en/hanafuda/games/kekoro).
+
+Due to the nature of the Yaku in this game, it is assumed that the game was originally played using [Mekurifuda](/en/mekurifuda) before it was adopted into a Hanafuda game. *([Click here](/en/mekurifuda/games/hachi) to see a possible way of playing this game using Mekurifuda)*
+
 # Setup
 Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Players may also wish at this time to set the duration of the game, whether it be to a number of rounds, points, or victories. A common option is for the first player to win two consecutive rounds by a margin of 20 points or more to win the overall game.
 ## Choosing the Dealer
