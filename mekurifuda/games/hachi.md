@@ -2,13 +2,13 @@
 title: Hachi (using Mekurifuda)
 description: Hachi using Mekurifuda cards.
 published: true
-date: 2022-11-22T07:03:09.175Z
+date: 2022-11-22T07:07:48.074Z
 tags: mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-11-22T07:01:38.108Z
 ---
 
-Based on our observation, it is possible to play [**Hachi**](/en/hanafuda/games/hachi), a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for two players loosely based on [Hana Awase](/en/hanafuda/games/hana-awase), using a [Mekurifuda](/en/mekurifuda) deck, and it is possible that the game originally was played using Mekurifuda before it was adopted into Hanafuda.
+Based on our observation, it is possible to play [**Hachi**](/en/hanafuda/games/hachi), a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for two players loosely based on [Hana Awase](/en/hanafuda/games/hana-awase), using a [Mekurifuda](/en/mekurifuda) deck, and it may have been that the game originally was played using Mekurifuda before it was adopted into Hanafuda.
 
 ![ise_deck.png](/suryongfiles/ise_deck.png =500x)
 
