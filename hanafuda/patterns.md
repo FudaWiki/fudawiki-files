@@ -1,8 +1,8 @@
 ---
-title: List of Hanafuda Patterns
-description: A list of known traditional card patterns
+title: Hanafuda variations
+description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-07T14:53:34.730Z
+date: 2022-11-23T06:35:40.290Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
