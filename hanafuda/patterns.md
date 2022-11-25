@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-23T07:21:16.606Z
+date: 2022-11-25T05:06:44.925Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -22,9 +22,9 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |:---:|:---:|:---:|
 |**Awa-Bana** |-| Also known as Kintoki-Bana. Most Chaff, Ribbons, and some other cards explicitly mention the month number on the cards. The Chaff of Pine and Susuki Grass have a very abridged version of the Echigo-bana poems. Includes an Onifuda which depicts Kintaro.|
 |**Bizen-Bana** |-| Described as an Echigo-bana variant without poems.|
-|**Dairen-Bana** |-| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dalian in the Kwantung Leased Territory.|
+|**Dairen-Bana** |Dalian, Kwantung Leased Territory in China| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dalian in the Kwantung Leased Territory.|
 |**Echigo-Bana** |-| Copies the design of old woodblock-printed hanafuda. Characterized by very crude-looking drawings, striped skies, poems on the Chaff, and a liberal use of silver and gold paint on all cards. Rainman is depicted as braving a storm inside a closed umbrella, while the Chaff of Willow does not depict a Thunderstorm. Includes a red Onifuda card.|
-|[**Hachi-Hachi-Bana**](/en/hanafuda/patterns/hachihachibana) |-| The standard pattern of hanafuda. Named after the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) which was the most popular hanafuda game in Japan during the early 20th century.|
+|[**Hachi-Hachi-Bana**](/en/hanafuda/patterns/hachihachibana) |Japan, Taiwan and some places in China, Karafuto (now South Sakhalin, Russia), Korea, Hawaii (USA), Palau| The standard pattern of hanafuda. Named after the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) which was the most popular hanafuda game in Japan during the early 20th century.|
 |**Hanamaki-Bana** |-| The design resembles Echigo-bana, but with slightly better looking but still crude woodblock design, and an even cruder coloring method which seems as if there was no attempt to align them with the drawings.|
 |**Hokkai-Bana** |-| Speculated to have the same or similar coloring pattern as Echigo-bana, but with a better designed woodblock pattern.|
 |[**Mushi-Bana**](/en/hanafuda/patterns/mushibana) |-| Same design as Hachi-hachi-Bana except all Peony and Bush Clover cards are removed. Designed specifically for playing the game of [Mushi](/en/hanafuda/games/mushi). Usually the style of drawings on the cards are in the style of Hachi-hachi-bana made in Osaka, to acknowledge the origin of the game.|
