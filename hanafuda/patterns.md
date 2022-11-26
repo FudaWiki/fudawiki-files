@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-26T02:22:24.627Z
+date: 2022-11-26T02:35:13.050Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -17,7 +17,7 @@ The following is a list of known hanafuda variations, organized by type and alph
 For patterns featuring a particular cultural theme or intellectual property, see [Character Hanafuda](/en/hanafuda/character). For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 
 # Pattern Variations
-## Regional Variants
+## Regional Patterns
 |Name|Played In|Description|
 |:---:|:---:|:---:|
 |**Awa-Bana** or **Kintoki-Bana**|-| Also known as Kintoki-Bana. Most Chaff, Ribbons, and some other cards explicitly mention the month number on the cards. The Chaff of Pine and Susuki Grass have a very abridged version of the Echigo-bana poems. Includes an Onifuda which depicts Kintaro.|
@@ -31,11 +31,13 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |**Yamagata-Bana** or **Oshu-Bana**|-| A variant of Hanamaki-Bana, where the yellow Paulownia junk has a small Ribbon on it, and in each month, there is one Chaff that is marked with a black dot, to differentiate it from the other chaff. Most likely used as a way to play mekuri-type or yomi-type games that required four distinct suits.|
 |**Yokohama-Bana** |-| Not much is known about this deck, except that it did not have any poems on them.
 
-## International Variants
+## International Patterns
 |Name|Played In|Description|
 |:---:|:---:|:---:|
-|**Dairen-Bana** |Dalian, Kwantung Leased Territory in China| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dalian in the Kwantung Leased Territory.|
+|**Dairen-Bana** |Dalian, China| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dairen (Now Dalian, China) when it was part of the Kwantung Leased Territory.|
 |**Hwatu** |South Korea|This pattern evolved from the low-cost Hachi-hachi-bana pattern made by Nihon Karuta, where a lot of design elements were borrowed, such as the Geese colorization and the idea of putting a symbol on the Full Moon card. The origin of the circled '光' symbol is disputed, with both Oishi Tengudo and Nihon Karuta claiming to be the originator. Nowadays, Hwatu is mainly manufactured using plastic rather than paper.|
+
+## Special Patterns
 
 # Format Variations
 ## By Size
