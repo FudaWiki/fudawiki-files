@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-27T01:20:31.463Z
+date: 2022-11-27T01:21:35.630Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -31,6 +31,7 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |**Hokkai-Bana** |-| Speculated to have the same or similar coloring pattern as Echigo-bana, but with a better designed woodblock pattern.|
 |**Kanto-Bana** |-| Not much is known about this deck, except that it did not have any poems on them.
 |[**Mushi-Bana**](/en/hanafuda/patterns/mushibana) |-| Same design as Hachi-hachi-Bana except all Peony and Bush Clover cards are removed, making it technically a format variant. Designed specifically for playing the game of [Mushi](/en/hanafuda/games/mushi). Usually the style of drawings on the cards are in the style of Hachi-hachi-bana made in Osaka, to acknowledge the origin of the game.|
+|**Nanbu-Bana** |-|-|
 |**Yamagata-Bana** or **Oshu-Bana**|-| A variant of Hanamaki-Bana, where the yellow Paulownia junk has a small Ribbon on it, and in each month, there is one Chaff that is marked with a black dot, to differentiate it from the other chaff. Most likely used as a way to play mekuri-type or yomi-type games that required four distinct suits.|
 |**Yokohama-Bana** |-| Not much is known about this deck, except that it did not have any poems on them.
 
