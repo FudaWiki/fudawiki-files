@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-28T03:53:42.476Z
+date: 2022-11-28T03:54:35.123Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -39,7 +39,7 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |Name|Played In|Description|
 |:---:|:---:|:---:|
 |**Dairen-Bana** |Dalian, China| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dairen (Now Dalian, China) when it was part of the Kwantung Leased Territory.|
-|**Hwatu** |South Korea|This pattern evolved from the low-cost Hachi-hachi-bana pattern made by Nihon Karuta, where a lot of design elements were borrowed, such as the Geese colorization and the idea of putting a symbol on the Full Moon card. The origin of the circled '光' symbol is disputed, with both Oishi Tengudo and Nihon Karuta claiming to be the originator. Nowadays, Hwatu is mainly manufactured using plastic rather than paper.|
+|[**Hwatu**](/en/hanafuda/hwatu)|South Korea|This pattern evolved from the low-cost Hachi-hachi-bana pattern made by Nihon Karuta, where a lot of design elements were borrowed, such as the Geese colorization and the idea of putting a symbol on the Full Moon card. The origin of the circled '光' symbol is disputed, with both Oishi Tengudo and Nihon Karuta claiming to be the originator. Nowadays, Hwatu is mainly manufactured using plastic rather than paper.|
 
 ## Special Patterns
 |Name|Description|
