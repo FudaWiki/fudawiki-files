@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-27T01:21:35.630Z
+date: 2022-11-28T03:22:36.282Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -42,16 +42,27 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |**Hwatu** |South Korea|This pattern evolved from the low-cost Hachi-hachi-bana pattern made by Nihon Karuta, where a lot of design elements were borrowed, such as the Geese colorization and the idea of putting a symbol on the Full Moon card. The origin of the circled '光' symbol is disputed, with both Oishi Tengudo and Nihon Karuta claiming to be the originator. Nowadays, Hwatu is mainly manufactured using plastic rather than paper.|
 
 ## Special Patterns
-|Name|Played In|Description|
+|Name|Description|
 |:---:|:---:|:---:|
-|**Musashino** |-| A very early woodblock-printed hanafuda from the Edo period. The name comes from the Waka poem written on the Susuki grass Chaff. It shares the same drawings as Echigo-bana, including the Waka poems. It is thought to be the standard pattern of hanafuda before Hachi-hachi-bana took its place.|
-|**Soridaijin no Hanakaruta** |-| A special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi and manufactured by Oishi Tengudo. The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns seemingly inspired by Echigo-bana. Waka poems are also included. Replicas are still being sold by Oishi Tengudo.|
-|**Kinbotan** |-| Another special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi. The cards are also larger and thicker than regular hanafuda cards. However, the patterns are more colorful, more detailed, and with plenty of gold outlines.|
-|-|-|A unique style of handprinted hanafuda since Matsui Tengudo's revival of the technique. It features green leaves instead of black, and the Waka poems are reintroduced into the standard Hachi-hachi-bana design.|
-|[**Character Hanafuda**](/en/hanafuda/character)|-|Any type of hanafuda pattern that features a particular cultural theme or intellectual property, which may be either on the scoring cards only, or throughout the entire deck. Usually sold for the purpose of being promotional materials or collectors' items. This family of hanafuda patterns fluorished after the abolition of the Trump Tax Law in 1989.|
-|Tryptych|-|Usually custom hanafuda patterns in which cards of the same suit could be put together like a puzzle to form a complete, larger picture.|
+|[**Character Hanafuda**](/en/hanafuda/character)|Any type of hanafuda pattern that features a particular cultural theme or intellectual property, which may be either on the scoring cards only, or throughout the entire deck. Usually sold for the purpose of being promotional materials or collectors' items. This family of hanafuda patterns fluorished after the abolition of the Trump Tax Law in 1989.|
+|**Kinbotan** | A special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi. The cards are larger and thicker than regular hanafuda cards. However, the patterns are more colorful, more detailed, and with plenty of gold outlines.|
+|**Musashino** | A very early woodblock-printed hanafuda from the Edo period. The name comes from the Waka poem written on the Susuki grass Chaff. It shares the same drawings as Echigo-bana, including the Waka poems. It is thought to be the standard pattern of hanafuda before Hachi-hachi-bana took its place.|
+|**Soridaijin no Hanakaruta** | A special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi and manufactured by Oishi Tengudo. The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns seemingly inspired by Echigo-bana. Waka poems are also included. Replicas are still being sold by Oishi Tengudo.|
+|**Tryptych Hanafuda**|Usually custom hanafuda patterns in which cards of the same suit could be put together like a puzzle to form a complete, larger picture.|
+|-|A unique style of handprinted hanafuda since Matsui Tengudo's revival of the technique. It features green leaves instead of black, and the Waka poems are reintroduced into the standard Hachi-hachi-bana design.|
+|**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of Murai Bros. cigarettes, but was printed as a complete hanafuda set by Tsuchida Tenguya. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations. Each card has a western playing card design printed on the top right corner of the card.|
+
 
 # Format Variations
+
+## By Number of Suits
+While a standard hanafuda deck has 12 suits, there are variants where suits are added or removed.
+|Name|Suits|Description|
+|:---:|:---:|:---:|
+|**Juusangatsu-Bana**|13|Hachi-hachi-bana but with an extra month added: Bamboo. Popularized by Matsui Tengudo.|
+|**Juushigatsu-Bana**|14|Hachi-hachi-bana but with two extra months added: Bamboo and Lotus. However, the design of the cards of the Bamboo suit is different from Juusangatsu-Bana. Also Introduced by Matsui Tengudo.|
+|[**Mushi-Bana**](/en/hanafuda/patterns/mushibana)|10|Hachi-hachi-bana except all Peony and Bush Clover cards are removed. Used for playing [Mushi](/en/hanafuda/games/mushi).|
+
 ## By Size
 |Name|Description|
 |:---:|:---:|
@@ -60,16 +71,25 @@ For patterns featuring a particular cultural theme or intellectual property, see
 
 |**Usukuchi-Bana** or **Usute-Bana**|Hachi-hachi-bana but the deck is thinner|
 
-## By Number of Suits
-|Name|Suits|Description|
-|:---:|:---:|:---:|
-|[**Mushi-Bana**](/en/hanafuda/patterns/mushibana)|10|Hachi-hachi-bana except all Peony and Bush Clover cards are removed. Used for playing [Mushi](/en/hanafuda/games/mushi).|
-|**Juusangatsu-Bana**|13|Hachi-hachi-bana but with an extra month added: Bamboo. Popularized by Matsui Tengudo.|
-|**Juushigatsu-Bana**|14|Hachi-hachi-bana but with two extra months added: Bamboo and Lotus. However, the design of the cards of the Bamboo suit is different from Juusangatsu-Bana. Also Introduced by Matsui Tengudo.|
+## By Manufacturing Technique
+|Name|Description|
+|:---:|:---:|
+|**Gomu-hiki** or **Gomu-hana**|Hanafuda produced in Belgium that uses rubber to clear coat the cards and give them a glossy look.|
+|**Honshimai**|Hanafuda made by pasting four sheets of *washi* paper together to form the cardstock.|
+|**Kirippanashi**|Hanafuda where the manufacturing step of wrapping the card with a backpaper (this technique is called *herikaeshi*) is completely omitted, leaving the edges of the cards unprotected. It is a characteristic of budget hanafuda decks.|
+|**Plastic Hanafuda** |Hanafuda made of plastic instead of paper. It wasn't fully embraced in Japan, with only a handful of manufacturers such as Ace and Angel selling their plastic hanafuda. However, it was fully embraced in South Korea since the 1970's, and all paper Hwatu was replaced with plastic Hwatu.|
+|**Suzuiri Hanafuda**|Hanafuda that has a layer(s) of tinfoil sandwiched in between the washi paper in the cardstock. This was an alternative method of adding weight to each card, as traditionally a very fine stone powder (*tonoko*) is mixed with the paste for gluing the paper layers together to add weight to the cards.|
+|**Tezuri** |Hand-printed hanafuda cards. Before the 20th century, the traditional way of printing hanafuda cards is by using a woodblock to stamp the pattern on the paper (this technique is called *hone-zuri*), and then using stencils and a round brush, the colored dyes are applied to the paper (this technique is called *kappa-zuri*). This practice died out by the 1940's, when machine-printed hanafuda was more common and easily mass-produced. However in 1975, the technique was revived by Matsui Tengudo, in order to differentiate their products from those of hanafuda manufacturers.|
 
 ## Using Western-style Cardstock
 |Name|Description|
 |:---:|:---:|
-|**Yasen Hanafuda**|Hachi-hachi-bana pattern printed on western-style playing card material. The deck is as thick as a typical western playing card deck, but the length and width of the cards are close to those of traditional hanafuda. Manufactured by Universal Playing Card Co.|
 |**Bridge-Size**|Hachi-hachi-bana pattern printed on bridge-size western-style playing card material. The front of each card shows not only the hanafuda design, but also the points of the card as indices, and the name of the suit on the top, and the name of the month on the bottom. The card points may either be standard, or those used in Sakura, depending on the deck. Manufactured for export to Hawaii, USA, by different playing card companies including Nintendo.|
 |**Hana-Trump**|Hachi-hachi-bana pattern printed on western-style playing card material. On the front of each card, the hanafuda design is printed in the middle, while the indices indicate its western playing card value. This makes it possible to be used for both Hanafuda games and Western playing card games. Available in different card dimensions, although typically it is slightly smaller than bridge size playing cards.|
+|**Yasen Hanafuda**|Hachi-hachi-bana pattern printed on western-style playing card material. The deck is as thick as a typical western playing card deck, but the length and width of the cards are close to those of traditional hanafuda. Manufactured by Universal Playing Card Co.|
+
+## Other Unique Hanafuda Formats
+|Name|Description|
+|:---:|:---:|
+|**Hanakoma**|Hanafuda designs etched and painted on Japanese mahjong-size tiles. Sold by companies such as Hakuto and Francais Co. Ltd.|
+|**Tobacco Cards**|Among the different sets that were printed on collectible cigarette cards are several unique and very detailed hana-trump sets. Each of them were included in a pack of Murai Bros. Cigarettes, and one would have to collect the whole set to be able to play with it. Curiously, Tsuchida Tenguya took one of these hana-trump sets and printed them on actual karuta paper, with backpasting and all.|
