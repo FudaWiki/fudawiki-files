@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-11-16T08:51:34.609Z
+date: 2022-11-28T03:24:51.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 **Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
 
-For a list of traditional designs and how they differ, see [Hanafuda Patterns](/en/hanafuda/patterns). For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
+For a list of different hanafuda variations and how the differ, see [Hanafuda Variations](/en/hanafuda/patterns). For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
 
 # Composition
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
