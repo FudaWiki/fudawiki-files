@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-11-28T03:54:35.123Z
+date: 2022-11-28T08:07:04.623Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -45,12 +45,13 @@ For patterns featuring a particular cultural theme or intellectual property, see
 |Name|Description|
 |:---:|:---:|:---:|
 |[**Character Hanafuda**](/en/hanafuda/character)|Any type of hanafuda pattern that features a particular cultural theme or intellectual property, which may be either on the scoring cards only, or throughout the entire deck. Usually sold for the purpose of being promotional materials or collectors' items. This family of hanafuda patterns fluorished after the abolition of the Trump Tax Law in 1989.|
+|**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of Murai Bros. cigarettes, but was printed as a complete hanafuda set by Tsuchida Tenguya. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations. Each card has a western playing card design printed on the top right corner of the card.|
 |**Kinbotan** | A special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi. The cards are larger and thicker than regular hanafuda cards. However, the patterns are more colorful, more detailed, and with plenty of gold outlines.|
 |**Musashino** | A very early woodblock-printed hanafuda from the Edo period. The name comes from the Waka poem written on the Susuki grass Chaff. It shares the same drawings as Echigo-bana, including the Waka poems. It is thought to be the standard pattern of hanafuda before Hachi-hachi-bana took its place.|
+|**Quadtych Hanafuda**|Usually custom hanafuda patterns in which cards of the same suit could be put together like a puzzle to form a complete, larger picture.|
 |**Soridaijin no Hanakaruta** | A special-made Hanafuda commissioned by Former Prime Minister Ito Hirobumi and manufactured by Oishi Tengudo. The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns seemingly inspired by Echigo-bana. Waka poems are also included. Replicas are still being sold by Oishi Tengudo.|
-|**Tryptych Hanafuda**|Usually custom hanafuda patterns in which cards of the same suit could be put together like a puzzle to form a complete, larger picture.|
 |-|A unique style of handprinted hanafuda since Matsui Tengudo's revival of the technique. It features green leaves instead of black, and the Waka poems are reintroduced into the standard Hachi-hachi-bana design.|
-|**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of Murai Bros. cigarettes, but was printed as a complete hanafuda set by Tsuchida Tenguya. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations. Each card has a western playing card design printed on the top right corner of the card.|
+
 
 
 # Format Variations
