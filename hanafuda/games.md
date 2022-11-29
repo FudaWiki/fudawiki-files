@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-29T01:34:01.523Z
+date: 2022-11-29T01:58:47.148Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -40,108 +40,108 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Kabu-kei|Korea|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
-|[Akita-Bana](/en/hanafuda/games/akita-bana)|-|Fishing|Akita, Japan|
-|[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Showdown|Japan|
-|[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
-|[Ba Chō-Han](/en/hanafuda/games/ba-cho-han)|2+|Showdown|Tōhoku region, Japan|
-|[Baka](/en/hanafuda/games/toppa#baka)|3|Fishing|Hokkaido region, Japan|
-|[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
-|[Bakappana](/en/hanafuda/games/bakappana)|2-4|Fishing|Japan|
-|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a Batta|2+|Banking|Kanto Region, Japan|
-|[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|-|Fishing|Japan|
-|[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Bizen Province, Japan|
-|[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Japan|
-|[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|
-|[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Kanto region, Japan|
-|[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
-|[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Japan|
-|[Dorijitgo-ttaeng](/en/hanafuda/games/seotda#dorijitgo-ttaeng)|2-8|Showdown|Korea|
-|[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
-|[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Tōtōmi Province, Japan|
-|[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
-|[Hachi](/en/hanafuda/games/hachi)|2|Fishing|Japan|
-|[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
-|[Hanahuda](/en/hanafuda/games/hanahuda), a.k.a. Hanakuda or Palauan Hanafuda|2-4|Fishing|Palau|
-|[Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant)|2+|Banking|Chukyo region, Japan|
-|[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Japan|
-|[Hiraya](/en/hanafuda/games/hiraya)|3|Fishing|Japan|
-|[Hiyoko](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|
-|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
-|[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi), a.k.a. Hyaku-Otoshi|2-3|Fishing|Japan|
-|[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Japan|
-|[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|Japan|
-|[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Japan|
-|[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Ishikari Subprefecture, Hokkaido, Japan|
-|[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|
-|[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
-|[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Japan|
-|[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Japan|
-|[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Japan|
-|[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Hokuriku region, Japan|
-|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
-|[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Karafuto Prefecture (Now South Sakhalin)|
-|[Kasuto](/en/hanafuda/games/kasutowo)|-|-|Japan|
-|[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|
-|[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|-|
-|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|-|
-|[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Japan|
-|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Akehama Town, Ehime Prefecture, Japan|
-|[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Kushiro Subprefecture, Hokkaido, Japan|
-|[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|Japan|
-|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
-|[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
-|[Mae-Dashi](/en/hanafuda/games/mae-dashi)|-|-|Japan|
-|[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Japan|
-|[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Japan|
-|[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Korea|
-|[Musashino-Bana](/en/hanafuda/games/musashino-bana)|3-4|Fishing|Japan|
-|[Mushi-Kabu](/en/kabufuda/games/kyo-kabu#mushi-kabu-kyo-kabu-variant)|2-10|Banking|Osaka, Japan|
-|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
-|[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan)|2|Fishing|Japan|
-|[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Nanbu (which?), Japan|
-|[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Daibutsu-mae, Nara Prefecture, Japan|
-|[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Japan|
-|[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Japan|
-|[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
-|[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Tōkai region, Japan|
-|[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
-|[Roku-Tan](/en/hanafuda/games/roku-tan)|2|Fishing|Japan|
-|[Saburokku](/en/hanafuda/games/saburokku), a.k.a. Bakananatan|3|Fishing|Japan|
-|[Sanbyakuken](/en/hanafuda/games/roppyakken/#sanbyakuken)|2-3|Fishing|Japan|
-|[San-Jū Tsuppari](/en/hanafuda/games/san-ju-tsuppari)|3|Fishing|Japan|
-|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Sanuki Province, Japan|
-|[San-Zoku Go-Jū](/en/hanafuda/games/san-zoku-go-ju)|3|Fishing|Japan|
-|[San-Zoku Tsuppari](/en/hanafuda/games/san-ju-tsuppari/#san-zoku-tsuppari)|3|Fishing|Japan|
-|[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
-|[Senbon-Hana](/en/hanafuda/games/senbon-hana)|-|-|Japan|
-|[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Sendai, Japan|
-|[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
-|[Sento](/en/hanafuda/games/sentowo), a.k.a. Sentochi|-|-|Japan|
-|[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Gushikawa, Uruma City, Okinawa, Japan|
-|[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Japan|
-|[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Nagoya region, Japan|
-|[Soro](/en/hanafuda/games/soro)|-|Showdown|Okinawa, Japan|
-|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Chūkyō Region, Japan|
-|[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
-|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
-|[Taiyaku](/en/hanafuda/games/taiyaku), a.k.a Echigobana|2-3 per round, max 7 per game|Fishing|Echigo Province (Now Niigata Prefecture), Japan|
-|[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|Japan|
-|[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
-|[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
-|[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Hokkaido region, Japan|
-|[Towashi](/en/hanafuda/games/towashi)|-|-|-|
-|[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Tokyo, Japan|
-|[Yari-Tori](/en/hanafuda/games/yari-tori)|2|Showdown|Nagoya region, Japan|
-|[Yari-Tori Tokotoko](/en/hanafuda/games/yari-tori-tokotoko)|2|Showdown|Nagoya region, Japan|
-|[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|Guessing|Japan|
-|[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|
-|[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Yamagata, Japan|
-|[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Kanagawa Region, Japan|
-|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|
-|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|
-|[Zeze-Hana](/en/hanafuda/games/zeze-hana)|-|-|Japan|
+|Game|Players|Family|Style|Origin|
+|:---|:---:|:---:|:---:|---:|
+|[Akita-Bana](/en/hanafuda/games/akita-bana)|-|Fishing|Mekuri-kei|Akita, Japan|
+|[Atosaki](/en/hanafuda/games/shoniban#atosaki-batta-maki-variant)|2+|Showdown|Kabu-kei|Japan|
+|[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Mekuri-kei|Japan|
+|[Ba Chō-Han](/en/hanafuda/games/ba-cho-han)|2+|Showdown|unconventional|Tōhoku region, Japan|
+|[Baka](/en/hanafuda/games/toppa#baka)|3|Fishing|Mekuri-kei|Hokkaido region, Japan|
+|[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Mekuri-kei|Ohama District, Usuki City, Oita Prefecture, Japan|
+|[Bakappana](/en/hanafuda/games/bakappana)|2-4|Fishing|Mekuri-kei|Japan|
+|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a Batta|2+|Banking|Kabu-kei|Kanto Region, Japan|
+|[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|-|Fishing|Mekuri-kei|Japan|
+|[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Mekuri-kei|Bizen Province, Japan|
+|[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
+|[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
+|[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Mekuri-kei|Kanto region, Japan|
+|[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|Mekuri-kei|San'yō region, Japan|
+|[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Kabu-kei|Japan|
+|[Dorijitgo-ttaeng](/en/hanafuda/games/seotda#dorijitgo-ttaeng)|2-8|Showdown|Kabu-kei|Korea|
+|[Echobo](/en/hanafuda/games/echobo)|2+|Banking|unconventional|Japan|
+|[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Mekuri-kei|Tōtōmi Province, Japan|
+|[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Kabu-kei|Japan|
+|[Hachi](/en/hanafuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|
+|[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Mekuri-kei|Japan|
+|[Hanahuda](/en/hanafuda/games/hanahuda), a.k.a. Hanakuda or Palauan Hanafuda|2-4|Fishing|Mekuri-kei|Palau|
+|[Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant)|2+|Banking|Kabu-kei|Chukyo region, Japan|
+|[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Kabu-kei|Japan|
+|[Hiraya](/en/hanafuda/games/hiraya)|3|Fishing|Mekuri-kei|Japan|
+|[Hiyoko](/en/hanafuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Yomi-kei|Japan|
+|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Mekuri-kei|Nagoya region, Japan|
+|[Hyaku-Ochi](/en/hanafuda/games/hyaku-ochi), a.k.a. Hyaku-Otoshi|2-3|Fishing|Mekuri-kei|Japan|
+|[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Mekuri-kei|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho), old version|2+|Banking|unconventional|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/new-ino-shika-cho) (Roppyakken variant)|2-3|Fishing|Mekuri-kei|Japan|
+|[Ishikari Toppa](/en/hanafuda/games/ishikari-toppa)|3 per round|Fishing|Mekuri-kei|Ishikari Subprefecture, Hokkaido, Japan|
+|[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Yomi-kei|Japan|
+|[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Mekuri-kei|Japan|
+|[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Mekuri-kei|Japan|
+|[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Kabu-kei|Japan|
+|[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
+|[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Mekuri-kei|Kaga Province, Hokuriku region, Japan|
+|[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yomi-kei|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
+|[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Kabu-kei|Karafuto Prefecture (Now South Sakhalin)|
+|[Kasuto](/en/hanafuda/games/kasutowo)|-|-|-|Japan|
+|[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|
+|[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|Mekuri-kei|-|
+|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|
+|[Koi-Koi no Atosaki](/en/hanafuda/games/shoniban#koi-koi-no-atosaki-batta-maki-variant)|2+|Showdown|Kabu-kei|Japan|
+|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Mekuri-kei|Akehama Town, Ehime Prefecture, Japan|
+|[Kushiro Toppa](/en/hanafuda/games/kushiro-toppa)|2 per round, max 4 per game|Fishing|Mekuri-kei|Kushiro Subprefecture, Hokkaido, Japan|
+|[Kusuri-Gui](/en/hanafuda/games/kusuri-gui)|2|Fishing|unconventional|Japan|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Kabu-kei|Japan|
+|[Kyū-Rei Hana](/en/hanafuda/games/kyureihana)|3 per round, max 7 per game|Fishing|Mekuri-kei|San'yō region, Japan|
+|[Mae-Dashi](/en/hanafuda/games/mae-dashi)|-|-|-|Japan|
+|[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Mekuri-kei|Japan|
+|[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
+|[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Mekuri-kei|Korea|
+|[Musashino-Bana](/en/hanafuda/games/musashino-bana)|3-4|Fishing|Mekuri-kei|Japan|
+|[Mushi-Kabu](/en/kabufuda/games/kyo-kabu#mushi-kabu-kyo-kabu-variant)|2-10|Banking|Kabu-kei|Osaka, Japan|
+|[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Kabu-kei|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
+|[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan)|2|Fishing|Mekuri-kei|Japan|
+|[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Mekuri-kei|Nanbu (which?), Japan|
+|[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Mekuri-kei|Daibutsu-mae, Nara Prefecture, Japan|
+|[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Mekuri-kei|Japan|
+|[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
+|[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Mekuri-kei|Gifu, Japan|
+|[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|
+|[Poka](/en/hanafuda/games/poka)|2|Sequence|Yomi-kei|-|
+|[Roku-Tan](/en/hanafuda/games/roku-tan)|2|Fishing|Mekuri-kei|Japan|
+|[Saburokku](/en/hanafuda/games/saburokku), a.k.a. Bakananatan|3|Fishing|Mekuri-kei|Japan|
+|[Sanbyakuken](/en/hanafuda/games/roppyakken/#sanbyakuken)|2-3|Fishing|Mekuri-kei|Japan|
+|[San-Jū Tsuppari](/en/hanafuda/games/san-ju-tsuppari)|3|Fishing|Mekuri-kei|Japan|
+|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Mekuri-kei|Sanuki Province, Japan|
+|[San-Zoku Go-Jū](/en/hanafuda/games/san-zoku-go-ju)|3|Fishing|Mekuri-kei|Japan|
+|[San-Zoku Tsuppari](/en/hanafuda/games/san-ju-tsuppari/#san-zoku-tsuppari)|3|Fishing|Mekuri-kei|Japan|
+|[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Kabu-kei|Japan|
+|[Senbon-Hana](/en/hanafuda/games/senbon-hana)|-|-|-|Japan|
+|[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Mekuri-kei|Sendai, Japan|
+|[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Mekuri-kei|Maebashi, Japan|
+|[Sento](/en/hanafuda/games/sentowo), a.k.a. Sentochi|-|-|-|Japan|
+|[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Mekuri-kei|Gushikawa, Uruma City, Okinawa, Japan|
+|[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Kabu-kei|Japan|
+|[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Kabu-kei|Nagoya region, Japan|
+|[Soro](/en/hanafuda/games/soro)|-|Showdown|-|Okinawa, Japan|
+|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Mekuri-kei|Chūkyō Region, Japan|
+|[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Mekuri-kei|Japan|
+|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Mekuri-kei|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
+|[Taiyaku](/en/hanafuda/games/taiyaku), a.k.a Echigobana|2-3 per round, max 7 per game|Fishing|Mekuri-kei|Echigo Province (Now Niigata Prefecture), Japan|
+|[Takame](/en/hanafuda/games/takame)|2+|Showdown/Banking|unconventional|Japan|
+|[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Mekuri-kei|Nagoya region, Japan|
+|[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
+|[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Mekuri-kei|Hokkaido region, Japan|
+|[Towashi](/en/hanafuda/games/towashi)|-|-|-|-|
+|[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Mekuri-kei|Tokyo, Japan|
+|[Yari-Tori](/en/hanafuda/games/yari-tori)|2|Showdown|Kabu-kei|Nagoya region, Japan|
+|[Yari-Tori Tokotoko](/en/hanafuda/games/yari-tori-tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
+|[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|Guessing|unconventional|Japan|
+|[Yaku-Bana](/en/hanafuda/games/yaku-bana)|-|-|-|-|
+|[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Mekuri-kei|Yamagata, Japan|
+|[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Mekuri-kei|Kanagawa Region, Japan|
+|[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Yomi-kei|Japan|
+|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei|Japan|
+|[Zeze-Hana](/en/hanafuda/games/zeze-hana)|-|-|-|Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
