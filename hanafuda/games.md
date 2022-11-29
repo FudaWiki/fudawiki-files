@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-23T06:42:22.205Z
+date: 2022-11-29T01:34:01.523Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -17,7 +17,7 @@ There are many games that can be played with hanafuda, both traditional and rece
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
 
-**Similarly, in Japan, there are 4 major families to which hanafuda games are classified, based on their gameplay elements:**
+**Similarly, in Japan, there are 4 major styles to which hanafuda games are classified, based on their gameplay elements:**
 1. **Mekuri-kei** games are fishing games that have the gameplay element of having to draw (めくる, *mekuru*) a card from the draw pile and playing it to capture a card of the same suit on the field.
 2. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
 3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
@@ -27,17 +27,17 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 
 ## Popular Games
 These games are relatively widely known, and quite frequently show up in rule books and video games.
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
-|[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori|2-3 per round, max 7 per game|Fishing|Korea|
-|[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Yokohama, Japan|
-|[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
-|[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
-|[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Osaka, Japan|
-|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
-|[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Japan|
-|[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Higo Province, Japan|
-|[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Korea|
+|Game|Players|Family|Style|Origin|
+|:---|:---:|:---:|:---:|---:|
+|[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori|2-3 per round, max 7 per game|Fishing|Mekuri-kei|Korea|
+|[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Mekuri-kei|Yokohama, Japan|
+|[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Mekuri-kei|Japan|
+|[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Mekuri-kei|Disputed|
+|[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Mekuri-kei|Osaka, Japan|
+|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei|Japan|
+|[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Mekuri-kei|Japan|
+|[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Mekuri-kei|Higo Province, Japan|
+|[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Kabu-kei|Korea|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
