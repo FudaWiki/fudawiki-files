@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-11-22T08:08:01.809Z
+date: 2022-11-29T02:07:14.873Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -19,7 +19,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
 
-**Similarly, in Japan, there are 4 major families to which hanafuda games are classified, based on their gameplay elements:**
+**Similarly, in Japan, there are 4 styles to which hanafuda games are classified, based on their gameplay elements:**
 1. **Mekuri-kei** games are fishing games that have the gameplay element of having to draw (めくる, *mekuru*) a card from the draw pile and playing it to capture a matching card on the field.
 2. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
 3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
@@ -28,42 +28,42 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 # Traditional Games
 
 ## Games using Four-Suited Decks
-|Game|Players|Family|Origin|Pattern Used|
-|:---|:---:|:---:|---:|---:|
-|[Dontsuku](/en/mekurifuda/games/dontsuku), a.k.a. Donchiku|2-8|Showdown|Japan|Kurofuda|
-|[Hachi](/en/mekurifuda/games/hachi)|2|Fishing|Japan|-|
+|Game|Players|Family|Style|Origin|Pattern Used|
+|:---|:---:|:---:|:---:|---:|---:|
+|[Dontsuku](/en/mekurifuda/games/dontsuku), a.k.a. Donchiku|2-8|Showdown|Kingo-kei|Japan|Kurofuda|
+|[Hachi](/en/mekurifuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|-|
 |[Hiyoko](/en/mekurifuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Japan|Ise|
 |[Isuri](/en/mekurifuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Japan|Ise|
 |[Judan](/en/mekurifuda/games/judan)|-|-|Japan|Komatsu|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Japan|Komatsu|
-|[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Japan|Tensho Karuta or Mekurifuda|
+|[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Mekuri-kei|Japan|Tensho Karuta or Mekurifuda|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Japan|Kurofuda|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|Japan|Akahachi|
-|[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Tōkai region, Japan|-|
-|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Japan|-|
+|[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|-|
+|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Mekuri-kei|Japan|-|
 |[Sento](/en/mekurifuda/games/sentowo), a.k.a. Sentochi|-|-|Japan|Ise|
-|[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|Japan|Komatsu|
-|[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Japan|Shimafuda|
-|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Japan|Ise|
+|[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|unconventional|Japan|Komatsu|
+|[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Mekuri-kei|Japan|Shimafuda|
+|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Mekuri-kei|Japan|Ise|
 |[Sujiyomi](/en/mekurifuda/games/sujiyomi)|-|Sequence|Kyoto, Japan|-|
-|[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Japan|Akahachi or Ise|
-|[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Japan|Ise|
-|[Tenshu](/en/mekurifuda/games/tenshu)|4-7|Fishing|Uozu, Toyama Prefecture, Japan|Fukutoku|
+|[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Mekuri-kei|Japan|Akahachi or Ise|
+|[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Mekuri-kei|Japan|Ise|
+|[Tenshu](/en/mekurifuda/games/tenshu)|4-7|Fishing|Mekuri-kei|Uozu, Toyama Prefecture, Japan|Fukutoku|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Japan|Tensho Karuta or Yomifuda|
 |[Yusuri](/en/hanafuda/games/yusuri)|-|Sequence|Aichi region, Japan|-|
 
 ## Games using One-Suited Decks
 For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/games).
-|Game|Players|Family|Origin|Pattern Used|
-|:---|:---:|:---:|---:|---:|
+|Game|Players|Family|Style|Origin|Pattern Used|
+|:---|:---:|:---:|:---:|---:|---:|
 |[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Japan|Kinseizan|
 |[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Japan|Komaru|
 |[Dosari](/en/kabufuda/games/dosari)|-|-|Japan|Kinseizan|
 |[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Japan|Irinokichi|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|-|Daini|
-|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|-|Tensho Karuta or Kingofuda|
-|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Japan|Daini|
+|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|Tensho Karuta or Kingofuda|
+|[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Mekuri-kei|Japan|Daini|
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|Mamefuda or Kabufuda|
 |[San-mai](/en/kabufuda/games/san-mai)|-|-|Japan|-|
 |[Yoshi](/en/hanafuda/games/yoshi)|-|-|Japan|Komaru|
