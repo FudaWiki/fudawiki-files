@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-11-30T09:08:29.478Z
+date: 2022-11-30T10:36:38.008Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -34,7 +34,7 @@ For a list of proverbs see [Iroha Karuta Proverbs](/en/iroha/proverbs).
 ## Other Iroha Karuta Sets
 - **Obake Karuta** (お化けかるた, 'monster cards') is a type of Iroha Karuta that is themed around various monsters from Japanese folklore. It can be considered the predecessor of Character Iroha Karuta.
 - **Hougen Karuta** (方言かるた, 'regional dialect cards') is a type of Iroha Karuta whose Yomifuda include phrases of a Japanese regional dialect.
-- **Kyodo Karuta** (郷土かるたかるた, 'regional history cards') is a type of Iroha Karuta that is themed around local events, specialties, and historical sites of a region in Japan. An example is **Jōmō Karuta** (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
+- **Kyodo Karuta** (郷土かるたかるた, 'regional history cards') is a type of Iroha Karuta that is themed around local events, specialties, and historical sites of a region in Japan. An example is [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
 - **Character Iroha Karuta** is a type of Iroha Karuta that is themed around an intellectual property, such as Anime, Tokusatsu, Video game, etc.
 - **Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a program, campaign, or slogan, promoted usually by a Government Department.
 
@@ -70,11 +70,11 @@ The game goes as follows:
 - The game continues until all Yomifuda are read and all Torifuda are taken. 
 - Players count the Torifuda they have taken. The player with the most Torifuda wins the game.
 
-## Jomo Karuta Competition
+## Jōmō Karuta Competition
 > Note that these rules only apply to the Jomo Karuta set of Iroha Karuta.
 {.is-warning}
 
-Jomo Karuta Competition is a tournament held every year in Gunma prefecture since 1948, one year after Jomo Karuta was published.
+Jōmō Karuta Competition is a tournament held every year in Gunma prefecture since 1948, one year after [Jōmō Karuta](/en/iroha/jomo-karuta) was published.
 
 The game could be played by two players against each other, or two teams each having three players.
 
