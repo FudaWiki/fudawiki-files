@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T14:31:28.346Z
+date: 2022-11-30T14:37:47.996Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -63,7 +63,7 @@ Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes s
 |ぬ (nu)|*Numata Jōka no Shiobara Tasuke*|A successful hard worker from Old Numata, Shiobara Tasuke.|
 |ね (ne)|*Negi to kon'nyaku Shimonita meisan*|Leeks and konnyaku, local foods of Shimonita.|
 |の (no)|*Noboru Haruna no kyanpu-mura*|A perfect place to hike and camp, Mt. Haruna.|
-|は (ha)|*Hanayamakōen tsutsuji no meisho*|A beautiful spot for azaleas, Hanayama Park.|
+|は (ha)|*Hanayama kōen tsutsuji no meisho*|A beautiful spot for azaleas, Hanayama Park.|
 |ひ (hi)|*Byakui Kan'non jihi no mite*|Giving comfort to the people, Kannon Statue.|
 |ふ (fu)|*Bunpukuchagama no Morinji*|The raccoon dog brings good luck at Morinji Temple.|
 |へ (he)|*Heiwa no tsukai Nījima Jō*|A wise Christian educator, Niijima Jo.|
@@ -72,18 +72,16 @@ Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes s
 |み (mi)|*Minakami, Tanigawa sukī to tozan*|Wonderful places to ski and climb, Minakami and Tanigawa.|
 |む (mu)|*Mukashi o kataru Tago no ko ishibumi*|Telling us about old times, Tago Stone Monument.|
 |め (me)|*Meisen o dasu Isesaki-shi*|The home of Meisen Silk, Isesaki City.|
-|も (mo)|*Kōyō ni haeru Myōgisan*|Glowing with autumn colors, Mt. Myogi.|
-|や (ya)|**|A scene of rare beauty, Agatsuma Canyon.|
-|ゆ (yu)|**|Respected since ancient times, Nukisaki Shrine.|
-|よ (yo)|**|Healing mind and body, Shima Onsen.|
-|ら (ra)|**|Thunder and strong winds, duty and kindness in Gunma.|
-|り (ri)|**|Energy from water, Gunma's electricity.|
-|る (ru)|**|Well-known looping railway, Shimizu Tunnel.|
-|れ (re)|**|A brave samurai leader in history, Niita Yoshisada.|
-|ろ (ro)|**|A pioneer in farming, Funatsu Denjibei.|
-|わ (wa)|**|The master of Japanese math, Seki Kowa.|
-
-UNDER CONSTRUCTION
+|も (mo)|*Kōyō ni haeru Myōgi san*|Glowing with autumn colors, Mt. Myogi.|
+|や (ya)|*Yabakei shinogu Agatsuma kyō*|A scene of rare beauty, Agatsuma Canyon.|
+|ゆ (yu)|*Yukari wa furushi Nukisaki jinja*|Respected since ancient times, Nukisaki Shrine.|
+|よ (yo)|*Yo no chiri arau Shima onsen*|Healing mind and body, Shima Onsen.|
+|ら (ra)|*Kaminari to kūfū giri ninjō*|Thunder and strong winds, duty and kindness in Gunma.|
+|り (ri)|*Risō no denka ni dengen Gunma*|Energy from water, Gunma's electricity.|
+|る (ru)|*Rūpu de nadakai Shimizu ton'neru*|Well-known looping railway, Shimizu Tunnel.|
+|れ (re)|*Rekishi ni nadakai Nitta Yoshisada*|A brave samurai leader in history, Nitta Yoshisada.|
+|ろ (ro)|*Rōnō Funatsu Denjibei*|A pioneer in farming, Funatsu Denjibei.|
+|わ (wa)|*Wazan no ōya Seki Kōwa*|The master of Japanese math, Seki Kowa.|
 
 # Jōmō Karuta Competition
 Jōmō Karuta Competition is a tournament held every year in Gunma prefecture since 1948, one year after Jōmō Karuta was published.
