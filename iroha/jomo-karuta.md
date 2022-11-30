@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T11:45:08.652Z
+date: 2022-11-30T13:18:54.039Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -17,20 +17,49 @@ In 1946, Masahiko Urano, a native of Gunma, returned to his hometown from Manchu
 
 On July 15 of that year, Urano met Seiki Suda, a Christian evangelist from Annaka, at a repatriation convention in Maebashi City. Together, Urano and Suda came up with the idea of promoting Gunma's history and culture through the game of karuta.
 
-On January 11, 1947, The local newspaper, *Jōmō Shimbun*, ran an ad announcing the concept and asked for submissions for possible card ideas. 44 phrases were selected by an editorial committee consisting of 18 local historians and cultural figures. The illustrated cards were commissioned to the artist Tatsuo Komi, and the commentary on the back of the Yomi-fuda to the historical researcher Kiyoyasu Maruyama.
+On January 11, 1947, The local newspaper, *Jōmō Shimbun*, ran an ad announcing the concept and asked for submissions for possible card ideas. 44 phrases were selected by an editorial committee consisting of 18 local historians and cultural figures. The illustrated cards were commissioned to the artist Tatsuo Omi, and the commentary on the back of the Yomi-fuda to the historical researcher Kiyoyasu Maruyama.
 
-The first edition of was released within the year, which sold 12,000 copies. 
+The [first edition](https://carta.media.gunma-u.ac.jp/gunma/jomo_s22/index.html) of Jōmō Karuta was released within the year, which sold 12,000 copies. Since then, the set was republished several times with updated information and new artwork.
 
 The following year, in 1948, the first annual Jōmō Karuta competition was held.
 
+# English Version
+An official English version was first released in 1994.
+
+It was followed with a re-release in 1998. The complete gallery of cards from this version can be seen [here](https://carta.media.gunma-u.ac.jp/gunma/data_37jomoenglish/index.html).
+
+It was followed with a re-release in 2020. The complete gallery of cards from this version can be seen [here](https://carta.media.gunma-u.ac.jp/gunma/data_281jomoenglish/index.html).
+
 # List of Cards
-|Tori-fuda|Yomi-fuda|English translation|
+The complete gallery of cards can be seen [here](https://carta.media.gunma-u.ac.jp/gunma/jomo/index.html).
+
+## List of Phrases
+Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes slightly depending on the year of publication. That is because it is representative of the population of Gunma, so as the number of people living in the prefecture changes, so does the number shown on the card. Fans of Jōmō karuta are able to guess the age of a person from Gunma prefecture based on the version of the "chi" phrase one has memorized.
+
+|Tori-fuda|Yomi-fuda</br>2015 version|Yomi-fuda</br>English version from 2020|
 |:---|:---|:---|
-|あ (a)|*Asama no itazura, oni no oshidashi*|Awesome power of Mt. Asama, magma stones at Onioshidashi.|
-|い (i)|*Ikaho onsen, Nihon no meitō*|Ikaho Onsen, one of the most famous hot springs in Japan.|
-|う (u)|Yomi-fuda|English translation|
-|え (e)|Yomi-fuda|English translation|
-|お (o)|Yomi-fuda|English translation|
+|あ (a)|*Asama no itazura Oni no oshidashi*|Awesome power of Mt. Asama, magma stones at Onioshidashi.|
+|い (i)|*Ikaho onsen Nihon no meitō*|One of the most famous hot springs in Japan, Ikaho Onsen.|
+|う (u)|*Usuitōge no sekisho ato*|A checkpoint from long ago, Usui Pass.|
+|え (e)|*Engi daruma no Shōrinzan*|Lucky Daruma dolls at Shorinzan.|
+|お (o)|*Ōta Kanayama kosodate Donryū*|Wishing children happiness, Priest Donryu of Kanayama, Ota.|
+|か (ka)|*Kantō to Shin'etsu tsunagu Takasaki-shi*|Joining Kanto and Shin-etsu, Takasaki City.|
+|き (ki)|*Kiryū wa Nihon no ki dokoro*|The center of the weaving industry in Japan, Kiryu City.|
+|く (ku)|*Kusatsu yoi toko kusuri no ideyu*|The curing waters of Kusatsu Onsen.|
+|け (ke)|*Ken-to Maebashi ito no machi*|The capital of Gunma and city of silk, Maebashi.|
+|こ (ko)|*Kokoro no tōdai Uchimura Kanzō*|A leading Christian thinker, Uchimura Kanzo.|
+|さ (sa)|*Sanbaishi to tomoni nadakai fuyusakura*|Winter cherry blossoms and Sanba rocks, beautiful sights to see.|
+|し (shi)|*Shinobu ke no kuni Futagodzuka*|Bringing back the days long past, the Futagozuka remains.|
+|す (su)|*Susono wa nagashi Akagiyama*|Spreading widely, the gentle slopes of Mt. Akagi.|
+|せ (se)|*Senkyō Ozenuma hana no Hara*|Treasure of natural beauty, Oze National Park.|
+|そ (so)|*Soroi no shitaku de Yagibushi ondo*|Everyone dancing as one to the Yagibushi folk song.|
+|た (ta)|*Taki wa Fukiwari Katashina keikoku*|Dynamic waterfalls, Fukiware in the Katashina Valley.|
+|ち (chi)|**||
+|つ (tsu)|**||
+|て (te)|**||
+|と (to)|**||
+
+UNDER CONSTRUCTION
 
 # Jōmō Karuta Competition
 Jōmō Karuta Competition is a tournament held every year in Gunma prefecture since 1948, one year after Jōmō Karuta was published.
@@ -39,7 +68,7 @@ Preliminaries take place in January, encouraging local children to take advantag
 
 The game could be played by two players against each other, or two teams each having three players.
 
-### 1 versus 1
+## 1 versus 1
 - The **reader** takes the deck of Yomi-fuda, and the **referee**, who is in charge of judging which player took the Tori-fuda first, watches over the match. 
 - Players must choose who shuffles the deck by rock-paper-scissors. The winner shuffles the deck of Tori-fuda and splits it into two piles of 22 Tori-fuda each. The loser chooses which pile to take, and the winner takes the other pile.
 - Each player arranges the cards in their "territory". The opposing territories must be **3 cm apart from each other**, and **20 cm away from the players** *(this 20 cm distance is usually marked with a line, and is supposedly where the player's kneecaps are positioned, and the hands of each player must be beside the kneecaps whenever they are ready to strike the Tori-fuda)*. The territory should be composed of 3 rows of Torifuda, spaced 1 cm apart. The width of each row is not specified; you must arrange the cards in each row evenly (7 cards in any two rows, 8 cards in the remaining one row), in any order you prefer.
@@ -70,7 +99,7 @@ The game could be played by two players against each other, or two teams each ha
 - However, **as soon as the reader finishes reading** the Yomi-fuda for the **second time**, players then race to **touch the final remaining card** (*the final Yomi-fuda is not read*). The first to do so takes the final card, and the game ends.
 - The player with the most taken Tori-fuda wins. In the event of a tie, the player who took the "tsu" card wins.
 
-### 3 versus 3
+## 3 versus 3
 The game is mostly the same as 1 versus 1, except for some additional rules:
 - Only the players in the middle participate in rock-paper-scissors.
 - Each territory should be composed of 2 rows of Torifuda, spaced 1 cm apart.  The cards are distributed between teammates evenly (7 cards to any two teammates, 8 cards to the remaining teammate). Each teammate has its own territory (the spacing between teammates' territories are not specified), and the cards are distributed evenly between two rows (i.e. each row must contain only 3 or 4 cards). The cards may be arranged in any order they prefer.
@@ -88,3 +117,4 @@ The game is mostly the same as 1 versus 1, except for some additional rules:
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%AF%9B%E3%81%8B%E3%82%8B%E3%81%9F
 - https://en.wikipedia.org/wiki/Karuta#Jomo_karuta
+- https://carta.media.gunma-u.ac.jp/gunma/data_281jomoenglish/index.html
