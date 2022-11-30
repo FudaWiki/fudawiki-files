@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-11-30T10:36:38.008Z
+date: 2022-11-30T14:49:09.199Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -13,6 +13,7 @@ Iroha Karuta (いろはかるた, 'alphabet cards') is an [Uta-garuta](/en/uta-g
 It is named after the old way of ordering Japanese *kana*, which was [based on an old poem](https://en.wikipedia.org/wiki/Iroha).
 
 As an Uta-garuta derivative, it shares the exact same gameplay as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) or other types of Uta-garuta. However, the format of the cards makes the game easier for children to play, without having to memorize any poems beforehand.
+
 
 # The Cards
 As with many Uta-garuta sets, a set of Iroha Karuta contains two types of cards: **Yomifuda** (読み札, "reading cards") and **Torifuda** (取り札, "grabbing cards").
