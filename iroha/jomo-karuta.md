@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T13:18:54.039Z
+date: 2022-11-30T13:54:14.312Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -54,10 +54,34 @@ Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes s
 |せ (se)|*Senkyō Ozenuma hana no Hara*|Treasure of natural beauty, Oze National Park.|
 |そ (so)|*Soroi no shitaku de Yagibushi ondo*|Everyone dancing as one to the Yagibushi folk song.|
 |た (ta)|*Taki wa Fukiwari Katashina keikoku*|Dynamic waterfalls, Fukiware in the Katashina Valley.|
-|ち (chi)|**||
-|つ (tsu)|**||
-|て (te)|**||
-|と (to)|**||
+|ち (chi)|*Chikara awaseru ni hyaku man*|Two million working together, Gunma's people.|
+|つ (tsu)|*Tsuru mau katachi no Gunma ken*|	Shaped like a flying crane, Gunma Prefecture.|
+|て (te)|*Tenka no yoshito Mozaemon*|A hero for poor people, Mozaemon.|
+|と (to)|*Tone wa bandō ichi no kawa*|The longest river in Kanto, the Tone River.|
+|な (na)|**||
+|に (ni)|**||
+|ぬ (nu)|**||
+|ね (ne)|**||
+|の (no)|**||
+|は (ha)|**||
+|ひ (hi)|**||
+|ふ (fu)|**||
+|へ (he)|**||
+|ほ (ho)|**||
+|ま (ma)|**||
+|み (mi)|**||
+|む (mu)|**||
+|め (me)|**||
+|も (mo)|**||
+|や (ya)|**||
+|ゆ (yu)|**||
+|よ (yo)|**||
+|ら (ra)|**||
+|り (ri)|**||
+|る (ru)|**||
+|れ (re)|**||
+|ろ (ro)|**||
+|わ (wa)|**||
 
 UNDER CONSTRUCTION
 
