@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T13:54:14.312Z
+date: 2022-11-30T13:58:27.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -58,30 +58,30 @@ Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes s
 |つ (tsu)|*Tsuru mau katachi no Gunma ken*|	Shaped like a flying crane, Gunma Prefecture.|
 |て (te)|*Tenka no yoshito Mozaemon*|A hero for poor people, Mozaemon.|
 |と (to)|*Tone wa bandō ichi no kawa*|The longest river in Kanto, the Tone River.|
-|な (na)|**||
-|に (ni)|**||
-|ぬ (nu)|**||
-|ね (ne)|**||
-|の (no)|**||
-|は (ha)|**||
-|ひ (hi)|**||
-|ふ (fu)|**||
-|へ (he)|**||
-|ほ (ho)|**||
-|ま (ma)|**||
-|み (mi)|**||
-|む (mu)|**||
-|め (me)|**||
-|も (mo)|**||
-|や (ya)|**||
-|ゆ (yu)|**||
-|よ (yo)|**||
-|ら (ra)|**||
-|り (ri)|**||
-|る (ru)|**||
-|れ (re)|**||
-|ろ (ro)|**||
-|わ (wa)|**||
+|な (na)|**|Lined cedar trees in Annaka remind us of Nakasendo.|
+|に (ni)|**|Japan's first silk factory, Tomioka Silk Mill.|
+|ぬ (nu)|**|A successful hard worker from Old Numata, Shiobara Tasuke.|
+|ね (ne)|**|Leeks and konnyaku, local foods of Shimonita.|
+|の (no)|**|A perfect place to hike and camp, Mt. Haruna.|
+|は (ha)|**|A beautiful spot for azaleas, Hanayama Park.|
+|ひ (hi)|**|Giving comfort to the people, Kannon Statue.|
+|ふ (fu)|**|The raccoon dog brings good luck at Morinji Temple.|
+|へ (he)|**|A wise Christian educator, Niijima Jo.|
+|ほ (ho)|**|A great Japanese writer, Tayama Katai.|
+|ま (ma)|**|The top producer of cocoons and silk in Japan.|
+|み (mi)|**|Wonderful places to ski and climb, Minakami and Tanigawa.|
+|む (mu)|**|Telling us about old times, Tago Stone Monument.|
+|め (me)|**|The home of Meisen Silk, Isesaki City.|
+|も (mo)|**|Glowing with autumn colors, Mt. Myogi.|
+|や (ya)|**|A scene of rare beauty, Agatsuma Canyon.|
+|ゆ (yu)|**|Respected since ancient times, Nukisaki Shrine.|
+|よ (yo)|**|Healing mind and body, Shima Onsen.|
+|ら (ra)|**|Thunder and strong winds, duty and kindness in Gunma.|
+|り (ri)|**|Energy from water, Gunma's electricity.|
+|る (ru)|**|Well-known looping railway, Shimizu Tunnel.|
+|れ (re)|**|A brave samurai leader in history, Niita Yoshisada.|
+|ろ (ro)|**|A pioneer in farming, Funatsu Denjibei.|
+|わ (wa)|**|The master of Japanese math, Seki Kowa.|
 
 UNDER CONSTRUCTION
 
