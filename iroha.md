@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-11-29T06:30:45.878Z
+date: 2022-11-30T03:10:26.389Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -78,8 +78,24 @@ The game could be played by two players against each other, or two teams each ha
 ### 1 versus 1
 - The reader takes the deck of Yomi-fuda, and the referee is in charge of any 
 - Plays must choose the dealer by rock-paper-scissors. The winner shuffles the deck of Tori-fuda and splits it into two piles of 22 Tori-fuda each. The loser chooses which pile to take, and the winner takes the other pile.
-- Each player arranges the cards in their "territory". The opposing territories must be 3 cm apart. The territory should be composed of 3 rows of Torifuda, spaced 1 cm apart. The width of each row is not specified; you must arrange the cards in each row evenly (7 cards in any two rows, 8 cards in the remaining one row), in any order you prefer.
--
+- Each player arranges the cards in their "territory". The opposing territories must be **3 cm apart from each other**, and **20 cm away from the players** (this 20 cm distance is usually marked with a line, and is supposedly where the player's kneecaps are positioned). The territory should be composed of 3 rows of Torifuda, spaced 1 cm apart. The width of each row is not specified; you must arrange the cards in each row evenly (7 cards in any two rows, 8 cards in the remaining one row), in any order you prefer.
+- The referee will give a signal 3 minutes before starting the match. Players are free to arrange the Tori-fuda and memorize their positions at this time. The referee will give another signal 1 minute before starting the match, and afterward, players are not allowed to touch the Tori-fuda on the floor.
+- The reader announces the beginning of the match by reading the 'tsu' card:
+**つる舞う形の群馬県**
+[*Tsuru mau katachi no Gunma-ken*, "Shaped like a flying crane, Gunma Prefecture"]
+- The reader then reads this card again. At this point, the players should be ready to touch the Tori-fuda because the reader will read the first Yomi-fuda next.
+- The reader then reads the first Yomi-fuda in a high toned voice. As the reader does so, players must touch the corresponding Tori-fuda. The first player to do so takes the Tori-fuda.
+
+> Players may touch the correct Tori-fuda whether it is on their own territory or their opponent's.
+{.is-info}
+
+> "Touching" the Tori-fuda may include: Simply touching it, swiping it, flipping it, or snatching it.
+{.is-info}
+
+> Unlike in [Kyogi Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta), **you may not touch any Tori-fuda that isn't the correct Tori-fuda**. If you do, you will be penalized.
+
+> You may only touch Tori-fuda using one hand only, so it is preferable to use your dominant hand. The other hand that is not used cannot trespass the line 20 cm away from your territory.
+
 UNDER CONSTRUCTION
 
 # Bibliography
