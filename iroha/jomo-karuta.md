@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T13:58:27.006Z
+date: 2022-11-30T14:31:28.346Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -58,21 +58,21 @@ Note that among the 44 phrases, only the phrase on the "chi" Yomi-fuda changes s
 |つ (tsu)|*Tsuru mau katachi no Gunma ken*|	Shaped like a flying crane, Gunma Prefecture.|
 |て (te)|*Tenka no yoshito Mozaemon*|A hero for poor people, Mozaemon.|
 |と (to)|*Tone wa bandō ichi no kawa*|The longest river in Kanto, the Tone River.|
-|な (na)|**|Lined cedar trees in Annaka remind us of Nakasendo.|
-|に (ni)|**|Japan's first silk factory, Tomioka Silk Mill.|
-|ぬ (nu)|**|A successful hard worker from Old Numata, Shiobara Tasuke.|
-|ね (ne)|**|Leeks and konnyaku, local foods of Shimonita.|
-|の (no)|**|A perfect place to hike and camp, Mt. Haruna.|
-|は (ha)|**|A beautiful spot for azaleas, Hanayama Park.|
-|ひ (hi)|**|Giving comfort to the people, Kannon Statue.|
-|ふ (fu)|**|The raccoon dog brings good luck at Morinji Temple.|
-|へ (he)|**|A wise Christian educator, Niijima Jo.|
-|ほ (ho)|**|A great Japanese writer, Tayama Katai.|
-|ま (ma)|**|The top producer of cocoons and silk in Japan.|
-|み (mi)|**|Wonderful places to ski and climb, Minakami and Tanigawa.|
-|む (mu)|**|Telling us about old times, Tago Stone Monument.|
-|め (me)|**|The home of Meisen Silk, Isesaki City.|
-|も (mo)|**|Glowing with autumn colors, Mt. Myogi.|
+|な (na)|*Nakasendō shinobu An'naka suginamiki*|Lined cedar trees in Annaka remind us of Nakasendo.|
+|に (ni)|*Nihon de saisho no Tomioka seishi*|Japan's first silk factory, Tomioka Silk Mill.|
+|ぬ (nu)|*Numata Jōka no Shiobara Tasuke*|A successful hard worker from Old Numata, Shiobara Tasuke.|
+|ね (ne)|*Negi to kon'nyaku Shimonita meisan*|Leeks and konnyaku, local foods of Shimonita.|
+|の (no)|*Noboru Haruna no kyanpu-mura*|A perfect place to hike and camp, Mt. Haruna.|
+|は (ha)|*Hanayamakōen tsutsuji no meisho*|A beautiful spot for azaleas, Hanayama Park.|
+|ひ (hi)|*Byakui Kan'non jihi no mite*|Giving comfort to the people, Kannon Statue.|
+|ふ (fu)|*Bunpukuchagama no Morinji*|The raccoon dog brings good luck at Morinji Temple.|
+|へ (he)|*Heiwa no tsukai Nījima Jō*|A wise Christian educator, Niijima Jo.|
+|ほ (ho)|*Hokoru bungō Tayama Katai*|A great Japanese writer, Tayama Katai.|
+|ま (ma)|*Mayu to kiito wa nihon'ichi*|The top producer of cocoons and silk in Japan.|
+|み (mi)|*Minakami, Tanigawa sukī to tozan*|Wonderful places to ski and climb, Minakami and Tanigawa.|
+|む (mu)|*Mukashi o kataru Tago no ko ishibumi*|Telling us about old times, Tago Stone Monument.|
+|め (me)|*Meisen o dasu Isesaki-shi*|The home of Meisen Silk, Isesaki City.|
+|も (mo)|*Kōyō ni haeru Myōgisan*|Glowing with autumn colors, Mt. Myogi.|
 |や (ya)|**|A scene of rare beauty, Agatsuma Canyon.|
 |ゆ (yu)|**|Respected since ancient times, Nukisaki Shrine.|
 |よ (yo)|**|Healing mind and body, Shima Onsen.|
