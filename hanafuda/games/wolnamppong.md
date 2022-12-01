@@ -2,7 +2,7 @@
 title: Wolnamppong
 description: An adaptation of the game In Between using Hwatu cards.
 published: true
-date: 2022-12-01T04:14:48.694Z
+date: 2022-12-01T05:56:07.541Z
 tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-12-01T04:14:48.694Z
@@ -29,8 +29,16 @@ All 48 cards of a Hanafuda deck is used.
 - If all players have used their turns, then the cards are reshuffled and redealt, and play continues starting with the player to the dealer’s right.
 - Play continues until the pot is exhausted. At this point, if players want to continue playing, then all players must place the ante amount into the pot to replenish it.
 
-## Special rules
-Ilbi [일비] – if the two cards in hand are 1 and 12, which gives the highest probability of winning the bet. However, if you lose, then you must pay 1.5x the bet amount in the pot (2x in some regions).
+## Special rules and terms
+- **One-Twelve** [일비, *ilbi*] – if the two cards in hand are 1 and 12, which gives the highest probability of winning the bet. However, **if you lose** (by having either 1 or 12 as the third card), then **you must pay 1.5x the bet amount into the pot (2x in some regions).**
+
+- **Betting the Pot** [아도, *ado*] - if a player bets an amount equal to the current amount in the pot. This is the maximum amount a player can bet, and as the pot increases, the maximum amount a player can bet increases as well.
+
+- **Death by Rain** [비를 들면 죽는다, *bileul deulmyeon jugneunda*] **(optional Regional rule)** – if **one of the cards in your hand** is Rain (**12**), then you **automatically lose** and must place a certain amount of chips into the pot. *(If this rule is in place, then the best possible hand is 1 and 11.)* However, if you have **two Rain (12) cards in hand**, then you automatically win and **take the entire pot!**
+
+- If your hand consists of a pair, then it is a 'push' (your bet is returned to you).
+- If the difference between the two cards in your hand is 1, then you lose.
+
 
 # Bibliography
 - https://namu.wiki/w/%EC%9B%94%EB%82%A8%EB%BD%95
