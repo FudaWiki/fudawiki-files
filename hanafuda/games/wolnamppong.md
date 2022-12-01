@@ -2,7 +2,7 @@
 title: Wolnam-ppong
 description: An adaptation of the game In Between using Hwatu cards.
 published: true
-date: 2022-12-01T06:01:02.948Z
+date: 2022-12-01T06:01:51.127Z
 tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-12-01T04:14:48.694Z
@@ -17,6 +17,8 @@ All 48 cards of a Hanafuda deck is used.
 
 > You must be familiar with the [Korean month sequence](/en/hanafuda/suits#arrangement-of-suits) to play the game.
 {.is-warning}
+
+Chips are also necessary for keeping track of a player's score.
 
 # Gameplay
 - Before starting the game, decide first the amount of chips of the ante.
