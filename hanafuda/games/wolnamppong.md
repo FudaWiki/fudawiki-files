@@ -1,14 +1,14 @@
 ---
-title: Wolnamppong
+title: Wolnam-ppong
 description: An adaptation of the game In Between using Hwatu cards.
 published: true
-date: 2022-12-01T05:56:07.541Z
+date: 2022-12-01T06:01:02.948Z
 tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-12-01T04:14:48.694Z
 ---
 
-Wolnamppong [월남뽕] is an adaptation of the western card game [In Between](https://www.pagat.com/banking/in-between.html) into Hwatu, and is said to have originated from Korean soldiers who were dispatched into the Vietnam War.
+Wolnam-ppong [월남뽕] is an adaptation of the western card game [In Between](https://www.pagat.com/banking/in-between.html) into Hwatu, and is said to have originated from Korean soldiers who were dispatched into the Vietnam War.
 
 The game can technically be played by 2 to 16 players, although it is best played with 4 to 8 players.
 
