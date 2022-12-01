@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-01T03:41:32.063Z
+date: 2022-12-01T06:19:39.586Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -103,6 +103,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Mekuri-kei|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Mekuri-kei|Daibutsu-mae, Nara Prefecture, Japan|
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Mekuri-kei|Japan|
+|[Nailong-ppong](/en/hanafuda/games/nailongppong)|-|-|unconventional|Korea|
 |[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Mekuri-kei|Gifu, Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|
@@ -132,7 +133,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Mekuri-kei|Hokkaido region, Japan|
 |[Towashi](/en/hanafuda/games/towashi)|-|-|-|-|
-|[Wolnamppong](/en/hanafuda/games/wolnamppong)|2-16|Showdown|unconventional|Korea|
+|[Wolnam-ppong](/en/hanafuda/games/wolnamppong)|2-16|Showdown|unconventional|Korea|
 |[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Mekuri-kei|Tokyo, Japan|
 |[Yari-Tori](/en/hanafuda/games/yari-tori)|2|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Yari-Tori Tokotoko](/en/hanafuda/games/yari-tori-tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
