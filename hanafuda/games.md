@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-11-29T01:58:47.148Z
+date: 2022-12-01T03:41:32.063Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -132,6 +132,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Toppa](/en/hanafuda/games/toppa)|2|Fishing|Mekuri-kei|Hokkaido region, Japan|
 |[Towashi](/en/hanafuda/games/towashi)|-|-|-|-|
+|[Wolnamppong](/en/hanafuda/games/wolnamppong)|2-16|Showdown|unconventional|Korea|
 |[Yamayaku](/en/hanafuda/games/roppyakken/#yamayaku)|2|Fishing|Mekuri-kei|Tokyo, Japan|
 |[Yari-Tori](/en/hanafuda/games/yari-tori)|2|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Yari-Tori Tokotoko](/en/hanafuda/games/yari-tori-tokotoko)|2|Showdown|Kabu-kei|Nagoya region, Japan|
