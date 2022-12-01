@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-01T08:03:43.555Z
+date: 2022-12-01T08:49:06.453Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -61,6 +61,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|unconventional|Japan|
 |[Enshu-Bana](/en/hanafuda/games/enshu-bana), a.k.a. Shishibochushin|2-3|Fishing|Mekuri-kei|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Kabu-kei|Japan|
+|[Gopsaechigi](/en/kabufuda/games/gopsaechigi)|-|Climbing|unconventional|Korea|
 |[Hachi](/en/hanafuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Mekuri-kei|Japan|
 |[Hanahuda](/en/hanafuda/games/hanahuda), a.k.a. Hanakuda or Palauan Hanafuda|2-4|Fishing|Mekuri-kei|Palau|
