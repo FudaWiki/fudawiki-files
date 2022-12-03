@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-03T16:03:36.960Z
+date: 2022-12-03T16:04:37.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -20,7 +20,7 @@ It is the most widely used Iroha Karuta set.
 
 Below are the list of all proverbs in Edo Iroha Karuta, arranged in both Aiueo and Iroha Sequences.
 
-Since there are no words that start with the syllable ん (*n*), it was replaced with the kanji 京 (*kyo*), after the 
+Since there are no words that start with the syllable ん (*n*), it was replaced with the kanji 京 (*kyo*).
 
 ## Aiueo Sequence
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
