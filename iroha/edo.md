@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-03T16:06:48.086Z
+date: 2022-12-03T16:15:00.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -94,4 +94,4 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 # Bibliography
 - https://proverb-encyclopedia.com/irohakaruta/
 - https://davidhurleyinjapan.com/japanese/translating-the-iroha-karuta-1-even-a-strolling-dog/
-- 
+- https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%8B%E3%81%9F
