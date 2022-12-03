@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-03T16:04:37.752Z
+date: 2022-12-03T16:06:48.086Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -26,7 +26,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
 |あ (a)|*-*|-|-|
-|い (i)|*-*|-|-|
+|い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone.|
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
 |お (o)|*-*|-|-|
@@ -41,20 +41,20 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |せ (se)|*-*|-|-|
 |そ (so)|*-*|-|-|
 |た (ta)|*-*|-|-|
-|ち (chi)|*-*|-|-|
+|ち (chi)|*Chiri mo tsumoreba yama to naru*|If dust piles up, it will become a mountain.|Light gains make heavy purses.|
 |つ (tsu)|*-*|-|-|
 |て (te)|*-*|-|-|
-|と (to)|*-*|-|-|
+|と (to)|*Toshiyori no hiya mizu*|An old man's cold water. *or*</br>An old man in cold water.|Old sacks want much patching.|
 |な (na)|*-*|-|-|
-|に (ni)|*-*|-|-|
+|に (ni)|*Nikumarekko yo ni habakaru*|The hated child outfaces the world.|Ill weeds grow apace.|
 |ぬ (nu)|*-*|-|-|
 |ね (ne)|*-*|-|-|
 |の (no)|*-*|-|-|
-|は (ha)|*-*|-|-|
+|は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |ひ (hi)|*-*|-|-|
 |ふ (fu)|*-*|-|-|
-|へ (he)|*-*|-|-|
-|ほ (ho)|*-*|-|-|
+|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|After death, the doctor.|
+|ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
 |ま (ma)|*-*|-|-|
 |み (mi)|*-*|-|-|
 |む (mu)|*-*|-|-|
@@ -67,7 +67,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |り (ri)|*-*|-|-|
 |る (ru)|*-*|-|-|
 |れ (re)|*-*|-|-|
-|ろ (ro)|*-*|-|-|
+|ろ (ro)|*Ron yori shōko*|Proof over theory.|Show don't tell.|
 |わ (wa)|*-*|-|-|
 |ゐ (wi)|*-*|-|-|
 |ゑ (we)|*-*|-|-|
