@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T05:04:54.514Z
+date: 2022-12-04T05:11:10.991Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -30,7 +30,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
-|か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
+|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the cute child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*-*|-|-|
 |く (ku)|*-*|-|-|
 |け (ke)|*-*|-|-|
@@ -106,6 +106,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
 |お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
+|か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |せ (se)|*Seite ha koto o shisonjiru*|Hastiness leads to failure.|Haste makes waste.|
 
 # Bibliography
