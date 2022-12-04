@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T06:36:43.633Z
+date: 2022-12-04T06:45:17.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -99,7 +99,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |ね (ne)|*Nen'ni wa nen o ire yo*|You're careful, but be even more careful.|Double-check.|
 |な (na)|*Nakittsura ni hachi*|A bee on someone's crying face.|When it rains, it pours.|
 |ら (ra)|*Raku are ba ku ari*|If there is comfort, there is pain.|Take the good with the bad.|
-|む (mu)|*-*|-|-|
+|む (mu)|*Muri ga tōreba dōri ga hikkomu*|When abuse is allowed, righteousness draws back.|When might is right, then justice there is none.|
 |う (u)|*-*|-|-|
 
 # Proverb Variants
