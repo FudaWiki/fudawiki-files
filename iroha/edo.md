@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T11:16:52.608Z
+date: 2022-12-04T11:17:25.598Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -33,7 +33,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*Kiite gokuraku mite jigoku*|A paradise on hearsay, a hell on sight.|Better to see once than hear a hundred times.|
 |く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
-|け (ke)|*Gei wa mi o tasukeru*|Skills help oneself.|Learn a trade, for the time will come when you shall need it.|
+|け (ke)|*Gei wa mi o tasukeru*|Any skill will help oneself.|Learn a trade, for the time will come when you shall need it.|
 |こ (ko)|*Ko wa sangai no kubikkase*|A child who is a shackle of the three worlds.|Children suck the mother when they are young and the father when they are old.|
 |さ (sa)|*Sanben mawatte tabako ni shiyou*|Go around three times and then smoke a cigarette.|Measure three times before cutting once.|
 |し (shi)|*Shiranu ga hotoke*|Not knowing makes you calm like Buddha.|Ignorance is bliss.|
