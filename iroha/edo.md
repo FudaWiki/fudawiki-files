@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T03:08:41.967Z
+date: 2022-12-04T03:10:03.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -26,7 +26,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
 |あ (a)|*-*|-|-|
-|い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone.|
+|い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
 |お (o)|*-*|-|-|
@@ -53,7 +53,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |ひ (hi)|*-*|-|-|
 |ふ (fu)|*-*|-|-|
-|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|After death, the doctor.|
+|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 |ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
 |ま (ma)|*-*|-|-|
 |み (mi)|*-*|-|-|
@@ -77,7 +77,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 ## Iroha Sequence
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
-|い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone.|
+|い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |ろ (ro)|*Ron yori shōko*|Proof over theory.|Show don't tell.|
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |に (ni)|*Nikumarekko yo ni habakaru*|The hated child outfaces the world.|Ill weeds grow apace.|
