@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T07:04:04.951Z
+date: 2022-12-04T08:33:20.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -104,6 +104,11 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |ゐ (wi)|*Imo no nieta mo gozonji nai*|Not knowing if the potatoes are boiled.|Naivety.|
 |の (no)|*Nodomoto sugireba atsu-sa wasureru*|Once past your throat, you forget the heat.|Danger past, God forgotten.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
+|く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
+|や (ya)|*Yasumono kai no ze ni ushinai*|Losing money by buying cheap goods.|Buy cheap, buy twice.|
+|ま (ma)|*-*|-|-|
+|け (ke)|*-*|-|-|
+|ふ (fu)|*-*|-|-|
 
 # Proverb Variants
 The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
