@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T08:35:35.067Z
+date: 2022-12-04T09:06:46.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -32,8 +32,8 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*-*|-|-|
-|く (ku)|*-*|-|-|
-|け (ke)|*-*|-|-|
+|く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
+|け (ke)|*Gei wa mi o tasukeru*|Skills help oneself.|Learn a trade, for the time will come when you shall need it.|
 |こ (ko)|*-*|-|-|
 |さ (sa)|*-*|-|-|
 |し (shi)|*-*|-|-|
@@ -52,15 +52,15 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |の (no)|*Nodomoto sugireba atsu-sa wasureru*|Once past your throat, you forget the heat.|Danger past, God forgotten.|
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |ひ (hi)|*-*|-|-|
-|ふ (fu)|*-*|-|-|
+|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Wanting to write, but has no hand.|
 |へ (he)|*He o hitte shiri subomeru*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 |ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
-|ま (ma)|*-*|-|-|
+|ま (ma)|*Makeru ga kachi*|To lose is to win.|Yielding is sometimes the best way of succeeding.|
 |み (mi)|*-*|-|-|
 |む (mu)|*Muri ga tōreba dōri ga hikkomu*|When abuse is allowed, righteousness draws back.|When might is right, then justice there is none.|
 |め (me)|*-*|-|-|
 |も (mo)|*-*|-|-|
-|や (ya)|*-*|-|-|
+|や (ya)|*Yasumono kai no zeniushinai*|Losing money by buying cheap goods.|Buy cheap, buy twice.|
 |ゆ (yu)|*-*|-|-|
 |よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |ら (ra)|*Raku are ba ku ari*|If there is comfort, there is pain.|Take the good with the bad.|
@@ -106,9 +106,17 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
 |や (ya)|*Yasumono kai no zeniushinai*|Losing money by buying cheap goods.|Buy cheap, buy twice.|
-|ま (ma)|*-*|-|-|
-|け (ke)|*-*|-|-|
-|ふ (fu)|*-*|-|-|
+|ま (ma)|*Makeru ga kachi*|To lose is to win.|Yielding is sometimes the best way of succeeding.|
+|け (ke)|*Gei wa mi o tasukeru*|Skills help oneself.|Learn a trade, for the time will come when you shall need it.|
+|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Wanting to write, but has no hand.|
+
+
+
+
+
+
+
+
 
 # Proverb Variants
 The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
