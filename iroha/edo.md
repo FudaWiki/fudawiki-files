@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T06:52:06.429Z
+date: 2022-12-04T06:56:14.323Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -93,17 +93,18 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |た (ta)|*Tabi wa michidzure yo wa nasake*|With a companion in this journey, the world is merciful.|Shared joy is double joy; Shared sorrow is half a sorrow.|
-|れ (re)|*Reu yaku kuchi ni nigashi*|Good medicine tastes bitter in the mouth.|Good advice is often annoying.|
+|れ (re)|*Ryōyaku kuchi ni nigashi*|Good medicine tastes bitter in the mouth.|Good advice is often annoying.|
 |そ (so)|*Sōryō no jinroku*|The eldest son is most laid-back.|The younger brother has more wit.|
 |つ (tsu)|*Tsukiyo ni kama o nuku*|Having a large cauldron stolen under a moonlit night.|Extreme carelessness.|
 |ね (ne)|*Nen'ni wa nen o ire yo*|You're careful, but be even more careful.|Double-check.|
 |な (na)|*Nakittsura ni hachi*|A bee on someone's crying face.|When it rains, it pours.|
 |ら (ra)|*Raku are ba ku ari*|If there is comfort, there is pain.|Take the good with the bad.|
 |む (mu)|*Muri ga tōreba dōri ga hikkomu*|When abuse is allowed, righteousness draws back.|When might is right, then justice there is none.|
-|う (u)|*Uso kara deta makoto*|-|-|
-
-
+|う (u)|*Uso kara deta makoto*|Truth that came out of a lie.|Many a true word is spoken in jest.|
+|ゐ (wi)|*Imo no nieta mo gozonji nai*|-|-|
+|の (no)|*-*|-|-|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
+
 # Proverb Variants
 The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
