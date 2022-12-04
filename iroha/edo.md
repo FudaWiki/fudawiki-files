@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T06:28:19.661Z
+date: 2022-12-04T06:36:43.633Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -97,8 +97,8 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |そ (so)|*Sōryō no jinroku*|The eldest son is most laid-back.|The younger brother has more wit.|
 |つ (tsu)|*Tsukiyo ni kama o nuku*|Having a large cauldron stolen under a moonlit night.|Extreme carelessness.|
 |ね (ne)|*Nen'ni wa nen o ire yo*|You're careful, but be even more careful.|Double-check.|
-|な (na)|*-*|-|-|
-|ら (ra)|*-*|-|-|
+|な (na)|*Nakittsura ni hachi*|A bee on someone's crying face.|When it rains, it pours.|
+|ら (ra)|*Raku are ba ku ari*|If there is comfort, there is pain.|Take the good with the bad.|
 |む (mu)|*-*|-|-|
 |う (u)|*-*|-|-|
 
