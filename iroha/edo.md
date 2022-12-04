@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T05:12:53.331Z
+date: 2022-12-04T05:19:55.624Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -47,7 +47,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |と (to)|*Toshi yori no hiya mizu*|An old man's cold water. *or*</br>An old man in cold water.|Old sacks want much patching.|
 |な (na)|*-*|-|-|
 |に (ni)|*Nikumarekko yo ni habakaru*|The hated child outfaces the world.|Ill weeds grow apace.|
-|ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
+|ぬ (nu)|*Nusubito no hirune mo ate ga aru*|A thief's nap has a purpose.|A method in one's madness.|
 |ね (ne)|*-*|-|-|
 |の (no)|*-*|-|-|
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
@@ -86,7 +86,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |と (to)|*Toshi yori no hiya mizu*|An old man's cold water. *or*</br>An old man in cold water.|Old sacks want much patching.|
 |ち (chi)|*Chiri mo tsumoreba yama to naru*|If dust piles up, it will become a mountain.|Light gains make heavy purses.|
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
-|ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
+|ぬ (nu)|*Nusubito no hirune mo ate ga aru*|A thief's nap has a purpose.|A method in one's madness.|
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
@@ -108,6 +108,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |せ (se)|*Seite ha koto o shisonjiru*|Hastiness leads to failure.|Haste makes waste.|
+|ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
 
 # Bibliography
 - https://proverb-encyclopedia.com/irohakaruta/
