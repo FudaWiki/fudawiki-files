@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T06:00:37.773Z
+date: 2022-12-04T06:05:49.735Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -103,13 +103,13 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |う (u)|*-*|-|-|
 
 # Proverb Variants
+The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
 |お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |せ (se)|*Seite ha koto o shisonjiru*|Hastiness leads to failure.|Haste makes waste.|
-|ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
-|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
+
 
 # Bibliography
 - https://proverb-encyclopedia.com/irohakaruta/
