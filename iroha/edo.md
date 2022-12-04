@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T05:19:55.624Z
+date: 2022-12-04T05:25:53.000Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -53,7 +53,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |ひ (hi)|*-*|-|-|
 |ふ (fu)|*-*|-|-|
-|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
+|へ (he)|*He o hitte shiri subomeru*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 |ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
 |ま (ma)|*-*|-|-|
 |み (mi)|*-*|-|-|
@@ -62,7 +62,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |も (mo)|*-*|-|-|
 |や (ya)|*-*|-|-|
 |ゆ (yu)|*-*|-|-|
-|よ (yo)|*Yoshi no zui kara tenjō nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
+|よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |ら (ra)|*-*|-|-|
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
@@ -82,7 +82,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |に (ni)|*Nikumarekko yo ni habakaru*|The hated child outfaces the world.|Ill weeds grow apace.|
 |ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
-|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
+|へ (he)|*He o hitte shiri subomeru*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 |と (to)|*Toshi yori no hiya mizu*|An old man's cold water. *or*</br>An old man in cold water.|Old sacks want much patching.|
 |ち (chi)|*Chiri mo tsumoreba yama to naru*|If dust piles up, it will become a mountain.|Light gains make heavy purses.|
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
@@ -91,7 +91,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
 |か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the cute child on a journey.|Spare the rod and spoil the child.|
-|よ (yo)|*Yoshi no zui kara tenjō nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
+|よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |た (ta)|*Tabi wa michidzure yo wa nasake*|With a companion in this journey, the world is merciful.|Shared joy is double joy; Shared sorrow is half a sorrow.|
 |れ (re)|*-*|-|-|
 |そ (so)|*-*|-|-|
@@ -109,6 +109,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |せ (se)|*Seite ha koto o shisonjiru*|Hastiness leads to failure.|Haste makes waste.|
 |ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
+|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 
 # Bibliography
 - https://proverb-encyclopedia.com/irohakaruta/
