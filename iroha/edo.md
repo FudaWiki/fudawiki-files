@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T09:06:46.203Z
+date: 2022-12-04T09:17:16.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -108,15 +108,23 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |や (ya)|*Yasumono kai no zeniushinai*|Losing money by buying cheap goods.|Buy cheap, buy twice.|
 |ま (ma)|*Makeru ga kachi*|To lose is to win.|Yielding is sometimes the best way of succeeding.|
 |け (ke)|*Gei wa mi o tasukeru*|Skills help oneself.|Learn a trade, for the time will come when you shall need it.|
-|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Wanting to write, but has no hand.|
-
-
-
-
-
-
-
-
+|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Wanting to write something, but can't write.|
+|こ (ko)|*-*|-|-|
+|え (e)|*-*|-|-|
+|て (te)|*-*|-|-|
+|あ (a)|*-*|-|-|
+|さ (sa)|*-*|-|-|
+|き (ki)|*-*|-|-|
+|ゆ (yu)|*-*|-|-|
+|め (me)|*-*|-|-|
+|み (mi)|*-*|-|-|
+|し (shi)|*-*|-|-|
+|ゑ (we)|*-*|-|-|
+|ひ (hi)|*-*|-|-|
+|も (mo)|*-*|-|-|
+|せ (se)|*-*|-|-|
+|す (su)|*-*|-|-|
+|京 (kyo)|*-*|-|-|
 
 # Proverb Variants
 The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
