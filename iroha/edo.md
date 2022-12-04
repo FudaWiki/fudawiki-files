@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-03T16:15:00.562Z
+date: 2022-12-04T03:08:41.967Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -82,9 +82,17 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |は (ha)|*Hana yori dango*|Dumplings over flowers.|The belly is not filled with fair words.|
 |に (ni)|*Nikumarekko yo ni habakaru*|The hated child outfaces the world.|Ill weeds grow apace.|
 |ほ (ho)|*Honeori zon no kutabire mōke*|For the price of breaking bones, you gain only exhaustion.|Great pains but all in vain.|
-|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|After death, the doctor.|
+|へ (he)|*He o hitte shiri tsubome*|After farting, clenching the butt.|Closing the barn door after the horse has left.|
 |と (to)|*Toshiyori no hiya mizu*|An old man's cold water. *or*</br>An old man in cold water.|Old sacks want much patching.|
 |ち (chi)|*Chiri mo tsumoreba yama to naru*|If dust piles up, it will become a mountain.|Light gains make heavy purses.|
+|り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
+|ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
+|る (ru)|*Ruri mo hari mo teraseba hikaru*|Even lapiz lazuli and glass will shine when illuminated.|Everyone has their time to shine.|
+|お (o)|*-*|-|-|
+|わ (wa)|*-*|-|-|
+|か (ka)|*-*|-|-|
+|よ (yo)|*-*|-|-|
+|た (ta)|*-*|-|-|
 
 # Proverb Variants
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
