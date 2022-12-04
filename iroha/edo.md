@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T09:17:16.742Z
+date: 2022-12-04T10:10:57.060Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -107,12 +107,12 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
 |や (ya)|*Yasumono kai no zeniushinai*|Losing money by buying cheap goods.|Buy cheap, buy twice.|
 |ま (ma)|*Makeru ga kachi*|To lose is to win.|Yielding is sometimes the best way of succeeding.|
-|け (ke)|*Gei wa mi o tasukeru*|Skills help oneself.|Learn a trade, for the time will come when you shall need it.|
-|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Wanting to write something, but can't write.|
-|こ (ko)|*-*|-|-|
-|え (e)|*-*|-|-|
-|て (te)|*-*|-|-|
-|あ (a)|*-*|-|-|
+|け (ke)|*Gei wa mi o tasukeru*|Any skill will help oneself.|Learn a trade, for the time will come when you shall need it.|
+|ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Can't connect two words together.|
+|こ (ko)|*Ko wa sangai no kubikkase*|A child who is a shackle of the three worlds.|Children suck the mother when they are young and the father when they are old.|
+|え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Hoist your sail when the wind is fair.|
+|て (te)|*Teishu no sukina aka eboshi*|The husband's favorite red headdress.|The family goes with what the head of the family wants, even if their taste is odd.|
+|あ (a)|*Atama kakushite shiri kakusazu*|Hiding one's head without hiding their butt.|The foolish ostrich buries his head in the sand and thinks he is not seen.|
 |さ (sa)|*-*|-|-|
 |き (ki)|*-*|-|-|
 |ゆ (yu)|*-*|-|-|
