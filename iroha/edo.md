@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T04:31:31.350Z
+date: 2022-12-04T05:03:46.618Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -29,7 +29,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
-|お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
+|お (o)|*Oni ni kanabō*|An iron club to a demon.|The best becomes even better.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |き (ki)|*-*|-|-|
 |く (ku)|*-*|-|-|
@@ -88,15 +88,24 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
 |ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
-|お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
+|お (o)|*Oni ni kanabō*|An iron club to a demon.|The best becomes even better.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |よ (yo)|*Yoshi no zui kara tenjō nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |た (ta)|*Tabi wa michidzure yo wa nasake*|With a companion in this journey, the world is merciful.|Shared joy is double joy; Shared sorrow is half a sorrow.|
+|れ (re)|*-*|-|-|
+|そ (so)|*-*|-|-|
+|つ (tsu)|*-*|-|-|
+|ね (ne)|*-*|-|-|
+|な (na)|*-*|-|-|
+|ら (ra)|*-*|-|-|
+|む (mu)|*-*|-|-|
+|う (u)|*-*|-|-|
 
 # Proverb Variants
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
+|お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
 |せ (se)|*Seite ha koto o shisonjiru*|Hastiness leads to failure.|Haste makes waste.|
 
 # Bibliography
