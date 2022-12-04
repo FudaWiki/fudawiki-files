@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T05:25:53.000Z
+date: 2022-12-04T05:47:32.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -30,7 +30,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
-|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the cute child on a journey.|Spare the rod and spoil the child.|
+|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*-*|-|-|
 |く (ku)|*-*|-|-|
 |け (ke)|*-*|-|-|
@@ -90,7 +90,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
-|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the cute child on a journey.|Spare the rod and spoil the child.|
+|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |た (ta)|*Tabi wa michidzure yo wa nasake*|With a companion in this journey, the world is merciful.|Shared joy is double joy; Shared sorrow is half a sorrow.|
 |れ (re)|*-*|-|-|
