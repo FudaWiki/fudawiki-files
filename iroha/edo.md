@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T06:56:14.323Z
+date: 2022-12-04T07:01:14.270Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -101,8 +101,8 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |ら (ra)|*Raku are ba ku ari*|If there is comfort, there is pain.|Take the good with the bad.|
 |む (mu)|*Muri ga tōreba dōri ga hikkomu*|When abuse is allowed, righteousness draws back.|When might is right, then justice there is none.|
 |う (u)|*Uso kara deta makoto*|Truth that came out of a lie.|Many a true word is spoken in jest.|
-|ゐ (wi)|*Imo no nieta mo gozonji nai*|-|-|
-|の (no)|*-*|-|-|
+|ゐ (wi)|*Imo no nieta mo gozonji nai*|Not knowing if the potatoes are boiled.|Naivety.|
+|の (no)|*Nodomoto sugireba atsu-sa wasureru*|Once past your throat, you forget the heat.|Danger past, God forgotten.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 
 # Proverb Variants
