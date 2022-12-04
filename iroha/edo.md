@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T03:10:03.960Z
+date: 2022-12-04T04:09:22.405Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -87,10 +87,10 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |ち (chi)|*Chiri mo tsumoreba yama to naru*|If dust piles up, it will become a mountain.|Light gains make heavy purses.|
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
 |ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
-|る (ru)|*Ruri mo hari mo teraseba hikaru*|Even lapiz lazuli and glass will shine when illuminated.|Everyone has their time to shine.|
-|お (o)|*-*|-|-|
-|わ (wa)|*-*|-|-|
-|か (ka)|*-*|-|-|
+|る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
+|お (o)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
+|わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
+|か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |よ (yo)|*-*|-|-|
 |た (ta)|*-*|-|-|
 
