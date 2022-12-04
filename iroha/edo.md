@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T05:03:46.618Z
+date: 2022-12-04T05:04:54.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -29,7 +29,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |う (u)|*-*|-|-|
 |え (e)|*-*|-|-|
-|お (o)|*Oni ni kanabō*|An iron club to a demon.|The best becomes even better.|
+|お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |き (ki)|*-*|-|-|
 |く (ku)|*-*|-|-|
@@ -88,7 +88,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |り (ri)|*Richigimono no ko dakusan*|A righteous person has many children.|Children are poor men's riches.|
 |ぬ (nu)|*Nusutto no hirune*|A thief's nap.|A method in one's madness.|
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
-|お (o)|*Oni ni kanabō*|An iron club to a demon.|The best becomes even better.|
+|お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
 |よ (yo)|*Yoshi no zui kara tenjō nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
