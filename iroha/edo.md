@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T10:10:57.060Z
+date: 2022-12-04T11:08:08.491Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -113,18 +113,18 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Hoist your sail when the wind is fair.|
 |て (te)|*Teishu no sukina aka eboshi*|The husband's favorite red headdress.|The family goes with what the head of the family wants, even if their taste is odd.|
 |あ (a)|*Atama kakushite shiri kakusazu*|Hiding one's head without hiding their butt.|The foolish ostrich buries his head in the sand and thinks he is not seen.|
-|さ (sa)|*-*|-|-|
-|き (ki)|*-*|-|-|
-|ゆ (yu)|*-*|-|-|
-|め (me)|*-*|-|-|
-|み (mi)|*-*|-|-|
-|し (shi)|*-*|-|-|
-|ゑ (we)|*-*|-|-|
-|ひ (hi)|*-*|-|-|
-|も (mo)|*-*|-|-|
-|せ (se)|*-*|-|-|
-|す (su)|*-*|-|-|
-|京 (kyo)|*-*|-|-|
+|さ (sa)|*Sanben mawatte tabako ni shiyou*|Go around three times and then smoke a cigarette.|Measure three times before cutting once.|
+|き (ki)|*Kiite gokuraku mite jigoku*|A paradise on hearsay, a hell on sight.|Better to see once than hear a hundred times.|
+|ゆ (yu)|*Yudan taiteki*|Overconfidence is your greatest enemy.|Overconfidence is your greatest enemy.|
+|め (me)|*Me no ue no tankobu*|A lump above the eye.|A thorn in one's flesh.|
+|み (mi)|*Mikara deta sabi*|On the blade of your sword comes rust.|You have only yourself to blame.|
+|し (shi)|*Shiranu ga hotoke*|Not knowing makes you calm like Buddha.|Ignorance is bliss.|
+|ゑ (we)|*En wa inamono ajina mono*|The relationship between man and woman is mysterious and beautiful.|Marriages are made in heaven.|
+|ひ (hi)|*Binbō himanashi*|A poor man has no time to spare.|Poverty leaves no leisure.|
+|も (mo)|*Monzen no kozō narawanu kyō o yomu*|	The boy who lives at the gate of the temple can recite the sutras even if he has not studied them.|A saint's maid quotes Latin.|
+|せ (se)|*Se ni hara wa kaerarenu*|You can't trade your belly for your back.|Necessity knows no law.|
+|す (su)|*Sui wa mi o kuu*|Stylishness eats itself.|A life devoted to pleasure is necessarily short.|
+|京 (kyo)|*Kyō no yume Ōsaka no yume*|Dream of Kyoto, dream of Osaka.|-|
 
 # Proverb Variants
 The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
@@ -138,3 +138,4 @@ The following lists proverbs that are used to **replace some of the proverbs** i
 - https://proverb-encyclopedia.com/irohakaruta/
 - https://davidhurleyinjapan.com/japanese/translating-the-iroha-karuta-1-even-a-strolling-dog/
 - https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%8B%E3%81%9F
+- http://www.asahi-net.or.jp/~ir4n-khr/karuta/index.html
