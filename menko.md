@@ -2,7 +2,7 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-05T16:12:11.820Z
+date: 2022-12-05T16:13:26.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
@@ -67,7 +67,7 @@ A menko card is made of thick cardboard, which may be either rectangular or circ
 - All the menko on the floor are put into one **stack**, and one of the menko in the stack is chosen as the target menko before starting the game. The player must throw their menko onto the stack. If it manages to **push the target menko away from the stack**, then the player wins and takes **all menko in the stack** into their possession.
 
 ## Suberi (滑り)
-- This method is set up differently: each player **slides their menko from one end of the table**, and the player whose menko traveled the **farthest wins** and takes takes **all menko on the table** into their possession. But be careful; if your menko **falls off** the other side of the table, you **lose automatically**!
+- This method is set up differently: each player **slides their menko from one end of the table toward the other**, and the player whose menko traveled the **farthest wins** and takes takes **all menko on the table** into their possession. But be careful; if your menko **falls off** the other side of the table, you **lose automatically**!
 
 ## Fuki (ふき)
 - The player must **blow** on their opponent's menko on the floor **with their mouth**, and if it manages to **flip** the opponent's menko, then the player wins and takes the opponent's menko into their possession.
