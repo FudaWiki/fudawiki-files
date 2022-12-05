@@ -2,7 +2,7 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-05T15:26:33.089Z
+date: 2022-12-05T16:06:24.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
@@ -11,7 +11,7 @@ dateCreated: 2022-12-05T09:04:39.413Z
 Menko (めんこ, 面子), is a Japanese children's card game played by two or more players, where each player throws a card onto another card on the ground in hopes of flipping it. It was very popular during the Showa era.
 
 # History of Menko
-Menko, in their present form, are **cards made of thick cardboard, which may be rectangular or spherical**. However, in the past, other materials were used.
+Menko, in their present form, are **cards made of thick cardboard, which may be rectangular or circular**. However, in the past, other materials were used.
 ## Edo period: Clay Menko
 In the Edo period (1603-1867), a game called "Ana-ichi" ('one hole') was played. Children threw shells, nuts, coins, molded clay, or other objects into a small hole dug in the ground, and whoever manages to have their object caught in the hole wins.
 
@@ -41,7 +41,7 @@ In the 1870's, menko made out of paper were used in place of conventional lead m
 In the latter half of the 1950's, bottled milk began to be served in school lunches instead of powdered skim milk. Because many children would keep the menko they won in games from other players, many schools considered menko as a form of gambling and banned them. Children then collected milk bottle caps, which were obtained one by one at school lunches, and used them as a substitute for menko.
 
 # Elements of Menko
-A menko card is made of thick cardboard, which may be either rectangular or spherical, and with both sides printed with various illustrations or information:
+A menko card is made of thick cardboard, which may be either rectangular or circular, and with both sides printed with various illustrations or information:
 - Front side - The front side of each menko is smooth, and printed on them are pictures that reflect the popular culture of their time, and reflect important information about their era. In the Edo and early Meiji period, images like ninja and samurai were popular. Before World War II, the most popular images were of the military, like fighter planes and battleships. After the war, characters from anime and manga were popular, as well as baseball players. In the late 1980's to early 1990's, Menko cards were decorated with holographs and sparkles.
 
 - Back side - The back side usually has a rough or plain paper texture, and are usually printed on a single color. Various information like rock-paper-scissors, western playing card number and suit, number of points, illustrations of weapons, etc. are printed on the back side, and children are free to create their own methods of playing based on those printed elements.
