@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-05T00:11:18.298Z
+date: 2022-12-05T10:55:54.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -27,7 +27,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |う (u)|*Uso kara deta makoto*|Truth that came out of a lie.|Many a true word is spoken in jest.|
 |え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Strike while the iron is hot.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
-|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
+|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let your precious child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*Kiite gokuraku mite jigoku*|A paradise on hearsay, a hell on sight.|Better to see once than hear a hundred times.|
 |く (ku)|*Kusai mono ni futa*|Putting a lid on something that stinks.|Sweeping something under the carpet.|
 |け (ke)|*Gei wa mi o tasukeru*|Any skill will help oneself.|Learn a trade, for the time will come when you shall need it.|
@@ -87,7 +87,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |る (ru)|*Ruri mo hari mo teraseba hikaru*|Both lapiz lazuli and glass will shine when illuminated.|Diamonds in the rough.|
 |を (wo)|*Oite wa ko ni shitagae*|When you get old, obey your children.|Be guided by your children when you are old.|
 |わ (wa)|*Warenabe ni tojibuta*|A binding lid on a cracked pot.|Every Jack has his Jill.|
-|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
+|か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let your precious child on a journey.|Spare the rod and spoil the child.|
 |よ (yo)|*Yoshi no zui kara tenjō o nozoku*|Peeking into the ceiling through the marrow of the reed.|To have a narrow view of things.|
 |た (ta)|*Tabi wa michidzure yo wa nasake*|With a companion in this journey, the world is merciful.|Shared joy is double joy; Shared sorrow is half a sorrow.|
 |れ (re)|*Ryōyaku kuchi ni nigashi*|Good medicine tastes bitter in the mouth.|Good advice is often annoying.|
