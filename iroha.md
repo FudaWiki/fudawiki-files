@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-05T06:00:44.370Z
+date: 2022-12-05T06:08:58.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -17,24 +17,41 @@ As an Uta-garuta derivative, it shares the exact same gameplay as [Hyakunin Issh
 # The Cards
 As with many Uta-garuta sets, a set of Iroha Karuta contains two types of cards: **Yomifuda** (読み札, "reading cards") and **Torifuda** (取り札, "grabbing cards").
 
-In Iroha Karuta, There are about 46 to 48 Yomifuda, and a corresponding number of Torifuda, for a total of 92 to 96 cards per set. The variation in number of cards is due to some archaic characters being deleted or replaced over time.
+In Iroha Karuta, There are about 48 Yomifuda, and a corresponding number of Torifuda, for a total of 96 cards per set. The variation in number of cards is due to some archaic characters being deleted or replaced over time.
 
 Each **Yomifuda** contains a writing. Traditionally, this writing is a **proverb**, but it could be a random saying or description, depending on the Iroha karuta set being used.
 
 Each corresponding **Torifuda** contains **an illustration related to the writing on the Torifuda, as well as a circle with the first syllable of the writing, written in hiragana**.
 
+# Iroha Karuta Sets
+There are many different sets of Iroha Karuta, each revolving around a different theme, but the format remains the same.
+
 ## Traditional Iroha Karuta Sets
-All of these sets feature proverbs, but the contents vary per set. The sets are:
+All three of these sets feature **proverbs**, but the contents vary per set. The sets are:
 - [**Edo Iroha Karuta**](/en/iroha/edo) - From Edo (now Tokyo). It is the most widely used set.
 - **Kamigata Iroha Karuta** - From Kamigata region (Kyoto, Osaka, Kobe). It is the oldest of the three sets.
 - **Owari Iroha Karuta** - From Owari province. It is the youngest of the three sets.
 
-## Other Iroha Karuta Sets
-- **Obake Karuta** (お化けかるた, 'monster cards') is a type of Iroha Karuta that is themed around various monsters from Japanese folklore. It can be considered the predecessor of Character Iroha Karuta.
-- **Hougen Karuta** (方言かるた, 'regional dialect cards') is a type of Iroha Karuta whose Yomifuda include phrases of a Japanese regional dialect.
-- **Kyodo Karuta** (郷土かるた, 'regional history cards') is a type of Iroha Karuta that is themed around local events, specialties, and historical sites of a region in Japan. An example is [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
-- **Character Iroha Karuta** is a type of Iroha Karuta that is themed around an intellectual property, such as Anime, Tokusatsu, Video game, etc.
-- **Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a program, campaign, or slogan, promoted usually by a Government Department.
+## Obake Karuta
+**Obake Karuta** (お化けかるた, 'monster cards') is a type of Iroha Karuta that is themed around **various monsters from Japanese folklore**. 
+
+It can be considered the predecessor of Character Iroha Karuta.
+
+## Hougen Karuta
+**Hougen Karuta** (方言かるた, 'regional dialect cards') is a type of Iroha Karuta whose Yomifuda include **phrases of a Japanese regional dialect**.
+
+## Kyodo Karuta
+**Kyodo Karuta** (郷土かるた, 'regional history cards') is a type of Iroha Karuta that is themed around **local events, specialties, and historical sites of a region in Japan**.
+
+Examples are:
+- [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
+
+## Campaign Iroha Karuta
+**Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a **program, campaign, or slogan**, promoted usually by a Government Department.
+
+## Character Iroha Karuta
+**Character Iroha Karuta** is a type of Iroha Karuta that is themed around an **intellectual property**, such as Anime, Tokusatsu, Video game, etc.
+
 
 # General Premise of the Game
 The game is played with **1 person reading the Yomifuda** (hereafter refered to as the **"reader"**), and player(s) competing in the game. 
