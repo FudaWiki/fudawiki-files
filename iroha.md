@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-05T06:00:13.698Z
+date: 2022-12-05T06:00:44.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -32,7 +32,7 @@ All of these sets feature proverbs, but the contents vary per set. The sets are:
 ## Other Iroha Karuta Sets
 - **Obake Karuta** (お化けかるた, 'monster cards') is a type of Iroha Karuta that is themed around various monsters from Japanese folklore. It can be considered the predecessor of Character Iroha Karuta.
 - **Hougen Karuta** (方言かるた, 'regional dialect cards') is a type of Iroha Karuta whose Yomifuda include phrases of a Japanese regional dialect.
-- **Kyodo Karuta** (郷土かるたかるた, 'regional history cards') is a type of Iroha Karuta that is themed around local events, specialties, and historical sites of a region in Japan. An example is [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
+- **Kyodo Karuta** (郷土かるた, 'regional history cards') is a type of Iroha Karuta that is themed around local events, specialties, and historical sites of a region in Japan. An example is [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
 - **Character Iroha Karuta** is a type of Iroha Karuta that is themed around an intellectual property, such as Anime, Tokusatsu, Video game, etc.
 - **Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a program, campaign, or slogan, promoted usually by a Government Department.
 
