@@ -2,13 +2,13 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-05T14:03:08.736Z
+date: 2022-12-05T15:26:33.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
 ---
 
-Menko (めんこ, 面子), is a Japanese traditional card game played by two or more players, where each player throws a card onto another card on the ground in hopes of flipping it.
+Menko (めんこ, 面子), is a Japanese children's card game played by two or more players, where each player throws a card onto another card on the ground in hopes of flipping it. It was very popular during the Showa era.
 
 # History of Menko
 Menko, in their present form, are **cards made of thick cardboard, which may be rectangular or spherical**. However, in the past, other materials were used.
@@ -47,5 +47,35 @@ A menko card is made of thick cardboard, which may be either rectangular or sphe
 - Back side - The back side usually has a rough or plain paper texture, and are usually printed on a single color. Various information like rock-paper-scissors, western playing card number and suit, number of points, illustrations of weapons, etc. are printed on the back side, and children are free to create their own methods of playing based on those printed elements.
 
 # Methods of Playing
+## Setup before the game
+- Players place an equal amount of menko on the floor.
+- Players then do a game of rock-paper-scissors to determine who gets a turn to throw their menko.
+
+## Okoshi (起こし)
+- The player must throw their menko onto an opponent's menko on the floor, and if it manages to **flip** the opponent's menko, then the player wins and takes the opponent's menko into their possession.
+
+## Tsumi (積み)
+- All the menko on the floor are put into one **scattered pile**, and the player must throw their menko onto the pile. If it manages to flip a menko on the pile, then the player wins and takes **all menko in the pile** into their possession.
+
+## Hataki (はたき)
+- A circle is drawn around the menko on the floor, and the player must throw their menko onto an opponent's menko on the floor, and if it manages to **push** the opponent's menko **outside of the circle**, then the player wins and takes the opponent's menko into their possession.
+
+## Sabaori (さばおり)
+- The player must throw their menko onto an opponent's menko on the floor, and if it manages to **slip under** the opponent's menko, then the player wins and takes the opponent's menko into their possession.
+
+## Nuki (抜き)
+- All the menko on the floor are put into one **stack**, and one of the menko in the stack is chosen as the target menko before starting the game. The player must throw their menko onto the stack. If it manages to **push the target menko away from the stack**, then the player wins and takes **all menko in the stack** into their possession.
+
+## Suberi (滑り)
+- This method is set up differently: each player **slides their menko from one end the table**, and the player whose menko traveled the **farthest wins** and takes takes **all menko on the table** into their possession. But be careful; if your menko **falls off** the other side of the table, you **lose automatically**!
+
+## Fuki (ふき)
+- The player must **blow** on their opponent's menko on the floor **with their mouth**, and if it manages to **flip** the opponent's menko, then the player wins and takes the opponent's menko into their possession.
 
 
+# Bibliography
+- https://en.wikipedia.org/wiki/Menko
+- https://ja.wikipedia.org/wiki/%E3%82%81%E3%82%93%E3%81%93#cite_note-culture71-8
+- https://www.city.ichihara.chiba.jp/maibun/note/notebook5.htm
+- https://www.city.koka.lg.jp/4999.htm
+- https://www.tnc.ne.jp/oasobi/oasobi01/09menko/01.html
