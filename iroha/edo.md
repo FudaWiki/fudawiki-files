@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-04T11:19:31.281Z
+date: 2022-12-05T00:11:18.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -25,7 +25,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |あ (a)|*Atama kakushite shiri kakusazu*|Hiding one's head without hiding their butt.|The foolish ostrich buries his head in the sand and thinks he is not seen.|
 |い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |う (u)|*Uso kara deta makoto*|Truth that came out of a lie.|Many a true word is spoken in jest.|
-|え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Hoist your sail when the wind is fair.|
+|え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Strike while the iron is hot.|
 |お (o)|*Oni ni kanabō*|An iron club to a demon.|Giving a strong person something that will make them stronger.|
 |か (ka)|*Kawaii ko ni wa tabi o sase yo*|Let the adorable child on a journey.|Spare the rod and spoil the child.|
 |き (ki)|*Kiite gokuraku mite jigoku*|A paradise on hearsay, a hell on sight.|Better to see once than hear a hundred times.|
@@ -107,7 +107,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |け (ke)|*Gei wa mi o tasukeru*|Any skill will help oneself.|Learn a trade, for the time will come when you shall need it.|
 |ふ (fu)|*Fun wa yaritashi kaku te wa motanu*|Wanting to write, but has no hand.|Can't connect two words together.|
 |こ (ko)|*Ko wa sangai no kubikkase*|A child who is a shackle of the three worlds.|Children suck the mother when they are young and the father when they are old.|
-|え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Hoist your sail when the wind is fair.|
+|え (e)|*Ete ni ho o ageru*|Put up a sail at the strongest point.|Strike while the iron is hot.|
 |て (te)|*Teishu no sukina aka eboshi*|The husband's favorite red headdress.|The family goes with what the head of the family wants, even if their taste is odd.|
 |あ (a)|*Atama kakushite shiri kakusazu*|Hiding one's head without hiding their butt.|The foolish ostrich buries his head in the sand and thinks he is not seen.|
 |さ (sa)|*Sanben mawatte tabako ni shiyou*|Go around three times and then smoke a cigarette.|Measure three times before cutting once.|
