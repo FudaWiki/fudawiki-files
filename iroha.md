@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-03T16:03:51.513Z
+date: 2022-12-05T06:00:13.698Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -28,8 +28,6 @@ All of these sets feature proverbs, but the contents vary per set. The sets are:
 - [**Edo Iroha Karuta**](/en/iroha/edo) - From Edo (now Tokyo). It is the most widely used set.
 - **Kamigata Iroha Karuta** - From Kamigata region (Kyoto, Osaka, Kobe). It is the oldest of the three sets.
 - **Owari Iroha Karuta** - From Owari province. It is the youngest of the three sets.
-
-For a list of proverbs see [Iroha Karuta Proverbs](/en/iroha/proverbs).
 
 ## Other Iroha Karuta Sets
 - **Obake Karuta** (お化けかるた, 'monster cards') is a type of Iroha Karuta that is themed around various monsters from Japanese folklore. It can be considered the predecessor of Character Iroha Karuta.
