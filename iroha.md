@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-06T01:28:57.566Z
+date: 2022-12-06T01:29:34.439Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -27,7 +27,7 @@ Each corresponding **Torifuda** contains **an illustration related to the writin
 There are many different sets of Iroha Karuta, each revolving around a different theme, but the format remains the same.
 
 ## Traditional Iroha Karuta Sets
-All three of these sets feature **proverbs**, but the contents vary per set. The sets are:
+All three of these sets feature **Japanese proverbs and idioms**, but the contents vary per set. The sets are:
 - [**Edo Iroha Karuta**](/en/iroha/edo) - From Edo (now Tokyo). It is the most widely used set.
 - **Kamigata Iroha Karuta** - From Kamigata region (Kyoto, Osaka, Kobe). It is the oldest of the three sets.
 - **Owari Iroha Karuta** - From Owari province. It is the youngest of the three sets.
