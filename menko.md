@@ -2,7 +2,7 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-05T16:15:08.009Z
+date: 2022-12-06T03:17:14.755Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
@@ -13,14 +13,14 @@ Menko (めんこ, 面子), is a Japanese children's card game played by two or m
 # History of Menko
 Menko, in their present form, are **cards made of thick cardboard, which may be rectangular or circular**. However, in the past, other materials were used.
 ## Edo period: Clay Menko
-In the Edo period (1603-1867), a game called "Ana-ichi" ('one hole') was played. Children threw shells, nuts, coins, molded clay, or other objects into a small hole dug in the ground, and whoever manages to have their object caught in the hole wins.
+In the Edo period (1603-1867), a game called "Ana-ichi" ('one hole') was played. Children threw shells, nuts, coins, baked clay, or other objects into a small hole dug in the ground, and whoever manages to have their object caught in the hole wins.
 
-During the Tempo era (1831-1835), the use of menko made out of molded clay became popular as a tool for playing "Ana-ichi". 
+During the Tempo era (1831-1835), the use of menko made out of clay became popular as a tool for playing "Ana-ichi". 
 
-There are different types of clay menko, according to their shape:
-- Men'uchi/Menchou/Menchi (面打)
-- Keshi-men (芥子面)
-- Mengata (面摸)
+There are different types of clay menko:
+- Men'uchi/Menchou/Menchi (面打) - Clay menko that are shaped like thick coins.
+- Keshi-men (芥子面) - Clay menko that are shaped like animals and other figures.
+- Mengata (面摸) - Clay menko that are formed in molds. They are usually shaped like a face. The term also refers to the molds that formed them.
 
 The game was played by children until the mid-Meiji era (1868-1912), when the name of the game was changed to "Menko".
 
