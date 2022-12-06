@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-06T08:24:17.048Z
+date: 2022-12-06T08:32:11.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -30,7 +30,7 @@ Karuta sets are classified into two major families:
 |[Dosai Karuta](/en/unsun)|A card set similar to Iroha Karuta in that its theme revolves around proverbs, however, the *torifuda* do not have any syllables on them. Originally a family-friendly game, it was eventually used to play a gambling game similar to bingo.|
 |Hana-awase|The ancestor of Hanafuda (not to be confused with the [game](/en/hanafuda/games/hana-awase) of the same name). Each set has a maximum of 400 cards. Originally having 100 types of flowers, each flower appears in four cards: One of which also has a tanzaku on it, and one of which has a bird, animal, or object on it. Later sets would gradually be reduced in number of cards, until it was finally reduced to just 48 cards.|
 |[Hanafuda](/en/hanafuda)|Generally 48 cards, with some exceptions. 12 [suits](/en/hanafuda/suits) of 4 cards each, of varying [types](/en/hanafuda/types) depending on the suit. They feature somewhat abstracted depictions of culturally relevant flora and fauna pairings, with each suit represented by a species of plant. Originally belonging to a wide family of [E-awase](/en/e-awase) (picture matching cards), Hanafuda was adapted to play a [wide variety of games](/en/hanafuda/games), including those played with other types of cards.|
-|[Junishi-Awase](/en/junishi-awase)|48 cards - Consists of 4 cards for each of the 12 Chinese Zodiac Animals. May be in either Menko or Playing Card format. Each card has points written on them, which vary depending on the manufacturer.|
+|[Junishi-Awase](/en/junishi-awase)|48 cards - Consists of 4 cards for each of the 12 Chinese Zodiac Animals, which makes the structure comparable to Hanafuda. May be in either Menko or Playing Card format. Each card has points written on them, which vary depending on the manufacturer.|
 |[Garafuda](/en/garafuda)|140 cards with illustrations on them, and 140 sticks with the names of the corresponding cards written on them. Sometimes, there are additional sticks with markings that are worth additional points. Used to play a lottery game of the same name.|
 
 
@@ -41,6 +41,8 @@ Karuta sets are classified into two major families:
 |[Unsun Karuta](/en/unsun)|75 cards. 5 suits of 15 cards each. Primarily associated with the 8-player trick-taking game [Hachi-Nin Meri](/en/karuta/unsun/hachi-nin-meri).|
 |[Sunkun Karuta](/en/sunkun)|96 cards + 1 portuguese dragon (joker). 6 suits of 16 cards each.
 |[Mekuri Karuta](/en/mekurifuda)|Generally 48 cards. 4 suits of 12 cards each, with each card in hierarichical order from 1 to 12. The 10, 11, and 12s are generally court cards, though often extremely obscured by abstraction. They feature the same suits as their Portuguese predecessors - swords [*isu*], batons [*hau*], coins [*ouru*], and cups [*kotsu*]. Mekuri karuta come in a wide variety of [regional variants](/en/mekurifuda#kinds-of-mekurifuda), and can be used to play a similar [variety of games](/en/mekurifuda/games) to their *toranpu* and hanafuda relatives.|
+|[Shimafuda](/en/mekurifuda/games/shimafuda)|A mekurifuda derivative with numbers explicitly written on each card, and the value and type of each card is denoted by sticks or a circle. It remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan.|
+|[Hanafuda](/en/hanafuda)|Generally 48 cards, with some exceptions. 12 [suits](/en/hanafuda/suits) of 4 cards each, of varying [types](/en/hanafuda/types) depending on the suit. They feature somewhat abstracted depictions of culturally relevant flora and fauna pairings, with each suit represented by a species of plant. Originally belonging to a wide family of [E-awase](/en/e-awase) (picture matching cards), Hanafuda was adapted to play a [wide variety of games](/en/hanafuda/games), including those played with other types of cards.|
 |[Kabufuda](/en/kabufuda)|40 cards. Four copies each of numbers 1 through 10, mostly represented by abstract black stripes, ultimately derived from the Portuguese suit of batons. The Aces are abstracted from dragons and the 10s are "court" cards, though the subject depicted has changed over time from a monk to a Jack. Primarily used to play [certain gambling games](/en/kabufuda/games) of the *kabu* and *kingo* genres. This belongs to a family of [One-suited Karuta](/en/one-suited-mekurifuda-variants).|
 |[Tehonbiki](/en/tehonbiki)|3 types of cards are used: Harifuda (handled by the players), Hikifuda (handled by the banker), and Mefuda (large wooden tiles, also handled by the banker). The common trait between these 3 types of cards are their composition; 6 cards bearing or representing the numbers 1 to 6.|
 
