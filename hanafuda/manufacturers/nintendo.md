@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-06T09:02:46.800Z
+date: 2022-12-06T09:02:58.328Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -17,7 +17,6 @@ The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent O
 Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.
 
 # Brands
-
 Currently, Nintendo produces the standard Hanafuda pattern in 3 main brands, which differ only in the texture of the cards, and the packaging design.
 
 | Brand | Packaging | Card texture |
