@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-06T11:22:44.855Z
+date: 2022-12-06T11:23:17.947Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -42,7 +42,7 @@ Some players allow stopping the round only when there is at least 1 other player
 ## Scoring
 
 All players get penalty points equal to their hand sum.
-For example, [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff) is treated as 1+1+2+3+8 = 14 penalty points.
+For example, [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff) is treated as 1+1+2+3+8 = 15 penalty points.
 
 - If the round ends by stop and the stop caller's hand sum is not the sole lowest, the player gets additional -30 or -50 points.
 - If the round ends by someone going out, the player whose discard is claimed gets additional -30 or -50 points.
