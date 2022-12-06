@@ -2,7 +2,7 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-06T03:17:14.755Z
+date: 2022-12-06T03:44:58.215Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
@@ -19,8 +19,8 @@ During the Tempo era (1831-1835), the use of menko made out of clay became popul
 
 There are different types of clay menko:
 - Men'uchi/Menchou/Menchi (面打) - Clay menko that are shaped like thick coins.
-- Keshi-men (芥子面) - Clay menko that are shaped like animals and other figures.
-- Mengata (面摸) - Clay menko that are formed in molds. They are usually shaped like a face. The term also refers to the molds that formed them.
+- Keshi-men (芥子面) - Clay menko that are carved and shaped like dolls, animals, and other figures.
+- Mengata (面摸) - Clay menko that are formed in molds. They are usually shaped like a face. The term also refers to the molds used for making them, which are usually made of carved roof tiles.
 
 The game was played by children until the mid-Meiji era (1868-1912), when the name of the game was changed to "Menko".
 
