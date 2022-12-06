@@ -1,8 +1,8 @@
 ---
-title: Hachinin Meri
+title: Hachi-Nin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-11-05T01:51:58.789Z
+date: 2022-12-06T08:39:25.250Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
