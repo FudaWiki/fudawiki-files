@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-06T08:10:29.978Z
+date: 2022-12-06T08:24:17.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -24,8 +24,11 @@ Karuta sets are classified into two major families:
 ## Sets belonging to E-awase
 |Type|Characteristics|
 |---|:---|
+|[Uta-garuta](/en/uta-garuta)|A sub-family of E-awase that involves poetry. Usually the two halves of poems are split into two cards.|
 |[Ogura Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu)|200 cards - Two decks of 100 cards each. One deck's *yomifuda* [reading cards] each contain a *waka* poem and a depiction of the poet; the other deck's *torifuda* [grabbing cards] only contain the second half of the poem depicted on one card from the first deck. This belongs to a wider family of [Uta-Garuta](/en/uta-garuta), poetry cards. The *yomifuda* are also sometimes used to play [other games](/en/uta-garuta/ogura-hyakunin-isshu#other-games-using-hyakunin-isshu-karuta) not involving poetry.|
 |[Iroha-Karuta](/en/iroha)|96 cards - Two decks of 48 cards each. Essentially a simpler variant of Uta-Garuta. Each card in the first deck features a (usually *hiragana*) character, and each card in the second deck contains a proverb or quote beginning with a character from the first deck.|
+|[Dosai Karuta](/en/unsun)|A card set similar to Iroha Karuta in that its theme revolves around proverbs, however, the *torifuda* do not have any syllables on them. Originally a family-friendly game, it was eventually used to play a gambling game similar to bingo.|
+|Hana-awase|The ancestor of Hanafuda (not to be confused with the [game](/en/hanafuda/games/hana-awase) of the same name). Each set has a maximum of 400 cards. Originally having 100 types of flowers, each flower appears in four cards: One of which also has a tanzaku on it, and one of which has a bird, animal, or object on it. Later sets would gradually be reduced in number of cards, until it was finally reduced to just 48 cards.|
 |[Hanafuda](/en/hanafuda)|Generally 48 cards, with some exceptions. 12 [suits](/en/hanafuda/suits) of 4 cards each, of varying [types](/en/hanafuda/types) depending on the suit. They feature somewhat abstracted depictions of culturally relevant flora and fauna pairings, with each suit represented by a species of plant. Originally belonging to a wide family of [E-awase](/en/e-awase) (picture matching cards), Hanafuda was adapted to play a [wide variety of games](/en/hanafuda/games), including those played with other types of cards.|
 |[Junishi-Awase](/en/junishi-awase)|48 cards - Consists of 4 cards for each of the 12 Chinese Zodiac Animals. May be in either Menko or Playing Card format. Each card has points written on them, which vary depending on the manufacturer.|
 |[Garafuda](/en/garafuda)|140 cards with illustrations on them, and 140 sticks with the names of the corresponding cards written on them. Sometimes, there are additional sticks with markings that are worth additional points. Used to play a lottery game of the same name.|
