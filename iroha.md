@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-05T06:08:58.488Z
+date: 2022-12-06T01:28:57.566Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -19,7 +19,7 @@ As with many Uta-garuta sets, a set of Iroha Karuta contains two types of cards:
 
 In Iroha Karuta, There are about 48 Yomifuda, and a corresponding number of Torifuda, for a total of 96 cards per set. The variation in number of cards is due to some archaic characters being deleted or replaced over time.
 
-Each **Yomifuda** contains a writing. Traditionally, this writing is a **proverb**, but it could be a random saying or description, depending on the Iroha karuta set being used.
+Each **Yomifuda** contains a writing. Traditionally, this writing is a **proverb or idiom**, but it could be any kind of saying or description, depending on the Iroha karuta set being used.
 
 Each corresponding **Torifuda** contains **an illustration related to the writing on the Torifuda, as well as a circle with the first syllable of the writing, written in hiragana**.
 
