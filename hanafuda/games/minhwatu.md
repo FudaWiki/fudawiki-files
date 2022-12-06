@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-11-19T04:00:18.397Z
+date: 2022-12-06T19:55:28.169Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:52.656Z
@@ -65,7 +65,7 @@ Once you have played a card both from your hand and the deck, collect any cards 
 * **plus** the value of any *yaku* they captured times the number of players, 
 * **minus** the value of any *yaku* made by another player. 
 
-The total number of points distributed each round will always total 240.
+The total number of points distributed each round will be always 240.
 
 *Note: In real-life 5-player games the score total is usually 250 due to a 10-point joker or bonus 10 points. This may not apply in digital games.*
 
