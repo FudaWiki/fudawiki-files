@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-05T10:55:54.340Z
+date: 2022-12-06T01:31:13.772Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -14,13 +14,13 @@ It is also called Inubō karuta [犬棒かるた, 'dog stick karuta'], after the
 
 It is the most widely used Iroha Karuta set.
 
-# List of Proverbs
-Below are the list of all proverbs in Edo Iroha Karuta, arranged in both Aiueo and Iroha Sequences.
+# List of Sayings
+Below are the list of all proverbs and idioms in Edo Iroha Karuta, arranged in both Aiueo and Iroha Sequences.
 
 Since there are no words that start with the syllable ん (*n*), it was replaced with the kanji 京 (*kyo*).
 
 ## Aiueo Sequence
-|Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
+|Tori-fuda|Yomi-fuda|English Translation|English Saying Equivalent|
 |:---|:---|:---|:---|
 |あ (a)|*Atama kakushite shiri kakusazu*|Hiding one's head without hiding their butt.|The foolish ostrich buries his head in the sand and thinks he is not seen.|
 |い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
@@ -72,7 +72,7 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |京 (kyo)|*Kyō no yume Ōsaka no yume*|Dream of Kyoto, dream of Osaka.|-|
 
 ## Iroha Sequence
-|Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
+|Tori-fuda|Yomi-fuda|English Translation|English Saying Equivalent|
 |:---|:---|:---|:---|
 |い (i)|*Inu mo arukeba bō ni ataru*|If the dog walks, it hits a stick. *or*</br>If the dog walks, it gets hit with a stick.|The dog that trots about finds a bone. *or*</br>You don't know what tomorrow will bring.|
 |ろ (ro)|*Ron yori shōko*|Proof over theory.|Show don't tell.|
@@ -123,8 +123,8 @@ Since there are no words that start with the syllable ん (*n*), it was replaced
 |す (su)|*Sui wa mi o kuu*|Stylishness eats itself.|A life devoted to pleasure is necessarily short.|
 |京 (kyo)|*Kyō no yume Ōsaka no yume*|Dream of Kyoto, dream of Osaka.|-|
 
-# Proverb Variants
-The following lists proverbs that are used to **replace some of the proverbs** in the set, and do not include variations in wording of the proverbs in the set.
+# Saying Variants
+The following lists sayings that are used to **replace some of the sayings** in the set, and do not include variations in wording of the sayings in the set.
 |Tori-fuda|Yomi-fuda|English Translation|English Proverb Equivalent|
 |:---|:---|:---|:---|
 |か (ka)|*Kattai no ka sa urami*|A patient with leprosy envies a patient with syphilis.|The grass is always greener on the other side of the fence.|
