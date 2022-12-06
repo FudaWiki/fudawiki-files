@@ -2,13 +2,15 @@
 title: Menko
 description: Children's card-throwing game.
 published: true
-date: 2022-12-06T03:44:58.215Z
+date: 2022-12-06T05:29:06.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T09:04:39.413Z
 ---
 
 Menko (めんこ, 面子), is a Japanese children's card game played by two or more players, where each player throws a card onto another card on the ground in hopes of flipping it. It was very popular during the Showa era.
+
+Similar games existed around the world, such as Ddakji (딱지) in Korea, Wáah pín (畫片) in China, Teks in Philippines, Patacó in Catalonia, and Milk Caps or Pogs in USA.
 
 # History of Menko
 Menko, in their present form, are **cards made of thick cardboard, which may be rectangular or circular**. However, in the past, other materials were used.
