@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-11-05T04:24:26.055Z
+date: 2022-12-06T01:54:01.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -26,6 +26,8 @@ dateCreated: 2022-04-01T17:55:45.745Z
 |[Iroha-Karuta](/en/iroha)|96 cards - Two decks of 48 cards each. Essentially a simpler variant of Uta-Garuta. Each card in the first deck features a (usually *hiragana*) character, and each card in the second deck contains a proverb or quote beginning with a character from the first deck.|
 |[Tehonbiki](/en/tehonbiki)|3 types of cards are used: Harifuda (handled by the players), Hikifuda (handled by the banker), and Mefuda (large wooden tiles, also handled by the banker). The common trait between these 3 types of cards are their composition; 6 cards bearing or representing the numbers 1 to 6.|
 |[Junishi-Awase](/en/junishi-awase)|48 cards - Consists of 4 cards for each of the 12 Chinese Zodiac Animals. May be in either Menko or Playing Card format. Each card has points written on them, which vary depending on the manufacturer.|
+|[Garafuda](/en/garafuda)|140 cards with illustrations on them, and 140 sticks with the names of the corresponding cards written on them. Sometimes, there are additional sticks with markings that are worth additional points. Used to play a lottery game of the same name.|
+|[Menko](/en/menko)|Cards that are thick and made of cardboard, and are used by children to play physical games.|
 
 # Lists of Games Played Using Karuta
 - [Hanafuda Games](/en/hanafuda/games)
