@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T03:00:13.606Z
+date: 2022-12-07T03:04:25.022Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -28,6 +28,8 @@ The starting player of the first round is randomly decided. From the second roun
 1. At the start of a turn, draw a card from the draw deck. If there is no card to draw, the round ends.
 2. If 6 cards in hand compose a valid combination, the player can end the round and jump to the scoring.
 3. If not, discard a card from hand and end the turn.
+
+Some players do not immediately end the round when the deck runs out and instead reshuffle discarded cards once or more.
 
 ## Ppong (or pong)
 
