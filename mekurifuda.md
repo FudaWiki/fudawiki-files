@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-07T08:31:44.423Z
+date: 2022-12-07T08:33:16.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -132,4 +132,5 @@ The **Rainman** corresponds to the **2 of Coins**.
 |**Komatsu**|![komatsu_deck.png](/suryongfiles/komatsu_deck.png)|
 
 # Bibliography
+- https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A3%E3%81%8B%E3%82%8B%E3%81%9F
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
