@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T03:04:25.022Z
+date: 2022-12-07T03:15:54.203Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -71,7 +71,7 @@ The game ends after a predetermined number of rounds. The player with the least 
 
 # Concealed triplets
 
-Concealed triplet (자연뽕, *jayeon-ppong*) is a common variant. A player with a concealed triplet and a pair can claim a discard and end the round when a card from the same month as a pair is discarded, just like a player with only a pair in hand, and go out immediately. A player with only a concealed triplet in hand can also go out immediately. Scores of concealed triplets are ignored during scoring.
+Concealed triplet (자연뽕, *jayeon-ppong*) is a common variant. A player with a concealed triplet and a pair can claim a discard and end the round when a card from the same month as a pair is discarded, just like a player with only a pair in hand, and go out immediately. Scores of concealed triplets are ignored during scoring.
 
 Some players do not ignore scores of triplets during scoring.
 
