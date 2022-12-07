@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-07T05:46:32.125Z
+date: 2022-12-07T05:48:08.381Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -14,7 +14,6 @@ There are many games that can be played with hanafuda, both traditional and rece
 1. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. 
 2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
 3. **Sequence** games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents.
-
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
 
@@ -105,7 +104,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Mekuri-kei|Nanbu (which?), Japan|
 |[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Mekuri-kei|Daibutsu-mae, Nara Prefecture, Japan|
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Mekuri-kei|Japan|
-|[Nylon-ppong](/en/hanafuda/games/nylon-ppong)|2-6|Rummy|unconventional|Korea|
+|[Nylon-ppong](/en/hanafuda/games/nylon-ppong)|2-6|Draw and Discard|unconventional|Korea|
 |[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Mekuri-kei|Gifu, Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|
