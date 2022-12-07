@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T02:09:41.135Z
+date: 2022-12-07T03:00:13.606Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -65,7 +65,7 @@ The game ends after a predetermined number of rounds. The player with the least 
 |Name|Value|Composition|
 |:---:|:---:|:---:|
 |Four of a kind<br>총통 [*chongtong*]|0|Four of a kind of a month<br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
-|65 or more<br>대빵 [*daeppang*]|-100|6 cards with sum of 65 or more<br>[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+|66 or more<br>대빵 [*daeppang*]|-100|6 cards with sum of 66 or more<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 
 # Concealed triplets
 
