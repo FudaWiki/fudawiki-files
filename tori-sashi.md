@@ -2,7 +2,7 @@
 title: Tori-sashi
 description: A role game from the Edo period.
 published: true
-date: 2022-11-07T08:53:13.367Z
+date: 2022-12-07T00:19:04.137Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T02:32:15.649Z
@@ -35,18 +35,26 @@ Shuffle the cards well and deal to each player. Players may not show to the othe
 
 Once all players received their roles, the game begins.
 
-The **Lord** tells to the **Servant**, *"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
+- The **Lord** identifies themself by saying their line:
+*"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
 
-The **Servant** tells to the **Bird Catcher**, *"Bird catcher, Your lord is calling you. Come."*
+- The **Servant** responds by saying their line: 
+*"Bird catcher, Your lord is calling you. Come."*
 
-The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catcher."*.
+- Then the **Bird Catcher** responds:
+*"I am the bird catcher."*.
 
-The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
-The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
+Once all three players with human roles have identified themselves, the **Lord** then decides which of bird they want the Bird Catcher to catch (of course, the Lord cannot choose a type of bird that isn't used in the game).
 
-The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
+- The **Lord** then tells it to the **Servant**: 
+*"Servant, I want a [name of bird] caught today."*
 
-- If the Bird Catcher chooses correctly, then the Lord will ask for another bird.
+- The **Servant** relays it to the **Bird Catcher**:
+*"Bird catcher, please catch a [name of bird]."*
+
+The **Bird Catcher** must then **guess which person has the card containing the name of the bird asked by the Lord**, and points at them. That player reveals their role.
+
+- If the Bird Catcher chooses correctly, then the Lord will ask for another bird, and the game continues.
 
 - If the Bird Catcher chooses **all birds correctly**, the **Bird Catcher wins** and the game ends.
 
@@ -54,44 +62,54 @@ The **Bird Catcher** then **finds the person with the card containing the name o
 
 The game may be played as many times as desired.
 
-## Playing for Chips
+## Playing for Chips (Gambling game)
 In this version of the game, a **minimum of 7 players is required: 3 players playing the role of humans, and at least 4 players taking the role of a bird.** If there are more players, non-bird roles that act as "jokers" in the game may be added.
 
 Depending on the number of players, an equal number of cards should be prepared. 
 
-Before starting the game, give 24 chips to each player.
+Before starting the game, give **24 chips** to each player, which will indicate their score.
 
 Shuffle the cards well and deal to each player. Players may not show to the other players the cards they have.
 
 Once all players received their roles, the game begins.
 
-The **Lord** tells to the **Servant**, *"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
+- The **Lord** identifies themself by saying their line:
+*"I'm going to play with the bird catcher today. Servant, call the bird catcher."*
 
-The **Servant** tells to the **Bird Catcher**, *"Bird catcher, Your lord is calling you. Come."*
+- The **Servant** responds by saying their line: 
+*"Bird catcher, Your lord is calling you. Come."*
 
-The **Bird Catcher** tells to the **Lord** and **Servant**, *"I am the bird catcher."*.
+- Then the **Bird Catcher** responds:
+*"I am the bird catcher."*.
 
-The **Lord** tells to the **Servant**, *"Servant, I want a [name of bird] caught today."*
-The **Servant** then tells to the **Bird Catcher**, *"Bird catcher, please catch a [name of bird]."*
+Once all three players with human roles have identified themselves, the **Lord** then decides which of bird they want the Bird Catcher to catch (of course, the Lord cannot choose a type of bird that isn't used in the game).
+
+- The **Lord** then tells it to the **Servant**: 
+*"Servant, I want a [name of bird] caught today."*
+
+- The **Servant** relays it to the **Bird Catcher**:
+*"Bird catcher, please catch a [name of bird]."*
 
 > There is **only one bird needed to be caught** per game, and it cannot be changed during the game.
 {.is-warning}
 
-The **Bird Catcher** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
+The **Bird Catcher** must then **guess which person has the card containing the name of the bird asked by the Lord**, and points at them. That player reveals their role.
 
 - If the Bird Catcher chooses correctly, then the game ends and the human role players win: the **player holding the correct bird pays 1 chip to the Lord, Servant, and the Bird Catcher**.
 - If the Bird Catcher chooses a non-bird, then the game ends and the human role players lose. The **Lord, Servant, and the Bird Catcher pay 2 chips to the player holding the non-bird**.
 - If the Bird Catcher chooses the wrong bird, then the Bird Catcher is out of the game. The **Lord, Servant, and the Bird Catcher pay 1 chip to the player holding the wrong bird**. The game continues.
 
-The **Lord** tells to the **Servant**, *"Servant, why don't you try catching a [name of bird] yourself?"*
+The **Lord** then says:
+*"Bird Catcher, you made a mistake. Servant, why don't you try catching a [name of bird] yourself?"*
 
-The **Servant** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
+The **Servant** must then **guess which person has the card containing the name of the bird asked by the Lord**, and points at them. That player reveals their role.
 
 - If the Servant chooses correctly, then the game ends: the **player holding the correct bird pays 2 chips to the Lord and Servant**.
 - If the Servant chooses a non-bird, then the game ends and the human role players lose. The **Lord and Servant pay 4 chips to the player holding the non-bird**.
 - If the Servant chooses the wrong bird, then the Servant is out of the game. The **Lord and Servant pay 2 chips to the player holding the wrong bird**. The game continues.
 
-The Lord says, *"I will catch a [name of bird] myself."*
+The **Lord** says:
+*"Servant, you made a mistake. I will catch a [name of bird] myself."*
 
 The **Lord** then **finds the person with the card containing the name of the bird** asked by the Lord. That player reveals their role.
 
