@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-07T06:49:35.685Z
+date: 2022-12-07T06:55:25.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -58,6 +58,7 @@ Karuta sets are classified into two major families:
 |[Goita](/en/goita)|Modified Shogi pieces are used to play a game of the same name. From Noto Town, Fugeshi District, Ishikawa Prefecture, Japan|
 |[Kazoku-awase](/en/kazoku-awase)|A straight adaptation of the British card game, Happy Families.|
 |[Tori-sashi](/en/kazoku-awase)|Karuta used for playing the role game Tori-sashi ('Bird-catcher') existed, although the game could be played using strips of paper or even hanafuda.|
+|[Kai-Ooi](/en/kai-ooi)|A clamshell-matching game from the Nara and Heian periods. The clamshells used were eventually decorated with painted motifs that later appeared in E-awase karuta.|
 
 # Lists of Games Played Using Karuta
 - [Hanafuda Games](/en/hanafuda/games)
