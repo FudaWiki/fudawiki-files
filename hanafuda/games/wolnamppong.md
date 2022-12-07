@@ -2,7 +2,7 @@
 title: Wolnam-ppong
 description: An adaptation of the game In Between using Hwatu cards.
 published: true
-date: 2022-12-01T06:01:51.127Z
+date: 2022-12-07T02:57:53.826Z
 tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-12-01T04:14:48.694Z
@@ -13,7 +13,7 @@ Wolnam-ppong [월남뽕] is an adaptation of the western card game [In Between](
 The game can technically be played by 2 to 16 players, although it is best played with 4 to 8 players.
 
 # The Cards
-All 48 cards of a Hanafuda deck is used.
+All 48 cards of a Hanafuda deck are used.
 
 > You must be familiar with the [Korean month sequence](/en/hanafuda/suits#arrangement-of-suits) to play the game.
 {.is-warning}
