@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T02:09:18.149Z
+date: 2022-12-07T02:09:41.135Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -48,7 +48,7 @@ For example, [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](
 - If the round ends by someone going out, the player whose discard is claimed gets additional 30 or 50 points.
 - If the round ends by someone claiming a 6-card combination in hand, that player ignores the penalty point calculation and instead scores equal to the combination's value.
 
-The game after a predetermined number of rounds. The player with the least penalty point wins.
+The game ends after a predetermined number of rounds. The player with the least penalty point wins.
 
 # Combination
 
