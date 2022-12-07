@@ -2,13 +2,13 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-07T06:41:32.101Z
+date: 2022-12-07T06:49:35.685Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
 ---
 
-**Karuta** [骨牌 - かるた] is a general term for Japanese-style playing cards. These fall into a wide array of categories and subcategories, some of which are detailed below.
+**Karuta** [骨牌 - かるた] is a general term for a wide variety of Japanese-style playing cards. The name comes from the Portuguese word, *carta*, which means 'card'.
 
 > The term *karuta* is also often used specifically in reference to the competitive game of [Hyakunin-Isshu](/en/uta-garuta/ogura-hyakunin-isshu).
 {.is-warning}
@@ -22,7 +22,7 @@ Unlike Western playing cards [トランプ, 'trump'] and Chinese "paper cards" [
 Karuta sets are classified into two major families:
 - **E-awase** (絵合わせ, 'picture-matching' or 'card-matching') - these are Karuta that has its roots on the Heian-period (794-1185) game of [Kai-Ooi](/en/kai-ooi) [貝覆い, 'shell covering'], which was originally a game played by the noble class. The adaptation of the game into karuta brought the game to the masses. The gameplay generally involves matching pairs of cards, or matching a certain type of card with its equivalent other type of card.
 
-- **Portuguese Deck derivatives** - these are Karuta that are based on the Portuguese playing card decks that were introduced by the Portuguese to Japan in the 1540's. They are usually used for gambling and were subject to bans during the Sakoku (1603-1868).
+- **Portuguese Deck derivatives** - these are Karuta that are based on the Portuguese playing card decks [南蛮カルタ, *nanban karuta*] that were introduced by the Portuguese to Japan in the 1540's. They are usually used for gambling and were subject to bans during the Sakoku (1603-1868).
 
 ## Sets belonging to E-awase
 |Type|Characteristics|
