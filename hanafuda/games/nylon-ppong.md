@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T04:53:10.274Z
+date: 2022-12-07T04:55:22.037Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -47,7 +47,7 @@ If a player **goes out** (discards all cards in hand) by calling 'ppong', the **
 
 ## Stop
 
-Any player with **only 2 cards in hand** (after calling their first 'ppong') can call **'stop'** and end the round before drawing a card **if their sum of the month numbers in hand is below the predetermined limit (usually 5 or 10).**
+Any player with **only 2 cards in hand** (after calling their first 'ppong') can call **'stop'** and end the round before drawing a card **if their sum of the month numbers in hand is equal to or less than the predetermined limit (usually 5 or 10).**
 
 > Some players allow stopping the round only when there is at least 1 other player who called 'ppong'.
 {.is-warning}
