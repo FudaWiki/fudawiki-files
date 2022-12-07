@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T04:21:37.707Z
+date: 2022-12-07T04:27:48.926Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -57,7 +57,7 @@ Any player with **only 2 cards in hand** (after calling their first 'ppong') can
 At the end of each round, all players get penalty points equal to their hand sum.
 For example, [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff) is treated as 1+1+2+3+8 = 15 penalty points.
 
-- If the round ends by **stop**, and the player who called 'stop' **does not have the lowest scoring hand**, that player gets **additional 30 or 50 penalty points**.
+- If the round ends by **stop**, and the player who called 'stop' **does not have the lowest scoring hand (ties not allowed)**, that player gets **additional 30 or 50 penalty points**.
 - If the round ends by **going out with 'ppong'**, the player who **discarded a card right before 'ppong'** is called gets **additional 30 or 50 penalty points**.
 - If the round ends by **claiming a 6-card combination in hand**, that player ignores the penalty point calculation and instead **scores equal to the combination's value**.
 
