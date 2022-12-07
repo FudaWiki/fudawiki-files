@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-07T05:41:00.785Z
+date: 2022-12-07T05:44:18.170Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -90,7 +90,7 @@ If a player has **a triplet and a pair in hand**,  and the card on **top of the 
 > Since the round ends this way, practically the player can just **expose their entire hand** instead of discarding the pair and then exposing the triplet.
 {.is-info}
 
-**Scores of concealed triplets are ignored** during scoring.
+**Scores of concealed triplets are ignored** during scoring. This can possibly make the total score of a player with 5 cards lower than a player with 2 cards, increasing the chance of failed stop penalty.
 
 > Some players do not ignore scores of triplets during scoring.
 {.is-warning}
