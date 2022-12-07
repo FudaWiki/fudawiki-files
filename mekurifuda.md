@@ -2,17 +2,15 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-11-05T02:17:53.921Z
+date: 2022-12-07T08:31:44.423Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
 ---
 
-Mekurifuda, or Mekuri Karuta, are a type of Japanese playing cards that were directly derived from Tensho Karuta, which were faithful copies of Portuguese playing cards (Nanban Karuta).
+Mekurifuda [めくり札], or Mekuri Karuta [めくりかるた], are a type of Japanese playing cards that were directly derived from Tensho Karuta [天正かるた], which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]).
 
-There were many Mekurifuda patterns, but all of them consisted of 48 cards, and were structurally the same as a Portuguese playing card deck.
-
-It was thought that they were created to get around the ban on cards bearing Portuguese playing card designs, by transforming the usual courts and dragons into abstract shapes or strokes.
+There were many different Mekurifuda patterns depending on the region of Japan, but all of them consisted of 48 cards, and were structurally the same as a Portuguese playing card deck.
 
 The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was originally played using Tensho Karuta. However, these cards are not strictly used for Mekuri games only.
 
@@ -21,6 +19,18 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was or
 Eventually these card decks would be banned due to their association with gambling, so the gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could play gambling games.
 
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
+
+# History
+Sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were today known as Tensho Karuta.
+
+During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
+
+Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Tensho Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
+
+Because of this, card manufacturers tried to cover up or change the iconography of Tensho Karuta (due to their possible religious association) by heavily overprinted them with color or transformed them into abstract shapes or strokes.
+
+Depending on the region of Japan it was made, the deck varied in design. These types of cards would be collectively known today as Mekurifuda, after a game it was played with.
+
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** In some decks, a **joker card** is used, called **Onifuda** ('demon card') or Bakefuda ('monster card').
 
