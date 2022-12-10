@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-11-06T01:14:48.660Z
+date: 2022-12-10T13:54:25.108Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -46,6 +46,8 @@ The objective is to grab as many Torifuda in the game as possible.
 
 # Methods of Playing
 ## Scatter and Pick up (散らし取り - *Chirashi-Dori*)
+![utagaruta_gameplay.png](/suryongfiles/utagaruta_gameplay.png =300x)
+
 This is one of the traditional ways of playing the game, and can be played by any number of players.
 
 > Yes, the game can also be played by one player only. However it is usually for practice purposes only, since it is no longer a competitive game when playing alone. There are also several media available, such as CD's and cassette tapes, which can take the role of the reader in case you could not find someone to read for you.
