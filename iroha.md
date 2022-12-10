@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-07T06:20:31.577Z
+date: 2022-12-10T13:27:34.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -21,7 +21,11 @@ In Iroha Karuta, There are about 48 Yomifuda, and a corresponding number of Tori
 
 Each **Yomifuda** contains a writing. Traditionally, this writing is a **proverb or idiom**, but it could be any kind of saying or description, depending on the Iroha karuta set being used.
 
+![iroha_yomifuda.png](/suryongfiles/iroha_yomifuda.png =100x)
+
 Each corresponding **Torifuda** contains **an illustration related to the writing on the Torifuda, as well as a circle with the first syllable of the writing, written in hiragana**.
+
+![iroha_torifuda.png](/suryongfiles/iroha_torifuda.png =100x)
 
 # Iroha Karuta Sets
 There are many different sets of Iroha Karuta, each revolving around a different theme, but the format remains the same.
