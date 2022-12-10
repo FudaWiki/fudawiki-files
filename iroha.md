@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-10T13:27:34.400Z
+date: 2022-12-10T13:51:24.931Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -71,6 +71,8 @@ The objective is to grab as many Torifuda in the game as possible.
 
 # Methods of Playing
 ## Scatter and Pick up (散らし取り - *Chirashi-Dori*)
+![utagaruta_gameplay.png](/suryongfiles/utagaruta_gameplay.png =300x)
+
 This is one of the traditional ways of playing the game, and can be played by any number of players.
 
 Each player plays only for themselves, and the objective is to be the player to grab the most Torifuda.
