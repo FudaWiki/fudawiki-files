@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-12-10T13:54:25.108Z
+date: 2022-12-11T08:27:39.467Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -21,10 +21,14 @@ In Hyakunin Isshu Karuta, There are 100 Yomifuda and 100 Torifuda, for a total o
 
 Each **Yomifuda** contains the **name of the poet, and their poem in its entirety**.
 
+![hyaku_yomifuda.png](/suryongfiles/hyaku_yomifuda.png =250x)
+
 > Usually Yomifuda also includes an illustration of the poet at the lower half of the card. In some sets, the illustration is not included in the Yomifuda. Other older sets contain only the first half of the poem instead of the whole thing!
 {.is-info}
 
 Each corresponding **Torifuda** contains **only the latter half of the poem**, usually written in hiragana without any diacritical marks.
+
+![hyaku_torifuda.png](/suryongfiles/hyaku_torifuda.png =250x)
 
 > Some sets, usually special or luxury sets, have both Yomifuda and Torifuda written in cursive Japanese writing.
 {.is-info}
