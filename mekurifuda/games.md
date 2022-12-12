@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-12-12T05:55:47.226Z
+date: 2022-12-12T07:16:52.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -39,6 +39,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yomi-kei|Japan|Komatsu|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Mekuri-kei|Japan|Tensho Karuta or Mekurifuda|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Mekuri-kei|Japan|Kurofuda|
+|[Mutsu-ichi](/en/mekurifuda/games/mutsu-ichi)|2+|Banking|Honbiki-kei|Aichi Prefecture, Tōkai region, Japan|Ise|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|-|Japan|Akahachi|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|-|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Mekuri-kei|Japan|-|
