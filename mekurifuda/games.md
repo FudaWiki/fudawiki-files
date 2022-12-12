@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-12-12T07:16:52.056Z
+date: 2022-12-12T07:25:36.610Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-19T08:50:52.670Z
 This is a list of known [mekurifuda](/en/mekurifuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 Note that some of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
-
+ 
 **There are 3 major families to which mekurifuda games tend to belong:**
 1. **Fishing** (or "Capture") games are those such as Mekuri whose main gameplay mechanism revolves around playing cards from one's hand to capture a matching card on the field. 
 2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
