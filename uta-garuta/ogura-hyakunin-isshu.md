@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-12-12T07:38:40.816Z
+date: 2022-12-12T07:39:12.988Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -12,7 +12,7 @@ Hyakunin Isshu (百人一首, 'hundred people, one poem each') is a classical Ja
 
 The most famous and standard version was compiled by Fujiwara no Teika (1162–1241) while he lived in the Ogura district of Kyoto. This compilation is known as **Ogura Hyakunin Isshu (小倉百人一首)**.
 
-This particular anthology was adapted into the most famous form of [Uta-garuta](/en/uta-garuta) known today. Nowadays, when Japanese people refer to "karuta", they are most likely refering to this particular card game.
+This particular anthology was adapted into the most famous form of [Uta-garuta](/en/uta-garuta) known today. Nowadays, when Japanese people refer to ["karuta"](/en/karuta), they are most likely refering to this particular card game.
 
 # The Cards
 As with many Uta-garuta sets, a set of Hyakunin Isshu Karuta contains two types of cards: **Yomifuda** (読み札, "reading cards") and **Torifuda** (取り札, "grabbing cards").
