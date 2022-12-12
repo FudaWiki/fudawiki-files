@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-12-12T03:33:09.656Z
+date: 2022-12-12T05:55:47.226Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -65,9 +65,9 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|Daini|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|Tensho Karuta or Kingofuda|
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Mekuri-kei|Japan|Daini|
-|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Kabu-kei|Japan|Mamefuda or Kabufuda|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|Mamefuda or Kabufuda|
 |[San-mai](/en/kabufuda/games/san-mai)|-|-|-|Japan|-|
-|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei|Japan|Komaru|
+|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei, Honbiki-kei|Japan|Komaru|
 
 # Other Lists of Games
 - [Hanafuda Games](/en/hanafuda/games)
