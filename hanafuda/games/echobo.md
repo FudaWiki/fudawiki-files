@@ -2,15 +2,17 @@
 title: Echobo
 description: Simplified Tehonbiki using hanafuda cards.
 published: true
-date: 2022-11-19T03:14:43.346Z
+date: 2022-12-12T07:14:26.467Z
 tags: hanafuda games, non-conventional
 editor: markdown
 dateCreated: 2022-08-26T00:46:04.590Z
 ---
 
-Echobo [えちょぼ] is a simple gambling game where players try to win against the dealer by guessing which one of the first 6 months of hanafuda is chosen by the dealer.
+**Echobo** [絵樗蒲 - えちょぼ], also known as Ehonbiki [絵本引 - えほんびき] is a simplified version of [Tehonbiki](/en/tehonbiki) using hanafuda cards, and was played mainly in the Kanto region of Japan. Unlike in Tehonbiki, the dealer does not have to guess what card they have chosen, so the dealer is free to choose the card while looking at it.
 
-It is a simplified version of [Tehonbiki](/en/tehonbiki) using hanafuda cards. Unlike in Tehonbiki, the dealer does not have to guess what card they have chosen, so the dealer is free to choose the card while looking at it.
+It is a simple gambling game where players try to win against the dealer by guessing which one of the first 6 months of hanafuda is chosen by the dealer.
+
+This game was also played around the Aichi prefecture in the Tōkai region of Japan, but instead of hanafuda, a local [mekurifuda](/en/mekurifuda) deck called Ise was used. The game is also called by a different name, [Mutsu-ichi](/en/mekurifuda/games/mutsu-ichi) [六一, 'six-one'].
 
 # Setup
 ## Equipment
