@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-11-29T02:02:45.586Z
+date: 2022-12-12T03:29:16.983Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -17,9 +17,11 @@ Also, some of these games were originally played using different one-suited [Mek
 **There is 1 major family to which kabufuda games tend to belong: Showdown Games.**
 - **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
 
-**This family could be split further into 2 styles:**
+**This family could be split further into 3 styles:**
 1. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
 2. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
+3. **Honbiki-kei** games involve players choosing between two or more options, and those who chose the strongest option (or the option chosen by the banker) wins the game.
+
 
 # Traditional Games
 
@@ -33,11 +35,11 @@ Also, some of these games were originally played using different one-suited [Mek
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|
 |[Kujuroku](/en/kabufuda/games/kujuroku)|3 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
-|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Japan|
-|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei|Japan|
+|[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
+|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kabu-kei|Tōkai region, Japan|
-|[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Kabu-kei|Japan|
-|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei|Japan|
+|[Shippin](/en/kabufuda/games/shippin)|2-5|Banking|Kabu-kei, Honbiki-kei|Japan|
+|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei, Honbiki-kei|Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a kabufuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
