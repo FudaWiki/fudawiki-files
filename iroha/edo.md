@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-10T13:52:45.805Z
+date: 2022-12-12T07:35:59.254Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -17,7 +17,7 @@ It is also called Inubō karuta [犬棒かるた, 'dog stick karuta'], after the
 It is the most widely used Iroha Karuta set.
 
 # List of Sayings
-Below are the list of all proverbs and idioms in Edo Iroha Karuta, arranged in both Aiueo and Iroha Sequences.
+Below are the list of all proverbs and idioms in Edo Iroha Karuta, arranged in both [Aiueo](/en/iroha/edo#aiueo-sequence) and [Iroha](/en/iroha/edo#iroha-sequence) Sequences.
 
 Since there are no words that start with the syllable ん (*n*), it was replaced with the kanji 京 (*kyo*).
 
