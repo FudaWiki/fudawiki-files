@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-12T03:28:04.401Z
+date: 2022-12-12T03:28:58.669Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -123,7 +123,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Mekuri-kei|Maebashi, Japan|
 |[Sento](/en/hanafuda/games/sentowo), a.k.a. Sentochi|-|-|-|Japan|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Mekuri-kei|Gushikawa, Uruma City, Okinawa, Japan|
-|[Shippin](/en/kabufuda/games/shippin)|2-5|Showdown|Kabu-kei, Honbiki-kei|Japan|
+|[Shippin](/en/kabufuda/games/shippin)|2-5|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Soro](/en/hanafuda/games/soro)|-|Showdown|-|Okinawa, Japan|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Mekuri-kei|Chūkyō Region, Japan|
