@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-12-11T08:27:39.467Z
+date: 2022-12-12T07:38:40.816Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-28T13:36:45.173Z
 
 Hyakunin Isshu (百人一首, 'hundred people, one poem each') is a classical Japanese anthology of one hundred Japanese poems (和歌 - *waka*) by one hundred poets.
 
-The most famous and standard version was compiled by Fujiwara no Teika (1162–1241) while he lived in the Ogura district of Kyoto. It is therefore also known as **Ogura Hyakunin Isshu (小倉百人一首)**.
+The most famous and standard version was compiled by Fujiwara no Teika (1162–1241) while he lived in the Ogura district of Kyoto. This compilation is known as **Ogura Hyakunin Isshu (小倉百人一首)**.
 
 This particular anthology was adapted into the most famous form of [Uta-garuta](/en/uta-garuta) known today. Nowadays, when Japanese people refer to "karuta", they are most likely refering to this particular card game.
 
