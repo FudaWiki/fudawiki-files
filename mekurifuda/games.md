@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-11-29T03:27:47.639Z
+date: 2022-12-12T03:32:06.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -24,6 +24,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 2. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
 3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
 4. **Yomi-kei** is the Japanese term for sequence games.
+5. **Honbiki-kei** games involve players choosing between two or more options, and those who chose the strongest option (or the option chosen by the banker) wins the game. The most popular game of this style is [Tehonbiki](/en/tehonbiki); however, the game uses special sets of cards instead of a mekurifuda deck.
 
 # Traditional Games
 
