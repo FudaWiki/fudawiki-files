@@ -2,15 +2,15 @@
 title: Kabufuda
 description: Japanese single-suited cards
 published: true
-date: 2022-11-05T09:55:21.778Z
+date: 2022-12-13T03:39:25.763Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:37.683Z
 ---
 
-Kabufuda is the most widely used pattern of [single-suited Japanese playing cards](/en/one-suited-mekurifuda-variants). 
-
 ![kabufuda_deck.png](/suryongfiles/kabufuda_deck.png =500x)
+
+**Kabufuda** [株札] is the most widely used pattern of [single-suited Japanese playing cards](/en/one-suited-mekurifuda-variants). 
 
 This deck consists of 4 identical sets of cards valued from 1 to 10, with the exception of one Ace whose design differs entirely from the other three, and one “4” which features silver and/or gold overprinting. It ultimately derives from the suit of clubs used in Portuguese playing cards.
 
