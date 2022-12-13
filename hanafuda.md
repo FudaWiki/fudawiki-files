@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-12-07T07:25:11.320Z
+date: 2022-12-13T07:57:48.139Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -74,7 +74,10 @@ However, certain regional hanafuda patterns included a Wild Card outside of the 
 Since most [Kabufuda](/en/kabufuda) games use only the numbers on the cards, A hanafuda deck can be used to play Kabufuda games, since each flower represents a **month** of the year, which corresponds to a **number** in a kabufuda deck. In games where special cards are used, Bright cards are typically used as their substitute.
 
 ## As a Mekurifuda Substitute
-Hanafuda decks can and have been used to play [Mekurifuda](/en/mekurifuda/games) games. It is for this reason that theory that Hanafuda was used as a substitute for Mekurifuda after they have been banned by the government was created.
+Hanafuda decks can and have been used to play Mekuri-kei fishing games. It is for this reason that theory that Hanafuda was used as a substitute for [Mekurifuda](/en/mekurifuda) after they have been banned by the government was created.
+
+> However, historical evidence suggests that games using Hanafuda and games using Mekurifuda decks coexisted in the Kamigata region of Japan. There is also another theory that Mekurifuda were used as a substitute for playing hanafuda games, not the other way around. 
+{.is-warning}
 
 Each flower represents a **month** of the year, which **corresponds to a number** in a mekurifuda deck.
 
@@ -109,3 +112,6 @@ The **Rainman** corresponds to the **2 of Coins**.
 - [Kabufuda](/en/kabufuda)
 - [Mekurifuda](/en/mekurifuda)
 - [Karuta](/en/karuta)
+
+# Bibliography
+- https://japanplayingcardmuseum.com/3-4-1-3-anothertenshocarta-game-modernjapan/
