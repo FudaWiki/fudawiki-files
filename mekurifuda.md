@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-13T03:38:23.777Z
+date: 2022-12-13T07:42:25.903Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -16,7 +16,7 @@ There were many different Mekurifuda patterns depending on the region of Japan, 
 
 The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was originally played using Tensho Karuta. However, these cards are not strictly used for Mekuri games only.
 
-[One-suited Mekurifuda decks](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
+[**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
 Eventually these card decks would be banned due to their association with gambling, so the gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could play gambling games.
 
