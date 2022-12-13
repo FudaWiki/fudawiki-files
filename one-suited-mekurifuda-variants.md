@@ -2,11 +2,13 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-11-28T09:03:14.711Z
+date: 2022-12-13T03:36:55.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
 ---
+
+![kinseizan_deck.png](/suryongfiles/kinseizan_deck.png =500x)
 
 Because of the decreasing importance of suits in Japanese games played using Tensho Karuta and [Mekurifuda](/en/mekurifuda), **One-suited decks** were subsequently developed.
 
