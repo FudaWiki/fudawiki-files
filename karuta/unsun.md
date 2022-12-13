@@ -2,7 +2,7 @@
 title: Unsun Karuta
 description: An early Japanese deck consisting of 75 cards expanded from Tensho Karuta.
 published: true
-date: 2022-12-13T03:12:35.384Z
+date: 2022-12-13T03:14:09.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T03:12:35.384Z
@@ -37,3 +37,8 @@ In addition, there are six court cards:
 |13|Kiri|King|A Samurai|
 |14|Un|God|One of the Seven Lucky Gods|
 |15|Sun|Chinese|A Chinese official wearing a *futou*|
+
+# Games Played using Unsun Karuta
+|Game|Players|Family|Origin|
+|:---|:---:|:---:|---:|
+|[Hachi-nin Meri](/en/karuta/unsun/hachi-nin-meri)|8|Trick-taking|Japan|
