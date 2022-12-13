@@ -2,7 +2,7 @@
 title: Unsun Karuta
 description: An early Japanese deck consisting of 75 cards expanded from Tensho Karuta.
 published: true
-date: 2022-12-13T03:14:09.856Z
+date: 2022-12-13T03:16:49.916Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T03:12:35.384Z
@@ -31,7 +31,7 @@ Each suit has number cards from 1 to 9, represented by the number of **pips** on
 In addition, there are six court cards: 
 |Value|Japanese Name|English Name|Depiction|
 |:---|:---|:---|:---|
-|10|Robai|Dragon|A dragon (may be Portuguese or Chinese)|
+|10|Robai|Dragon|A dragon (may be of Portuguese or Chinese design)|
 |11|Sota|Maid|A woman|
 |12|Uma|Horse|A knight or horseman riding a horse|
 |13|Kiri|King|A Samurai|
