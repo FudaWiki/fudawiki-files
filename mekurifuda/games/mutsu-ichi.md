@@ -2,11 +2,14 @@
 title: Mutsu-ichi
 description: Tehonbiki but using a mekurifuda deck called Ise.
 published: true
-date: 2022-12-12T07:24:57.355Z
+date: 2022-12-13T10:33:34.892Z
 tags: mekurifuda games, honbiki-kei
 editor: markdown
 dateCreated: 2022-12-12T07:24:57.355Z
 ---
+
+> **NEEDS MORE DOCUMENTATION**
+{.is-warning}
 
 **Mutsu-ichi** [六一, 'six-one'] is a simplified version of [Tehonbiki](/en/tehonbiki) using a local [mekurifuda](/en/mekurifuda) deck called Ise, and was played mainly around the Aichi prefecture in the Tōkai region of Japan. Unlike in Tehonbiki, the dealer does not have to guess what card they have chosen, so the dealer is free to choose the card while looking at it.
 
