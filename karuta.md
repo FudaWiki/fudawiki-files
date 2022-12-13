@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-08T12:29:17.245Z
+date: 2022-12-13T03:16:05.421Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -42,7 +42,7 @@ Karuta sets are classified into two major families:
 |Type|Characteristics|
 |---|:---|
 |Tensho Karuta|The predecessor of Mekuri Karuta, and described as a faithful recreation of the original Portuguese playing cards. They were widely popular in Japan prior to the banning of Portuguese playing cards. Likewise, they can be used to play a similar [variety of games](/en/mekurifuda/games) to their *toranpu* and hanafuda relatives.|
-|[Unsun Karuta](/en/unsun)|75 cards. 5 suits of 15 cards each. Primarily associated with the 8-player trick-taking game [Hachi-Nin Meri](/en/karuta/unsun/hachi-nin-meri).|
+|[Unsun Karuta](/en/karuta/unsun)|75 cards. 5 suits of 15 cards each. Primarily associated with the 8-player trick-taking game [Hachi-Nin Meri](/en/karuta/unsun/hachi-nin-meri).|
 |[Sunkun Karuta](/en/sunkun)|96 cards + 1 portuguese dragon (joker). 6 suits of 16 cards each.
 |[Mekuri Karuta](/en/mekurifuda)|Generally 48 cards. 4 suits of 12 cards each, with each card in hierarichical order from 1 to 12. The 10, 11, and 12s are generally court cards, though often extremely obscured by abstraction. They feature the same suits as their Portuguese predecessors - swords [*isu*], batons [*hau*], coins [*ouru*], and cups [*kotsu*]. Mekuri karuta come in a wide variety of [regional variants](/en/mekurifuda#kinds-of-mekurifuda), and can be used to play a similar [variety of games](/en/mekurifuda/games) to their *toranpu* and hanafuda relatives.|
 |[Shimafuda](/en/mekurifuda/games/shimafuda)|A mekurifuda derivative with numbers explicitly written on each card, and the value and type of each card is denoted by sticks or a circle. It remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan.|
