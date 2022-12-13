@@ -2,7 +2,7 @@
 title: Hachi-Nin Meri
 description: A trick-taking game using Unsun Karuta.
 published: true
-date: 2022-12-06T08:39:25.250Z
+date: 2022-12-13T02:36:05.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T09:15:14.256Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-28T09:15:14.256Z
 
 Hachi-Nin Meri (八人メリ, "eight people *meri*") is a trick-taking game played in Hitoyoshi city, in the island of Kyushu in Japan.
 
-It is thought of to be related to the European game, Ombre.
+It is thought of to be related to the European games Ombre and Triunfo.
 
 It is designed to be played by 8 players, as **2 teams of 4 players each**.
 
