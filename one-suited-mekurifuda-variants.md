@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-12-13T08:26:25.628Z
+date: 2022-12-13T08:27:46.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -66,7 +66,7 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 |**Daini** or **Daiji**|![daini_deck.png](/suryongfiles/daini_deck.png)|
 |**Komaru**|![komaru_deck.png](/komaru_deck.png)|
 |**Mefuda**|![mefuda_deck.png](/suryongfiles/mefuda_deck.png)|
-|**Kudoyama** or **Kudosan**|![kudoyama_deck.png](/suryongfiles/kudoyama_deck.png)|
+|**Kudoyama** or **Kudosan**|![kudosan_deck.png](/suryongfiles/kudosan_deck.png)|
 
 # Bibliography
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
