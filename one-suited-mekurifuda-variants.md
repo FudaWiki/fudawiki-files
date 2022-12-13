@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2022-12-13T03:40:22.750Z
+date: 2022-12-13T08:05:14.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -50,7 +50,7 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 |**Daini** or **Daiji**|Chikuzen, Chikugo, Buzen, Bungo, Hizen, Higo, Hyuga, Osumi, Shimonoseki (Japan)</br> Some areas in Korea|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.|
 |**Komaru**|Tanba, Tango, Tajima, Bizen, Bicchu, Bingo, Aki, Suo, Nagato, Awa, Awaji, Iyo, Sanuki, Hokkaido|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.|
 |**Mefuda**|Sanuki, Awa, Shikoku|40|Structurally similar to Daini but the pips look like black teardrops, the 10 are horses, and the 4, 7, 8, and 9 cards have what appears to be eyebrows or eyelashes. Special 1 and 2, 3, and 4 cards have "金銭不用" (money not used) printed on them.</br>Comes with a red Onifuda.|
-|**Kudoyama** or **Kudosan**|Hoki, Izumo, Inaba, Oki|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>Comes with a red Onifuda.|
+|**Kudoyama** or **Kudosan**|Hoki, Izumo, Inaba, Oki|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>The woodblock prints of 12 (King) and 10 (Maid) are switched.</br>Comes with a red Onifuda.|
 
 # Gallery
 ## Kabu Karuta
@@ -66,7 +66,7 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 |**Daini** or **Daiji**|![daini_deck.png](/suryongfiles/daini_deck.png)|
 |**Komaru**|![komaru_deck.png](/komaru_deck.png)|
 |**Mefuda**|![mefuda_deck.png](/suryongfiles/mefuda_deck.png)|
-|**Kudoyama** or **Kudosan**|-|
+|**Kudoyama** or **Kudosan**|![kudoyama_deck.png](/suryongfiles/kudoyama_deck.png)|
 
 # Bibliography
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
