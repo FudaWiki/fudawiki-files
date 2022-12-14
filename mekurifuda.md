@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-14T08:03:46.829Z
+date: 2022-12-14T08:04:10.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-19T08:46:15.982Z
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
-**Mekurifuda** [めくり札], or Mekuri Karuta [めくりかるた], are a type of Japanese [karuta](/en/karuta) (playing cards) that were directly derived from Tensho Karuta [天正かるた], which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]).
+**Mekurifuda** [めくり札], or Mekuri Karuta [めくりかるた], are a type of Japanese [karuta](/en/karuta) (playing cards) that were directly derived from [Tensho Karuta](/en/tensho) [天正かるた], which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]).
 
 There were many different Mekurifuda patterns depending on the region of Japan, but all of them consisted of 48 cards, and were structurally the same as a Portuguese playing card deck.
 
