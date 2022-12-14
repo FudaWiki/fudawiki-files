@@ -2,7 +2,7 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-12-14T08:27:17.217Z
+date: 2022-12-14T15:23:52.912Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
@@ -35,8 +35,11 @@ Other games played using various [karuta](/en/karuta) (Japanese playing cards).
 # Japanese Games using Western Playing Cards
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|[Daifugo](https://en.wikipedia.org/wiki/Daifug%C5%8D)||Sequence|Japan|
-|[Goninkan](https://www.pagat.com/picture/kan.html)|||Japan|
+|[Daifugo](https://en.wikipedia.org/wiki/Daifug%C5%8D)|-|Sequence|Japan|
+|[Gonin-kan](https://www.pagat.com/picture/kan.html), a.k.a. Kan or E-Tori|-|Trick-taking|Japan|
+|[Kakeya Trump](https://www.pagat.com/picture/etori.html), a.k.a. E-Tori|-|Trick-taking|Japan|
+|[Napoleon](https://www.pagat.com/picture/napoleon.html)|-|Trick-taking|Japan|
+
 
 # Other Lists of Games
 - [Hanafuda Games](/en/hanafuda/games)
