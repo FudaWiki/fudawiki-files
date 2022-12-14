@@ -2,7 +2,7 @@
 title: Tensho Karuta
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2022-12-14T07:36:35.926Z
+date: 2022-12-14T07:38:55.867Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -53,7 +53,7 @@ Since Tensho Karuta is structurally and visually identical to a 48-card Portugue
 
 It is thought that trick-taking games like Triunfo or Ombre were played when the Portuguese introduced card games to Japan. Unfortunately, no evidence of those particular games being played in Japan exists. However, a similar trick-taking game called [Hachi-nin Meri](/en/karuta/unsun/hachi-nin-meri) was played on an expanded Tensho Karuta deck called [Unsun Karuta](/en/karuta/unsun).
 
-For a list of Japanese games that can be played using Tensho Karuta, see [Mekurifuda Games](/en/mekurifuda/games).
+A lot of Japanese card games played using other types of cards were originally played using Tensho Karuta. For a list of Japanese games that can be played using Tensho Karuta, see [Mekurifuda Games](/en/mekurifuda/games).
 
 
 # Bibliography
