@@ -2,13 +2,14 @@
 title: Other Karuta Games
 description: Other Karuta Games.
 published: true
-date: 2022-12-13T03:14:27.654Z
+date: 2022-12-14T08:27:17.217Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T17:39:03.924Z
 ---
 
 # Other Karuta Games
+Other games played using various [karuta](/en/karuta) (Japanese playing cards).
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |[Ao Kanmuri](https://fudawiki.org/en/uta-garuta/ogura-hyakunin-isshu#ao-kanmuri-%E9%9D%92%E5%86%A0-blue-crown), a.k.a Iro Kanmuri|4|Beating|Japan|
