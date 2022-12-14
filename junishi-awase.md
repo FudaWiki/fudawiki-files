@@ -2,13 +2,13 @@
 title: Jūnishi Awase
 description: An adapatation of bakappana using children's cards based on the zodiac animals.
 published: true
-date: 2022-12-14T08:25:47.798Z
+date: 2022-12-14T08:35:23.383Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T04:22:42.765Z
 ---
 
-**Jūnishi Awase** [十二支合わせ - じゅうにしあわせ, lit. 'zodiac matching'] is an adaptation of [Bakappana](/en/hanafuda/games/bakappana) using children's cards of the same name, consisting of four cards for each of the 12 Chinese Zodiac animals. 
+**Jūnishi Awase** [十二支合わせ - じゅうにしあわせ, lit. 'zodiac matching'] is an adaptation of [Bakappana](/en/hanafuda/games/bakappana) using children's [karuta](/en/karuta) of the same name, consisting of four cards for each of the 12 Chinese Zodiac animals. 
 
 Existing versions of this deck today are of either the [menko](/en/menko) or combination western playing card format, made in the mid-20th century. Points are written on the cards themselves, which vary depending on the manufacturer.
 
