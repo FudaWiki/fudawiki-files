@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-14T08:04:10.562Z
+date: 2022-12-14T08:22:10.410Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -18,7 +18,9 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was or
 
 [**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
-Eventually these card decks would be banned due to their association with gambling, so the gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could play gambling games.
+These card decks were subject to bans due to their association with gambling, and there was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could continue playing gambling games. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
+
+
 
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
