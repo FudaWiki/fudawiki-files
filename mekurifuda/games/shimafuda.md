@@ -2,13 +2,13 @@
 title: Shimafuda
 description: A fishing game played with uniquely designed mekurifuda cards.
 published: true
-date: 2022-10-22T17:03:00.348Z
+date: 2022-12-14T08:30:46.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T04:41:56.419Z
 ---
 
-Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. "Character Cards") or Ichi-Ni-San (一二三, lit. "One Two Three", not to be confused with the [game](/en/hanafuda/games/ichi-ni-san) of the same name) is a type of [Mekurifuda](/en/mekurifuda) derivative that remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan. 
+Shimafuda (島札, lit. “Island Cards"), also known as Jifuda (字札, lit. "Character Cards") or Ichi-Ni-San (一二三, lit. "One Two Three", not to be confused with the [game](/en/hanafuda/games/ichi-ni-san) of the same name) is a unique type of [karuta](/en/karuta) whose structure is derived from [Mekurifuda](/en/mekurifuda), that remained in Gushikawa, Uruma City, in the Okinawa prefecture of Japan. 
 
 A card manufacturer called Misumi Shoten (三角商店) manufactured these cards in Gushikawa until 1999. However in 2022, it was reprinted by Hisao Komino (小美野寿雄) in Oishi Tengudo, and sold at his Kotobuki Cafe & Game Bar in Tokyo. It was exhibited in April of that year in a large-scale "Tokyo Game Market" at Tokyo Big Sight, with great fanfare.
 
