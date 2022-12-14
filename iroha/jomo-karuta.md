@@ -2,7 +2,7 @@
 title: Jōmō Karuta
 description: Iroha Karuta showcasing Gunma Prefecture.
 published: true
-date: 2022-11-30T14:37:47.996Z
+date: 2022-12-14T08:38:40.209Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T11:45:08.652Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-30T11:45:08.652Z
 
 Jōmō Karuta [上毛かるた] is a type of [Iroha Karuta](/en/iroha) that consists of 88 cards (44 Yomi-fuda and 44 Tori-fuda) whose theme centers around Gunma Prefecture in Japan and its people, places, and history.
 
-The name, Jōmō, is an old name for Gunma.
+The name used for this [karuta](/en/karuta), Jōmō, is an old name for Gunma.
 
 # History
 In 1946, Masahiko Urano, a native of Gunma, returned to his hometown from Manchukuo (present day Manchuria in China) to help the people there who were affected by World War II. Under orders of The Supreme Commander of the Allied Powers, schools had stopped teaching geography and history. Urano, who loved Gunma dearly, wanted the children to take pride in their local history and culture.
