@@ -2,7 +2,7 @@
 title: Tori-sashi
 description: A role game from the Edo period.
 published: true
-date: 2022-12-07T00:19:04.137Z
+date: 2022-12-14T08:32:29.826Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T02:32:15.649Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-07T02:32:15.649Z
 
 Tori-sashi [鳥刺し, 'bird catcher'] is a role game thought to be played as a drinking party game in the Edo period. The game is best played with 6 or more players.
 
-Special karuta containing the names of the roles, the illustration of the roles, or both, have been made in the past.
+Special [karuta](/en/karuta) containing the names of the roles, the illustration of the roles, or both, have been made in the past.
 
 # Roles
 Each role is indicated on each card. 
