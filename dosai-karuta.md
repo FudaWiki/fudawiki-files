@@ -2,7 +2,7 @@
 title: Dōsai Karuta
 description: A proverb-matching karuta turned into a gambling game similar to Bingo.
 published: true
-date: 2022-12-07T06:21:28.790Z
+date: 2022-12-14T08:10:18.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-06T08:58:08.883Z
@@ -11,7 +11,7 @@ dateCreated: 2022-11-06T08:58:08.883Z
 > **This article is INCOMPLETE. You can help by expanding it.**
 {.is-warning}
 
-Dōsai Karuta [道才かるた or 道斎かるた] was a type of [Tatoe-awase Karuta](/en/tatoe-awase-karuta) (Proverb-matching Karuta) in similar vein to [Iroha Karuta](/en/iroha). It was popular in the Kyoto and Osaka areas of Japan during the Edo period.
+Dōsai Karuta [道才かるた or 道斎かるた] was a type of [Tatoe-awase Karuta](/en/tatoe-awase-karuta) (Proverb-matching [Karuta](/en/karuta)) in similar vein to [Iroha Karuta](/en/iroha). It was popular in the Kyoto and Osaka areas of Japan during the Edo period.
 
 The name comes from the proverb, *kore ni kori yo dousaibo* [これに懲りよ道才坊, "Do learn a lesson this time, Dousaibo"].
 
