@@ -2,13 +2,13 @@
 title: Kazoku-Awase
 description: Japanese adaptation of Happy Families.
 published: true
-date: 2022-11-07T13:32:05.999Z
+date: 2022-12-14T08:34:35.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T13:32:05.999Z
 ---
 
-Kazoku-awase (家族合わせ, 'family matching') is a straight-up adaptation of the British card game, [Happy Families](https://en.wikipedia.org/wiki/Happy_Families), using Japanese-designed cards.
+Kazoku-awase (家族合わせ, 'family matching') is a straight-up adaptation of the British card game, [Happy Families](https://en.wikipedia.org/wiki/Happy_Families), using Japanese-designed [karuta](/en/karuta).
 
 Each set could vary greatly in composition, number, and design. A common theme with these sets of cards is that there are 3 to 5 cards in the set that belong to one family, and the set is composed of a varying number of families.
 
