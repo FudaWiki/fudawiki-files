@@ -2,18 +2,23 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-14T08:12:21.622Z
+date: 2022-12-14T08:48:38.490Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
 ---
 
-**Karuta** [骨牌 - かるた] is a general term for a wide variety of Japanese-style playing cards. The name comes from the Portuguese word, *carta*, which means 'card'.
+**Karuta** [骨牌 - かるた] is a general term for a wide variety of Japanese-style playing cards. 
+
+The name comes from the Portuguese word, *carta*, which means 'card'.
+
+> It is important to note that the word *karuta* was historically used by the Japanese to refer to playing cards in general, not just those that were made in Japan.
+{.is-warning}
 
 > The term *karuta* is also often used specifically in reference to the competitive game of [Hyakunin-Isshu](/en/uta-garuta/ogura-hyakunin-isshu).
 {.is-warning}
 
-Unlike Western playing cards [トランプ, 'trump'] and Chinese "paper cards" [紙牌, *chīpai* or *shihai*], which are thin and can be bent to a degree without damaging the cards, Karuta are usually thick, and made up of several layers of paper glued together, which are wrapped together with an even bigger sheet of paper that also forms the borders of the front of the cards. Because of this, it is impossible to bend the cards without damaging them, and are treated more like tiles than cards (this might possibly be a reason why they were refered to by the kanji 骨牌, which literally means 'bone tiles', despite them not being made out of bone material).
+Unlike Western playing cards [トランプ, 'trump'] and Chinese "paper cards" [紙牌, *chīpai* or *shihai*], which are made of thin pasteboard and can be bent to a degree without damaging the cards, Karuta are usually thick, and made up of several layers of paper glued together, which are wrapped together with an even bigger sheet of paper that also forms the borders of the front of the cards. Because of this, it is impossible to bend the cards without damaging them, and are treated more like tiles than cards (this might possibly be a reason why they were refered to by the kanji 骨牌, which literally means 'bone tiles', despite them not being made out of bone material).
 
 > The kanji 骨牌 could also be read as *koppai*, which is based on the Chinese reading, *gǔpái*, which is actually used to refer to tiles that used to be made out of bone, such as chinese dominoes and Mahjong. This was cleverly used by the Japanese government to increase the scope of the Karuta Tax Law to include Mahjong sold in Japan, by changing the reading from "Karuta" to "Koppai".
 {.is-info}
