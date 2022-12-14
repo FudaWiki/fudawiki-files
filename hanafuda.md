@@ -2,13 +2,13 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-12-13T07:57:48.139Z
+date: 2022-12-14T08:07:07.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
 ---
 
-*Hanafuda* [花札] or *Hana-karuta* [花かるた], lit. “flower cards,” are Japanese playing cards used to play a wide variety of games, similarly to the standard Western playing card [トランプ, 'trump'] format. Unlike **Western playing cards**, which consist of **4 suits of 13 cards each**, however, the standard **hanafuda** deck consists of **12 suits of 4 cards each**.
+*Hanafuda* [花札] or *Hana-karuta* [花かるた], lit. “flower cards,” are Japanese [karuta](/en/karuta) (playing cards) used to play a wide variety of games, similarly to the standard Western playing card [トランプ, 'trump'] format. Unlike **Western playing cards**, which consist of **4 suits of 13 cards each**, however, the standard **hanafuda** deck consists of **12 suits of 4 cards each**.
 
 **Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
 
