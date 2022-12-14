@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-09-08T00:26:28.750Z
+date: 2022-12-14T08:31:45.091Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
@@ -13,7 +13,7 @@ dateCreated: 2022-08-31T06:11:39.511Z
 
 Tehonbiki [手本引き] is a gambling game where players compete against the banker in guessing the correct number (from 1 to 6) of the chosen card.
 
-Traditionally, this game does not use hanafuda or kabufuda decks. Instead, two different sets of cards made specifically for this game are used, as well as wooden tiles. All of them represent the numbers 1 to 6.
+Traditionally, this game does not use hanafuda or kabufuda decks. Instead, two different sets of [karuta](/en/karuta) made specifically for this game are used, as well as wooden tiles. All of them represent the numbers 1 to 6.
 
 In addition, there are special rectangular chips which can be used for indicating special bets.
 
@@ -22,11 +22,23 @@ For casual gaming, Go stones or round chips may be used for placing bets, instea
 # Setup
 Any number of players may compete against the banker. They all sit on one side of the table.
 
-Each player will hold 6 cards, each representing the numbers 1 to 6. These are called **"hari-fuda"** and they are used to indicate what number(s) the players have bet on, and what are the odds of their bet.
+Each player will hold 6 cards, each representing the numbers 1 to 6. 
 
-On the other side of the table is the banker, who holds a different set of 6 cards, also representing the numbers 1 to 6. These are called **"hiki-fuda"** (a.k.a **"kuri-fuda"** or **"mame-ichi-roku"**), and they are used by the banker to indicate the chosen card. Before players bet, the chosen card is hidden under a white handkerchief or piece of cloth, known as **"Kamishita"**.
+![tehonbiki_harifuda.png](/suryongfiles/tehonbiki_harifuda.png =350x)
 
-In the middle of the table are 6 large wooden tiles, each with the numbers 1 to 6, placed sequentially in a row. They are called **"me-moku"** (a.k.a **"me-fuda"**), and they are used to indicate the banker's bet.
+These are called **"hari-fuda"** and they are used to indicate what number(s) the players have bet on, and what are the odds of their bet.
+
+On the other side of the table is the banker, who holds a different set of 6 cards, also representing the numbers 1 to 6. 
+
+![tehonbiki_kurifuda.png](/suryongfiles/tehonbiki_kurifuda.png =250x)
+
+These are called **"hiki-fuda"** (a.k.a **"kuri-fuda"** or **"mame-ichi-roku"**), and they are used by the banker to indicate the chosen card. Before players bet, the chosen card is hidden under a white handkerchief or piece of cloth, known as **"Kamishita"**.
+
+In the middle of the table are 6 large wooden tiles, each with the numbers 1 to 6, placed sequentially in a row. 
+
+![tehonbiki_memoku.png](/suryongfiles/tehonbiki_memoku.png =450x)
+
+They are called **"me-moku"** (a.k.a **"me-fuda"**), and they are used to indicate the banker's bet.
 
 # Gameplay Overview
 The **banker** picks up the stack of hiki-fuda, and, without looking at it, cycles through it, **chooses one of the cards**, and hides it under the kami-shita.
