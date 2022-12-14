@@ -2,13 +2,13 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-12T07:37:50.217Z
+date: 2022-12-14T08:09:47.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
 ---
 
-Iroha Karuta (いろはかるた, 'alphabet cards') is a type of [Tatoe-awase Karuta](/en/tatoe-awase-karuta) (Proverb-matching Karuta) designed to be played by children in order to facilitate learning the Japanese *kana* (syllables).
+Iroha Karuta (いろはかるた, 'alphabet cards') is a type of [Tatoe-awase Karuta](/en/tatoe-awase-karuta) (Proverb-matching [Karuta](/en/karuta)) designed to be played by children in order to facilitate learning the Japanese *kana* (syllables).
 
 It is named after the old way of ordering Japanese *kana*, which was [based on an old poem](https://en.wikipedia.org/wiki/Iroha).
 
