@@ -2,7 +2,7 @@
 title: Edo Iroha Karuta
 description: The most widely used iroha karuta set.
 published: true
-date: 2022-12-12T07:36:57.549Z
+date: 2022-12-14T08:37:27.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-03T16:03:36.960Z
@@ -10,9 +10,9 @@ dateCreated: 2022-12-03T16:03:36.960Z
 
 ![iroha_torifuda.png](/suryongfiles/iroha_torifuda.png)![iroha_yomifuda.png](/suryongfiles/iroha_yomifuda.png)
 
-Edo Iroha Karuta [江戸いろはかるた] is a type of [Iroha Karuta](/en/iroha) that originated in Edo (now Tokyo, Japan). It consists of 96 cards (48 Yomi-fuda and 48 Tori-fuda) whose theme centers around different proverbs and idioms. 
+Edo Iroha Karuta [江戸いろはかるた] is a type of [Iroha Karuta](/en/iroha) that originated in Edo (now Tokyo, Japan). This [karuta](/en/karuta) set consists of 96 cards (48 Yomi-fuda and 48 Tori-fuda) whose theme centers around different proverbs and idioms. 
 
-It is also called Inubō karuta [犬棒かるた, 'dog stick karuta'], after the proverb, "***Inu** mo arukeba **bō** ni ataru*".
+It is also called Inubō Karuta [犬棒かるた, 'dog stick karuta'], after the proverb, "***Inu** mo arukeba **bō** ni ataru*".
 
 It is the most widely used Iroha Karuta set.
 
