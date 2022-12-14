@@ -2,13 +2,13 @@
 title: Unsun Karuta
 description: An early Japanese deck consisting of 75 cards expanded from Tensho Karuta.
 published: true
-date: 2022-12-13T03:16:49.916Z
+date: 2022-12-14T08:28:47.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T03:12:35.384Z
 ---
 
-Unsun Karuta [うんすんカルタ], was a Japanese playing card deck that expanded the Portuguese-designed decks such as [Tensho Karuta](/en/tensho) to accomodate more players.
+Unsun Karuta [うんすんカルタ], was a Japanese [karuta](/en/karuta) (playing card) deck that expanded the Portuguese-designed decks such as [Tensho Karuta](/en/tensho) to accomodate more players.
 
 A further expansion was also made, called [Sunkun Karuta](/en/karuta/sunkun).
 
