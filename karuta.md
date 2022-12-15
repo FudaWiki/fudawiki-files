@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-14T08:49:09.315Z
+date: 2022-12-15T02:12:02.593Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -65,6 +65,7 @@ Karuta sets are classified into two major families:
 |[Tori-sashi](/en/tori-sashi)|Karuta used for playing the role game Tori-sashi ('Bird-catcher') existed, although the game could be played using strips of paper or even hanafuda.|
 |[Kai-Ooi](/en/kai-ooi)|A clamshell-matching game from the Nara and Heian periods. The clamshells used were eventually decorated with painted motifs that later appeared in E-awase karuta.|
 |[Trump](/en/trump)|It is the Japanese term for the standard Western playing cards. Imported to Japan after Sakoku ended in 1868, the first locally-made Western playing cards in Japan were made in 1902 by [Nintendo](/en/hanafuda/manufacturers/nintendo).|
+|[Tobacco Cards](/en/tobacco-cards)|Some cards included in Cigarette packs (especially those of Murai Bros. & Co.) have Hanafuda patterns on them, which can be collected to form the entire deck.|
 
 # Lists of Games Played Using Karuta
 - [Hanafuda Games](/en/hanafuda/games)
