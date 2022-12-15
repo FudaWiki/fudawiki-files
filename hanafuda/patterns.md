@@ -2,13 +2,13 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-12-15T04:35:38.423Z
+date: 2022-12-15T04:37:25.102Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
 ---
 
-Although by the 20th century, Hanafuda deck structure and design has established a standard, there have already existed a lot of variations in patterns and formats. These variations come from differences in development of Hanafuda in different regions in and even outside Japan.
+Although by the 20th century, the deck structure and design of [Hanafuda](/en/hanafuda) has established a standard, there have already existed a lot of variations in patterns and formats. These variations come from differences in development of Hanafuda in different regions in and even outside Japan.
 
 The following is a list of known hanafuda variations, organized by type and alphabetically, with links to individual pages on those for which we have gathered sufficient information.
 
