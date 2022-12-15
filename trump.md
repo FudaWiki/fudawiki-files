@@ -2,11 +2,13 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-15T04:34:26.351Z
+date: 2022-12-15T09:55:38.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
 ---
+
+![trump_1_final.png](/suryongfiles/trump_1_final.png =150x)![trump_2_revision.png](/suryongfiles/trump_2_revision.png =150x)
 
 ***Trump*** [トランプ, *toranpu*] is the Japanese word for the [standard 52-card Western playing card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck).
 
