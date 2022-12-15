@@ -2,11 +2,13 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-15T02:12:02.593Z
+date: 2022-12-15T10:12:25.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
 ---
+
+![20221215_180543.jpg](/20221215_180543.jpg =200x)
 
 **Karuta** [骨牌 - かるた] is a general term for a wide variety of Japanese-style playing cards. 
 
