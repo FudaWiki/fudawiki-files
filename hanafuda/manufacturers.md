@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2022-04-10T15:18:12.351Z
+date: 2022-12-15T02:24:08.313Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -17,7 +17,7 @@ This is a list of known producers of hanafuda, arranged alphabetically, with lin
 - Heibon (平凡)
 - Inoue Juntendō (井上順天堂)
 - Iwata Honten (岩田本店)
-- Kamigataya (上方屋)
+- [Kamigata-ya (上方屋)](/en/hanafuda/manufacturers/kamigataya)
 - Kawai
 - Kawakita (川北)
 - Kohara Honten (小原本店)
@@ -25,10 +25,10 @@ This is a list of known producers of hanafuda, arranged alphabetically, with lin
 - Kyōwadō (京和堂)
 - Maruē (マルエー)
 - Marukin (丸金)
-- Matsui Tengudō (松井天狗堂)
+- [Matsui Tengudō (松井天狗堂)](/en/hanafuda/manufacturers/matsuitengudo)
 - Nakao Seikadō (中尾清花堂)
 - Nihon Goraku (日本娯楽)
-- Nihon Karuta Seizō (日本骨牌製造)
+- [Nihon Karuta Seizō (日本骨牌製造)](/en/hanafuda/manufacturers/nihonkaruta)
 - Nippon Yūgi Gangu (日本遊戯玩具)
 - [Nintendō (任天堂)](/en/hanafuda/manufacturers/nintendo)
 - Nishimura (西村)
