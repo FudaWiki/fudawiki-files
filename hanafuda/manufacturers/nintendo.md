@@ -2,13 +2,15 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-15T00:06:11.500Z
+date: 2022-12-15T00:07:52.824Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
 ---
 
 Nintendo Co., Ltd. is a company most-known today as a video game manufacturer, but started out as a manufacturer of [Hanafuda](/en/hanafuda) and other [Karuta](/en/karuta). It was founded in September 1889 by Yamauchi Fusajirō (山内房治郎), who named the company Yamauchi Nintendo (山内任天堂).
+
+In 1902, they started selling the first locally-produced [western playing cards](/en/trump) in Japan.
 
 Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
 
