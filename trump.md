@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-14T16:54:29.305Z
+date: 2022-12-15T04:34:26.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -42,6 +42,13 @@ The cards were called by several names which did not stick. At first it was call
 In 1902, **Yamauchi Nintendo** (now [Nintendo Co., Ltd.](/en/hanafuda/manufacturers/nintendo)) started sales of western playing cards that were domestically produced in Japan. It is thought that **Toyo Printing**, which is owned by Cigarette manufacturer **Murai Bros. & Co.**, bought second-hand playing card printing machines from Perfection Playing Card Co. and produced the playing cards for Yamauchi Nintendo. However, a different printing company named **Watada Printing Co. Ltd.** mentions in their company history that in 1902, they produced western playing cards for "Nintendo Koppai" using copperplate printing technology.
 
 There was a story that the first Japanese-made western playing cards were sold by Nintendo in an effort to comfort the Russian POW's during the Russo-Japanese War of 1904-1905. However, Takashi Ebashi stated that he had seen playing cards made by Yamauchi Nintendo in the USPCC Museum (which closed sometime before the transfer of USPCC's factory from Cincinnati, Ohio to Erlanger, Kentucky in 2009), which were collected by USPCC in 1903- a year before the Russo-Japanese War even started.
+
+# Hana-Trump
+In the 20th century, the designs of both [Western playing cards](/en/trump) and [Hanafuda](/en/hanafuda) merged to form **Hanafuda-Trump** (花札トランプ), also known as Hana-Trump or Hanatora (花トラ).
+
+Hana-Trump is a western playing card deck containing 52 cards (plus joker(s)). Hanafuda card patterns adorn the middle part of each card, while corner indices indicate the number and suit of the card.
+
+However, since a hanafuda deck only contains 48 cards, it is up to the manufacturer how they would decorate the four Kings in the deck. Some manufacturers put their manufacturer's mark or advertisements of their products. Others put drawings of [Hachi-hachi](/en/hanafuda/games/hachi-hachi) tools on them, and are intended to be used just like their actual counterparts. Still others leave the designs of their corresponding Kings untouched from their western playing card counterparts.
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97
