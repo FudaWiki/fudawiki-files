@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-15T01:39:46.373Z
+date: 2022-12-15T04:38:44.075Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -20,8 +20,8 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 
 # Current Brands of Hanafuda
 - **Kintengu** (Golden Tengu) - Their high-end brand of Hanafuda decks. Has a papery finish on both front and back when compared to products made by other current Hanafuda manufacturers. The cards are intentionally curved as a result of employing manual processes in manufacturing.
-- **Gintengu** (Silver Tengu) - Same quality as Kintengu but the centering of the backpaper is less accurate than Kintengu.
-- **Lincoln** - Same quality as Kintengu but the centering of the backpaper is less accurate than Gintengu.
+- **Gintengu** (Silver Tengu) - Their 2nd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Kintengu.
+- **Lincoln** - Their 3rd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Gintengu.
 - **Shiki** (Four Seasons) - Has a completely different quality to the other three brands. The front and back are printed glossy paper, and no backpaper is applied, so the edges of the card are exposed.
 
 # Currently Sold Special Hanafuda
