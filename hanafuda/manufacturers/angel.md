@@ -2,7 +2,7 @@
 title: Angel
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-15T00:17:12.440Z
+date: 2022-12-15T00:17:39.963Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:17.010Z
@@ -14,7 +14,7 @@ While is was stated that the company was established on November 28, 1956, trade
 
 Angel (as Angel Shoji Kabushiki-Gaisha [エンゼル商事株式会社]) registered the "Okina" 翁 trademark on November 22, 1962. They would use this trademark on their hanafuda and other karuta products.
 
-Despite being mainly focused as a playing card manufacturer and supplier of equipment for casinos, they still manufacture hanafuda and [kabufuda](/en/kabufuda) to this day.
+Despite being mainly focused as a western playing card manufacturer and supplier of equipment for casinos, they still manufacture hanafuda and [kabufuda](/en/kabufuda) to this day.
 
 # Current Brands
 - **Genroku** - Their high-end hanafuda brand. The front coating is very smooth. Does not come with a blank card.
