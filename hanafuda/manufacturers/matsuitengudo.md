@@ -2,13 +2,13 @@
 title: Matsui Tengudō
 description: Former manufacturer of hanafuda. Best known for reviving the hand-printing process.
 published: true
-date: 2022-12-15T03:32:15.064Z
+date: 2022-12-15T03:32:29.112Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T03:32:15.064Z
 ---
 
-**Matsui Tengudō** (松井天狗堂) was a Kyōto-based producer of [Hanafuda](/en/hanafuda) and other traditional Japanese [Karuta](/en/karuta
+**Matsui Tengudō** (松井天狗堂) was a Kyōto-based producer of [Hanafuda](/en/hanafuda) and other traditional Japanese [Karuta](/en/karuta).
 
 The company was **founded in 1897 by Shigejirō Matsui**. His younger brother Wasaburō Matsui started karuta manufacturing operations in Osaka. They even had a branch office in Dalian (Kwantung Leased Territory in China) before World War II (1939-1945) started.
 
