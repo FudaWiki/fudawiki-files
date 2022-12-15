@@ -2,7 +2,7 @@
 title: Kai Ooi
 description: A shell matching game that is the ancestor of karuta.
 published: true
-date: 2022-10-27T12:57:23.433Z
+date: 2022-12-15T04:44:06.465Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T12:57:23.433Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-27T12:57:23.433Z
 
 **Kai-Ooi** (貝覆い, 'shell covering') is a game played in Japan during the Nara and Heian periods. It is thought to have developed from a completely different game called Kai-awase (貝合わせ, 'shell matching'), and the game is sometimes mistakenly referred to as Kai-awase.
 
-The game is played using clam shells. Later sets have the undersides of the halves of the shells elaborately painted with gold and colorful imagery. Such sets were considered as luxury items, and are usually used a as dowry of a noble bride, since the matching of shells could be considered a metaphor for marriage. Because of the style of gameplay and also the paintings on the shells, such sets could be considered the ancestor of [karuta](/en/karuta).
+The game is played using clam shells. Later sets have the undersides of the halves of the shells elaborately painted with gold and colorful imagery. Such sets were considered as luxury items, and are usually used a as dowry of a noble bride, since the matching of shells could be considered a metaphor for marriage. Because of the style of gameplay and also the paintings on the shells, such sets could be considered the ancestor of [E-awase](/en/karuta#sets-belonging-to-e-awase) [karuta](/en/karuta).
 
 The game is played in similar fashion to the western playing card game "Concentration", in which the two halves of clamshells are separated, and each player must hold one to find the other. This game is possible because when the two halves of the shell are split into two, they do not split straight down the middle, and so only the two halves of the same shell could fit together.
 
