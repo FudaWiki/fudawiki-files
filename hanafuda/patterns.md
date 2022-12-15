@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-12-15T04:09:13.103Z
+date: 2022-12-15T04:35:38.423Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -86,7 +86,7 @@ While a standard hanafuda deck has 12 suits, there are variants where suits are 
 |Name|Description|
 |:---:|:---:|
 |**Bridge-Size**|Hachi-hachi-bana pattern printed on bridge-size western-style playing card material. The front of each card shows not only the hanafuda design, but also the points of the card as indices, and the name of the suit on the top, and the name of the month on the bottom. The card points may either be standard, or those used in Sakura, depending on the deck. Manufactured for export to Hawaii, USA, by different playing card companies including Nintendo.|
-|**Hana-Trump**|Hachi-hachi-bana pattern printed on western-style playing card material. On the front of each card, the hanafuda design is printed in the middle, while the indices indicate its western playing card value. This makes it possible to be used for both Hanafuda games and Western playing card games. Available in different card dimensions, although typically it is slightly smaller than bridge size playing cards.|
+|[**Hana-Trump**](/en/trump#hana-trump)|Hachi-hachi-bana pattern printed on western-style playing card material. On the front of each card, the hanafuda design is printed in the middle, while the indices indicate its western playing card value. This makes it possible to be used for both Hanafuda games and Western playing card games. Available in different card dimensions, although typically it is slightly smaller than bridge size playing cards.|
 |**Yasen Hanafuda**|Hachi-hachi-bana pattern printed on western-style playing card material. The deck is as thick as a typical western playing card deck, but the length and width of the cards are close to those of traditional hanafuda. Manufactured by Universal Playing Card Co.|
 
 ## Other Unique Hanafuda Formats
