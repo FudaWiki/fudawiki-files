@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-06T09:02:58.328Z
+date: 2022-12-15T00:05:17.603Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-01T18:04:34.222Z
 
 Nintendo Co., Ltd. is a company most-known today as a video game manufacturer, but started out as a Hanafuda manufacturer. It was founded in September 1889 by Yamauchi Fusajirō (山内房治郎), who named the company Yamauchi Nintendo (山内任天堂).
 
-Nintendo’s manufacturers mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
+Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
 
 The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”.
 
