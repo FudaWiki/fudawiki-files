@@ -2,7 +2,7 @@
 title: Matsui Tengudō
 description: Former manufacturer of hanafuda. Best known for reviving the hand-printing process.
 published: true
-date: 2022-12-15T04:16:22.957Z
+date: 2022-12-15T04:17:02.710Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T03:32:15.064Z
@@ -18,7 +18,7 @@ The company was run by the Matsui family for three generations.
 
 The third generation, **Shigeo Matsui** (1931-2016), around **1975 or 1976**, **revived the process of coloring the designs of the cards by hand using a round brush and stencils**, as a way to distinguish his cards from those being produced by other manufacturers, after a former teacher of his told him to “make something that doesn’t exist anywhere”. For a period of time, Matsui Tengudō became the only karuta manufacturer in Japan that does this process. 
 
-In 2009, production ceased due to the aging of craftsmen and the absence of successors, and the shop completely closed in August 2010. After that, Shigeo Matsui continued to cooperate with former rival company [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo) in order to pass on the knowhow of the process of hand-printed karuta.
+In 2009, production ceased due to the aging of craftsmen and the absence of successors, and the shop completely closed in August 2010. After that, Shigeo Matsui continued to cooperate with former rival company [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo) in order to pass on the know-how of the process of hand-printed karuta.
 
 Due to the inventory being completely depleted, decks manufactured by Matsui Tengudō have become extremely rare, and fetch high prices at Japanese online auction sites.
 
