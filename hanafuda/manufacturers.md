@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2022-12-15T02:24:08.313Z
+date: 2022-12-15T04:35:54.070Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -42,5 +42,6 @@ This is a list of known producers of hanafuda, arranged alphabetically, with lin
 - Tanaka Gyokusuidō (田中玉水堂)
 - Universal (ユニバーサル, *yunibāsaru*)
 - Yamashiro Shōten (山城商店)
+
 # Bibliography
 Pollard, George. “Traditional Hanafuda Brands.” *Ways To Play*, games.porg.es/articles/cards/japan/hanafuda/traditional-manufacturers/.
