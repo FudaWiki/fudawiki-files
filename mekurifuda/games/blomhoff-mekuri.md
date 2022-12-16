@@ -2,7 +2,7 @@
 title: Blomhoff's Mekuri
 description: Blomhoff's account of a mekuri game.
 published: true
-date: 2022-12-16T07:21:30.846Z
+date: 2022-12-16T07:58:37.686Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-12-16T07:21:30.846Z
@@ -65,7 +65,10 @@ The game ends when all players run out of cards in hand.
 The account states that the Onifuda ('Demon card') "beats all other cards". It is not known if it means that it can capture any card on the field (like a wild card can), or some other gameplay mechanic is used.
 
 # Scoring
-It is not attested how the scoring is calculated. You may refer to the values indicated on the Card Points and decide how to handle the scoring.
+It is not attested in this account how the scoring is calculated. You may refer to the values indicated on the Card Points and decide how to handle the scoring.
+
+> However, prior to this account, on August 15, 1815 in Dordrecht, Blomhoff responded to a letter sent to him by R. P. Cruden who was inquiring about Japanese [Karuta](/en/karuta). In the response, he describes a method of playing the game which closely matches that of Mekuri. He mentions that **"The winner of the game is the first to reach a pre-determined score of 100 or more, but I should point out that I do not know how this scoring is done."** This suggests that the scoring in the game is cumulative, rather than zero-sum.
+
 ## Card Points
 **Clubs, Swords, and Coins** are considered **Scoring Suits**.
 **Cups** is considered the **Junk Suit**, which "doesn't give any points"; however, the points mentioned below contradict this statement.
@@ -97,19 +100,22 @@ It is not attested how the scoring is calculated. You may refer to the values in
 ## Yaku
 In addition to the usual card point scoring, each player who forms a yaku receives additional points from each of the other players.
 
+A Yaku's value is measured in units of a **pre-determined amount**, which should be agreed upon before starting the game, and may be in points or in cash.
+
 The account mentions that the Yaku consisting of the Dragon, 2, and 3 of either Clubs or Swords are considered the highest scoring of all the Yaku. The list of Yaku also mentions their values, which contradicts the above statement.
 
 ### List of Yaku
-| Points | Card 1 | Card 2 | Card 3 |
+| Value | Card 1 | Card 2 | Card 3 |
 |:---|:---:|:---:|:---:|
-| **2**  | Club Dragon | Club 2 | Club 3 |
-| **2**  | Sword Dragon | Sword 2 | Sword 3 |
-| **2** | Club 4 | Club 5 | Club 6 |
-| **2** | Sword 4 | Sword 5 | Sword 6 |
-| **2** | Club 7 | Club 8 | Club 9 |
-| **2** | Sword 7 | Sword 8 | Sword 9 |
-| **3**  | Club Maid | Club Horse | Club King |
-| **3**  | Sword Maid | Sword Horse | Sword King |
+| **2x the amount**  | Club Dragon | Club 2 | Club 3 |
+| **2x the amount**  | Sword Dragon | Sword 2 | Sword 3 |
+| **2x the amount** | Club 4 | Club 5 | Club 6 |
+| **2x the amount** | Sword 4 | Sword 5 | Sword 6 |
+| **2x the amount** | Club 7 | Club 8 | Club 9 |
+| **2x the amount** | Sword 7 | Sword 8 | Sword 9 |
+| **3x the amount**  | Club Maid | Club Horse | Club King |
+| **3x the amount**  | Sword Maid | Sword Horse | Sword King |
 
 # Bibliography
 - https://japanplayingcardmuseum.com/1-2-4-0-jan-cock-blomhoff-two/
+- https://japanplayingcardmuseum.com/1-2-2-0-jan-cock-blomhoff-one/
