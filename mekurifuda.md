@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-14T08:22:10.410Z
+date: 2022-12-16T05:38:59.312Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -18,7 +18,9 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was or
 
 [**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
-These card decks were subject to bans due to their association with gambling, and there was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) so they could continue playing gambling games. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
+These card decks were subject to bans due to their association with gambling, which is also banned. According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. Despite these harsh penalties, the use and gambling of karuta continued.
+
+There was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) as a way to get around the bans. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
 
 
 
@@ -47,13 +49,13 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 |:---|:---|:---|:---|
 |Clubs|Paus|Hau / Pau|Ao ('Blue')|
 |Swords|Espadas|Isu|Aka ('Red')|
-|Cups|Copas|Koppu / Kotsu|Kuchibiru ('Lips')|
+|Cups|Copas|Koppu / Kotsu|Kuchibiru ('Lips') / Kappa|
 |Coins|Ouros|Oru / Ouru|Taiko ('Drums') / Tama ('Orbs')|
 
 ## Numbers and Courts
 |Number|English</br>names|Japanese</br>names|Notes|
 |:---|:---|:---|:---|
-|1|Dragon/Ace|Pin/Tsun/Un/Aza|*Pin* is the kabu term for 'one', and likely has Portuguese origins.</br> *Tsun* also likely has Portuguese origins.</br>*Un* from Portuguese *Um* meaning 'one'.</br>*Aza* from Portuguese *As* meaning 'ace', refering specifically to the Dragon of Clubs.|
+|1|Dragon/Ace|Pin/Tsun/Un</br>Mushi</br>Aza|*Pin* is the kabu term for 'one', and likely has Portuguese origins.</br> *Tsun* also likely has Portuguese origins.</br>*Un* from Portuguese *Um* meaning 'one'.</br>*Mushi* is a Japanese word meaning 'insect'.</br>*Aza* from Portuguese *As* meaning 'ace', refering specifically to the Dragon of Clubs.|
 |2|Two|Ni|-|
 |3|Three|San|-|
 |4|Four|Shi/Yon|-|
