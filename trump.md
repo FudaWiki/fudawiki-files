@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-16T08:25:40.028Z
+date: 2022-12-16T08:39:43.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -25,7 +25,11 @@ Contrary to popular belief, these were not the type of cards that were introduce
 ## *Oranda Karuta* ('Dutch playing cards')
 ![oranda_1_final.png](/suryongfiles/oranda_1_final.png =150x)![oranda_2_final.png](/suryongfiles/oranda_2_final.png =150x)
 
-Even before the Meiji era (1868-1912), some French-suited 52-card decks have made their way through Japanese shores. In both cases, the decks were made in the Netherlands.
+Even before the Meiji era (1868-1912), some French-suited 52-card decks have made their way through Japanese shores. These decks were made in the Netherlands, and were brought to Japan by the Dutch since they started trading with Japan in 1609.
+
+There were many accounts of these decks being brought to Japan and being played there, but very few physical relics exist today. 
+
+It is thought that the game [*E-tori*](/en/karuta/games#japanese-games-using-western-playing-cards) was originally played using these decks.
 
 ### Udagawa Yōan's copy of *Oranda Karuta* (和蘭闘牌)
 When **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki called *Dejima*, arrived to Japan for the second time in August 1817, accompanied with his wife and son among other people, he brought with him twelve types of toys, one of which was a deck of playing cards.
