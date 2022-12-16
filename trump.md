@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-16T03:50:59.574Z
+date: 2022-12-16T04:17:38.087Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -30,10 +30,16 @@ Even before the Meiji era (1868-1912), some French-suited 52-card decks have mad
 ### Udagawa Yōan's copy of *Oranda Karuta* (和蘭闘牌)
 When **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki called *Dejima*, arrived to Japan for the second time in August 1817, accompanied with his wife and son among other people, he brought with him twelve types of toys, one of which was a deck of playing cards.
 
-**Udagawa Yōan**, a Japanese scholar of Western studies who had a close relationship with Blomhoff, knew of these "twelve rare toys" and copied some of them. The "Dutch cards" in particular were copied in his room on April 10, 1821. The copy survived a fire in 1834 and was handed down to the descendants of the Udagawa family.
+**Udagawa Yōan**, a Japanese scholar of Western studies who had a close relationship with Blomhoff, knew of these "twelve rare toys" and copied some of them. The "Dutch cards" in particular were copied in his room on April 10, 1821. The copy survived a fire in 1834 and was handed down to the descendants of the Udagawa family. A replica of this deck, which was reprinted at [Nintendo](/en/hanafuda/manufacturers/nintendo) by the Rangaku Materials Study Group, can be found at the Tsuyama Archives of Western Learning.
+
+While the copy of the deck exists today , the original Dutch-made cards were nowhere to be seen, probably because they remained in Blomhoff's possession when they were deported away from Japan.
 
 ### Hayashi Shihei's *Oranda Karuta* (阿蘭陀加留多)
-Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs from late 18th century) became an exhibited item at the **Hayashi Shihei Memorial Exhibition** at the Sendai City Museum.
+Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs from late 18th century) became an exhibited item at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum.
+
+It is said that **Hayashi Shihei**, a Japanese military scholar and a retainer of the Sendai Domain, bought the Dutch card deck, along with a deck of Chinese money-suited paper cards, in Nagasaki, and gave them to his friend **Fujitsuka Shikibu**, who was a Shinto priest at Shiogama Shrine.
+
+Currently this is the **only physical evidence of Dutch playing cards coming to Japan before the Meiji period that exists today**. 
 
 ## Introduction of Cards from United States and England
 The opening of Japan to trade with Western forces in the Mid-1850's, leading to the Meiji Restoration in 1868 made the import of western playing cards to Japan possible.
@@ -58,6 +64,8 @@ However, since a hanafuda deck only contains 48 cards, it is up to the manufactu
 - https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97
 - https://japanplayingcardmuseum.com/1-1-3-1-dutchcards-udagawa-youan/
 - https://japanplayingcardmuseum.com/1-1-3-2-dutchcards-hayashi-shihei/
+- https://twitter.com/gelcyz/status/1401543909868642305/photo/2
+- https://en.wikipedia.org/wiki/Hayashi_Shihei
 - https://japanplayingcardmuseum.com/1-1-5-1-american-british-earlymeijiera/
 - https://history.state.gov/milestones/1830-1860/opening-to-japan#:~:text=On%20July%208%2C%201853%2C%20American,Japan%20and%20the%20western%20world.
 - https://japanplayingcardmuseum.com/114-1-2-westerncard-domesticproducts-exportation/
