@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-16T04:17:38.087Z
+date: 2022-12-16T04:19:22.699Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -64,6 +64,7 @@ However, since a hanafuda deck only contains 48 cards, it is up to the manufactu
 - https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97
 - https://japanplayingcardmuseum.com/1-1-3-1-dutchcards-udagawa-youan/
 - https://japanplayingcardmuseum.com/1-1-3-2-dutchcards-hayashi-shihei/
+- https://twitter.com/gelcyz/status/1401543909868642305
 - https://twitter.com/gelcyz/status/1401543909868642305/photo/2
 - https://en.wikipedia.org/wiki/Hayashi_Shihei
 - https://japanplayingcardmuseum.com/1-1-5-1-american-british-earlymeijiera/
