@@ -2,7 +2,7 @@
 title: Blomhoff's Mekuri
 description: Blomhoff's account of a mekuri game.
 published: true
-date: 2022-12-16T07:58:37.686Z
+date: 2022-12-16T08:00:40.513Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-12-16T07:21:30.846Z
@@ -68,6 +68,7 @@ The account states that the Onifuda ('Demon card') "beats all other cards". It i
 It is not attested in this account how the scoring is calculated. You may refer to the values indicated on the Card Points and decide how to handle the scoring.
 
 > However, prior to this account, on August 15, 1815 in Dordrecht, Blomhoff responded to a letter sent to him by R. P. Cruden who was inquiring about Japanese [Karuta](/en/karuta). In the response, he describes a method of playing the game which closely matches that of Mekuri. He mentions that **"The winner of the game is the first to reach a pre-determined score of 100 or more, but I should point out that I do not know how this scoring is done."** This suggests that the scoring in the game is cumulative, rather than zero-sum.
+{.is-info}
 
 ## Card Points
 **Clubs, Swords, and Coins** are considered **Scoring Suits**.
