@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-16T08:19:34.194Z
+date: 2022-12-16T08:23:55.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -35,9 +35,9 @@ When **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki c
 While the copy of the deck exists today , the original Dutch-made cards were nowhere to be seen, probably because they remained in Blomhoff's possession when they were deported away from Japan.
 
 ### Hayashi Shihei's *Oranda Karuta* (阿蘭陀加留多)
-Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs from late 18th century) became an exhibited item at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum.
+Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs resembling those made during the late 18th century) became an exhibited item at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum.
 
-It is said that **Hayashi Shihei**, a Japanese military scholar and a retainer of the Sendai Domain, bought the Dutch card deck, along with a deck of Chinese money-suited paper cards, in Nagasaki, and gave them to his friend **Fujitsuka Shikibu**, who was a Shinto priest at Shiogama Shrine.
+It is said that **Hayashi Shihei**, a Japanese military scholar and a retainer of the Sendai Domain, has taken advantage of his position to visit Nagasaki three times since 1775. From there, he bought the Dutch card deck, along with a deck of Chinese money-suited paper cards, and gave them as a gift to his friend **Fujitsuka Shikibu**, who was a Shinto priest at Shiogama Shrine.
 
 Currently this is the **only physical evidence of Dutch playing cards coming to Japan before the Meiji period that exists today**. 
 
