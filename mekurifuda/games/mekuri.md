@@ -2,13 +2,13 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2022-11-19T04:21:46.511Z
+date: 2022-12-16T09:06:23.862Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
 ---
 
-Mekuri (めくり, lit. “Flipping”) is a type of fishing game that was popular in Japan during the Edo period. It is the ancestor of the game [Hana-Awase](https://fudawiki.org/en/hanafuda/games/hana-awase), and shares the same gameplay mechanics.
+Mekuri (めくり, lit. “Flipping”) is a type of fishing game that was popular in Japan during the Edo period. It is thought to be the ancestor of the game [Hana-Awase](https://fudawiki.org/en/hanafuda/games/hana-awase), and shares the same gameplay mechanics.
 
 The name comes from the act of drawing a card from the face-down draw pile, which is done by taking the top card of the pile and flipping it face-up so that you can see the card you've just drawn.
 
