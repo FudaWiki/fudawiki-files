@@ -2,7 +2,7 @@
 title: Blomhoff's Mekuri
 description: Blomhoff's account of a mekuri game.
 published: true
-date: 2022-12-16T08:03:17.405Z
+date: 2022-12-16T08:05:36.644Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-12-16T07:21:30.846Z
@@ -20,7 +20,7 @@ The game can be played by 2 or 3 people.
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
 ## Names of Suits
-| NUMBER | Name|
+| SUIT | Name|
 |:------:|:---:|:---:|
 | **Clubs** | Aka |
 | **Swords** | Ao |
@@ -28,20 +28,14 @@ The game can be played by 2 or 3 people.
 | **Coins**  | Taiko |
 
 ## Names of Numbers/Courts
-| NUMBER | Name|
-|:------:|:---:|:---:|
-| **1</br>(Dragon)** | Mushi |
-| **2** | Ni |
-| **3** | San |
-| **4**  | Shi |
-| **5**  | Go |
-| **6**  | Roku |
-| **7**  | Shichi |
-| **8**  | Hachi |
-| **9**  | Ku |
-| **10</br>(Maid)**  | Juu |
-| **11</br>(Horse)**  | Uma |
-| **12</br>(King)**  | Kiri |
+| NUMBER | Name| NUMBER | Name|
+|---:|:---|---:|:---|
+| **1</br>(Dragon)** | Mushi | **7**  | Shichi |
+| **2** | Ni | **8**  | Hachi |
+| **3** | San | **9**  | Ku |
+| **4**  | Shi | **10</br>(Maid)**  | Juu |
+| **5**  | Go | **11</br>(Horse)**  | Uma |
+| **6**  | Roku | **12</br>(King)**  | Kiri |
 
 # Game Setup
 ## Choosing the Dealer
