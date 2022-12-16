@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2022-12-12T07:25:36.610Z
+date: 2022-12-16T05:59:20.970Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -31,6 +31,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 ## Games using Four-Suited Decks
 |Game|Players|Family|Style|Origin|Pattern Used|
 |:---|:---:|:---:|:---:|---:|---:|
+|[Blomhoff's Mekuri](/en/mekurifuda/games/blomhoff-mekuri)|-|Fishing|Mekuri-kei|Japan|Mekurifuda|
 |[Dontsuku](/en/mekurifuda/games/dontsuku), a.k.a. Donchiku|2-8|Showdown|Kingo-kei|Japan|Kurofuda|
 |[Hachi](/en/mekurifuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|-|
 |[Hiyoko](/en/mekurifuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Yomi-kei|Japan|Ise|
