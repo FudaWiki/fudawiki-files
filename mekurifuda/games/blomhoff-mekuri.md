@@ -2,13 +2,15 @@
 title: Blomhoff's Mekuri
 description: Blomhoff's account of a mekuri game.
 published: true
-date: 2022-12-16T08:00:40.513Z
+date: 2022-12-16T08:03:17.405Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-12-16T07:21:30.846Z
 ---
 
-**Blomhoff's Mekuri** is an account of the rules of the game [Mekuri](/en/mekurifuda/games/mekuri) as written by Jan Cock Blomhoff, the director of a Dutch trading colony in Nagasaki called *Dejima*, in a catalog of his collection of Japanese relics obtained in 1824.
+**Blomhoff's Mekuri** is an account of the rules of the game [Mekuri](/en/mekurifuda/games/mekuri) as written by **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki called *Dejima*, in a catalog of his collection of Japanese relics obtained in 1824.
+
+![jan_cock_blomhoff_1.jpg](/suryongfiles/jan_cock_blomhoff_1.jpg =200x)
 
 The game can be played by 2 or 3 people.
 
