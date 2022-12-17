@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-16T08:39:43.635Z
+date: 2022-12-17T07:03:48.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -58,6 +58,9 @@ In 1902, **Yamauchi Nintendo** (now [Nintendo Co., Ltd.](/en/hanafuda/manufactur
 There was a story that the first Japanese-made western playing cards were sold by Nintendo in an effort to comfort the Russian POW's during the Russo-Japanese War of 1904-1905. However, Takashi Ebashi stated that he had seen playing cards made by Yamauchi Nintendo in the USPCC Museum (which closed sometime before the transfer of USPCC's factory from Cincinnati, Ohio to Erlanger, Kentucky in 2009), which were collected by USPCC in 1903- a year before the Russo-Japanese War even started.
 
 # Hana-Trump
+
+![hanatrump_1.png](/hanatrump_1.png =150x)
+
 In the 20th century, the designs of both [Western playing cards](/en/trump) and [Hanafuda](/en/hanafuda) merged to form **Hanafuda-Trump** (花札トランプ), also known as Hana-Trump or Hanatora (花トラ).
 
 Hana-Trump is a western playing card deck containing 52 cards (plus joker(s)). Hanafuda card patterns adorn the middle part of each card, while corner indices indicate the number and suit of the card.
