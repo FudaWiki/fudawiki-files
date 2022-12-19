@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T13:02:00.862Z
+date: 2022-12-19T13:04:01.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -50,6 +50,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Healin' Good Precure
 - Heart Catch Precure!
 - Hug-tto! Precure
+- Ikkyu-san
 - J.A.K.Q. Dengekitai
 - Kagaku Ninja-tai Gatchaman
 - Kagaku Sentai Dynaman
