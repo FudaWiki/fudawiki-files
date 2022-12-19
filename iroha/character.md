@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T16:05:11.189Z
+date: 2022-12-19T16:09:52.935Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -49,6 +49,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Dai Sentai Goggle-V
 - Delicious Party Precure
 - Dengeki Sentai Changeman
+- Denjin Zaborger
 - Denshi Sentai Denjiman
 - Dokidoki! Precure
 - Fresh Precure!
@@ -135,6 +136,11 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Danguard Ace
 - Densetsu Kyojin Ideon
 - Doraemon
+- Dragon Ball
+- Dragon Ball GT
+- Dragon Ball Kai
+- Dragon Ball Super
+- Dragon Ball Z
 - Dr. Slump - Arale-chan
 - Getter Robo G
 - Godzilla
