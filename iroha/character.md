@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T13:04:01.503Z
+date: 2022-12-19T15:22:00.815Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -17,6 +17,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 # Character Iroha Karuta by Publisher
 
 ## Seika Note (Seika no Karuta series セイカのかるた)
+- Ashita no Nadja
 - Avatarō Sentai Donbrothers
 - Battle Fever J
 - Bishōjō Senshi Sailor Moon
@@ -71,7 +72,6 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Ninpu Sentai Hurricaneger
 - Patalliro!
 - Pokonyan!
-- Shin Inubō Karuta
 - Smile Precure!
 - Soreike! Anpanman
 - Step Jun
