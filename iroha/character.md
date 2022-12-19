@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T16:03:30.288Z
+date: 2022-12-19T16:05:11.189Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -160,3 +160,4 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Ultraman Series
 - UFO Robo Grendizer
 - Yattodetaman
+- Yū Yū Hakusho
