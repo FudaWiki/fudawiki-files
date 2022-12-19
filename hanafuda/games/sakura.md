@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2022-11-18T08:37:00.587Z
+date: 2022-12-19T05:24:12.638Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -121,6 +121,14 @@ The yaku in this game also seem to lack specific names; instead, each is typical
 |**He** - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |**To** - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|
 |**Chi** - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
+
+## Notes about Yaku
+- The 'Ha', 'Ni', and 'He' yaku are the same as 'Red Poetry Ribbons (Akatan)', 'Blue Ribbons (Aotan)', and 'Grass Ribbons (Kusatan)' respectively.
+- The 'Ro' yaku consists of the highest-scoring card of every month used in the 'Ha' yaku. Also, it is the same as 'Spring (Omote Sugawara)'.
+- The 'Ho' yaku consists of the highest-scoring card of every month used in the 'Ni' yaku.
+- The 'To' yaku consists of the highest-scoring card of every month used in the 'He' yaku.
+- The 'I' yaku is the same as 'Drinking (Nomi)'.
+- The 'Chi' yaku is the same as 'Boar-Deer-Geese (Inoshikagan/Ganbo)'.
 
 # Notable Variations
 There are two main variations in overall scoring: the one which counts points cumulatively across rounds, used by Hanafuda Hawaii Style, and the one which instead counts round victories, used by Paradise Factors.
