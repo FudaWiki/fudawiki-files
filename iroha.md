@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-19T06:48:05.791Z
+date: 2022-12-19T06:58:16.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -60,7 +60,7 @@ Examples are:
 - **Karuta for promoting Food Hygiene** (Coop-Kyushu Business Federation, 2020): Printable cards can be downloaded in [this](https://coop-weblabo.jp/activity/shiryoshitsu/10760) website.
 
 ## Character Iroha Karuta
-**Character Iroha Karuta** is a type of Iroha Karuta that is themed around an **intellectual property**, such as Anime, Tokusatsu, Video game, etc.
+[**Character Iroha Karuta**](/en/iroha/character) is a type of Iroha Karuta that is themed around an **intellectual property**, such as Anime, Tokusatsu, Video game, etc.
 
 
 # General Premise of the Game
