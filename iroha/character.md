@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T08:51:09.790Z
+date: 2022-12-19T11:28:35.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -17,18 +17,31 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 # Character Iroha Karuta by Publisher
 
 ## Seika Note (Seika no Karuta series セイカのかるた)
+- Delicious Party Precure
+- Dokidoki! Precure
+- Fresh Precure!
+- Futari wa Precure
 - Godzilla to Kyōryū (Godzilla and Dinosaurs)
+- Go! Princess Precure
+- Happiness Charge Precure!
 - Himitsu Sentai Goranger
+- Healin' Good Precure
+- Heart Catch Precure!
+- Hug-tto! Precure
 - Kagaku Ninja-tai Gatchaman
 - Kamen Rider Stronger
-- Kidou Senshi Gundam (1979)
+- Kidou Senshi Gundam
 - Kidou Senshi Z Gundam
+- Kirakira Precure a la Mode
 - Morimori Pokkun
 - Ninpu Sentai Hurricaneger
 - Pokonyan!
 - Shin Inubō Karuta
+- Smile Precure!
 - Soreike! Anpanman
 - Step Jun
+- Tropical-Rouge! Precure
+- Twinkle Precure
 - Ultraman '80
 - Yes! Precure 5 GoGo!
 - Yūsha Raideen
