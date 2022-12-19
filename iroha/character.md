@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T12:41:10.020Z
+date: 2022-12-19T13:02:00.862Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -17,29 +17,58 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 # Character Iroha Karuta by Publisher
 
 ## Seika Note (Seika no Karuta series セイカのかるた)
+- Avatarō Sentai Donbrothers
+- Battle Fever J
+- Bishōjō Senshi Sailor Moon
+- Bishōjō Senshi Sailor Moon R
+- Bishōjō Senshi Sailor Moon Sailor Stars
 - Bishōjō Senshi Sailor Moon Super S
+- Chikyū Sentai Fiveman
+- Chōdenji Robo Combattler V
+- Chōdenji Machine Voltes V
+- Chōdenshi Bioman
+- Chōjin Sentai Jetman
+- Chōjū Sentai Liveman
+- Chōshinsei Flashman
+- Cutey Honey Flash
+- Dai Sentai Goggle-V
 - Delicious Party Precure
+- Dengeki Sentai Changeman
+- Denshi Sentai Denjiman
 - Dokidoki! Precure
 - Fresh Precure!
 - Futari wa Precure
 - Futari wa Precure Max Heart
+- Gegege no Kitaro
 - Godzilla to Kyōryū (Godzilla and Dinosaurs)
 - Go! Princess Precure
+- Gosei Sentai Dairanger
 - Happiness Charge Precure!
+- Hikari Sentai Maskman
+- Himitsu no Akko-chan
 - Himitsu Sentai Goranger
 - Healin' Good Precure
 - Heart Catch Precure!
 - Hug-tto! Precure
+- J.A.K.Q. Dengekitai
 - Kagaku Ninja-tai Gatchaman
+- Kagaku Sentai Dynaman
 - Kamen Rider Stronger
 - Kamen Rider V3
+- Kamen Rider X
 - Kidou Senshi Gundam
 - Kidou Senshi Z Gundam
 - Kirakira Precure a la Mode
+- Kōsoku Sentai Turboranger
+- Kyōryū Sentai Zyuranger
 - Lupin Sansei Part III
+- Magical Taruruto-kun
 - Mahou Tsukai Precure!
+- Majokko Megu-chan
+- Mashin Sentai Kiramager
 - Morimori Pokkun
 - Ninpu Sentai Hurricaneger
+- Patalliro!
 - Pokonyan!
 - Shin Inubō Karuta
 - Smile Precure!
@@ -47,6 +76,8 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Step Jun
 - Sue Cat
 - Sweet Precure
+- Taiyō Sentai Sun Vulcan
+- Tōshō Daimos
 - Tropical-Rouge! Precure
 - Twinkle Precure
 - Uchū Keiji Gavan
