@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T15:22:00.815Z
+date: 2022-12-19T16:03:30.288Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -16,6 +16,15 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 
 # Character Iroha Karuta by Publisher
 
+## Epoch Co., Ltd.
+- Disney Karuta Series
+
+## Koide Shinkosha (Koide no Karuta series こいでのかるた)
+- Ashita no Joe
+- Tetsujin 28-go
+- Tetsuwan Atomu
+- 0-sen Hayato
+
 ## Seika Note (Seika no Karuta series セイカのかるた)
 - Ashita no Nadja
 - Avatarō Sentai Donbrothers
@@ -24,14 +33,19 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Bishōjō Senshi Sailor Moon R
 - Bishōjō Senshi Sailor Moon Sailor Stars
 - Bishōjō Senshi Sailor Moon Super S
+- Casy & Nancy
 - Chikyū Sentai Fiveman
 - Chōdenji Robo Combattler V
 - Chōdenji Machine Voltes V
 - Chōdenshi Bioman
+- Chōgōkin Gold Lightan
 - Chōjin Sentai Jetman
 - Chōjū Sentai Liveman
 - Chōshinsei Flashman
+- Cutey Honey
 - Cutey Honey Flash
+- Crayon Shin-chan
+- Creamy Mami
 - Dai Sentai Goggle-V
 - Delicious Party Precure
 - Dengeki Sentai Changeman
@@ -40,10 +54,14 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Fresh Precure!
 - Futari wa Precure
 - Futari wa Precure Max Heart
+- Ganbare!! Robocon
 - Gegege no Kitaro
+- Getter Robo
 - Godzilla to Kyōryū (Godzilla and Dinosaurs)
 - Go! Princess Precure
 - Gosei Sentai Dairanger
+- Great Mazinger
+- Gu Gu Ganmo
 - Happiness Charge Precure!
 - Hikari Sentai Maskman
 - Himitsu no Akko-chan
@@ -51,6 +69,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Healin' Good Precure
 - Heart Catch Precure!
 - Hug-tto! Precure
+- Hyakujū-ō Golion
 - Ikkyu-san
 - J.A.K.Q. Dengekitai
 - Kagaku Ninja-tai Gatchaman
@@ -60,29 +79,49 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Kamen Rider X
 - Kidou Senshi Gundam
 - Kidou Senshi Z Gundam
+- Kikai Sentai Zenkaiger 
 - Kirakira Precure a la Mode
 - Kōsoku Sentai Turboranger
 - Kyōryū Sentai Zyuranger
+- Lupin Sansei
 - Lupin Sansei Part III
 - Magical Taruruto-kun
-- Mahou Tsukai Precure!
+- Mahō no Mako-chan
+- Mahō no Star Magical Emi
+- Mahō no Yōsei Persia
+- Mahō Tsukai Chappy
+- Mahō Tsukai Precure!
+- Mahō Tsukai Sally
 - Majokko Megu-chan
 - Mashin Sentai Kiramager
+- Mazinger Z
+- Minions
+- Mirai Robo Daltanious
 - Morimori Pokkun
 - Ninpu Sentai Hurricaneger
 - Patalliro!
+- Paw Patrol
 - Pokonyan!
+- Princess Anne
+- Robot 110-ban
+- Samurai Giants
 - Smile Precure!
 - Soreike! Anpanman
+- Spiderman (Sentai series)
 - Step Jun
 - Sue Cat
+- Super Bikkuriman
 - Sweet Precure
 - Taiyō Sentai Sun Vulcan
 - Tōshō Daimos
 - Tropical-Rouge! Precure
 - Twinkle Precure
 - Uchū Keiji Gavan
+- Ultra B
+- Ultraman Series
 - Ultraman '80
+- Urusei Yatsura
+- Video Senshi Laserion
 - Yes! Precure 5
 - Yes! Precure 5 GoGo!
 - Yūsha Raideen
@@ -93,6 +132,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Captain Tsubasa
 - Cardcaptor Sakura
 - Cyborg 009
+- Danguard Ace
 - Densetsu Kyojin Ideon
 - Doraemon
 - Dr. Slump - Arale-chan
@@ -105,6 +145,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Lady Georgie
 - Machine Hayabusa
 - Magic Knight Rayearth
+- Minions
 - Mirmo de Pon!
 - Perman
 - Pocket Monsters
@@ -112,7 +153,7 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Pocket Monsters Best Wishes!
 - Pocket Monsters Diamond & Pearl
 - Pocket Monsters Sun & Moon
-- Shin Taketorimonogatari Sen'nen Jo-ō (Queen Millenia)
+- Shin Taketorimonogatari 1000-nen Jo-ō
 - Tottoko Hamtaro
 - Touch
 - Uchū Tetsujin Kyōdain
