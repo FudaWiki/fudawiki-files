@@ -2,7 +2,7 @@
 title: Character Iroha Karuta
 description: iroha karuta sets themed after intellectual properties
 published: true
-date: 2022-12-19T11:28:35.502Z
+date: 2022-12-19T12:41:10.020Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T07:38:08.328Z
@@ -17,10 +17,12 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 # Character Iroha Karuta by Publisher
 
 ## Seika Note (Seika no Karuta series セイカのかるた)
+- Bishōjō Senshi Sailor Moon Super S
 - Delicious Party Precure
 - Dokidoki! Precure
 - Fresh Precure!
 - Futari wa Precure
+- Futari wa Precure Max Heart
 - Godzilla to Kyōryū (Godzilla and Dinosaurs)
 - Go! Princess Precure
 - Happiness Charge Precure!
@@ -30,9 +32,12 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Hug-tto! Precure
 - Kagaku Ninja-tai Gatchaman
 - Kamen Rider Stronger
+- Kamen Rider V3
 - Kidou Senshi Gundam
 - Kidou Senshi Z Gundam
 - Kirakira Precure a la Mode
+- Lupin Sansei Part III
+- Mahou Tsukai Precure!
 - Morimori Pokkun
 - Ninpu Sentai Hurricaneger
 - Pokonyan!
@@ -40,9 +45,13 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Smile Precure!
 - Soreike! Anpanman
 - Step Jun
+- Sue Cat
+- Sweet Precure
 - Tropical-Rouge! Precure
 - Twinkle Precure
+- Uchū Keiji Gavan
 - Ultraman '80
+- Yes! Precure 5
 - Yes! Precure 5 GoGo!
 - Yūsha Raideen
 
@@ -51,18 +60,30 @@ Unlike [Character Hanafuda](/en/hanafuda/character), which are usually regarded 
 - Candy Candy
 - Captain Tsubasa
 - Cardcaptor Sakura
+- Cyborg 009
 - Densetsu Kyojin Ideon
 - Doraemon
 - Dr. Slump - Arale-chan
 - Getter Robo G
+- Godzilla
 - Go-wapper 5 Gōdam
+- Hattori-kun
 - Ichigo-chan
+- Licca-chan
+- Lady Georgie
 - Machine Hayabusa
+- Magic Knight Rayearth
 - Mirmo de Pon!
 - Perman
+- Pocket Monsters
+- Pocket Monsters Advance Generation
+- Pocket Monsters Best Wishes!
+- Pocket Monsters Diamond & Pearl
+- Pocket Monsters Sun & Moon
 - Shin Taketorimonogatari Sen'nen Jo-ō (Queen Millenia)
 - Tottoko Hamtaro
 - Touch
 - Uchū Tetsujin Kyōdain
 - Ultraman Series
 - UFO Robo Grendizer
+- Yattodetaman
