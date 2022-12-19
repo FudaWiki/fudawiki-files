@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-19T06:39:38.640Z
+date: 2022-12-19T06:48:05.791Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -44,17 +44,20 @@ It can be considered the predecessor of Character Iroha Karuta.
 ## Hougen Karuta
 **Hougen Karuta** (方言かるた, 'regional dialect cards') is a type of Iroha Karuta whose Yomifuda include **phrases of a Japanese regional dialect**.
 
+Examples are:
+- **Gunma Hougen Karuta** (ぐんま方言かるた) (Kyoai Gakuen Maebashi International University, 2012), features phrases using the Gunma dialect. The entire set can be seen [here](https://carta.media.gunma-u.ac.jp/gunma/data_35hougen/index.html).
+
 ## Kyodo Karuta
 **Kyodo Karuta** (郷土かるた, 'regional history cards') is a type of Iroha Karuta that is themed around **local events, specialties, and historical sites of a region in Japan**.
 
 Examples are:
-- [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
+- [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947. A competition using these cards is held annually in Gunma prefecture.
 
 ## Campaign Iroha Karuta
 **Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a **program, campaign, or slogan**, promoted usually by a Government Department or a Business Company.
 
 Examples are:
-- **Karuta for promoting Food Hygiene** (Coop-Kyushu Business Federation): Printable cards can be downloaded in [this](https://coop-weblabo.jp/activity/shiryoshitsu/10760) website.
+- **Karuta for promoting Food Hygiene** (Coop-Kyushu Business Federation, 2020): Printable cards can be downloaded in [this](https://coop-weblabo.jp/activity/shiryoshitsu/10760) website.
 
 ## Character Iroha Karuta
 **Character Iroha Karuta** is a type of Iroha Karuta that is themed around an **intellectual property**, such as Anime, Tokusatsu, Video game, etc.
