@@ -2,7 +2,7 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-14T08:09:47.042Z
+date: 2022-12-19T06:39:38.640Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
@@ -51,7 +51,10 @@ Examples are:
 - [**Jōmō Karuta**](/en/iroha/jomo-karuta) (上毛かるた), which is themed around Gunma prefecture, and is first published in 1947.
 
 ## Campaign Iroha Karuta
-**Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a **program, campaign, or slogan**, promoted usually by a Government Department.
+**Campaign Iroha Karuta** is a type of Iroha Karuta that is themed around a **program, campaign, or slogan**, promoted usually by a Government Department or a Business Company.
+
+Examples are:
+- **Karuta for promoting Food Hygiene** (Coop-Kyushu Business Federation): Printable cards can be downloaded in [this](https://coop-weblabo.jp/activity/shiryoshitsu/10760) website.
 
 ## Character Iroha Karuta
 **Character Iroha Karuta** is a type of Iroha Karuta that is themed around an **intellectual property**, such as Anime, Tokusatsu, Video game, etc.
@@ -149,3 +152,4 @@ The game is mostly the same as 1 versus 1, except for some additional rules:
 - https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%8B%E3%81%9F
 - https://www.tofugu.com/japan/karuta-japanese-cards/
 - https://en.wikipedia.org/wiki/Karuta
+- https://jccu.coop/eng/news/2020/06/co-op-kyushu-fun-game-study-karuta.html
