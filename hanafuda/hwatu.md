@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-21T08:45:50.425Z
+date: 2022-12-21T08:50:50.057Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -52,7 +52,6 @@ The hwatu deck structure is generally very similar to its Japanese counterpart, 
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Mekuri-kei|Disputed|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Mekuri-kei|Korea|
 |[Nylon-ppong](/en/hanafuda/games/nylon-ppong)|2-6|Draw and Discard|unconventional|Korea|
-|[Sambong](/en/hanafuda/games/sambong)|-|-|-|Korea|
 |[Seotda](/en/hanafuda/games/seotda)|2-20|Showdown|Kabu-kei|Korea|
 |[Wolnam-ppong](/en/hanafuda/games/wolnamppong)|2-16|Showdown|unconventional|Korea|
-|[Yukbaek](/en/hanafuda/games/roppyakken) (Roppyakken)|2-3|Fishing|Mekuri-kei|Japan|
+|[Yukbaek](/en/hanafuda/games/roppyakken), a.k.a Sambong (Roppyakken)|2+|Fishing|Mekuri-kei|Japan|
