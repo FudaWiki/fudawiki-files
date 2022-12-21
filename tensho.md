@@ -2,11 +2,13 @@
 title: Tensho Karuta
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2022-12-14T08:03:08.678Z
+date: 2022-12-21T02:34:39.213Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
 ---
+
+![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
 **Tensho Karuta** [天正かるた] is the term used for [karuta](/en/karuta) (playing cards) made in Japan, which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]), except they were smaller in length and width than their Portuguese counterparts.
 
