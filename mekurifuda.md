@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-16T05:40:49.743Z
+date: 2022-12-21T02:35:29.480Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -28,6 +28,8 @@ For a list of games played using these cards, see [Mekurifuda Games](/en/mekurif
 
 # History
 Sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were today known as Tensho Karuta.
+
+![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
