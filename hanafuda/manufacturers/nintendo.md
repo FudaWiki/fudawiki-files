@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-15T00:07:52.824Z
+date: 2022-12-21T01:37:13.679Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -48,7 +48,7 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) | Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
 | **Azuma Tengu**  <br>(東天狗, Eastern Tengu) | Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. Briefly succeeded by **Daitengu** in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
 | **Chujo**  <br>(中将, Lieutenant General) | Rare | Also used for shirofuda decks. |
-| **Daifuku**  <br>(大福, Great Fortune) | Lost | Only labels exist. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Daifuku**  <br>(大福, Great Fortune) | Very Rare | An unused label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Daikoku**  <br>(大黒, short for Daikokuten) | Unique |     |
 | **Daioh jirushi**  <br>(大王印, Great King mark) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
 | **Daitengu**  <br>(大天狗, Great Tengu) | Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
