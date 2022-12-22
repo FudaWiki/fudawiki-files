@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-22T07:09:31.326Z
+date: 2022-12-22T07:19:55.524Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -129,9 +129,8 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Golden cards | 2009 | Bandai |
 | Kirby Hanafuda | January 2020 | Nintendo/HAL. Distributed by Ensky. |
-| Pokemon Hanafuda | November 2013 | Nintendo/Creatures/Game Freak. Distributed by Movic. |
-| Mario Pikachu Hanafuda | - | - |
-| Nichiro Hanafuda | - | - |
+| Pokemon Hanafuda | November 2013 | Pokemon/Nintendo/Creatures/Game Freak. Distributed by Movic. |
+| Mario Pikachu Hanafuda | October 29, 2016 | Pokemon/Nintendo/Creatures/Game Freak. Sold only at Pokemon Center stores in Japan. |
 | Snoopy Comic Hanafuda | - | Premium Bandai |
 
 # Other Promotional Hanafuda Decks
