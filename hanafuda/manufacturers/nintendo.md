@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-22T07:19:55.524Z
+date: 2022-12-22T07:38:49.108Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -123,7 +123,7 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Brand | Date of Release | Notes |
 | --- | --- | --- |
 | Beichō Family Warōtei | ca. 1974-1976 | Asahi Broadcasting Corp. |
-| Carta de Flor | 2022 | Brownies Shop |
+| Carta de Flor | 2022 | Brownies Shop. Available exclusively at the Brownies Shop website. |
 | Dragon Quest Hanafuda | 2017 | Square Enix |
 | Jojo's Bizarre Hanafuda: Mori cards | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
@@ -131,7 +131,7 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Kirby Hanafuda | January 2020 | Nintendo/HAL. Distributed by Ensky. |
 | Pokemon Hanafuda | November 2013 | Pokemon/Nintendo/Creatures/Game Freak. Distributed by Movic. |
 | Mario Pikachu Hanafuda | October 29, 2016 | Pokemon/Nintendo/Creatures/Game Freak. Sold only at Pokemon Center stores in Japan. |
-| Snoopy Comic Hanafuda | - | Premium Bandai |
+| Snoopy Comic Hanafuda | October 2, 2010 | Bandai. Available exclusively at the Premium Bandai website. |
 
 # Other Promotional Hanafuda Decks
 | Brand | Date of Release | Notes |
