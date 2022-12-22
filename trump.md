@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-22T09:48:55.591Z
+date: 2022-12-22T09:50:10.108Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -73,7 +73,7 @@ Some sets of collectible tobacco cards from packs of **Murai Bros. Cigarettes** 
 Karuta manufacturer **Tsuchida Tenguya** took one of such sets and created an actual hanafuda deck (complete with backpasting) using the design of that set.
 
 ## Richert Karuta's "Shiki" - A western deck disguised as Hanafuda
-In 2022, Marcus Richert announced a new type of deck called "Shiki" on Kickstarter.
+In 2022, **Marcus Richert** announced a new type of deck called **"Shiki"** on Kickstarter.
 
 This deck was described as a western playing card deck in disguise as a hanafuda deck.
 
@@ -84,7 +84,7 @@ The construction of each card is that of Japanese karuta- made of thick cards wr
 
 In addition to the various Japanese-inspired illustrations, the iconography of brights, animals, and ribbons of hanafuda are incorporated into the deck, which makes it possible to use the deck as a hanafuda deck if you know the month sequence.
 
-The deck originally came in two editions of two patterns each. The standard edition has a plain, one-colored back, and is made in-house at Richert Karuta in northern Osaka. The limited edition has an elaborate "sayagata" pattern on the back, and has the faces of seven "bright" cards stamped with silver ink. This edition is made at [Oishi Tengudo](/en/hanafuda/manufacturers/oishi-tengudo). An additional third edition was made- the standard edition silver- which is the standard edition with the plain backs but the seven bright cards are stamped with silver ink. All editions are traditionally hand-made.
+The deck originally came in two editions of two patterns each. The standard edition has a plain, one-colored back, and is made in-house at **Richert Karuta** in northern Osaka. The limited edition has an elaborate "sayagata" pattern on the back, and has the faces of seven "bright" cards stamped with silver ink. This edition is made at [**Oishi Tengudo**](/en/hanafuda/manufacturers/oishi-tengudo). An additional third edition was made- the standard edition silver- which is the standard edition with the plain backs but the seven bright cards are stamped with silver ink. All editions are traditionally hand-made.
 
 The two patterns- Poets and Warriors- differ slightly in each other except for the pip cards. The Poets pattern have courts represented by Heian-period poets, while the Warriors pattern have Heian-period warriors instead.
 
