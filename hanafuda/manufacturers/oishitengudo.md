@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-22T00:39:38.918Z
+date: 2022-12-22T01:20:00.987Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -32,7 +32,6 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 
 
 # Character/Promotional Hanafuda
-Ōishi Tengudō also manufactured various Character or Promotional Hanafuda for other companies:
 
 - **Attack on Titan Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
 - **Otōri danshi: Jōka Hanafuda**
