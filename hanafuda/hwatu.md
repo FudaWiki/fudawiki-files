@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-22T00:40:25.831Z
+date: 2022-12-22T00:43:07.399Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -61,7 +61,7 @@ Aside from the basic 48 cards, there are usually additional Joker cards included
 - 패보여주기 (paeboyeojugi) [lit. show your hand]: show your hand (this one is also a joker with penalty. 'for 3 seconds' is written above the center)
 - 삼원조우카 (samwon-joker) [lit. joker for three Won]: can be used to complete a yaku in place of the missing card when you have exactly 2 cards of a three-card yaku
 - 면광패 (myeongwang-pae) [lit. a card avoids bright penalty]: avoids x2 penalty when you don't have a Bright and an opponent wins with a Bright yaku
-- 축하패 (chookha-pae) [lit. a card of celebration]: it depends, but the one I found with an additional text (with a flying soccer ball) says 'x2 when you win after capturing this card'
+- 축하패 (chookha-pae) [lit. a card of celebration]: it depends. One example mentions 'x2 when you win after capturing this card'
 - 육광 (yukgwang) [lit. sixth gwang]: probably treated as an additional Bright
 - 따블패 (double-pae): x2 when you win after capturing this card
 - 유턴피 (U-turn-pi): capturing player gives 1 chaff to each player. If another player becomes able to declare a Go or Stop due to this card, the player must wait 1 turn before declaring whether to Go or stop.
