@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-21T01:37:13.679Z
+date: 2022-12-22T01:39:25.825Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -33,7 +33,7 @@ Nintendo also uses a different brand called “Chiyozakura”, which was first r
 | --- | --- | --- |
 | **Chiyozakura**  <br>(千代桜, Thousand-year Sakura) | Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) |
 
-In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. (Nintendo manufactured other character Hanafuda as well, such as Pokemon Hanafuda; since they did not publish those cards, they will not be listed here.)
+In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. 
 
 | Brand | Packaging | Card texture | Card pattern |
 | --- | --- | --- | --- |
@@ -117,6 +117,28 @@ And finally, Nintendo released some hanafuda decks with gold and silver backs. S
 | **Kin-Gin**  <br>(金銀, Gold-Silver) | Uncommon | Came as a set of Gold-back and Silver-back decks, in a large gold colored carboard box. Each deck is wrapped in cellophane wrapper only, and encased in two-piece plastic box with a clear top and a transparent gold-colored bottom. The cards themselves have a foil finish on the front and shiny metallic finish on the back. |
 | **Tokusei Hanafuda**  <br>(特製花札, Special Hanafuda) | Unique | Released sometime between 1975-1985 (possibly 1978). Came as a two-deck set, in a large paulownia box with a pull cord to elevate the decks from the box. Insert describes the set to be a 20th anniversary gift for something, and used gold and silver leaf. The decks were wrapped in textured gold or silver foil wrapper, with ‘特製花札’ marked on them. It is unknown what the cards inside look like. |
 | (No brand) | Unique | Released in commemoration of the Nintendo Headquarters Development Building on June 2014. Came as a set of Gold-back and Silver-back decks, in a very large paulownia box with Mario engraved on it along with other hanafuda motifs and the word はなふだ (hanafuda) and the Marufuku logo. The box itself is wrapped inside a purple cloth with the Marufuku logo on it, and the entire thing is stored inside a plain cardboard box with the Nintendo logo on it. The decks were not wrapped; only encased in a two piece plastic box with a clear top and black bottom. The faces of the cards have gold outlines on the gold deck and silver outlines on the silver deck. |
+
+# Character Hanafuda Decks 
+In addition to the above, Nintendo has also manufactured various Character Hanafuda decks, which are usually available in limited quantities only.
+| Brand | Date of Release | Notes |
+| --- | --- | --- |
+| Dragon Quest Hanafuda | 2017 | Square Enix |
+| Jojo's Bizarre Hanafuda: Mori cards | 2009 | Bandai |
+| Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
+| Jojo's Bizarre Hanafuda: Golden cards | 2009 | Bandai |
+| Kirby Hanafuda | January 2020 | Nintendo/HAL. Distributed by Ensky. |
+| Pokemon Hanafuda | November 2013 | Nintendo/Creatures/Game Freak. Distributed by Movic. |
+| Mario Pikachu Hanafuda | - | - |
+| Nichiro Hanafuda | - | - |
+| Snoopy Comic Hanafuda | - | Premium Bandai |
+
+
+# Other Promotional Hanafuda Decks
+| Brand | Date of Release | Notes |
+| --- | --- | --- |
+| Kogarashi Monjiro Hanafuda | 1970's? | Contains standard hanafuda pattern. |
+| Over The Century Hanafuda | ? | Contains standard hanafuda pattern. |
+
 
 # Bibiography
 
