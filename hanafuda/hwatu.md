@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-21T12:24:53.304Z
+date: 2022-12-22T00:40:25.831Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -21,7 +21,7 @@ Originally, Hwatu are made of paper, just like Japanese hanafuda, but sometime a
 Typically, modern Hwatu are made of 3 layers of plastic laminated together and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
 - The core layer makes up the majority of the bulk of each Hwatu card. The plastic material of this layer is usually mixed with stone powder, which gives the cards weight.
-- The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While people say the texture prevents the cards from slipping, its actual effect is to prevent cards from sticking to each other, in similar principle to the "Air-cushion finish" of USPCC's Bicycle [playing cards](/en/trump).
+- The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While people say the texture prevents the cards from slipping, its actual effect is to prevent cards from sticking to each other.
 
 
 # Illustration designs
