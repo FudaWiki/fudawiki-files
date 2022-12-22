@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-22T09:48:22.652Z
+date: 2022-12-22T09:48:55.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -73,7 +73,7 @@ Some sets of collectible tobacco cards from packs of **Murai Bros. Cigarettes** 
 Karuta manufacturer **Tsuchida Tenguya** took one of such sets and created an actual hanafuda deck (complete with backpasting) using the design of that set.
 
 ## Richert Karuta's "Shiki" - A western deck disguised as Hanafuda
-In 2022, Marcus Richert announced a brand new deck called "Shiki" on Kickstarter.
+In 2022, Marcus Richert announced a new type of deck called "Shiki" on Kickstarter.
 
 This deck was described as a western playing card deck in disguise as a hanafuda deck.
 
