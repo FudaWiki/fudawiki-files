@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-17T07:03:48.476Z
+date: 2022-12-22T09:48:22.652Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -67,6 +67,28 @@ Hana-Trump is a western playing card deck containing 52 cards (plus joker(s)). H
 
 However, since a hanafuda deck only contains 48 cards, it is up to the manufacturer how they would decorate the four Kings in the deck. Some manufacturers put their manufacturer's mark or advertisements of their products. Others put drawings of [Hachi-hachi](/en/hanafuda/games/hachi-hachi) tools on them, and are intended to be used just like their actual counterparts. Still others leave the designs of their corresponding Kings untouched from their western playing card counterparts.
 
+## Murai Bros. Tobacco Cards - Hana-Trump sets
+Some sets of collectible tobacco cards from packs of **Murai Bros. Cigarettes** contain designs of hanafuda, with a western playing card drawn on one of the corners of each card.
+
+Karuta manufacturer **Tsuchida Tenguya** took one of such sets and created an actual hanafuda deck (complete with backpasting) using the design of that set.
+
+## Richert Karuta's "Shiki" - A western deck disguised as Hanafuda
+In 2022, Marcus Richert announced a brand new deck called "Shiki" on Kickstarter.
+
+This deck was described as a western playing card deck in disguise as a hanafuda deck.
+
+The construction of each card is that of Japanese karuta- made of thick cards wrapped together with a backpaper. However, the structure of the deck is identical to a 52-card western deck:
+- The cards have four suits represented by four types of flowers.
+- Each suit has 10 numbers and 3 court cards.
+- Jokers are also included.
+
+In addition to the various Japanese-inspired illustrations, the iconography of brights, animals, and ribbons of hanafuda are incorporated into the deck, which makes it possible to use the deck as a hanafuda deck if you know the month sequence.
+
+The deck originally came in two editions of two patterns each. The standard edition has a plain, one-colored back, and is made in-house at Richert Karuta in northern Osaka. The limited edition has an elaborate "sayagata" pattern on the back, and has the faces of seven "bright" cards stamped with silver ink. This edition is made at [Oishi Tengudo](/en/hanafuda/manufacturers/oishi-tengudo). An additional third edition was made- the standard edition silver- which is the standard edition with the plain backs but the seven bright cards are stamped with silver ink. All editions are traditionally hand-made.
+
+The two patterns- Poets and Warriors- differ slightly in each other except for the pip cards. The Poets pattern have courts represented by Heian-period poets, while the Warriors pattern have Heian-period warriors instead.
+
+
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97
 - https://japanplayingcardmuseum.com/1-1-3-1-dutchcards-udagawa-youan/
@@ -78,3 +100,5 @@ However, since a hanafuda deck only contains 48 cards, it is up to the manufactu
 - https://history.state.gov/milestones/1830-1860/opening-to-japan#:~:text=On%20July%208%2C%201853%2C%20American,Japan%20and%20the%20western%20world.
 - https://japanplayingcardmuseum.com/114-1-2-westerncard-domesticproducts-exportation/
 - https://www.watada.co.jp/company/outline/
+- https://www.playingcardmakerscollection.co.uk/Cardhtml/W0329.html
+- https://www.kickstarter.com/projects/karuta/shiki-japanese-style-playing-cards/description
