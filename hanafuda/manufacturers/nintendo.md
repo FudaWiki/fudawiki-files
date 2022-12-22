@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-22T01:39:25.825Z
+date: 2022-12-22T07:09:19.032Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -122,6 +122,8 @@ And finally, Nintendo released some hanafuda decks with gold and silver backs. S
 In addition to the above, Nintendo has also manufactured various Character Hanafuda decks, which are usually available in limited quantities only.
 | Brand | Date of Release | Notes |
 | --- | --- | --- |
+| Beichō Family warōtei | ca. 1974-1976 | Asahi Broadcasting Corp. |
+| Carta de Flor | 2022 | Brownies Shop |
 | Dragon Quest Hanafuda | 2017 | Square Enix |
 | Jojo's Bizarre Hanafuda: Mori cards | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
@@ -131,7 +133,6 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Mario Pikachu Hanafuda | - | - |
 | Nichiro Hanafuda | - | - |
 | Snoopy Comic Hanafuda | - | Premium Bandai |
-
 
 # Other Promotional Hanafuda Decks
 | Brand | Date of Release | Notes |
