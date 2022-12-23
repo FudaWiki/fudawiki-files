@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-23T04:22:14.163Z
+date: 2022-12-23T04:28:26.362Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -35,46 +35,42 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 - **Kintokibana** - a unique pattern from Shikoku island, with some silver overprints. Most Chaff, Ribbons, and some other cards explicitly mention the month number on the cards. The Chaff of Pine and Susuki Grass have a very abridged version of the Echigo-bana poems. Includes an Onifuda which depicts Kintaro.
 
 
-# Character/Promotional Hanafuda
-
+# Character Hanafuda
 - **Attack on Titan Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
-- **Otōri danshi: Jōka Hanafuda**
-- **The Great Yokai War: Guardians Hanafuda**
-- **Spirited Away Hanafuda**
-- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card.
 - **Kyoto Hanafuda** (designed by Nakano Design Laboratory, Kyoto Institute of Technology) - An original hanafuda deck design with Kyoto's specialties and famous places.
-- **Starbucks Reserve Roastery Hanafuda** - Sold only at Starbucks Reserve Roastery in Tokyo, Japan.
+- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card.
+- **Otōri danshi: Jōka Hanafuda**
+- **Spirited Away Hanafuda**
+- **The Great Yokai War: Guardians Hanafuda**
+
+# Promotional Hanafuda
 - **New Era 9THIRTY Hanafuda** - Included when you buy a special Ōishi Tengudō design New Era 9THIRTY Cap.
+- **Starbucks Reserve Roastery Hanafuda** - Sold only at Starbucks Reserve Roastery in Tokyo, Japan.
 
 # Discontinued Brands
-- **Wakatengu** (Young Tengu)
-- **Santengu** (Three Tengu)
-- **Narikin** (Newly Rich) - Trademarked in 1921.
-- **Fukusuke** - Trademarked in 1917, discontinued in 1979.
 - **Atariya** (Winning Arrow)
-- **Ōeyama** (Mt. Oe)
-- **Takarabune** (Treasure Ship)
-- **Goshoguruma** (Ox-drawn Coach)
-- **Raifuku** - Trademarked in 1921.
-- **Hanazukushi** (Assorted Flowers)
 - **Bugaku** (Courtly Dance)
-- **Sakura**
-- **Ippatsu** (One Shot)
-- **Umejirushi** (Plum Brand) - Trademarked in 1915.
-- **Sanfuku** (Three Fuku Masks) - Trademarked in 1915.
-- **Kokkou** (National Glory) - Trademarked in 1915.
+- **Fukusuke** - Trademarked in 1917, discontinued in 1979.
+- **Goshoguruma** (Ox-drawn Coach)
+- **Hanazukushi** (Assorted Flowers)
+- **Ha-ō** (Supreme Ruler) - Trademarked in 1921.
 - **Hashidatejirushi** (Hashidate Brand) - Trademarked in 1921.
+- **Ippatsu** (One Shot)
+- **Kokkou** (National Glory) - Trademarked in 1915.
 - **Matsushimajirushi** (Matsushima Brand) - Trademarked in 1921.
 - (Miyashima brand) - Trademarked in 1921.
-- **Yuranosuke** - Trademarked in 1921.
-- **Haō** (Supreme Ruler) - Trademarked in 1921.
-- **Shoryū** (Rising Dragon) - Trademarked in 1921.
+- **Narikin** (Newly Rich) - Trademarked in 1921.
+- **Ōeyama** (Mt. Oe)
+- **Raifuku** - Trademarked in 1921.
+- **Sakura**
+- **Sanfuku** (Three Fuku Masks) - Trademarked in 1915.
+- **Santengu** (Three Tengu)
 - **Shōgun** - Trademarked in 1921.
-
-
-
-
-
+- **Shoryū** (Rising Dragon) - Trademarked in 1921.
+- **Takarabune** (Treasure Ship)
+- **Umejirushi** (Plum Brand) - Trademarked in 1915.
+- **Wakatengu** (Young Tengu)
+- **Yuranosuke** - Trademarked in 1921.
 
 # Bibliography
 - https://daihanrei.com/l/%E6%9D%B1%E4%BA%AC%E9%AB%98%E7%AD%89%E8%A3%81%E5%88%A4%E6%89%80%20%E6%98%AD%E5%92%8C%EF%BC%93%EF%BC%91%E5%B9%B4%EF%BC%88%E8%A1%8C%E3%83%8A%EF%BC%89%EF%BC%93%EF%BC%91%E5%8F%B7%20%E5%88%A4%E6%B1%BA
