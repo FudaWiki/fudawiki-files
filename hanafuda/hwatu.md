@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-22T00:43:07.399Z
+date: 2022-12-23T05:26:58.230Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -16,7 +16,9 @@ dateCreated: 2022-04-01T17:56:12.690Z
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
 # Material
-Originally, Hwatu are made of paper, just like Japanese hanafuda, but sometime around the 1970's, plastic hwatu first appeared, and most hwatu were made of plastic ever since.
+Originally, Hwatu are made of paper, just like Japanese hanafuda, but it has since been replaced with plastic Hwatu.
+
+It is said that Hwatu made of plastic was first introduced during the 1950's, and enjoyed great popularity over paper-made Hwatu that by the 1970's, all Hwatu being manufactured are made of plastic.
 
 Typically, modern Hwatu are made of 3 layers of plastic laminated together and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
@@ -81,3 +83,8 @@ Aside from the basic 48 cards, there are usually additional Joker cards included
 |[Seotda](/en/hanafuda/games/seotda)|2-20|Showdown|Kabu-kei|Korea|
 |[Wolnam-ppong](/en/hanafuda/games/wolnamppong)|2-16|Showdown|unconventional|Korea|
 |[Yukbaek](/en/hanafuda/games/roppyakken#korean-variants)|2-3|Fishing|Mekuri-kei|Japan|
+
+# Bibliography
+- https://www.segye.com/newsView/20190911508729
+- https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.khan.co.kr/local/Gyeonggnam/article/202211031005001&ved=2ahUKEwiaguWg7Y78AhX_plYBHZhDD-44ChAWegQIBhAB&usg=AOvVaw2jBNLyiMF0lSA5OKHg0xnh
+- https://japanplayingcardmuseum.com/005-4-hanacarta-hwatu-postworldwar/
