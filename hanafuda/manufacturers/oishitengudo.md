@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-22T01:20:00.987Z
+date: 2022-12-23T04:22:14.163Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -19,10 +19,14 @@ The meaning of the company name comes from the family name of the founder Kurano
 Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/uta-garuta/ogura-hyakunin-isshu) Karuta, Ōishi Tengudō still continues to manufacture [Hanafuda](/en/hanafuda), [Kabufuda](/en/kabufuda), and other types of Karuta, today.
 
 # Current Brands of Hanafuda
-- **Kintengu** (Golden Tengu) - Their high-end brand of Hanafuda decks. Has a papery finish on both front and back when compared to products made by other current Hanafuda manufacturers. The cards are intentionally curved as a result of employing manual processes in manufacturing.
-- **Gintengu** (Silver Tengu) - Their 2nd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Kintengu.
-- **Lincoln** - Their 3rd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Gintengu.
-- **Shiki** (Four Seasons) - Has a completely different quality to the other three brands. The front and back are printed glossy paper, and no backpaper is applied, so the edges of the card are exposed.
+**NOTE That the quality description on these brands reflect those being sold today. The quality of decks made in prior decades would be vastly different.**
+
+|Name|Quality|Trivia|
+|:---:|:---:|:---:|
+|**Kintengu** (Golden Tengu)|Their high-end brand of Hanafuda decks. Has a papery finish on both front and back when compared to products made by other current Hanafuda manufacturers. The cards are intentionally curved as a result of employing manual processes in manufacturing.|Trademarked in 1921.|
+|**Gintengu** (Silver Tengu)|Their 2nd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Kintengu.|Trademarked in 1921.|
+|**Lincoln**|Their 3rd-grade brand of Hanafuda decks. Same quality as Kintengu but the centering of the backpaper is less accurate than Gintengu.|Its original trademark name was **Abraham Lincoln Daitōryō** (President Abraham Lincoln), which was applied in March 17, 1940. [Nintendo](/en/hanafuda/manufacturers/nintendo) filed a case against Ōishi Tengudō for using the word "Daitōryō" in the trademark, which had a trial in 1954.|
+|**Shiki** (Four Seasons)|Has a completely different quality to the other three brands. The front and back are printed glossy paper, and no backpaper is applied, so the edges of the card are exposed.|-|
 
 # Currently Sold Special Hanafuda
 - **Prime Minister's Hanakaruta** - this is a replica of a hanafuda deck that was commissioned by former Japanese Prime Minister Ito Hirobumi. The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns seemingly inspired by Echigo-bana. Waka poems are also included.
@@ -43,3 +47,35 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 - **New Era 9THIRTY Hanafuda** - Included when you buy a special Ōishi Tengudō design New Era 9THIRTY Cap.
 
 # Discontinued Brands
+- **Wakatengu** (Young Tengu)
+- **Santengu** (Three Tengu)
+- **Narikin** (Newly Rich) - Trademarked in 1921.
+- **Fukusuke** - Trademarked in 1917, discontinued in 1979.
+- **Atariya** (Winning Arrow)
+- **Ōeyama** (Mt. Oe)
+- **Takarabune** (Treasure Ship)
+- **Goshoguruma** (Ox-drawn Coach)
+- **Raifuku** - Trademarked in 1921.
+- **Hanazukushi** (Assorted Flowers)
+- **Bugaku** (Courtly Dance)
+- **Sakura**
+- **Ippatsu** (One Shot)
+- **Umejirushi** (Plum Brand) - Trademarked in 1915.
+- **Sanfuku** (Three Fuku Masks) - Trademarked in 1915.
+- **Kokkou** (National Glory) - Trademarked in 1915.
+- **Hashidatejirushi** (Hashidate Brand) - Trademarked in 1921.
+- **Matsushimajirushi** (Matsushima Brand) - Trademarked in 1921.
+- (Miyashima brand) - Trademarked in 1921.
+- **Yuranosuke** - Trademarked in 1921.
+- **Haō** (Supreme Ruler) - Trademarked in 1921.
+- **Shoryū** (Rising Dragon) - Trademarked in 1921.
+- **Shōgun** - Trademarked in 1921.
+
+
+
+
+
+
+# Bibliography
+- https://daihanrei.com/l/%E6%9D%B1%E4%BA%AC%E9%AB%98%E7%AD%89%E8%A3%81%E5%88%A4%E6%89%80%20%E6%98%AD%E5%92%8C%EF%BC%93%EF%BC%91%E5%B9%B4%EF%BC%88%E8%A1%8C%E3%83%8A%EF%BC%89%EF%BC%93%EF%BC%91%E5%8F%B7%20%E5%88%A4%E6%B1%BA
+- https://games.porg.es/articles/cards/japan/hanafuda/traditional-manufacturers/
