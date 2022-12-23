@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-23T05:26:58.230Z
+date: 2022-12-23T05:57:35.797Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -27,12 +27,20 @@ Typically, modern Hwatu are made of 3 layers of plastic laminated together and c
 
 
 # Illustration designs
+A typical Hwatu deck contains designs that evolved from the Japanese Hachi-hachi-bana pattern, specifically that of [Nihon Karuta](/en/hanafuda/manufacturers/nihonkaruta), a Hanafuda manufacturer who frequently exported cards to Korea in the past. 
 
-# Gwang [光 or 광]
+The most telling signs are the colorization of the Geese card, where one of the geese is colored red, while the others are orange (or yellow). This element existed in most Nihon Karuta Hachi-hachi-bana decks (and some [Oishi Tengudo](/en/hanafuda/manufacturers/oishitengudo) decks as well), at a time when most hanafuda manufacturers colored the geese all orange (with red heads).
+
+Next, the practice of putting a manufacturer's trademark on the Full Moon card evolved from Nihon Karuta's practice of putting an image of a rabbit pounding mochi on the Full Moon card.
+
+
+## Gwang [光 or 광]
 
 # Deck Composition
+Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
 
 ## Suits and Month arrangement
+
 **NOTE**: All Hwatu games use the [Korean month sequence](/en/hanafuda/suits#arrangement-of-suits) (i.e. the Willow and Paulownia suits are reversed in order from the standard month sequence).
 |Number/Month|Icon|English Name|Korean name|
 |:---|:---:|:---:|:---|
@@ -51,6 +59,9 @@ Typically, modern Hwatu are made of 3 layers of plastic laminated together and c
 
 ## Jokers
 Aside from the basic 48 cards, there are usually additional Joker cards included in the deck (around 6 or less). They contain different prints and have different names and rules for them, depending on the manufacturer.
+
+These cards are optional, and are typically used sparingly in fishing games such as Go-Stop.
+
 ### Examples of Joker Names and Rules
 - 투피 (two-pi): treated as 2 chaffs
 - 쓰리피 (three-pi): treated as 3 chaffs
