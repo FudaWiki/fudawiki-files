@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-23T05:57:35.797Z
+date: 2022-12-23T06:38:48.049Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -15,26 +15,37 @@ dateCreated: 2022-04-01T17:56:12.690Z
 
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
+# History of Hwatu
+## First introduction to the Korean Peninsula
+In the late 19th century, Hanafuda from Japan is believed to have been introduced and spread to Joseon by merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there.
+
+## 
+
 # Material
 Originally, Hwatu are made of paper, just like Japanese hanafuda, but it has since been replaced with plastic Hwatu.
 
 It is said that Hwatu made of plastic was first introduced during the 1950's, and enjoyed great popularity over paper-made Hwatu that by the 1970's, all Hwatu being manufactured are made of plastic.
 
-Typically, modern Hwatu are made of 3 layers of plastic laminated together and cut into card-size pieces.
+Typically, modern Hwatu are made of **3 layers of plastic laminated together** and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
 - The core layer makes up the majority of the bulk of each Hwatu card. The plastic material of this layer is usually mixed with stone powder, which gives the cards weight.
 - The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While people say the texture prevents the cards from slipping, its actual effect is to prevent cards from sticking to each other.
 
 
 # Illustration designs
-A typical Hwatu deck contains designs that evolved from the Japanese Hachi-hachi-bana pattern, specifically that of [Nihon Karuta](/en/hanafuda/manufacturers/nihonkaruta), a Hanafuda manufacturer who frequently exported cards to Korea in the past. 
+A typical modern Hwatu deck contains designs that evolved from the Japanese Hachi-hachi-bana pattern, specifically that of [Nihon Karuta](/en/hanafuda/manufacturers/nihonkaruta), a Hanafuda manufacturer who frequently exported cards to Korea in the past. 
 
+## The Red Goose
 The most telling signs are the colorization of the Geese card, where one of the geese is colored red, while the others are orange (or yellow). This element existed in most Nihon Karuta Hachi-hachi-bana decks (and some [Oishi Tengudo](/en/hanafuda/manufacturers/oishitengudo) decks as well), at a time when most hanafuda manufacturers colored the geese all orange (with red heads).
 
+## Trademark on the Full Moon
 Next, the practice of putting a manufacturer's trademark on the Full Moon card evolved from Nihon Karuta's practice of putting an image of a rabbit pounding mochi on the Full Moon card.
 
 
 ## Gwang [光 or 광]
+Finally, the practice of marking each bright card with a circle containing the character '光' (*hikari*) (which makes it easier to distinguish Bright cards from Animal cards) came from special Hachi-hachi-bana patterns from Japan which also had these marks. Many hanafuda manufacturers offered such types of hanafuda at the time, or some variation of it ([Nintendo](/en/hanafuda/manufacturers/nintendo)'s deck featured a circled '福' (*fuku*) instead of '光'). 
+
+Both Nihon Karuta and Oishi Tengudo claim to have invented the use of circled '光' to mark bright cards.
 
 # Deck Composition
 Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
@@ -96,6 +107,7 @@ These cards are optional, and are typically used sparingly in fishing games such
 |[Yukbaek](/en/hanafuda/games/roppyakken#korean-variants)|2-3|Fishing|Mekuri-kei|Japan|
 
 # Bibliography
+- https://ko.wikipedia.org/wiki/%ED%99%94%ED%88%AC
 - https://www.segye.com/newsView/20190911508729
 - https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.khan.co.kr/local/Gyeonggnam/article/202211031005001&ved=2ahUKEwiaguWg7Y78AhX_plYBHZhDD-44ChAWegQIBhAB&usg=AOvVaw2jBNLyiMF0lSA5OKHg0xnh
 - https://japanplayingcardmuseum.com/005-4-hanacarta-hwatu-postworldwar/
