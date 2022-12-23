@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-23T06:38:48.049Z
+date: 2022-12-23T07:34:35.120Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -16,10 +16,13 @@ dateCreated: 2022-04-01T17:56:12.690Z
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
 # History of Hwatu
-## First introduction to the Korean Peninsula
 In the late 19th century, Hanafuda from Japan is believed to have been introduced and spread to Joseon by merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there.
 
-## 
+By the time Japan colonized Korea (1910-1945), Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that of Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
+
+After the independence of Korea, a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- in the lifestyle of Korean people. Hwatu definitely belongs in this category. Attempts to change the design of Hwatu were proposed during the 1950's (there is an example in a 1956 newspaper advertisement).
+
+**UNDER CONSTRUCTION**
 
 # Material
 Originally, Hwatu are made of paper, just like Japanese hanafuda, but it has since been replaced with plastic Hwatu.
@@ -108,6 +111,8 @@ These cards are optional, and are typically used sparingly in fishing games such
 
 # Bibliography
 - https://ko.wikipedia.org/wiki/%ED%99%94%ED%88%AC
+- https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/
+- https://newslibrary.naver.com/viewer/index.naver?articleId=1956102900329203039&editNo=1&printCount=1&publishDate=1956-10-29&officeId=00032&pageNo=3&printNo=3413&publishType=00020
 - https://www.segye.com/newsView/20190911508729
 - https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.khan.co.kr/local/Gyeonggnam/article/202211031005001&ved=2ahUKEwiaguWg7Y78AhX_plYBHZhDD-44ChAWegQIBhAB&usg=AOvVaw2jBNLyiMF0lSA5OKHg0xnh
 - https://japanplayingcardmuseum.com/005-4-hanacarta-hwatu-postworldwar/
