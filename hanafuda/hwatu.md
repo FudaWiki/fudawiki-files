@@ -2,32 +2,37 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-23T07:34:35.120Z
+date: 2022-12-26T15:22:19.104Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
 ---
-
-> This article is **INCOMPLETE**. You can help by expanding it.
-{.is-warning}
 
 **Hwatu** (화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
 
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
 # History of Hwatu
-In the late 19th century, Hanafuda from Japan is believed to have been introduced and spread to Joseon by merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there.
+In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Joseon to Japanese Trade.
 
-By the time Japan colonized Korea (1910-1945), Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that of Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
+It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon was being played there, but as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
 
-After the independence of Korea, a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- in the lifestyle of Korean people. Hwatu definitely belongs in this category. Attempts to change the design of Hwatu were proposed during the 1950's (there is an example in a 1956 newspaper advertisement).
+Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that of Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
-**UNDER CONSTRUCTION**
+After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category. 
+
+In South Korea, attempts to change the design of Hwatu into a fully Korean design were proposed during the 1950's (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
+
+Evidence of existence of Hwatu in North Korea is extremely rare.
+
+The year of change of material of Hwatu from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by World War II, South Korea only had a petrochemical company capable of producing the main needs of the country, and that the change in material of Hwatu only happened sometime in the 1970's during which South Korea experienced a period of rapid economic growth. The plastic Hwatu proved to be more practical than paper Hwatu, and the popularity of the cards in South Korea rose again. 
+
+Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling. However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
+
+It is also interesting to note that there were times when Korean-made Hwatu was exported to Japan, and also times when Japanese companies outsourced their hanafuda to Korean manufacturers. In the 2010's, Daiso, a budget store in Japan, sold plastic hanafuda. While these hanafuda contained designs resembling the Japanese hanafuda rather than Korean Hwatu, they were made in South Korea.
 
 # Material
-Originally, Hwatu are made of paper, just like Japanese hanafuda, but it has since been replaced with plastic Hwatu.
-
-It is said that Hwatu made of plastic was first introduced during the 1950's, and enjoyed great popularity over paper-made Hwatu that by the 1970's, all Hwatu being manufactured are made of plastic.
+Originally, Hwatu are made of paper, just like Japanese hanafuda, but the material has since been replaced with plastic.
 
 Typically, modern Hwatu are made of **3 layers of plastic laminated together** and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
@@ -55,7 +60,10 @@ Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 sui
 
 ## Suits and Month arrangement
 
-**NOTE**: All Hwatu games use the [Korean month sequence](/en/hanafuda/suits#arrangement-of-suits) (i.e. the Willow and Paulownia suits are reversed in order from the standard month sequence).
+All Hwatu games use the [**Korean month sequence**](/en/hanafuda/suits#arrangement-of-suits); the Willow and Paulownia suits are reversed in order from the Japanese standard month sequence.
+
+It is not known how the **Wisteria** and **Iris** suits were identified by the Koreans as **Black Bush Clover** and **Orchid** respectively. Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
+
 |Number/Month|Icon|English Name|Korean name|
 |:---|:---:|:---:|:---|
 |1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|**Songhak** [송학, 'pine crane']|
@@ -77,22 +85,25 @@ Aside from the basic 48 cards, there are usually additional Joker cards included
 These cards are optional, and are typically used sparingly in fishing games such as Go-Stop.
 
 ### Examples of Joker Names and Rules
-- 투피 (two-pi): treated as 2 chaffs
-- 쓰리피 (three-pi): treated as 3 chaffs
-- 쎄븐피 (seven-pi): gains 7 points from each player, then removes this card from the round and draw another card (similar to a variant which a player who captures Boar - July Animal - steals money from other players regardless of the round result)
-- 플러스피 (plus-pi): * Actually there are 2 jokers with the same name on the web. One with x2 doubles the score, and one without x2 is treated as 1 chaff
-- 보스피 (boss-pi): steals 1 chaff from each player
-- 빠꾸피 (bbakku-pi) [lit. back chaff]: gives 1 chaff to each player (yes, this one is a joker with penalty)
-- 비쌍피 (bissang-pi) [lit. rain double chaff]: an additional Lightning Storm card. When this card is used, remove regular Lightning Storm card or Willow Ribbon card (there is also a Paulownia double chaff version)
-- 보너스패 (bonus-pae): an alternative name of jokers in Hwatu
-- 패보여주기 (paeboyeojugi) [lit. show your hand]: show your hand (this one is also a joker with penalty. 'for 3 seconds' is written above the center)
-- 삼원조우카 (samwon-joker) [lit. joker for three Won]: can be used to complete a yaku in place of the missing card when you have exactly 2 cards of a three-card yaku
-- 면광패 (myeongwang-pae) [lit. a card avoids bright penalty]: avoids x2 penalty when you don't have a Bright and an opponent wins with a Bright yaku
-- 축하패 (chookha-pae) [lit. a card of celebration]: it depends. One example mentions 'x2 when you win after capturing this card'
-- 육광 (yukgwang) [lit. sixth gwang]: probably treated as an additional Bright
-- 따블패 (double-pae): x2 when you win after capturing this card
-- 유턴피 (U-turn-pi): capturing player gives 1 chaff to each player. If another player becomes able to declare a Go or Stop due to this card, the player must wait 1 turn before declaring whether to Go or stop.
 
+**Note:** Typically Jokers without any names on them are counted as 1 chaff.
+
+|English Name|Korean Name|Description|
+|:---:|:---:|:---:|
+|Two Chaff|투피 (tu pi)|Counts as 2 chaff.|
+|Three Chaff|쓰리피 (sseuri pi)|Counts as 3 chaff.|
+|Seven Chaff|쎄븐피 (ssaebeun pi)|Gain 7 points from each player, then remove the card from the round and draw another card.|
+|Plus Chaff|플러스피 (peulleoseu pi)|There are two jokers with this name on the web. One example doubles the score, while the other is counted as 1 chaff and doesn't double the score.|
+|Boss Chaff|보스피 (boseu pi)|Take 1 chaff from each of the other players.|
+|Back Chaff|빠꾸피 (bbakku pi)|Give 1 chaff to each of the other players. (Penalty version of Boss chaff)|
+|Rain Double Chaff|비쌍피 (bissang pi)|Additional Lightning card (usually with manufacturer's mark on it); When this card is used, remove regular Lightning card or Willow Ribbon card. A Paulownia Double Chaff card also exists in some decks.|
+|Show Your Hand|패보여주기 (paeboyeojugi)|Penalty card; you need to expose your hand to other players (usually for 3 seconds).|
+|Three-Won Joker|삼원조우카 (samwon jouka)|Can be used to complete a 3-card yaku if you have only captured 2 of the cards.|
+|Bright Penalty Avoidance Card|면광패 (myeongwang pae)|Avoids x2 penalty if an opponent wins with a Bright yaku and you don't have a Bright card.|
+|Celebration Card|축하패 (chukha pae)|Effects may vary. One example mentions 'x2 when you win after capturing this card'|
+|Sixth Bright|육광 (yukgwang)|Probably treated as an additional Bright card.|
+|Double Card|따블패 (ddobeul pae)|x2 when you win after capturing this card.|
+|U-turn Chaff|유턴피 (Yuteon pi)|Give 1 chaff to each of the other players. If an opponent becomes able to declare a Go or Stop due to this card, they must wait 1 turn before declaring whether to Go or stop.|
 
 
 # List of Korean Hwatu Games
