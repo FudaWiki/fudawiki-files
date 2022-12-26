@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-26T15:22:19.104Z
+date: 2022-12-26T15:26:37.289Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -22,8 +22,6 @@ Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely 
 After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category. 
 
 In South Korea, attempts to change the design of Hwatu into a fully Korean design were proposed during the 1950's (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
-
-Evidence of existence of Hwatu in North Korea is extremely rare.
 
 The year of change of material of Hwatu from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by World War II, South Korea only had a petrochemical company capable of producing the main needs of the country, and that the change in material of Hwatu only happened sometime in the 1970's during which South Korea experienced a period of rapid economic growth. The plastic Hwatu proved to be more practical than paper Hwatu, and the popularity of the cards in South Korea rose again. 
 
