@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T06:40:05.193Z
+date: 2022-12-27T07:14:47.866Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -17,7 +17,7 @@ The hwatu deck structure is generally very similar to its Japanese counterpart, 
 # History of Hwatu
 In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Joseon to Japanese Trade.
 
-It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon was being played there, but as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
+It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon was being played in Korea, and so the Koreans refered to Hanafuda as Hwatu, a combination of "Hwa", the Korean word for flower, and "Tu" ('battle') from Tujeon. However, as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
 
 Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
@@ -104,15 +104,21 @@ Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 sui
 
 All Hwatu games use the [**Korean month sequence**](/en/hanafuda/suits#arrangement-of-suits); the Willow and Paulownia suits are reversed in order from the Japanese standard month sequence.
 
-It is not known how the **Wisteria** and **Iris** suits were identified by the Koreans as **Black Bush Clover** and **Orchid** respectively. Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
+It is not known how and when the **Wisteria** and **Iris** suits started to be identified by the Koreans as **Black Bush Clover** and **Orchid** respectively, but folk songs based on Hwatu during the period of Japanese rule mentions these flowers, so it must have happened sometime during or before the Japanese colonial period. 
+
+Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
+
+In addition to this, because the black color of the grass fields in each Susuki Grass card obscured the
+
+![hwatu_april_tane.png](/suryongfiles/hwatu_april_tane.png =80x)![hwatu_april_tanzaku.png](/suryongfiles/hwatu_april_tanzaku.png =80x)![hwatu_april_kasu.png](/suryongfiles/hwatu_april_kasu_1.png =80x)![hwatu_april_kasu_2.png](/suryongfiles/hwatu_april_kasu_2.png =80x)
 
 |Number/Month|Icon|English Name|Korean name|
 |:---|:---:|:---:|:---|
 |1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|**Songhak** [송학, 'pine crane']|
 |2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|**Maejo** [매조, 'plum bird']|
 |3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|**Beojkkot** [벚꽃, 'cherry blossom']|
-|4. April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|**Heukssari** [흑싸리, 'black bush clover']|
-|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|**Nancho** [난초, 'orchid']|
+|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|**Heukssari** [흑싸리, '**black bush clover**']|
+|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|**Nancho** [난초, '**orchid**']|
 |6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|**Moran** [모란, 'peony']|
 |7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|**Hongssari** [홍싸리, 'red bush clover']|
 |8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|**Gongsan** [공산, 'sky mountain']|
