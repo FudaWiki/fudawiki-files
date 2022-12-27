@@ -2,11 +2,13 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-26T15:26:37.289Z
+date: 2022-12-27T01:27:43.104Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
 ---
+
+![hwatu_january_hikari.png](/suryongfiles/hwatu_january_hikari.png =100x)![hwatu_february_tane.png](/suryongfiles/hwatu_february_tane.png =100x)![hwatu_march_hikari.png](/suryongfiles/hwatu_march_hikari.png =100x)
 
 **Hwatu** (화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
 
