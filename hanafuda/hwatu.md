@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:44:44.143Z
+date: 2022-12-27T07:45:15.900Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -107,8 +107,6 @@ All *Hwatu* games use the [**Korean month sequence**](/en/hanafuda/suits#arrange
 It is not known how and when the **Wisteria** and **Iris** suits started to be identified by the Koreans as **Black Bush Clover** and **Orchid** respectively, but folk songs based on *Hwatu* during the period of Japanese rule mention Black Bush Clover and Orchid, so it must have happened sometime during or before the Japanese colonial period. 
 
 Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
-
-In addition to this, because the black color of the grass fields in each Susuki Grass card obscured the
 
 ![hwatu_april_tane.png](/suryongfiles/hwatu_april_tane.png =80x)![hwatu_april_tanzaku.png](/suryongfiles/hwatu_april_tanzaku.png =80x)![hwatu_april_kasu.png](/suryongfiles/hwatu_april_kasu_1.png =80x)![hwatu_april_kasu_2.png](/suryongfiles/hwatu_april_kasu_2.png =80x)
 
