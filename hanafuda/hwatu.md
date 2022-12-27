@@ -2,13 +2,13 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T04:09:14.589Z
+date: 2022-12-27T06:40:05.193Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
 ---
 
-![hwatu_january_hikari.png](/suryongfiles/hwatu_january_hikari.png =100x)![hwatu_february_tane.png](/suryongfiles/hwatu_february_tane.png =100x)![hwatu_march_hikari.png](/suryongfiles/hwatu_march_hikari.png =100x)
+![hwatu_january_hikari.png](/suryongfiles/hwatu_january_hikari.png =80x)![hwatu_february_tane.png](/suryongfiles/hwatu_february_tane.png =80x)![hwatu_march_hikari.png](/suryongfiles/hwatu_march_hikari.png =80x)
 
 **Hwatu** (Hanja: 花鬪, Hangul: 화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
 
@@ -44,18 +44,31 @@ Typically, modern Hwatu are made of **3 layers of plastic laminated together** a
 A typical modern Hwatu deck contains designs that evolved from the Japanese Hachi-hachi-bana pattern, specifically that of [Nihon Karuta](/en/hanafuda/manufacturers/nihonkaruta), a Hanafuda manufacturer who frequently exported cards to Korea in the past. 
 
 ## The Red Goose
+
+![hwatu_august_tane.png](/suryongfiles/hwatu_august_tane.png =80x)
+
 The most telling signs are the colorization of the Geese card, where one of the geese is colored red, while the others are orange (or yellow). This element existed in most Nihon Karuta Hachi-hachi-bana decks (and some [Oishi Tengudo](/en/hanafuda/manufacturers/oishitengudo) decks as well), at a time when most hanafuda manufacturers colored the geese all orange (with red heads).
 
 ## Trademark on the Full Moon
+
+![hwatu_august_hikari.png](/suryongfiles/hwatu_august_hikari.png =80x)
+
 Next, the practice of putting a manufacturer's trademark on the Full Moon card evolved from Nihon Karuta's practice of putting an image of a rabbit pounding mochi on the Full Moon card.
 
 
 ## Gwang [光 or 광]
+
+![hwatu_january_hikari.png](/suryongfiles/hwatu_january_hikari.png =80x)![hwatu_march_hikari.png](/suryongfiles/hwatu_march_hikari.png =80x)![hwatu_august_hikari.png](/suryongfiles/hwatu_august_hikari.png =80x)![hwatu_november_hikari.png](/suryongfiles/hwatu_november_hikari.png =80x)![hwatu_december_hikari.png](/suryongfiles/hwatu_december_hikari.png =80x)
+
+
 Finally, the practice of marking each bright card with a circle containing the character '光' (*hikari*) (which makes it easier to distinguish Bright cards from Animal cards) came from special Hachi-hachi-bana patterns from Japan which also had these marks. Many hanafuda manufacturers offered such types of hanafuda at the time, or some variation of it ([Nintendo](/en/hanafuda/manufacturers/nintendo)'s deck featured a circled '福' (*fuku*) instead of '光'). 
 
 Both Nihon Karuta and Oishi Tengudo claim to have invented the use of circled '光' to mark bright cards.
 
 ## Red Paulownia Chaff
+
+![hwatu_november_kasu_2.png](/suryongfiles/hwatu_november_kasu_2.png =80x)
+
 Typically in Hwatu, the colored Paulownia Chaff is red. 
 
 In Japanese hanafuda, the typical color is yellow, but there do exist decks that have a red Paulownia Chaff. The Nihon Karuta deck in particular has a pink Paulownia Chaff. 
@@ -64,18 +77,25 @@ In Japanese hanafuda, the typical color is yellow, but there do exist decks that
 While attempts to popularize a radical change in design of Hwatu during the 1950's were unsuccessful, some changes actually made its way to the design of Hwatu as it is known today.
 
 ### Korean writings on the Ribbons
-All poetry ribbons and blue ribbons of a Hwatu deck have writing on them, which indicate their color (and the name of the Yaku that they form). Other red ribbons have no writing on them.
+All poetry ribbons and blue ribbons of a Hwatu deck have Korean writing on them, which indicate their color (and the name of the Yaku that they form). Other red ribbons have no writing on them.
 
+![hwatu_january_tanzaku.png](/suryongfiles/hwatu_january_tanzaku.png =80x)![hwatu_february_tanzaku.png](/suryongfiles/hwatu_february_tanzaku.png =80x)![hwatu_march_tanzaku.png](/suryongfiles/hwatu_march_tanzaku.png =80x)
 The **poetry ribbons** have **"Hongdan"** [홍단, 'red ribbons'] written on them.
+
+![hwatu_june_tanzaku.png](/suryongfiles/hwatu_june_tanzaku.png =80x)![hwatu_september_tanzaku.png](/suryongfiles/hwatu_september_tanzaku.png =80x)![hwatu_october_tanzaku.png](/suryongfiles/hwatu_october_tanzaku.png =80x)
 The **blue ribbons** have **"Cheongdan"** [청단, 'blue ribbons'] written on them.
 
 This differs from Japanese hanafuda decks, which have the writing "aka-yoroshi" on the Pine and Plum Blossom Ribbons, and "Miyoshino" on the Cherry Blossom Ribbon, both written in Japanese hiragana. Japanese hanafuda do not have any writing on the blue ribbons.
 
 ### Color of Blue Ribbons
+
+![hwatu_june_tanzaku.png](/suryongfiles/hwatu_june_tanzaku.png =80x)![hwatu_september_tanzaku.png](/suryongfiles/hwatu_september_tanzaku.png =80x)![hwatu_october_tanzaku.png](/suryongfiles/hwatu_october_tanzaku.png =80x)
+
 The **blue ribbons** of a Hwatu deck are **actually colored blue**, unlike those of Japanese hanafuda, which are typically either purple or black in color.
 
 ### The Rainman
-The image of Ono no Michikaze on the Rainman card had its headdress replaced, to erase any association with the Japanese scholar.
+![hwatu_december_hikari.png](/suryongfiles/hwatu_december_hikari.png =80x)
+The image of Ono no Michikaze on the Rainman card had his Kanmuri (a Heian-period Japanese cap) replaced with a **Beonggeoji** (a Korean round hat), to erase any association with the Japanese scholar.
 
 # Deck Composition
 Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
