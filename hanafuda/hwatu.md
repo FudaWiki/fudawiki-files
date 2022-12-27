@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T01:39:35.057Z
+date: 2022-12-27T04:09:14.589Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -19,15 +19,15 @@ In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon
 
 It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon was being played there, but as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
 
-Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that of Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
+Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
-After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category. 
+After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category, and it fell out of use for a brief period of time before it gradually started being played again.
 
-In South Korea, attempts to change the design of Hwatu into a fully Korean design were proposed during the 1950's (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
+In South Korea, the government banned Hwatu due to its Japanese aesthetic. Because of this, attempts to change the design of Hwatu into a fully Korean design were proposed (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
 
 The year of change of material of Hwatu from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by World War II, South Korea only had a petrochemical company capable of producing the main needs of the country, and that the change in material of Hwatu only happened sometime in the 1970's during which South Korea experienced a period of rapid economic growth. The plastic Hwatu proved to be more practical than paper Hwatu, and the popularity of the cards in South Korea rose again. 
 
-Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling. However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
+Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling (Hwatujeom). However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
 
 It is also interesting to note that there were times when Korean-made Hwatu was exported to Japan, and also times when Japanese companies outsourced their hanafuda to Korean manufacturers. In the 2010's, Daiso, a budget store in Japan, sold plastic hanafuda. While these hanafuda contained designs resembling the Japanese hanafuda rather than Korean Hwatu, they were made in South Korea.
 
@@ -55,15 +55,27 @@ Finally, the practice of marking each bright card with a circle containing the c
 
 Both Nihon Karuta and Oishi Tengudo claim to have invented the use of circled '光' to mark bright cards.
 
-## Changes from Japanese Hanafuda
+## Red Paulownia Chaff
+Typically in Hwatu, the colored Paulownia Chaff is red. 
+
+In Japanese hanafuda, the typical color is yellow, but there do exist decks that have a red Paulownia Chaff. The Nihon Karuta deck in particular has a pink Paulownia Chaff. 
+
+## Design Changes from Japanese Hanafuda
 While attempts to popularize a radical change in design of Hwatu during the 1950's were unsuccessful, some changes actually made its way to the design of Hwatu as it is known today.
 
 ### Korean writings on the Ribbons
-All poetry ribbons and blue ribbons of a Hwatu deck have writing on them, which indicate their color. Other red ribbons have no writing on them.
+All poetry ribbons and blue ribbons of a Hwatu deck have writing on them, which indicate their color (and the name of the Yaku that they form). Other red ribbons have no writing on them.
 
-The poetry ribbons have "Hongdan" [홍단, 'red ribbons'] written
+The **poetry ribbons** have **"Hongdan"** [홍단, 'red ribbons'] written on them.
+The **blue ribbons** have **"Cheongdan"** [청단, 'blue ribbons'] written on them.
 
 This differs from Japanese hanafuda decks, which have the writing "aka-yoroshi" on the Pine and Plum Blossom Ribbons, and "Miyoshino" on the Cherry Blossom Ribbon, both written in Japanese hiragana. Japanese hanafuda do not have any writing on the blue ribbons.
+
+### Color of Blue Ribbons
+The **blue ribbons** of a Hwatu deck are **actually colored blue**, unlike those of Japanese hanafuda, which are typically either purple or black in color.
+
+### The Rainman
+The image of Ono no Michikaze on the Rainman card had its headdress replaced, to erase any association with the Japanese scholar.
 
 # Deck Composition
 Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
