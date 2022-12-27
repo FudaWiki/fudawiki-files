@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T01:27:43.104Z
+date: 2022-12-27T01:39:35.057Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-01T17:56:12.690Z
 
 ![hwatu_january_hikari.png](/suryongfiles/hwatu_january_hikari.png =100x)![hwatu_february_tane.png](/suryongfiles/hwatu_february_tane.png =100x)![hwatu_march_hikari.png](/suryongfiles/hwatu_march_hikari.png =100x)
 
-**Hwatu** (화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
+**Hwatu** (Hanja: 花鬪, Hangul: 화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
 
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
@@ -54,6 +54,16 @@ Next, the practice of putting a manufacturer's trademark on the Full Moon card e
 Finally, the practice of marking each bright card with a circle containing the character '光' (*hikari*) (which makes it easier to distinguish Bright cards from Animal cards) came from special Hachi-hachi-bana patterns from Japan which also had these marks. Many hanafuda manufacturers offered such types of hanafuda at the time, or some variation of it ([Nintendo](/en/hanafuda/manufacturers/nintendo)'s deck featured a circled '福' (*fuku*) instead of '光'). 
 
 Both Nihon Karuta and Oishi Tengudo claim to have invented the use of circled '光' to mark bright cards.
+
+## Changes from Japanese Hanafuda
+While attempts to popularize a radical change in design of Hwatu during the 1950's were unsuccessful, some changes actually made its way to the design of Hwatu as it is known today.
+
+### Korean writings on the Ribbons
+All poetry ribbons and blue ribbons of a Hwatu deck have writing on them, which indicate their color. Other red ribbons have no writing on them.
+
+The poetry ribbons have "Hongdan" [홍단, 'red ribbons'] written
+
+This differs from Japanese hanafuda decks, which have the writing "aka-yoroshi" on the Pine and Plum Blossom Ribbons, and "Miyoshino" on the Cherry Blossom Ribbon, both written in Japanese hiragana. Japanese hanafuda do not have any writing on the blue ribbons.
 
 # Deck Composition
 Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
