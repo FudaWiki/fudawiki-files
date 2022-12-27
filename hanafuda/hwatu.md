@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:22:54.473Z
+date: 2022-12-27T07:24:21.686Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -15,9 +15,9 @@ dateCreated: 2022-04-01T17:56:12.690Z
 The hwatu deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled Hikari/Gwang symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
 
 # History of Hwatu
-In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Joseon to Japanese Trade.
+In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Korea to Japanese Trade.
 
-It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Joseon, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon ('battle cards') was being played in Korea, and so the Koreans refered to Hanafuda as Hwatu, a combination of "Hwa", the Korean word for flower, and "Tu" ('battle') from Tujeon. However, as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
+It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Korea, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon ('battle cards') was being played in Korea, and so the Koreans refered to Hanafuda as Hwatu, a combination of "Hwa", the Korean word for flower, and "Tu" ('battle') from Tujeon. However, as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
 
 Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
