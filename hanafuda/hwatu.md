@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:25:36.044Z
+date: 2022-12-27T07:26:54.489Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -21,7 +21,7 @@ It is said that around that time, Hanafuda from Japan was introduced to the Kore
 
 Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of [karuta](/en/karuta) manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
-After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category, and it fell out of use for a brief period of time before it gradually started being played again.
+After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" ('Japanese aesthetic')- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category, and it fell out of use for a brief period of time before it gradually started being played again.
 
 In South Korea, the government banned Hwatu due to its Japanese aesthetic. Because of this, attempts to change the design of Hwatu into a fully Korean design were proposed (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
 
