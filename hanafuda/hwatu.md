@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:43:37.703Z
+date: 2022-12-27T07:44:44.143Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -98,13 +98,13 @@ The **blue ribbons** of a *Hwatu* deck are **actually colored blue**, unlike tho
 The image of Ono no Michikaze on the Rainman card had his *Kanmuri* (a Heian-period Japanese cap) replaced with a ***Beonggeoji*** (a Korean round hat), to erase any association with the Japanese calligrapher.
 
 # Deck Composition
-Just like Japanese hanafuda, Hwatu consists of 48 cards, which consist of 12 suits of 4 cards each.
+Just like Japanese hanafuda, *Hwatu* consists of 48 cards, which consist of 12 suits of 4 cards each.
 
 ## Suits and Month arrangement
 
-All Hwatu games use the [**Korean month sequence**](/en/hanafuda/suits#arrangement-of-suits); the Willow and Paulownia suits are reversed in order from the Japanese standard month sequence.
+All *Hwatu* games use the [**Korean month sequence**](/en/hanafuda/suits#arrangement-of-suits); the Willow and Paulownia suits are reversed in order from the Japanese standard month sequence.
 
-It is not known how and when the **Wisteria** and **Iris** suits started to be identified by the Koreans as **Black Bush Clover** and **Orchid** respectively, but folk songs based on Hwatu during the period of Japanese rule mentions these flowers, so it must have happened sometime during or before the Japanese colonial period. 
+It is not known how and when the **Wisteria** and **Iris** suits started to be identified by the Koreans as **Black Bush Clover** and **Orchid** respectively, but folk songs based on *Hwatu* during the period of Japanese rule mention Black Bush Clover and Orchid, so it must have happened sometime during or before the Japanese colonial period. 
 
 Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
 
