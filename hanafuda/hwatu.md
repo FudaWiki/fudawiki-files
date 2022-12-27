@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:45:15.900Z
+date: 2022-12-27T07:49:46.661Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -112,18 +112,18 @@ Also, because of this, every **Wisteria** card in a new Hwatu deck are positione
 
 |Number/Month|Icon|English Name|Korean name|
 |:---|:---:|:---:|:---|
-|1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|**Songhak** [송학, 'pine crane']|
-|2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|**Maejo** [매조, 'plum bird']|
-|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|**Beojkkot** [벚꽃, 'cherry blossom']|
-|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|**Heukssari** [흑싸리, '**black bush clover**']|
-|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|**Nancho** [난초, '**orchid**']|
-|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|**Moran** [모란, 'peony']|
-|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|**Hongssari** [홍싸리, 'red bush clover']|
-|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|**Gongsan** [공산, 'sky mountain']|
-|9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|**Gukjin** [국진]|
-|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|**Danpung** [단풍, 'maple']|
-|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|**Odong** [오동, 'paulownia']|
-|12. December|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)|**Bi** [비, 'rain']|
+|1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|***Songhak*** [송학, 'pine crane']|
+|2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|***Maejo*** [매조, 'plum bird']|
+|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']|
+|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']|
+|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']|
+|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']|
+|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']|
+|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'sky mountain']|
+|9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|***Gukjin*** [국진, 'chrysanthemum (?)']|
+|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']|
+|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']|
+|12. December|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)|***Bi*** [비, 'rain']|
 
 ## Jokers
 Aside from the basic 48 cards, there are usually additional Joker cards included in the deck (around 6 or less). They contain different prints and have different names and rules for them, depending on the manufacturer.
@@ -136,20 +136,20 @@ These cards are optional, and are typically used sparingly in fishing games such
 
 |English Name|Korean Name|Description|
 |:---:|:---:|:---:|
-|Two Chaff|투피 (tu pi)|Counts as 2 chaff.|
-|Three Chaff|쓰리피 (sseuri pi)|Counts as 3 chaff.|
-|Seven Chaff|쎄븐피 (ssaebeun pi)|Gain 7 points from each player, then remove the card from the round and draw another card.|
-|Plus Chaff|플러스피 (peulleoseu pi)|There are two jokers with this name on the web. One example doubles the score, while the other is counted as 1 chaff and doesn't double the score.|
-|Boss Chaff|보스피 (boseu pi)|Take 1 chaff from each of the other players.|
-|Back Chaff|빠꾸피 (bbakku pi)|Give 1 chaff to each of the other players. (Penalty version of Boss chaff)|
-|Rain Double Chaff|비쌍피 (bissang pi)|Additional Lightning card (usually with manufacturer's mark on it); When this card is used, remove regular Lightning card or Willow Ribbon card. A Paulownia Double Chaff card also exists in some decks.|
-|Show Your Hand|패보여주기 (paeboyeojugi)|Penalty card; you need to expose your hand to other players (usually for 3 seconds).|
-|Three-Won Joker|삼원조우카 (samwon jouka)|Can be used to complete a 3-card yaku if you have only captured 2 of the cards.|
-|Bright Penalty Avoidance Card|면광패 (myeongwang pae)|Avoids x2 penalty if an opponent wins with a Bright yaku and you don't have a Bright card.|
-|Celebration Card|축하패 (chukha pae)|Effects may vary. One example mentions 'x2 when you win after capturing this card'|
-|Sixth Bright|육광 (yukgwang)|Probably treated as an additional Bright card.|
-|Double Card|따블패 (ddobeul pae)|x2 when you win after capturing this card.|
-|U-turn Chaff|유턴피 (Yuteon pi)|Give 1 chaff to each of the other players. If an opponent becomes able to declare a Go or Stop due to this card, they must wait 1 turn before declaring whether to Go or stop.|
+|Two Chaff|투피 (*tu pi*)|Counts as 2 chaff.|
+|Three Chaff|쓰리피 (*sseuri pi*)|Counts as 3 chaff.|
+|Seven Chaff|쎄븐피 (*ssaebeun pi*)|Gain 7 points from each player, then remove the card from the round and draw another card.|
+|Plus Chaff|플러스피 (*peulleoseu pi*)|There are two jokers with this name on the web. One example doubles the score, while the other is counted as 1 chaff and doesn't double the score.|
+|Boss Chaff|보스피 (*boseu pi*)|Take 1 chaff from each of the other players.|
+|Back Chaff|빠꾸피 (*bbakku pi*)|Give 1 chaff to each of the other players. (Penalty version of Boss chaff)|
+|Rain Double Chaff|비쌍피 (*bissang pi*)|Additional Lightning card (usually with manufacturer's mark on it); When this card is used, remove regular Lightning card or Willow Ribbon card. A Paulownia Double Chaff card also exists in some decks.|
+|Show Your Hand|패보여주기 (*paeboyeojugi*)|Penalty card; you need to expose your hand to other players (usually for 3 seconds).|
+|Three-Won Joker|삼원조우카 (*samwon jouka*)|Can be used to complete a 3-card yaku if you have only captured 2 of the cards.|
+|Bright Penalty Avoidance Card|면광패 (*myeongwang pae*)|Avoids x2 penalty if an opponent wins with a Bright yaku and you don't have a Bright card.|
+|Celebration Card|축하패 (*chukha pae*)|Effects may vary. One example mentions 'x2 when you win after capturing this card'|
+|Sixth Bright|육광 (*yukgwang*)|Probably treated as an additional Bright card.|
+|Double Card|따블패 (*ddobeul pae*)|x2 when you win after capturing this card.|
+|U-turn Chaff|유턴피 (*yuteon pi*)|Give 1 chaff to each of the other players. If an opponent becomes able to declare a Go or Stop due to this card, they must wait 1 turn before declaring whether to Go or stop.|
 
 
 # List of Korean Hwatu Games
