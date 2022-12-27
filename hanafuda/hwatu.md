@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:24:21.686Z
+date: 2022-12-27T07:25:36.044Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -19,7 +19,7 @@ In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon
 
 It is said that around that time, Hanafuda from Japan was introduced to the Koreans by Japanese merchants from Tsushima Island. These merchants made settlements in Korea, and the cards spread as many Japanese settlers played hanafuda there. Originally, a different type of card deck called Tujeon ('battle cards') was being played in Korea, and so the Koreans refered to Hanafuda as Hwatu, a combination of "Hwa", the Korean word for flower, and "Tu" ('battle') from Tujeon. However, as Hanafuda spread, Tujeon fell out of use, and some games originally played with Tujeon cards were adapted to be played using hanafuda instead.
 
-Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of karuta manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
+Then in 1910, Japan colonized Korea. During that time, Hwatu was already widely spread to the common people, and a handful of [karuta](/en/karuta) manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for Hwatu in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "Hwatutaryeong" were made during the colonial period.
 
 After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "Waesaek" (Japanese aesthetic)- the remnants of colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, Hwatu definitely belongs in this category, and it fell out of use for a brief period of time before it gradually started being played again.
 
