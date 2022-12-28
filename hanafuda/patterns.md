@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-12-28T02:18:47.494Z
+date: 2022-12-28T02:31:51.259Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -60,8 +60,8 @@ For patterns featuring a particular cultural theme or intellectual property, see
 While a standard hanafuda deck has 12 suits, there are variants where suits are added or removed.
 |Name|Suits|Description|
 |:---:|:---:|:---:|
-|**Juusangatsu-Bana**|13|Hachi-hachi-bana but with an extra month added: Bamboo. Popularized by Matsui Tengudo.|
-|**Juushigatsu-Bana** or **Shichi-shichi-bana**|14|Hachi-hachi-bana but with two extra months added: Bamboo and Lotus. However, the design of the cards of the Bamboo suit is different from Juusangatsu-Bana. Introduced by Matsui Tengudo, and came with a leaflet for a 4-player game called "[Shichi-shichi-bana](/en/hanafuda/newgames/shichi-shichi-bana)".|
+|**Juusangatsu-Bana**|13|Hachi-hachi-bana but with an extra month added: Bamboo. Popularized by a Matsui Tengudo-made deck for Yasuhiko Yamaguchi, author of the book, "*Saigo no Yamikaruta*" ('The Last Yomikaruta'), where it is prominently shown on the back cover of the book. In other instances, the 13th month is used on the Kings in Hana-Trump deck designs to match the 52-card structure of western playing cards.|
+|**Juushigatsu-Bana** or **Shichi-shichi-bana**|14|Hachi-hachi-bana but with two extra months added: Bamboo and Lotus. However, the design of the cards of the Bamboo suit is different from Juusangatsu-Bana. Produced by Tezuka Karuta Workshop and manufactured by Matsui Tengudo, this deck came with a leaflet for a 4-player game called "[Shichi-shichi-bana](/en/hanafuda/newgames/shichi-shichi-bana)".|
 |[**Mushi-Bana**](/en/hanafuda/patterns/mushibana)|10|Hachi-hachi-bana except all Peony and Bush Clover cards are removed. Used for playing [Mushi](/en/hanafuda/games/mushi).|
 |**Shiki**|4|A [western playing card](/en/trump) deck in disguise as hanafuda. It retains all the iconography of hanafuda sans most of the flowers, as well as adding new Japanese-inspired illustrations and court cards based on the poets and warriors of the Heian period. Introduced by Richert Karuta.|
 
