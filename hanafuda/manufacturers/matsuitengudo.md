@@ -2,7 +2,7 @@
 title: Matsui Tengudō
 description: Former manufacturer of hanafuda. Best known for reviving the hand-printing process.
 published: true
-date: 2022-12-15T04:17:02.710Z
+date: 2022-12-28T05:39:11.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T03:32:15.064Z
@@ -34,7 +34,7 @@ Due to the inventory being completely depleted, decks manufactured by Matsui Ten
 - **Sanko** (Three Brights) - Their 2nd-grade product.
 - **Fujizakura** - Their 3rd-grade product.
 ## Expanded Hanafuda
-- **Ryū-ko** - Hand-printed 13-month Hanafuda (for Yasuhiko Yamaguchi)
+- **Ryū-ko** - Hand-printed 13-month Hanafuda (for Yasuhiko Yamaguchi (author of the book, *"Saigo no Yomikaruta"*))
 - **Ryū-ko** - Hand-printed 14-month Hanafuda "Nana-nana-bana" (for Tezuka Karuta Kōbō)
 
 # Bibliography
