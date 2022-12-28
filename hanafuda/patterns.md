@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-12-28T04:21:42.736Z
+date: 2022-12-28T04:24:17.754Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -12,7 +12,9 @@ Although by the 20th century, the deck structure and design of [Hanafuda](/en/ha
 
 The following is a list of known hanafuda variations, organized by type and alphabetically, with links to individual pages on those for which we have gathered sufficient information.
 
-For patterns featuring a particular cultural theme or intellectual property, see [Character Hanafuda](/en/hanafuda/character). For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
+For patterns featuring a particular cultural theme or intellectual property, see [Character Hanafuda](/en/hanafuda/character). 
+
+For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 
 # Pattern Variations
 ## Standard Pattern
