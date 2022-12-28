@@ -2,13 +2,13 @@
 title: Shichi-shichi-bana
 description: A 14-month hanafuda game.
 published: true
-date: 2022-12-28T04:07:07.556Z
+date: 2022-12-28T05:36:35.712Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-28T04:07:07.556Z
 ---
 
-**Shichi-shichi-bana** [七七花, lit. '77 flowers'], is thought to be an adaptation of the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) or [Hana-awase](/en/hanafuda/games/hana-awase), using an expanded **14-month hanafuda deck**, produced by Tezuka Karuta Kobo and manufactured by Matsui Tengudo. It is intended to be played by **4 active players** at the same time.
+**Shichi-shichi-bana** [七七花, lit. '77 flowers'], is thought to be an adaptation of the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) or [Hana-awase](/en/hanafuda/games/hana-awase), using an expanded **14-month hanafuda deck**, produced by Tezuka Karuta Kobo and manufactured by [Matsui Tengudo](/en/hanafuda/manufacturers/matsuitengudo). It is intended to be played by **4 active players** at the same time.
 
 The game is named after the par score of 77 points.
 
