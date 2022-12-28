@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-27T07:49:46.661Z
+date: 2022-12-28T02:36:15.186Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -85,7 +85,7 @@ The **poetry ribbons** have **"*Hongdan*"** [홍단, 'red ribbons'] written on t
 ![hwatu_june_tanzaku.png](/suryongfiles/hwatu_june_tanzaku.png =80x)![hwatu_september_tanzaku.png](/suryongfiles/hwatu_september_tanzaku.png =80x)![hwatu_october_tanzaku.png](/suryongfiles/hwatu_october_tanzaku.png =80x)
 The **blue ribbons** have **"*Cheongdan*"** [청단, 'blue ribbons'] written on them.
 
-This differs from Japanese hanafuda decks, which have the writing "*Aka-yoroshi*" on the Pine and Plum Blossom Ribbons, and "*Miyoshino*" on the Cherry Blossom Ribbon, both written in Japanese hiragana. Japanese hanafuda do not have any writing on the blue ribbons.
+This differs from Japanese hanafuda decks, which have the writing "*Aka-yoroshi*" on the Pine and Plum Blossom Ribbons, and "*Miyoshino*" on the Cherry Blossom Ribbon, both written in Japanese hiragana (with an archaic character for '*ka*' in "*Aka-yoroshi*"). Japanese hanafuda do not have any writing on the blue ribbons.
 
 ### Color of Blue Ribbons
 
