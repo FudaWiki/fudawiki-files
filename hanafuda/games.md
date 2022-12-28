@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-21T09:09:27.791Z
+date: 2022-12-28T02:51:18.328Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -250,6 +250,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
 |[Tsuki-Narabe (Month Arrangement)](/newgames/tsuki-narabe)|3-4|Draw and Discard|
 |Yon-San (Four-Three)|3|Commerce|
+## Tezuka Karuta Kobo/Matsui Tengudo
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Shichi-shichi-bana (77 flowers)](/newgames/shichi-shichi-bana)|4 per round|Fishing|
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
