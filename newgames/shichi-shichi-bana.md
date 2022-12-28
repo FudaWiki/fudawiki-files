@@ -2,7 +2,7 @@
 title: Shichi-shichi-bana
 description: A 14-month hanafuda game.
 published: true
-date: 2022-12-28T05:36:35.712Z
+date: 2022-12-28T06:13:54.290Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-28T04:07:07.556Z
@@ -14,17 +14,20 @@ The game is named after the par score of 77 points.
 
 The rulesheet supplied with the 14-month deck does not give a detailed explanation of the game; rather, it only explains the functions of the 8 additional cards, the par score, the number of cards per deal, the Teyaku and the Dekiyaku. All yaku do not have scores, and it is up to the player to assign scores for them.
 
-> **NOTE: You need a 14-month hanafuda deck to play this game.**
+> **NOTE: You need a 14-month hanafuda deck to play this game.** Since 14-month hanafuda decks made by Matsui Tengudo are extremely rare and valuable, a more affordable option is to use a [**Junior**](https://www.junior.cards/) **Dragon or Tiger Hanafuda deck**, which also has 14 months. 
 {.is-warning}
 
 # The 13th and 14th Month
 |Number|Name of Month|Name of Flower|Composition|
 |:---:|:---:|:---:|:---:|
-|13|**Heaven**</br>[天, '*ten*']|**Lotus**</br>[蓮, '*hasu*']|1 Bright card - Dragon</br>1 red Ribbon card</br>2 Chaff cards|
-|14|**Earth**</br>[地, '*ji*']|**Bamboo**</br>[竹, '*take*']|1 Animal card - Tiger</br>1 red Ribbon card</br>2 Chaff cards|
+|13|**Heaven**</br>[天, '*ten*']|**Lotus**</br>[蓮, '*hasu*']|1 Bright card - Dragon</br>1 red** Ribbon card</br>2 Chaff cards|
+|14|**Earth**</br>[地, '*ji*']|**Bamboo**</br>[竹, '*take*']|1 Animal card - Tiger</br>1 red** Ribbon card</br>2 Chaff cards|
 
-> Card points are standard; the same used in Hachi-hachi.
+> ※ Card points are standard; the same used in Hachi-hachi.
 {.is-info}
+
+> ※※ If a Junior Dragon or Tiger hanafuda deck is used, the **Lotus Ribbon** card would be **blue** instead of red, and the **Bamboo Ribbon** card would be a **Poetry** ribbon instead of plain red.
+{.is-warning}
 
 # The Par Score
 The additional 8 cards are worth 44 points in total. Since the standard deck has a total of 264 points, the total points of the 14-month deck is 308 points.
