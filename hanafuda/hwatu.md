@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2022-12-28T02:36:15.186Z
+date: 2023-01-31T08:18:32.125Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -25,7 +25,7 @@ After World War II ended in 1945, Korea became liberated from Japanese rule, and
 
 In South Korea, the government banned *Hwatu* due to its Japanese aesthetic. Because of this, attempts to change the design of *Hwatu* into a fully Korean design were proposed (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
 
-The year of change of material of *Hwatu* from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by World War II, South Korea had a petrochemical company capable of producing only the main needs of the country, and that the change in material of Hwatu instead happened sometime in the 1970's, when South Korea was experiencing a period of rapid economic growth. The plastic *Hwatu* proved to be more practical than paper *Hwatu*, and the popularity of the cards in South Korea rose again. 
+The year of change of material of *Hwatu* from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by war, South Korea had a petrochemical company capable of producing only the main needs of the country, and that the change in material of Hwatu instead happened sometime in the 1970's, when South Korea was experiencing a period of rapid economic growth. The plastic *Hwatu* proved to be more practical than paper *Hwatu*, and the popularity of the cards in South Korea rose again. 
 
 Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling (*Hwatujeom*). However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
 
@@ -34,11 +34,14 @@ It is also interesting to note that there were times when Korean-made *Hwatu* wa
 # Material
 Originally, *Hwatu* are made of paper, just like Japanese hanafuda, but the material has since been replaced with plastic.
 
+![hwatu_edge.jpg](/hwatu_edge.jpg =250x)
+
 Typically, modern *Hwatu* are made of **3 layers of plastic laminated together** and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
 - The core layer makes up the majority of the bulk of each *Hwatu* card. The plastic material of this layer is usually mixed with stone powder, which gives the cards weight.
 - The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While people say the texture prevents the cards from slipping, its actual effect is to prevent cards from sticking to each other.
 
+![hwatu_back.jpg](/hwatu_back.jpg =150x)
 
 # Illustration designs
 A typical modern *Hwatu* deck contains designs that evolved from the Japanese Hachi-hachi-bana pattern, specifically that of [Nihon Karuta](/en/hanafuda/manufacturers/nihonkaruta), a Hanafuda manufacturer who frequently exported cards to Korea in the past. 
