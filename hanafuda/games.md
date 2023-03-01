@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-12-28T05:35:20.481Z
+date: 2023-03-01T05:57:02.209Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -14,7 +14,7 @@ dateCreated: 2022-04-01T17:56:06.104Z
 > For the list of **Korean Hwatu games** in particular, see [**List of Korean Hwatu Games**](/en/hanafuda/hwatu#list-of-korean-hwatu-games).
 {.is-info}
  
-There are many games that can be played with hanafuda, both traditional and recently invented.
+There are many games that can be played with [hanafuda](/en/hanafuda), both traditional and recently invented.
 
 **There are 3 major families to which hanafuda games tend to belong:**
 1. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. 
