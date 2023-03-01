@@ -2,13 +2,13 @@
 title: Dare
 description: A kabufuda game. Make 3 sets that matches the score on the field!
 published: true
-date: 2022-11-19T03:12:32.904Z
+date: 2023-03-01T06:34:21.615Z
 tags: kabufuda games, kabu-kei
 editor: markdown
 dateCreated: 2022-10-21T14:10:27.832Z
 ---
 
-**Dare** [誰 - ダレ, lit. 'who?'] is a simple game based on luck in which players attempt to discard sets of 3 cards that have the same total value as that of the 3 cards on the field.
+**Dare** [誰 - ダレ (pronounced 'dah-reh'), lit. 'who?'] is a simple game based on luck in which players attempt to discard sets of 3 cards that have the same total value as that of the 3 cards on the field.
 
 This game can be played by 2 to 4 players at the same time.
 
