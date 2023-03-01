@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2023-03-01T05:59:05.951Z
+date: 2023-03-01T05:59:18.295Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -19,7 +19,7 @@ Note that some of these games can also be played with [hanafuda](/en/hanafuda); 
 
 Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
 
-**Similarly, in Japan, there are 5 styles to which hanafuda games are classified, based on their gameplay elements:**
+**Similarly, in Japan, there are 5 styles to which mekurifuda games are classified, based on their gameplay elements:**
 1. **Mekuri-kei** games are fishing games that have the gameplay element of having to draw (めくる, *mekuru*) a card from the draw pile and playing it to capture a matching card on the field.
 2. **Kabu-kei** games are showdown/banking games where the strength of a hand depends on the ones digit of the sum of the numbers on the cards in hand, similar to Baccarat.
 3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
