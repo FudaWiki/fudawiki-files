@@ -1,8 +1,8 @@
 ---
-title: oyaji-no-jikan-nechan-hanafuda-de-shoubu-ya
+title: Oyaji no Jikan: Nechan, Hanafuda de Shoubu Ya
 description: 
 published: true
-date: 2023-03-07T15:12:29.389Z
+date: 2023-03-07T15:12:37.592Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:33:11.429Z
