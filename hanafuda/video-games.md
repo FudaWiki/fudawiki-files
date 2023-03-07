@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2023-03-07T15:03:40.023Z
+date: 2023-03-07T15:11:51.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -405,4 +405,3 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [THE SuperKABU (<span lang='ja'>THE SuperKABU</span>)](/en/hanafuda/video-games/x68/the-superkabu)
 ## Zaurus
 * [Hanafuda (<span lang='ja'>花札</span>)](/en/hanafuda/video-games/zaurus/hanafuda)
-
