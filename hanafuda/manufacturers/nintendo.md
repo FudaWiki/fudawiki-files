@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2022-12-22T07:38:49.108Z
+date: 2023-03-10T15:32:34.789Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -80,7 +80,7 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
 | **Marufuku jirushi**  <br>**(**丸福印, Marufuku mark) | Lost | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
 | **Marufuku Sakura**  <br>(丸福桜) | Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
-| **Masamune**  <br>(正宗) | Unique | The brand was represented by only a “宗” in the label. Nevertheless, Nintendo card catalogs describe this brand as “正宗” |
+| **Masamune**  <br>(正宗) | Very rare | The brand was represented by only a “宗” in the label. Nevertheless, Nintendo card catalogs describe this brand as “正宗” |
 | **Masayuki**  <br>(正行) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Matsu jirushi**  <br>(松印, Pine mark) | Lost | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Mushi**  <br>(虫, Insect) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
@@ -125,6 +125,7 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Beichō Family Warōtei | ca. 1974-1976 | Asahi Broadcasting Corp. |
 | Carta de Flor | 2022 | Brownies Shop. Available exclusively at the Brownies Shop website. |
 | Dragon Quest Hanafuda | 2017 | Square Enix |
+| Koi-koi Cinderella | 2016 | Bandai |
 | Jojo's Bizarre Hanafuda: Mori cards | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Golden cards | 2009 | Bandai |
