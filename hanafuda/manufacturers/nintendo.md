@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-11T01:41:24.441Z
+date: 2023-03-11T01:53:29.996Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -123,16 +123,16 @@ In addition to the above, Nintendo has also manufactured various Character Hanaf
 | Brand | Date of Release | Notes |
 | --- | --- | --- |
 | Beichō Family Warōtei | ca. 1974-1976 | Asahi Broadcasting Corp. |
-| Carta de Flor | 2022 | Brownies Shop. Available exclusively at the Brownies Shop website. |
+| Carta de Flor | 2022 | Brownies Shop. Sold exclusively at the Brownies Shop website. |
 | Dragon Quest Hanafuda | 2017 | Square Enix |
+| Idolmaster Cinderella Girls: Koi-koi Cinderella | May 2016 | Bandai Namco. Available only as a prize during the 21st Dream LIVE Festival (From April 30-May 8, 2016), by reaching the top 300 or getting specific ranks (1,000, 1,500, 2,000, 4,000, or 7,000). The participant must also apply with a "special application ticket", which can be obtained in gacha, until May 9, 2016.|
 | Jojo's Bizarre Hanafuda: Mori cards | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Stone Mask | 2009 | Bandai |
 | Jojo's Bizarre Hanafuda: Golden cards | 2009 | Bandai |
 | Kirby Hanafuda | January 2020 | Nintendo/HAL. Distributed by Ensky. |
-| Koi-koi Cinderella | 2016 | Bandai |
 | Pokemon Hanafuda | November 2013 | Pokemon/Nintendo/Creatures/Game Freak. Distributed by Movic. |
 | Mario Pikachu Hanafuda | October 29, 2016 | Pokemon/Nintendo/Creatures/Game Freak. Sold only at Pokemon Center stores in Japan. |
-| Snoopy Comic Hanafuda | October 2, 2010 | Bandai. Available exclusively at the Premium Bandai website. |
+| Snoopy Comic Hanafuda | October 2, 2010 | Bandai. Sold exclusively at the Premium Bandai website. |
 
 # Other Promotional Hanafuda Decks
 | Brand | Date of Release | Notes |
