@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T04:00:47.695Z
+date: 2023-03-28T04:05:23.612Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -45,22 +45,22 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 
 | Brand | Label | Rarity | Notes |
 | --- | --- | --- | --- |
-| **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
-| **Azuma Tengu**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. Briefly succeeded by **Daitengu** in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
-| **Chujo**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| Rare | Also used for shirofuda decks. |
-| **Daifuku**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| Very Rare | An unused label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **Daikoku**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| Unique |     |
-| **Daioh jirushi**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| **Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
-| **Daitengu**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
-| **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
-| **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| Very rare |     |
-| **Ginsekai**  <br>(銀世界, Silver World) | Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
-| **Gintengu**  <br>(銀天狗, Silver Tengu) | Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. |
-| **Gion**  <br>(祇園) | Rare |     |
-| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) | Unique | Shares the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. |
-| **Hagoromo**  <br>(羽衣, Angelic Clothing) | Very rare | Shares the same label design with **Kikusui**. |
-| **Hakubai**  <br>(白梅, White Plum) | Common | Shares the same label design with **Ume jirushi**. |
-| **Hakutsuru**  <br>(白鶴, White Crane) | Unique |     |
+| **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
+| **Azuma Tengu**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| ★★<br>Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. Briefly succeeded by **Daitengu** in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
+| **Chujo**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
+| **Daifuku**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Daikoku**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★★<br>Unique |     |
+| **Daioh jirushi**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
+| **Daitengu**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
+| **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
+| **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★★<br>Very rare |     |
+| **Ginsekai**  <br>(銀世界, Silver World) | ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
+| **Gintengu**  <br>(銀天狗, Silver Tengu) | ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. |
+| **Gion**  <br>(祇園) | ★★★<br>Rare |     |
+| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) | ★★★★★<br>Unique | Shares the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. |
+| **Hagoromo**  <br>(羽衣, Angelic Clothing) | ★★★<br>Very rare | Shares the same label design with **Kikusui**. |
+| **Hakubai**  <br>(白梅, White Plum) | ★<br>Common | Shares the same label design with **Ume jirushi**. |
+| **Hakutsuru**  <br>(白鶴, White Crane) | ★★★★★<br>Unique |     |
 | **Hana no Yama**  <br>(花の山, Mountain of Flowers) | Uncommon | Shares the same label design with **Tsukimi Yama**. Has a similar label design to that of **Sakura no Yama**. There was a label variant where the mountains were pink and black instead of green. |
 | **Hatsuzakura**  <br>(初櫻,First Sakura) | Uncommon | Came in two label designs, but there are only minor differences between them. |
 | **Heian**  <br>(平安, Peace) | Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
