@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T06:01:11.280Z
+date: 2023-03-28T06:05:56.152Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -12,7 +12,7 @@ Nintendo Co., Ltd. is a company most-known today as a video game manufacturer, b
 
 In 1902, they started selling the first locally-produced [western playing cards](/en/trump) in Japan.
 
-Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
+Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福, lit. 'circle fortune').
 
 The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”, which is widely regarded to be the meaning of the name.
 
@@ -62,8 +62,8 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Hakubai**  <br>(白梅, White Plum) |![hakubai.png](/suryong_nintendo_labels/hakubai.png =150x)| ★<br>Common | Shares the same label design with **Ume jirushi**. |
 | **Hakutsuru**  <br>(白鶴, White Crane) |![hakutsuru.jpg](/suryong_nintendo_labels/hakutsuru.jpg =150x)| ★★★★★<br>Unique |     |
 | **Hana no Yama**  <br>(花の山, Mountain of Flowers) |![hana_no_yama1.png](/suryong_nintendo_labels/hana_no_yama1.png =150x)![hana_no_yama2.png](/suryong_nintendo_labels/hana_no_yama2.png =150x)| ★★<br>Uncommon | Shares the same label design with **Tsukimi Yama**. Has a similar label design to that of **Sakura no Yama**. There was a label variant where the mountains were pink and black instead of green. |
-| **Hatsuzakura**  <br>(初櫻,First Sakura) || ★★<br>Uncommon | Came in two label designs, but there are only minor differences between them. |
-| **Heian**  <br>(平安, Peace) | ★★★<br>Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
+| **Hatsuzakura**  <br>(初櫻,First Sakura) |![hatsuzakura_old.jpg](/suryong_nintendo_labels/hatsuzakura_old.jpg =150x)![hatsuzakura_new.png](/suryong_nintendo_labels/hatsuzakura_new.png =150x)| ★★<br>Uncommon | Came in two label designs, but there are only minor differences between them. |
+| **Heian**  <br>(平安, Peace) |![heian_sakura.png](/suryong_nintendo_labels/heian_sakura.png =150x)![heian1.png](/suryong_nintendo_labels/heian1.png =150x)| ★★★<br>Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
 | **Hi no De**  <br>(日の出, Sunrise) | ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
 | **Hiruko**  <br>(蛭子, another name of Ebisu) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Ho-oh**  <br>(鳳凰, Phoenix) | Lost | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
@@ -78,7 +78,7 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Konishiki jirushi**  <br>(小錦印, Sumo Wrestler) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) | Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Yaezakura**. |
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
-| **Marufuku jirushi**  <br>**(**丸福印, Marufuku mark) | Lost | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
+| **Marufuku jirushi**  <br>(丸福印, Marufuku mark) | Lost | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
 | **Marufuku Sakura**  <br>(丸福桜) | Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
 | **Masamune**  <br>(正宗) | Very rare | The brand was written in cursive in the label. Nevertheless, Nintendo card catalogs describe this brand as “正宗” |
 | **Masayuki**  <br>(正行) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
