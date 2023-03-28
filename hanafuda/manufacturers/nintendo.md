@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T08:25:01.273Z
+date: 2023-03-28T08:33:55.613Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -79,11 +79,11 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) |![kumoizakura.png](/suryong_nintendo_labels/kumoizakura.png =150x)| ★★★<br>Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Yaezakura**. |
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) |![kyonohana.jpg](/suryong_nintendo_labels/kyonohana.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
 | **Marufuku jirushi**  <br>(丸福印, Marufuku mark) |![marufuku.jpg](/suryong_nintendo_labels/marufuku.jpg =150x)| ★★★★★★<br>**Lost** | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
-| **Marufuku Sakura**  <br>(丸福桜) | Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
-| **Masamune**  <br>(正宗) | Very rare | The brand was written in cursive in the label. Nevertheless, Nintendo card catalogs describe this brand as “正宗” |
-| **Masayuki**  <br>(正行) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **Matsu jirushi**  <br>(松印, Pine mark) | Lost | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
-| **Mushi**  <br>(虫, Insect) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
+| **Marufuku Sakura**  <br>(丸福桜) |![marufuku_sakura_1.jpg](/suryong_nintendo_labels/marufuku_sakura_1.jpg =150x)![marufuku_sakura_2.png](/suryong_nintendo_labels/marufuku_sakura_2.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
+| **Masamune**  <br>(正宗) |![masamune.jpg](/suryong_nintendo_labels/masamune.jpg =150x)| ★★★★<br>Very rare | The brand was written in cursive in the label. Nevertheless, Nintendo card catalogs describe this brand as “正宗” |
+| **Masayuki**  <br>(正行) |![masayuki.jpg](/suryong_nintendo_labels/masayuki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Matsu jirushi**  <br>(松印, Pine mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
+| **Mushi**  <br>(虫, Insect) | ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
 | **Oedo**  <br>(大江戸, Great Edo) | Unique | Shares the same label design with **Daioh**. |
 | **Ohtengu**  <br>(王天狗, King Tengu) | Very rare | Shares the same label design with **Kintengu**, but with a more elaborately detailed clothing. There's an example that was intended for sale in Japanese-occupied Korea. |
 | **Otafuku**  <br>(お多福) | Common | There was a label variant where only the face of Otafuku was shown instead of the whole body. |
@@ -95,13 +95,13 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Taisho**  <br>(大将, General) | Unique | Always featured in the side of wrappers ![kinpo.png](/suryong_nintendo_labels/kinpo.png)until the 1970's, yet existing decks are surprisingly hard to find. |
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Tancho**  <br>(丹頂, Red-crested Crane) | Uncommon |     |
-| **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) | ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Tokiwa**  <br>(常磐, Eternal) | Rare | Has the word ‘MARUFUKU’ written on the label in English. |
-| **Tsukimi Yama**  <br>(月見山, Moon-viewing Mountain) | Lost | Shares the same label design with **Hana no Yama**. |
-| **Tsuru jirushi**  <br>(鶴印, Crane mark) | Lost | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
+| **Tsukimi Yama**  <br>(月見山, Moon-viewing Mountain) | ★★★★★★<br>**Lost** | Shares the same label design with **Hana no Yama**. |
+| **Tsuru jirushi**  <br>(鶴印, Crane mark) | ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Ume jirushi**  <br>(梅印, Plum mark) | Very rare | Shares the same label design with **Hakubai**. Only used for shirofuda decks. |
 | **Yaezakura**  <br>(八重桜, Double-layered Sakura) | Very rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Kumoizakura**. |
-| **Yoroshii**  <br>(よろしい, another term for Yaku) | Lost | Label appears in the **Nintendo Company Guide 2019.** Another brand of the same name was produced by Nintendo for Iwata Honten, but it featured different packaging design. |
+| **Yoroshii**  <br>(よろしい, another term for Yaku) | ★★★★★★<br>**Lost** | Label appears in the **Nintendo Company Guide 2019.** Another brand of the same name was produced by Nintendo for Iwata Honten, but it featured different packaging design. |
 | **Yu no Hana**  <br>(湯の花, Flowers of the Hot Spring) | Unique |     |
 
 In addition, Nintendo released Club Nintendo Hanafuda in 2007, which featured characters from the Super Mario on only the scoring cards, and all Chaffs were left in their original design. It was available as a reward in the Club Nintendo Rewards Program, first as a red deck, then later as a black deck.
