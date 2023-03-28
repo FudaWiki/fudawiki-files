@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T02:24:54.293Z
+date: 2023-03-28T02:53:08.021Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -14,7 +14,7 @@ In 1902, they started selling the first locally-produced [western playing cards]
 
 Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福).
 
-The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”.
+The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”, which is widely regarded to be the meaning of the name.
 
 Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.
 
@@ -35,9 +35,9 @@ Nintendo also uses a different brand called “Chiyozakura”, which was first r
 
 In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. 
 
-| Brand | Packaging | Card texture | Card pattern |
+| Brand | Label | Packaging | Card details |
 | --- | --- | --- | --- |
-| **Mario Hanafuda**  <br>(マリオ花札) | Two-piece clear plastic box. | Heavy clear-coat on the front; Glossy on the back  <br>(Same as Daitoryo) | Standard Hanafuda but with Mario and Donkey Kong characters on all of the cards |
+| **Mario Hanafuda**  <br>(マリオ花札) |![5._mario_hana.jpg](/suryong_nintendo_labels/5._mario_hana.jpg =150x)| Two-piece clear plastic box.| Heavy clear-coat on the front; Glossy on the back (Same as Daitoryo).<br>The card pattern is standard Hanafuda but with Mario and Donkey Kong characters on all of the cards |
 
 # Discontinued Brands
 
@@ -106,9 +106,9 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 
 In addition, Nintendo released Club Nintendo Hanafuda in 2007, which featured characters from the Super Mario on only the scoring cards, and all Chaffs were left in their original design. It was available as a reward in the Club Nintendo Rewards Program, first as a red deck, then later as a black deck.
 
-| Brand | Packaging | Card texture | Card pattern |
+| Brand | Label | Packaging | Card details |
 | --- | --- | --- | --- |
-| **Club Nintendo Hanafuda**  <br>(クラブニンテンドー花札) | Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Uncoated front; slightly matte back  <br>(Same as Miyako no Hana) | Standard Hanafuda but with Mario characters on all scoring cards. |
+| **Club Nintendo Hanafuda**  <br>(クラブニンテンドー花札) |![6._club_nintendo.jpg](/suryong_nintendo_labels/6._club_nintendo.jpg =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Uncoated front; slightly matte back (Same as Miyako no Hana).<br>Card pattern is standard Hanafuda but with Mario characters on all scoring cards. |
 
 And finally, Nintendo released some hanafuda decks with gold and silver backs. Some of them are commemorative items, and released in extremely limited quantities.
 
