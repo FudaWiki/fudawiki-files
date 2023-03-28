@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T03:11:52.114Z
+date: 2023-03-28T04:00:47.695Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -52,8 +52,8 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Daikoku**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| Unique |     |
 | **Daioh jirushi**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| **Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
 | **Daitengu**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
-| **Eiyu**  <br>(英雄, Hero) | Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
-| **Fuji**  <br>(不二, Peerless) | Very rare |     |
+| **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
+| **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| Very rare |     |
 | **Ginsekai**  <br>(銀世界, Silver World) | Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
 | **Gintengu**  <br>(銀天狗, Silver Tengu) | Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. |
 | **Gion**  <br>(祇園) | Rare |     |
