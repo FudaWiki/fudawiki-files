@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T08:52:10.952Z
+date: 2023-03-28T08:59:23.616Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -86,10 +86,10 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Mushi**  <br>(虫, Insect) |![mushi_clean.jpg](/suryong_nintendo_labels/mushi_clean.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
 | **Oedo**  <br>(大江戸, Great Edo) |![oedo.jpg](/suryong_nintendo_labels/oedo.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Daioh**. |
 | **Ohtengu**  <br>(王天狗, King Tengu) |![ohtengu.jpg](/suryong_nintendo_labels/ohtengu.jpg =150x)| ★★★★<br>Very rare | Shares the same label design as the old design for **Kintengu**, which had a more elaborate clothing pattern. There's an example that was intended for sale in Japanese-occupied Korea. |
-| **Otafuku**  <br>(お多福) | Common | There was a label variant where only the face of Otafuku was shown instead of the whole body. |
-| **Ranko**  <br>(蘭光, Orchid light) | Very rare | Label appears in the **Nintendo Company Guide 2019.** Used in Dairenbana decks. |
-| **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) | Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
-| **Sanbazuru**  <br>(三羽鶴, Three cranes) | Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
+| **Otafuku**  <br>(お多福) |![otafuku1.jpg](/suryong_nintendo_labels/otafuku1.jpg =150x)![otafuku_variant.png](/suryong_nintendo_labels/otafuku_variant.png =150x)| ★<br>Common | There was a label variant where only the face of Otafuku was shown instead of the whole body. |
+| **Ranko**  <br>(蘭光, Orchid light) |![ranko.png](/suryong_nintendo_labels/ranko.png =150x)| ★★★★<br>Very rare | Label appears in the **Nintendo Company Guide 2019.** Used in Dairenbana decks. |
+| **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) |![sakura_no_yama2.png](/suryong_nintendo_labels/sakura_no_yama2.png =150x)| ★★<br>Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
+| **Sanbazuru**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **Shiko jirushi**  <br>(四光印, Four Lights mark) | Unique | Handprinted hanafuda deck. |
 | **Shun'yu**  <br>(春遊, Spring Outing) | Very rare |     |
 | **Taisho**  <br>(大将, General) | Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. |
