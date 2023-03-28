@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T07:04:08.869Z
+date: 2023-03-28T07:44:41.527Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -67,12 +67,12 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Hi no De**  <br>(日の出, Sunrise) |![hinode1.png](/suryong_nintendo_labels/hinode1.png =150x)![hinode2.jpg](/suryong_nintendo_labels/hinode2.jpg =150x)| ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
 | **Hiruko**  <br>(蛭子, another name of Ebisu) |![hiruko.jpg](/suryong_nintendo_labels/hiruko.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
-| **Hyaku-en**  <br>(百圓, 100 yen) | Very rare |     |
-| **Kame jirushi**  <br>(亀印, Turtle mark) | Rare | Only used for shirofuda decks. |
-| **Kaoh jirushi**  <br>(花王印, Flower King mark) | Lost | Appears in one of the photos by Yamauchi No. 10. Shares the same label design with **Ginsekai**. |
-| **Kikumaku**  <br>(菊幕, Chrysanthemum Curtain) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **Kikusui**  <br>(菊水, Chrysanthemum Water) | Unique | Shares the same label design with **Hagoromo**. |
-| **Kinpo**  <br>(金鳳, Golden Phoenix) | Very rare |     |
+| **Hyaku-en**  <br>(百圓, 100 yen) |![hyakuen.jpg](/suryong_nintendo_labels/hyakuen.jpg =150x)| ★★★★<br>Very rare |     |
+| **Kame jirushi**  <br>(亀印, Turtle mark) |![kame.jpg](/suryong_nintendo_labels/kame.jpg =150x)| ★★★<br>Rare | Only used for shirofuda decks. |
+| **Kaoh jirushi**  <br>(花王印, Flower King mark) |![kaoh.png](/suryong_nintendo_labels/kaoh.png =150x)| ★★★★★★<br>**Lost** | Appears in one of the photos by Yamauchi No. 10. Shares the same label design with **Ginsekai**. |
+| **Kikumaku**  <br>(菊幕, Chrysanthemum Curtain) | ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Kikusui**  <br>(菊水, Chrysanthemum Water) | ★★★★★<br>Unique | Shares the same label design with **Hagoromo**. |
+| **Kinpo**  <br>(金鳳, Golden Phoenix) |![kinpo.png](/suryong_nintendo_labels/kinpo.png =150x)| ★★★★<br>Very rare |     |
 | **Kinryu**  <br>(金龍, Golden Dragon) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kintengu**  <br>(金天狗, Golden Tengu) | Common | The brand **Tengu** was known by this name throughout the mid-20th century, and had a similar label design, but the Tengu is drawn slightly different. Same label as **Gintengu**, but the background is gold instead of silver. There was a label variant from 1945-1946 where the Tengu had gold skin instead of red, and the background was red instead of gold. |
 | **Konishiki jirushi**  <br>(小錦印, Sumo Wrestler) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
@@ -92,8 +92,8 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Sanbazuru**  <br>(三羽鶴, Three cranes) | Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **Shiko jirushi**  <br>(四光印, Four Lights mark) | Unique | Handprinted hanafuda deck. |
 | **Shun'yu**  <br>(春遊, Spring Outing) | Very rare |     |
-| **Taisho**  <br>(大将, General) | Unique |     |
-| **Take jirushi**  <br>(竹印, Bamboo mark) | Lost | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
+| **Taisho**  <br>(大将, General) | Unique | Always featured in the side of wrappers ![kinpo.png](/suryong_nintendo_labels/kinpo.png)until the 1970's, yet existing decks are surprisingly hard to find. |
+| **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Tancho**  <br>(丹頂, Red-crested Crane) | Uncommon |     |
 | **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Tokiwa**  <br>(常磐, Eternal) | Rare | Has the word ‘MARUFUKU’ written on the label in English. |
