@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T12:54:00.134Z
+date: 2023-03-28T12:59:53.923Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -114,11 +114,11 @@ In addition, Nintendo released Club Nintendo Hanafuda in 2007, which featured ch
 
 And finally, Nintendo released some hanafuda decks with gold and silver backs. Some of them are commemorative items, and released in extremely limited quantities.
 
-| Brand | Rarity | Notes |
-| --- | --- | --- |
-| **Kin-Gin**  <br>(金銀, Gold-Silver) | Uncommon | Came as a set of Gold-back and Silver-back decks, in a large gold colored carboard box. Each deck is wrapped in cellophane wrapper only, and encased in two-piece plastic box with a clear top and a transparent gold-colored bottom. The cards themselves have a foil finish on the front and shiny metallic finish on the back. |
-| **Tokusei Hanafuda**  <br>(特製花札, Special Hanafuda) | Unique | Released sometime between 1975-1985 (possibly 1978). Came as a two-deck set, in a large paulownia box with a pull cord to elevate the decks from the box. Insert describes the set to be a 20th anniversary gift for something, and used gold and silver leaf. The decks were wrapped in textured gold or silver foil wrapper, with ‘特製花札’ marked on them. It is unknown what the cards inside look like. |
-| (No brand) | Unique | Released in commemoration of the Nintendo Headquarters Development Building on June 2014. Came as a set of Gold-back and Silver-back decks, in a very large paulownia box with Mario engraved on it along with other hanafuda motifs and the word はなふだ (hanafuda) and the Marufuku logo. The box itself is wrapped inside a purple cloth with the Marufuku logo on it, and the entire thing is stored inside a plain cardboard box with the Nintendo logo on it. The decks were not wrapped; only encased in a two piece plastic box with a clear top and black bottom. The faces of the cards have gold outlines on the gold deck and silver outlines on the silver deck. |
+| Brand | Box | Rarity | Notes |
+| --- | --- | --- | --- |
+| **Kin-Gin**  <br>(金銀, Gold-Silver) |![kingin.png](/suryong_nintendo_labels/kingin.png =1000x)| ★★<br>Uncommon | Came as a set of Gold-back and Silver-back decks, in a large gold colored carboard box. Each deck is wrapped in cellophane wrapper only, and encased in two-piece plastic box with a clear top and a transparent gold-colored bottom. The cards themselves have a foil finish on the front and shiny metallic finish on the back. |
+| **Tokusei Hanafuda**  <br>(特製花札, Special Hanafuda) |![special_hanafuda.jpg](/suryong_nintendo_labels/special_hanafuda.jpg =1000x)| ★★★★★<br>Unique | Released sometime between 1975-1985 (possibly 1978). Came as a two-deck set, in a large paulownia box with a pull cord to elevate the decks from the box. Insert describes the set to be a 20th anniversary gift for something, and used gold and silver leaf. The decks were wrapped in textured gold or silver foil wrapper, with ‘特製花札’ marked on them. It is unknown what the cards inside look like. |
+| (No brand) |![comemorative_mario.jpg](/suryong_nintendo_labels/comemorative_mario.jpg =1000x)| ★★★★<br>Very rare | Released in commemoration of the Nintendo Headquarters Development Building on June 2014. Came as a set of Gold-back and Silver-back decks, in a very large paulownia box with Mario engraved on it along with other hanafuda motifs and the word はなふだ (hanafuda) and the Marufuku logo. The box itself is wrapped inside a purple cloth with the Marufuku logo on it, and the entire thing is stored inside a plain cardboard box with the Nintendo logo on it. The decks were not wrapped; only encased in a two piece plastic box with a clear top and black bottom. The faces of the cards have gold outlines on the gold deck and silver outlines on the silver deck. |
 
 # Character Hanafuda Decks 
 In addition to the above, Nintendo has also manufactured various Character Hanafuda decks, which are usually available in limited quantities only.
