@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T02:24:24.976Z
+date: 2023-03-28T02:24:54.293Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -31,7 +31,7 @@ Nintendo also uses a different brand called “Chiyozakura”, which was first r
 
 | Brand | Label | Packaging | Card texture |
 | --- | --- | --- | --- |
-| **Chiyozakura**  <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =150x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) |
+| **Chiyozakura**  <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =100x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) |
 
 In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. 
 
