@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T06:05:56.152Z
+date: 2023-03-28T07:04:08.869Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -64,9 +64,9 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Hana no Yama**  <br>(花の山, Mountain of Flowers) |![hana_no_yama1.png](/suryong_nintendo_labels/hana_no_yama1.png =150x)![hana_no_yama2.png](/suryong_nintendo_labels/hana_no_yama2.png =150x)| ★★<br>Uncommon | Shares the same label design with **Tsukimi Yama**. Has a similar label design to that of **Sakura no Yama**. There was a label variant where the mountains were pink and black instead of green. |
 | **Hatsuzakura**  <br>(初櫻,First Sakura) |![hatsuzakura_old.jpg](/suryong_nintendo_labels/hatsuzakura_old.jpg =150x)![hatsuzakura_new.png](/suryong_nintendo_labels/hatsuzakura_new.png =150x)| ★★<br>Uncommon | Came in two label designs, but there are only minor differences between them. |
 | **Heian**  <br>(平安, Peace) |![heian_sakura.png](/suryong_nintendo_labels/heian_sakura.png =150x)![heian1.png](/suryong_nintendo_labels/heian1.png =150x)| ★★★<br>Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
-| **Hi no De**  <br>(日の出, Sunrise) | ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
-| **Hiruko**  <br>(蛭子, another name of Ebisu) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **Ho-oh**  <br>(鳳凰, Phoenix) | Lost | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
+| **Hi no De**  <br>(日の出, Sunrise) |![hinode1.png](/suryong_nintendo_labels/hinode1.png =150x)![hinode2.jpg](/suryong_nintendo_labels/hinode2.jpg =150x)| ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
+| **Hiruko**  <br>(蛭子, another name of Ebisu) |![hiruko.jpg](/suryong_nintendo_labels/hiruko.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
 | **Hyaku-en**  <br>(百圓, 100 yen) | Very rare |     |
 | **Kame jirushi**  <br>(亀印, Turtle mark) | Rare | Only used for shirofuda decks. |
 | **Kaoh jirushi**  <br>(花王印, Flower King mark) | Lost | Appears in one of the photos by Yamauchi No. 10. Shares the same label design with **Ginsekai**. |
