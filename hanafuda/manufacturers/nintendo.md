@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T12:50:12.347Z
+date: 2023-03-28T12:54:00.134Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -75,6 +75,7 @@ Note: Includes some brands produced by Nintendo for other companies.
 | **Kinpo**  <br>(金鳳, Golden Phoenix) |![kinpo.png](/suryong_nintendo_labels/kinpo.png =150x)| ★★★★<br>Very rare |     |
 | **Kinryu**  <br>(金龍, Golden Dragon) |![kinryu.jpg](/suryong_nintendo_labels/kinryu.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kintengu**  <br>(金天狗, Golden Tengu) |![kintengu.jpg](/suryong_nintendo_labels/kintengu.jpg =150x)![kintengu_3.png](/suryong_nintendo_labels/kintengu_3.png =150x)![kintengu2.png](/suryong_nintendo_labels/kintengu2.png =150x)| ★<br>Common | The brand **Tengu** was known by this name throughout the mid-20th century, and had a similar label design, but the Tengu is drawn slightly different. Same label as **Gintengu**, but the background is gold instead of silver. There was a label variant from 1945-1946 where the Tengu had gold skin instead of red, and the background was red instead of gold. |
+| **Koban**  <br>(小判, Japanese coin) |![koban_iwata.png](/suryong_nintendo_labels/koban_iwata.png)| ★★★★<br>Very Rare | Produced by Nintendo for Iwata Honten. |
 | **Konishiki jirushi**  <br>(小錦印, Sumo Wrestler Mark) |![konishiki.jpg](/suryong_nintendo_labels/konishiki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) |![kumoizakura.png](/suryong_nintendo_labels/kumoizakura.png =150x)| ★★★<br>Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Yaezakura**. |
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) |![kyonohana.jpg](/suryong_nintendo_labels/kyonohana.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
