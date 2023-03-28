@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T08:35:42.018Z
+date: 2023-03-28T08:41:05.630Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -85,7 +85,7 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Matsu jirushi**  <br>(松印, Pine mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Mushi**  <br>(虫, Insect) |![mushi_clean.jpg](/suryong_nintendo_labels/mushi_clean.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
 | **Oedo**  <br>(大江戸, Great Edo) |![oedo.jpg](/suryong_nintendo_labels/oedo.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Daioh**. |
-| **Ohtengu**  <br>(王天狗, King Tengu) | Very rare | Shares the same label design with **Kintengu**, but with a more elaborately detailed clothing. There's an example that was intended for sale in Japanese-occupied Korea. |
+| **Ohtengu**  <br>(王天狗, King Tengu) |![ohtengu.jpg](/suryong_nintendo_labels/ohtengu.jpg =150x)| ★★★★<br>Very rare | Shares the same label design with **Kintengu**, but with a more elaborately detailed clothing. There's an example that was intended for sale in Japanese-occupied Korea. |
 | **Otafuku**  <br>(お多福) | Common | There was a label variant where only the face of Otafuku was shown instead of the whole body. |
 | **Ranko**  <br>(蘭光, Orchid light) | Very rare | Label appears in the **Nintendo Company Guide 2019.** Used in Dairenbana decks. |
 | **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) | Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
