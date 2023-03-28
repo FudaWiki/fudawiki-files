@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T08:59:23.616Z
+date: 2023-03-28T09:01:03.888Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -99,7 +99,7 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Tokiwa**  <br>(常磐, Eternal) | Rare | Has the word ‘MARUFUKU’ written on the label in English. |
 | **Tsukimi Yama**  <br>(月見山, Moon-viewing Mountain) | ★★★★★★<br>**Lost** | Shares the same label design with **Hana no Yama**. |
 | **Tsuru jirushi**  <br>(鶴印, Crane mark) | ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
-| **Ume jirushi**  <br>(梅印, Plum mark) | Very rare | Shares the same label design with **Hakubai**. Only used for shirofuda decks. |
+| **Ume jirushi**  <br>(梅印, Plum mark) |![ume.png](/suryong_nintendo_labels/ume.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Hakubai**. Only used for shirofuda decks. |
 | **Yaezakura**  <br>(八重桜, Double-layered Sakura) | Very rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Kumoizakura**. |
 | **Yoroshii**  <br>(よろしい, another term for Yaku) | ★★★★★★<br>**Lost** | Label appears in the **Nintendo Company Guide 2019.** Another brand of the same name was produced by Nintendo for Iwata Honten, but it featured different packaging design. |
 | **Yu no Hana**  <br>(湯の花, Flowers of the Hot Spring) | Unique |     |
