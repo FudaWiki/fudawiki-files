@@ -2,7 +2,7 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2022-11-19T03:15:11.314Z
+date: 2023-03-28T00:40:45.934Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
@@ -64,7 +64,8 @@ Players then count their card points, and if they formed a yaku, they either add
 | 50 pts. | **Four-Three** (Shisou) | Four cards of the same month plus Three cards of another month. |
 | 50 pts. | **Triplet** (Sanbon) | Three cards of the same month.  <br>Only Iris![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x), Chrysanthemum![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x), and Paulownia![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) cards are counted. |
 
-Playing with Teyaku is optional; some play without Teyaku.
+> Playing with Teyaku is optional; some play without Teyaku.
+{.is-warning}
 
 ## Dekiyaku
 
