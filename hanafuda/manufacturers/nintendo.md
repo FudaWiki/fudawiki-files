@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T04:05:23.612Z
+date: 2023-03-28T06:01:11.280Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -54,17 +54,17 @@ Note: Brands produced by Nintendo for other companies are not listed here.
 | **Daitengu**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
 | **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
 | **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★★<br>Very rare |     |
-| **Ginsekai**  <br>(銀世界, Silver World) | ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
-| **Gintengu**  <br>(銀天狗, Silver Tengu) | ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. |
-| **Gion**  <br>(祇園) | ★★★<br>Rare |     |
-| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) | ★★★★★<br>Unique | Shares the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. |
-| **Hagoromo**  <br>(羽衣, Angelic Clothing) | ★★★<br>Very rare | Shares the same label design with **Kikusui**. |
-| **Hakubai**  <br>(白梅, White Plum) | ★<br>Common | Shares the same label design with **Ume jirushi**. |
-| **Hakutsuru**  <br>(白鶴, White Crane) | ★★★★★<br>Unique |     |
-| **Hana no Yama**  <br>(花の山, Mountain of Flowers) | Uncommon | Shares the same label design with **Tsukimi Yama**. Has a similar label design to that of **Sakura no Yama**. There was a label variant where the mountains were pink and black instead of green. |
-| **Hatsuzakura**  <br>(初櫻,First Sakura) | Uncommon | Came in two label designs, but there are only minor differences between them. |
-| **Heian**  <br>(平安, Peace) | Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
-| **Hi no De**  <br>(日の出, Sunrise) | Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
+| **Ginsekai**  <br>(銀世界, Silver World) |![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
+| **Gintengu**  <br>(銀天狗, Silver Tengu) |![gintengu.jpg](/suryong_nintendo_labels/gintengu.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. Only a deck with an individual paulownia box (no printed label) exists.|
+| **Gion**  <br>(祇園) |![gion.png](/suryong_nintendo_labels/gion.png =150x)| ★★★<br>Rare |     |
+| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) |![goshozakura.png](/suryong_nintendo_labels/goshozakura.png =150x)| ★★★★★<br>Unique | Shares the same label design with **Asahi Sakura**, **Kumoizakura**, and **Yaezakura**. |
+| **Hagoromo**  <br>(羽衣, Angelic Clothing) |![hagoromo.png](/suryong_nintendo_labels/hagoromo.png =150x)| ★★★<br>Very rare | Shares the same label design with **Kikusui**. |
+| **Hakubai**  <br>(白梅, White Plum) |![hakubai.png](/suryong_nintendo_labels/hakubai.png =150x)| ★<br>Common | Shares the same label design with **Ume jirushi**. |
+| **Hakutsuru**  <br>(白鶴, White Crane) |![hakutsuru.jpg](/suryong_nintendo_labels/hakutsuru.jpg =150x)| ★★★★★<br>Unique |     |
+| **Hana no Yama**  <br>(花の山, Mountain of Flowers) |![hana_no_yama1.png](/suryong_nintendo_labels/hana_no_yama1.png =150x)![hana_no_yama2.png](/suryong_nintendo_labels/hana_no_yama2.png =150x)| ★★<br>Uncommon | Shares the same label design with **Tsukimi Yama**. Has a similar label design to that of **Sakura no Yama**. There was a label variant where the mountains were pink and black instead of green. |
+| **Hatsuzakura**  <br>(初櫻,First Sakura) || ★★<br>Uncommon | Came in two label designs, but there are only minor differences between them. |
+| **Heian**  <br>(平安, Peace) | ★★★<br>Rare | Came in two label designs. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background. |
+| **Hi no De**  <br>(日の出, Sunrise) | ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
 | **Hiruko**  <br>(蛭子, another name of Ebisu) | Lost | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Ho-oh**  <br>(鳳凰, Phoenix) | Lost | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
 | **Hyaku-en**  <br>(百圓, 100 yen) | Very rare |     |
