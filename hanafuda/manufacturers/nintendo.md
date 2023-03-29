@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-29T12:04:26.982Z
+date: 2023-03-29T12:10:34.501Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -48,6 +48,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Arashiyama**  <br>(嵐山) |![arashiyama_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/arashiyama_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
 | **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
 | **Azuma Tengu**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| ★★<br>Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. Briefly succeeded by **Daitengu** in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
+| **Banzai**  <br>(萬歳, Hurrah) |![banzai_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/banzai_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **Chujo**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
 | **Daifuku**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Daikoku**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★★<br>Unique | Depicts Daikokuten, one of the Seven Lucky Gods.|
