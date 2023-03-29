@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-29T08:30:38.788Z
+date: 2023-03-29T08:33:55.194Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -104,6 +104,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Taisho**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★★<br>Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. |
 | **Taisho Hana**  <br>(大正花, Taisho Flower) |![taisho_hana_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/taisho_hana_kamigataya.jpg =150x)| ★★★★★<br>Unique | Produced by Nintendo for Kamigataya. |
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
+| **Take ni Suzume**  <br>(竹に雀, Sparrow on Bamboo) |![takenisuzume_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/takenisuzume_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **Tancho**  <br>(丹頂, Red-crested Crane) |![tancho.png](/suryong_nintendo_labels/tancho.png =150x)| ★★<br>Uncommon |     |
 | **Tatsutagawa**  <br>(龍田川, Tatsuta River)|![tatsutagawa_marunado.png](/tatsutagawa_marunado.png =150x)| ★★★★★<br>Unique | Produced by Nintendo for Marunado.|
 | **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) |![teasobi_karuta.png](/suryong_nintendo_labels/teasobi_karuta.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. This brand is also carried by Tsurudaya.|
@@ -113,6 +114,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Ume jirushi**  <br>(梅印, Plum mark) |![ume.png](/suryong_nintendo_labels/ume.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Hakubai**. Only used for shirofuda decks. |
 | **Yaezakura**  <br>(八重桜, Double-layered Sakura) |![yaezakura.png](/suryong_nintendo_labels/yaezakura.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, **Hyakuman-en**, and **Kumoizakura**. |
 | **Yamatonishiki**  <br>(倭錦, Ancient Japanese Brocade) |![yamatonishiki_kamigataya.png](/suryong_nintendo_labels/kamigataya/yamatonishiki_kamigataya.png =150x)| ★★★★★<br>Unique | Produced by Nintendo for Kamigataya. |
+| **Yayoi**  <br>(やよひ, March) |![yayoi_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/yayoi_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **Yoroshii**  <br>(よろしい, another term for Yaku) |![yoroshii.png](/suryong_nintendo_labels/yoroshii.png =150x)![yoroshii_iwata.jpg](/suryong_nintendo_labels/yoroshii_iwata.jpg =150x)| ★★★★★<br>Unique | Label appears in the **Nintendo Company Guide 2019.** Also produced by Nintendo for Iwata Honten, but it featured different label design. Tanaka Gyokusuido also carried this same brand, with the same label design as the Iwata Honten version.|
 | **Yu no Hana**  <br>(湯の花, Flowers of the Hot Spring) |![yunohana.jpg](/suryong_nintendo_labels/yunohana.jpg =150x)| ★★★★★<br>Unique |     |
 
