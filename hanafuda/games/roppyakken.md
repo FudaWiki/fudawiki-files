@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-11-18T08:36:17.246Z
+date: 2023-03-29T10:21:19.519Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -135,7 +135,7 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 |50|**Four Paulownias**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 
 # Notable Variants
-- If any player has only scored 30 points or fewer during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"]. This may not count ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, or may not count Yaku points too.
+- If any player has only scored 30 points or fewer during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, a shortened form of fukikeshi - 吹き消し (lit. *blow away*)]. This may not count ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, or may not count Yaku points too.
 - Players may deal 10 cards instead of  8 cards for each player in 2 player games. No cards will be left in the deck at the end of a round, and there may be Triple Hand Threes.
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
 - In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
@@ -201,7 +201,7 @@ The gameplay is identical to Roppyakken, with few exceptions:
 
 # Korean Variants
 
-Korean variants use different scoring rules after the end of a round, and Dandruff does not exist. Also, some yaku-related rules are different.
+Korean variants use different scoring rules after the end of a round, and round negation does not exist. Also, some yaku-related rules are different.
 
 - In Yukbaek variant, Four Bright yaku also requires [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and to complete Seven Ribbons there must be [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon). Both yakus are considered as an automatic win regardless of the score (the game ends when someone completes any of these two yakus).
 - In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C scores 600/320/0 points in a round, player A adds 280 points (600 - 320) in game score and other players get nothing.
