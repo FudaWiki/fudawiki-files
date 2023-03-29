@@ -2,7 +2,7 @@
 title: Ino-Shika-Chō (Roppyakken variant)
 description: A roppyakken variant played in Hokkaido, Japan.
 published: true
-date: 2022-11-19T03:33:26.070Z
+date: 2023-03-29T10:22:21.127Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-23T14:35:31.692Z
@@ -75,7 +75,7 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 |50|**Four Paulownias**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 
 ## Fuke
-- If any player other than the dealer has only scored **60 points** or fewer during a round, all players' score calculations for the round, including card points, Teyaku points, and Dekiyaku points, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"].
+- If any player other than the dealer has only scored **60 points** or fewer during a round, all players' score calculations for the round, including card points, Teyaku points, and Dekiyaku points, are invalidated. This negation of scoring is called *fuke* [ふけ, a shortened form of fukikeshi - 吹き消し (lit. *blow away*)].
 - If the **dealer** has only scored **60 points** or fewer during a round, all players' score calculations for the round are invalidated **except for the other two players' Dekiyaku points.**
 
 # Bibliography
