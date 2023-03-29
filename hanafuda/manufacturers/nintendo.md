@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-29T06:36:38.570Z
+date: 2023-03-29T07:16:14.959Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -45,7 +45,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 
 | Brand | Label | Rarity | Notes |
 | --- | --- | --- | --- |
-| **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
+| **Asahi Sakura**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
 | **Azuma Tengu**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| ★★<br>Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. Briefly succeeded by **Daitengu** in 1977. An example with a newer label design (probably from 1994 or later) had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
 | **Chujo**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
 | **Daifuku**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
@@ -57,7 +57,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Ginsekai**  <br>(銀世界, Silver World) |![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
 | **Gintengu**  <br>(銀天狗, Silver Tengu) |![gintengu.jpg](/suryong_nintendo_labels/gintengu.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. Only a deck with an individual paulownia box (no printed label) exists.|
 | **Gion**  <br>(祇園) |![gion.png](/suryong_nintendo_labels/gion.png =150x)| ★★★<br>Rare |     |
-| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) |![goshozakura.png](/suryong_nintendo_labels/goshozakura.png =150x)| ★★★★★<br>Unique | Shares the same label design with **Asahi Sakura**, **Kumoizakura**, and **Yaezakura**. |
+| **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) |![goshozakura.png](/suryong_nintendo_labels/goshozakura.png =150x)| ★★★★★<br>Unique | Shares the same label design with **Asahi Sakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. |
 | **Hagoromo**  <br>(羽衣, Angelic Clothing) |![hagoromo.png](/suryong_nintendo_labels/hagoromo.png =150x)| ★★★<br>Very rare | Shares the same label design with **Kikusui**. |
 | **Hakubai**  <br>(白梅, White Plum) |![hakubai.png](/suryong_nintendo_labels/hakubai.png =150x)| ★<br>Common | Shares the same label design with **Ume jirushi**. |
 | **Hakutsuru**  <br>(白鶴, White Crane) |![hakutsuru.jpg](/suryong_nintendo_labels/hakutsuru.jpg =150x)| ★★★★★<br>Unique |     |
@@ -68,16 +68,18 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Hiruko**  <br>(蛭子, another name of Ebisu) |![hiruko.jpg](/suryong_nintendo_labels/hiruko_better.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
 | **Hyaku-en**  <br>(百圓, 100 yen) |![hyakuen.jpg](/suryong_nintendo_labels/hyakuen.jpg =150x)| ★★★★<br>Very rare |     |
+| **Hyakuman-en**  <br>(百万圓, 1 million yen) |![hyakumanen_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/hyakumanen_kamigataya.jpg =150x)| ★★★<br>Rare | Produced by Nintendo for Kamigataya. Shares the same label design with **Asahi Sakura**, **Goshozakura**, **Kumoizakura**, and **Yaezakura**. Kyoto Karuta also carries this brand.|
 | **Kame jirushi**  <br>(亀印, Turtle mark) |![kame.jpg](/suryong_nintendo_labels/kame.jpg =150x)| ★★★<br>Rare | Only used for shirofuda decks. |
 | **Kaoh jirushi**  <br>(花王印, Flower King mark) |![kaoh.png](/suryong_nintendo_labels/kaoh.png =150x)| ★★★★★★<br>**Lost** | Appears in one of the photos by Yamauchi No. 10. Shares the same label design with **Ginsekai**. |
 | **Kikumaku**  <br>(菊幕, Chrysanthemum Curtain) |![kikumaku.jpg](/suryong_nintendo_labels/kikumaku.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kikusui**  <br>(菊水, Chrysanthemum Water) |![kikusui.png](/suryong_nintendo_labels/kikusui.png =150x)| ★★★★★<br>Unique | Shares the same label design with **Hagoromo**. |
 | **Kinpo**  <br>(金鳳, Golden Phoenix) |![kinpo.png](/suryong_nintendo_labels/kinpo.png =150x)| ★★★★<br>Very rare |     |
 | **Kinryu**  <br>(金龍, Golden Dragon) |![kinryu.jpg](/suryong_nintendo_labels/kinryu.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Kinsekai**  <br>(金世界, Golden World) |![kinsekai_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/kinsekai_kamigataya.jpg =150x)| ★★★★<br>Very Rare | Produced by Nintendo for Kamigataya. |
 | **Kintengu**  <br>(金天狗, Golden Tengu) |![kintengu.jpg](/suryong_nintendo_labels/kintengu.jpg =150x)![kintengu_3.png](/suryong_nintendo_labels/kintengu_3.png =150x)![kintengu2.png](/suryong_nintendo_labels/kintengu2.png =150x)| ★<br>Common | The brand **Tengu** was known by this name throughout the mid-20th century, and had a similar label design, but the Tengu is drawn slightly different. Same label as **Gintengu**, but the background is gold instead of silver. There was a label variant from 1945-1946 where the Tengu had gold skin instead of red, and the background was red instead of gold. |
 | **Koban**  <br>(小判, Japanese coin) |![koban_iwata.png](/suryong_nintendo_labels/koban_iwata.png)| ★★★★<br>Very Rare | Produced by Nintendo for Iwata Honten. |
-| **Konishiki jirushi**  <br>(小錦印, Sumo Wrestler Mark) |![konishiki.jpg](/suryong_nintendo_labels/konishiki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) |![kumoizakura.png](/suryong_nintendo_labels/kumoizakura.png =150x)| ★★★<br>Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Yaezakura**. |
+| **Konishiki jirushi**  <br>(小錦印, Small Brocade Mark) |![konishiki.jpg](/suryong_nintendo_labels/konishiki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) |![kumoizakura.png](/suryong_nintendo_labels/kumoizakura.png =150x)| ★★★<br>Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, **Hyakuman-en**, and **Yaezakura**. |
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) |![kyonohana.jpg](/suryong_nintendo_labels/kyonohana.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
 | **Marufuku jirushi**  <br>(丸福印, Marufuku mark) |![marufuku.jpg](/suryong_nintendo_labels/marufuku.jpg =150x)| ★★★★★★<br>**Lost** | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
 | **Marufuku Sakura**  <br>(丸福桜) |![marufuku_sakura_1.jpg](/suryong_nintendo_labels/marufuku_sakura_1.jpg =150x)![marufuku_sakura_2.png](/suryong_nintendo_labels/marufuku_sakura_2.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
@@ -93,7 +95,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) |![sakura_no_yama2.png](/suryong_nintendo_labels/sakura_no_yama2.png =150x)| ★★<br>Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
 | **Sanbazuru**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **Shiko jirushi**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
-| **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)| ★★★★<br>Very rare | Also released as a Kamigataya brand. |
+| **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)![shunyu_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/shunyu_kamigataya.jpg =150x)| ★★★<br>Rare | Also released as a Kamigataya brand, still produced by Nintendo. |
 | **Taisho**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★★<br>Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. |
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Tancho**  <br>(丹頂, Red-crested Crane) |![tancho.png](/suryong_nintendo_labels/tancho.png =150x)| ★★<br>Uncommon |     |
@@ -103,7 +105,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Tsukimi Yama**  <br>(月見山, Moon-viewing Mountain) |![tsukimi_yama.jpg](/suryong_nintendo_labels/tsukimi_yama.jpg =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Hana no Yama**. |
 | **Tsuru jirushi**  <br>(鶴印, Crane mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Ume jirushi**  <br>(梅印, Plum mark) |![ume.png](/suryong_nintendo_labels/ume.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Hakubai**. Only used for shirofuda decks. |
-| **Yaezakura**  <br>(八重桜, Double-layered Sakura) |![yaezakura.png](/suryong_nintendo_labels/yaezakura.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, and **Kumoizakura**. |
+| **Yaezakura**  <br>(八重桜, Double-layered Sakura) |![yaezakura.png](/suryong_nintendo_labels/yaezakura.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, **Hyakuman-en**, and **Kumoizakura**. |
 | **Yoroshii**  <br>(よろしい, another term for Yaku) |![yoroshii.png](/suryong_nintendo_labels/yoroshii.png =150x)![yoroshii_iwata.jpg](/suryong_nintendo_labels/yoroshii_iwata.jpg =150x)| ★★★★★<br>Unique | Label appears in the **Nintendo Company Guide 2019.** Also produced by Nintendo for Iwata Honten, but it featured different label design. Tanaka Gyokusuido also carried this same brand, with the same label design as the Iwata Honten version.|
 | **Yu no Hana**  <br>(湯の花, Flowers of the Hot Spring) |![yunohana.jpg](/suryong_nintendo_labels/yunohana.jpg =150x)| ★★★★★<br>Unique |     |
 
