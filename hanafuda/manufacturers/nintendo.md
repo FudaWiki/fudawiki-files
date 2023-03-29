@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-28T12:59:53.923Z
+date: 2023-03-29T06:36:38.570Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -18,7 +18,7 @@ The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent O
 
 Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.
 
-# Brands
+# Current Brands
 Currently, Nintendo produces the standard Hanafuda pattern in 3 main brands, which differ only in the texture of the cards, and the packaging design.
 
 | Brand | Label | Packaging | Card texture |
@@ -41,7 +41,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 
 # Discontinued Brands
 
-Note: Includes some brands produced by Nintendo for other companies.
+*Note: Includes some brands produced by Nintendo for other companies.*
 
 | Brand | Label | Rarity | Notes |
 | --- | --- | --- | --- |
@@ -97,7 +97,8 @@ Note: Includes some brands produced by Nintendo for other companies.
 | **Taisho**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★★<br>Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. |
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Tancho**  <br>(丹頂, Red-crested Crane) |![tancho.png](/suryong_nintendo_labels/tancho.png =150x)| ★★<br>Uncommon |     |
-| **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) |![teasobi_karuta.png](/suryong_nintendo_labels/teasobi_karuta.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
+| **Tatsutagawa**  <br>(龍田川, Tatsuta River)|![tatsutagawa_marunado.png](/tatsutagawa_marunado.png =150x)| ★★★★★<br>Unique | Produced by Nintendo for Marunado.|
+| **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) |![teasobi_karuta.png](/suryong_nintendo_labels/teasobi_karuta.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. This brand is also carried by Tsurudaya.|
 | **Tokiwa**  <br>(常磐, Eternal) |![tokiwa.jpg](/suryong_nintendo_labels/tokiwa.jpg =150x)| ★★★<br>Rare | Has the word ‘MARUFUKU’ written on the label in English. Mimics the label design of a Murai Bros. cigarette brand of the same name.|
 | **Tsukimi Yama**  <br>(月見山, Moon-viewing Mountain) |![tsukimi_yama.jpg](/suryong_nintendo_labels/tsukimi_yama.jpg =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Hana no Yama**. |
 | **Tsuru jirushi**  <br>(鶴印, Crane mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
@@ -106,7 +107,7 @@ Note: Includes some brands produced by Nintendo for other companies.
 | **Yoroshii**  <br>(よろしい, another term for Yaku) |![yoroshii.png](/suryong_nintendo_labels/yoroshii.png =150x)![yoroshii_iwata.jpg](/suryong_nintendo_labels/yoroshii_iwata.jpg =150x)| ★★★★★<br>Unique | Label appears in the **Nintendo Company Guide 2019.** Also produced by Nintendo for Iwata Honten, but it featured different label design. Tanaka Gyokusuido also carried this same brand, with the same label design as the Iwata Honten version.|
 | **Yu no Hana**  <br>(湯の花, Flowers of the Hot Spring) |![yunohana.jpg](/suryong_nintendo_labels/yunohana.jpg =150x)| ★★★★★<br>Unique |     |
 
-In addition, Nintendo released Club Nintendo Hanafuda in 2007, which featured characters from the Super Mario on only the scoring cards, and all Chaffs were left in their original design. It was available as a reward in the Club Nintendo Rewards Program, first as a red deck, then later as a black deck.
+In addition, Nintendo released Club Nintendo Hanafuda in 2007, which featured characters from the Super Mario on only the scoring cards, and all Chaffs were left in their original design. It was only available as a reward in the Club Nintendo Rewards Program, first as a red deck, then later as a black deck. The red deck was also released internationally, and included a translated rules for [Koi-koi](/en/hanafuda/games/koi-koi).
 
 | Brand | Label | Packaging | Card details |
 | --- | --- | --- | --- |
