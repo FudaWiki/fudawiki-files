@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-03-29T12:10:34.501Z
+date: 2023-03-30T12:13:36.571Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -55,7 +55,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Daioh jirushi**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
 | **Daitengu**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a replacement brand for **Azuma Tengu**. The label features a floating Tengu head among the clouds, in a silver background. |
 | **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
-| **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★★<br>Very rare |     |
+| **Fuji**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★<br>Rare |     |
 | **Fukuju**  <br>(福壽, Fortune and Prosperity) |![fukuju_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost.jpg =150x)![fukuju_lost_2.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost_2.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Two label designs are known to exist, one of which depicts Fukurokuju, one of the Seven Lucky Gods.|
 | **Ginsekai**  <br>(銀世界, Silver World) |![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
 | **Gintengu**  <br>(銀天狗, Silver Tengu) |![gintengu.jpg](/suryong_nintendo_labels/gintengu.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. Only a deck with an individual paulownia box (no printed label) exists.|
