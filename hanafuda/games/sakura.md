@@ -2,11 +2,14 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2022-12-19T05:39:17.466Z
+date: 2023-03-30T13:40:15.578Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
 ---
+
+> **Some of the information are incomplete or unclear. You can help by expanding it.**
+{.is-warning}
 
 Sakura is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique *Hiki* rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
 
@@ -90,8 +93,8 @@ Thus, each player's (or team's) score at the end of the round will be:
 
 **The player with the highest score at the end of the round becomes dealer for the next round**. In the event of a tie, the player who was earliest in the turn order becomes the dealer.
 
-> What happens here when playing in teams? Does the winning team decide among themselves who will be the dealer next round?
-{.is-info}
+> **What happens here when playing in teams? Does the winning team decide among themselves who will be the dealer next round?**
+{.is-warning}
 
 # End of Game
 The game ends after the agreed-upon number of rounds has been played. At this point, the player (or team) with the highest total score is the winner.
