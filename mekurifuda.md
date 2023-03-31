@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2022-12-21T02:35:29.480Z
+date: 2023-03-31T05:56:44.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -84,6 +84,7 @@ Some Mekurifuda patterns have gold and silver overprints to differentiate which 
 |**Kurouma**|Suruga, Shizuoka, Hokkaido|Design is identical to Fukutoku except the 2 of Coins has a Black horse on the top coin and 本 on the bottom coin. The 2 of coins is also overprinted with gold rings.</br> There was a screw-up between the black and red overprints and the outline drawings of the Maids and the Horses; All 10 (Maids) of Swords, Cups and Coins have outline drawings of Horses, while all 11 (Horses) of Swords, Cups and Coins have outline drawings of Maids!|
 |**Mitsuogi**|Echigo, Wakasa, Omi, Etchu, Echizen, and Hokkaido|Design is identical to Fukutoku and Kurouma, but the dragons and courts are drawn slightly differently and with very faint humanoid characteristics.</br>Also,the 2 of Coins has three golden hand fans with a red sun on each of them, arranged in a circle on the top coin, while the bottom coin is black and overprinted with a feather-like pattern inside the circle.|
 |**Komatsu**|Echizen, Tsuruga, Takefu, Fukui, Mikuni-Minato, and Kishu|Swords and Cups suits are made of very thin lines; Coins are very small dots. Courts and dragons are all abstract, made up of thin black and red strokes.</br>There are no overprints on the cards.</br> Comes with a red "Onifuda".|
+|**Sakuragawa**|Hokuriku Region|Swords and Cups suits are made of thick lines; Cups are round. Courts and dragons are drawn, but are completely obscured by thick strokes of black and red.</br>There are no overprints on the cards.</br>Does not come with any Onifuda.|
 
 # Cards that Mimicked a Mekurifuda deck
 ## Shimafuda
