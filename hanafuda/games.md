@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-03-01T05:57:02.209Z
+date: 2023-03-31T06:57:03.243Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -72,6 +72,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hachi](/en/hanafuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Mekuri-kei|Japan|
 |[Hanahuda](/en/hanafuda/games/hanahuda), a.k.a. Hanakuda or Palauan Hanafuda|2-4|Fishing|Mekuri-kei|Palau|
+|[Hana-Tanzaku](/en/hanafuda/games/hana-tanzaku)|3|Fishing|Mekuri-kei|Japan|
 |[Hankan](/en/hanafuda/games/shoniban#hankan-batta-maki-variant)|2+|Banking|Kabu-kei, Honbiki-kei|Chukyo region, Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Kabu-kei|Japan|
 |[Hiraya](/en/hanafuda/games/hiraya)|3|Fishing|Mekuri-kei|Japan|
