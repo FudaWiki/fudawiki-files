@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-01T04:09:14.626Z
+date: 2023-04-02T14:26:24.981Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -73,6 +73,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
 | **Hyaku-en**  <br>(百圓, 100 yen) |![hyakuen.jpg](/suryong_nintendo_labels/hyakuen.jpg =150x)| ★★★★<br>Very rare |     |
 | **Hyakuman-en**  <br>(百万圓, 1 million yen) |![hyakumanen_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/hyakumanen_kamigataya.jpg =150x)| ★★★<br>Rare | Produced by Nintendo for Kamigataya. Shares the same label design with **Asahi Sakura**, **Goshozakura**, **Kumoizakura**, and **Yaezakura**. Usui Nikkagetsudo also carries this brand.|
+| **Kajo**  <br>(霞城, Kasumi Castle) |![kajo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/kajo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in a photo by Yamauchi No. 10. |
 | **Kame jirushi**  <br>(亀印, Turtle mark) |![kame.jpg](/suryong_nintendo_labels/kame.jpg =150x)| ★★★<br>Rare | Only used for shirofuda decks. |
 | **Kamome**  <br>(かもめ, Seagull) |![kamome_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/kamome_lost.jpg =150x)| ★★★★★★<br>**Lost** | A portion of the label appears in the **Nintendo Company Guide 2019.** |
 | **Kaoh jirushi**  <br>(花王印, Flower King mark) |![kaoh.png](/suryong_nintendo_labels/kaoh.png =150x)| ★★★★★★<br>**Lost** | Appears in one of the photos by Yamauchi No. 10. Shares the same label design with **Ginsekai**. |
@@ -85,9 +86,9 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Koban**  <br>(小判, Japanese coin) |![koban_iwata.png](/suryong_nintendo_labels/koban_iwata.png)| ★★★★<br>Very Rare | Produced by Nintendo for Iwata Honten. |
 | **Konishiki jirushi**  <br>(小錦印, Small Brocade Mark) |![konishiki.jpg](/suryong_nintendo_labels/konishiki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Kumoizakura**  <br>(雲井櫻, Heavenly Sakura) |![kumoizakura.png](/suryong_nintendo_labels/kumoizakura.png =150x)| ★★★<br>Rare | Shares the same label design with **Goshozakura**, **Asahi Sakura**, **Hyakuman-en**, and **Yaezakura**. |
-| **Kyo Bijin**  <br>(京美人, Beautiful Girl from Kyoto) |![kyobijin_lost.png](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/kyobijin_lost.png)| ★★★★★★<br>**Lost** | A portion of the label appears in a Nintendo ad from 1929. |
+| **Kyo Bijin**  <br>(京美人, Beautiful Girl from Kyoto) |![kyobijin_unique.png](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/kyobijin_unique.png =150x)![kyobijin_lost.png](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/kyobijin_lost.png =150x)| ★★★★★<br>**Unique** | An alternate label appears in a Nintendo ad from 1929, but it's partially obscured and in black & white. |
 | **Kyo no Hana**  <br>(京の花, Flowers of Kyoto) |![kyonohana.jpg](/suryong_nintendo_labels/kyonohana.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Possibly a brand variant of **Miyako no Hana**. |
-| **Manryo**  <br>(万両, Ten thousand Ryo) |![manryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/manryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
+| **Manryo**  <br>(万両, Ten thousand Ryo) |![manryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/manryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Senryo**. |
 | **Marufuku jirushi**  <br>(丸福印, Marufuku mark) |![marufuku.jpg](/suryong_nintendo_labels/marufuku.jpg =150x)| ★★★★★★<br>**Lost** | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
 | **Marufuku Sakura**  <br>(丸福桜) |![marufuku_sakura_1.jpg](/suryong_nintendo_labels/marufuku_sakura_1.jpg =150x)![marufuku_sakura_2.png](/suryong_nintendo_labels/marufuku_sakura_2.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
 | **Masamune**  <br>(正宗) |![masamune.jpg](/suryong_nintendo_labels/masamune.jpg =150x)| ★★★★<br>Very rare | Depicts Japanese Swordsmith, Goro Nyudo Masamune (五郎入道正宗) |
@@ -103,7 +104,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) |![sakura_no_yama2.png](/suryong_nintendo_labels/sakura_no_yama2.png =150x)| ★★<br>Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
 | **Sanbazuru**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **San Hakushu**  <br>(三拍手, Three Claps) |![san_hakushu_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/san_hakushu_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
-| **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
+| **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Manryo**. |
 | **Shiko jirushi**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
 | **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)![shunyu_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/shunyu_kamigataya.jpg =150x)| ★★★<br>Rare | Also released as a Kamigataya brand, still produced by Nintendo. |
 | **Sukeroku**  <br>(助六) |![sukeroku_nishimura_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/sukeroku_nishimura_lost.jpg =150x)| ★★★★★★<br>**Lost** | A Nishimura brand that appears in the **Nintendo Company Guide 2019.** Probably manufactured by Nintendo.|
@@ -112,6 +113,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Take ni Suzume**  <br>(竹に雀, Sparrow on Bamboo) |![takenisuzume_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/takenisuzume_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **Tancho**  <br>(丹頂, Red-crested Crane) |![tancho.png](/suryong_nintendo_labels/tancho.png =150x)![tancho_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/tancho_lost.jpg =150x)| ★★<br>Uncommon | A label variant appears in the **Nintendo Company Guide 2019.**, but is partially obscured.|
+| **Tateyama**  <br>(立山) |![tateyama_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/tateyama_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in a photo by Yamauchi No. 10. |
 | **Tatsutagawa**  <br>(龍田川, Tatsuta River)|![tatsutagawa_marunado.png](/tatsutagawa_marunado.png =150x)| ★★★★★<br>Unique | Produced by Nintendo for Marunado.|
 | **Teasobi Karuta**  <br>(手遊かるた, Hand-playing Cards) |![teasobi_karuta.png](/suryong_nintendo_labels/teasobi_karuta.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. This brand is also carried by Tsurudaya.|
 | **Tenkaichi**  <br>(天下一, World's No. 1) |![tenkaichi_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/tenkaichi_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in a photo by Yamauchi No. 10. |
