@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2023-04-03T08:31:17.455Z
+date: 2023-04-03T08:38:11.360Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -325,8 +325,12 @@ If 3 players have the same yaku value, or none of the players have a yaku, then 
 |3 players have same yaku value: |Pot is not awarded.|Pot is not awarded.|Pot is not awarded.|
 |Nobody forms a dekiyaku:|Pot is not awarded.|Pot is not awarded.|Pot is not awarded.|
 
-# Running out of Stones
-After the round payments have been settled, if a player runs out of stones, then that player must borrow one of the two extra plates on the table to continue playing.
+# Running out of Stones and Changing of Field
+After the round payments have been settled, if a player runs out of stones, then that player **must borrow one of the two extra plates on the table, and declare "Tsugu!" (継ぐ, "continue") to continue playing.**
+
+Once a player has borrowed the first extra plate, the **type of field changes** from Small Field to **Middle Field**.
+
+Once the second extra plate has been borrowed, the **type of field changes** from Middle Field to **Main Field**.
 
 # End of the Game and Final Scoring
 The game ends once a player runs out of stones after the two extra plates have already been borrowed.
