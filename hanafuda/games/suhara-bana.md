@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2022-07-12T03:27:35.833Z
+date: 2023-04-03T08:31:17.455Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -13,13 +13,15 @@ dateCreated: 2022-07-10T10:58:02.736Z
 # Preliminaries
 
 ## Equipment
-Suhara-bana is played with a standard hanafuda deck of 48 cards.
+Suhara-bana is played with a **standard hanafuda deck of 48 cards**.
 
-Plates of go stones will be required for keeping track of scores. Each plate should contain **11 white stones and 6 black stones**; this is called **"hito-moto"** (一もと). Prepare a number of "hito-moto" **equal to the number of players plus 2 extra plates for borrowing**; the two extra plates are called **"futa-moto"** (二もと).
+**Plates** of go stones will be required for keeping track of scores. A **full plate** (一本, *hitomoto*) should contain **11 white stones and 6 black stones**. 
 
-Also, prepare **indicators for the current round and the type of field** in the game. Usually, a set of 12 cards representing the 12 months bound together in a key ring is used for indicating the current round, and a set of 3 cards with "small", "medium", and "main" written on them is used for indicating the type of field.
+The number of plates in the game should be **equal to the number of players plus 2**. The two **extra plates** (二本, *futamoto*) will be used for borrowing.
 
-For the purpose of these rules, it is assumed that players are not playing for money. Prepare pieces of paper with numbers on them, which will represent the final scores of the game. (7 pieces of '**100**', 50 pieces of '**10**', and 50 pieces of '**5**'.)
+Also, prepare **indicators for the current round and the type of field** in the game. Usually, a set of 12 cards representing the 12 months bound together in a key ring is used for indicating the current round, and a set of 3 cards with "small", "middle", and "main" written on them is used for indicating the type of field.
+
+For the purpose of these rules, it is assumed that players are not playing for money. Prepare pieces of paper with numbers on them, which will represent the final scores of the game. (7 pieces of '**100**' bills, 50 pieces of '**10**' bills, and 50 pieces of '**5**' bills.)
 
 ## Number of Players
 Suhara-bana is usually played with 4 to 5 players. However, the game only supports having three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
@@ -27,9 +29,13 @@ Suhara-bana is usually played with 4 to 5 players. However, the game only suppor
 
 
 ## A Note on Scoring
-**Suhara-bana, as a gambling game, employs a zero-sum scoring system.** Scores held by the players are represented in stones, and **each white stone is worth 4 black stones**. Payments within the game are represented in two other scoring units: points (点, *ten*), and *hai* (ハイ). **Hai** is the unit used for counting dekiyaku values, and is worth **20 points**. At the end of the game, the stones are converted into the "**final score**" (if playing for money, the stones are converted into cash payment instead).
+**Suhara-bana, as a gambling game, employs a zero-sum scoring system.** 
 
-Payment values in points/hai are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes *halved* (effectively doubling the payment of stones).
+Scores held by the players are represented in stones, and **each white stone is worth 4 black stone**. 
+
+Payments within the game are represented in two other scoring units: **Points** (点, *ten*), and **Cups** (杯, *hai*). **Cups** is the unit used for counting dekiyaku values, and is worth **20 points**. At the end of the game, the stones are converted into the "**final score**" (if playing for money, the stones are converted into cash payment instead).
+
+Payment values in points/cups are fixed throughout the game; however, their exchange rate in stones depends on the type of field in the game. Every time the type of field is changed, the value of stones becomes *halved* (effectively doubling the payment of stones).
 
 
 |Field Type|Value of White Stone|Value of Black Stone|
@@ -46,7 +52,15 @@ If during Main Field a player runs out of stones, the game ends.
 
 
 # Setup
-Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Unlike many hanafuda games, Suhara-bana does not stop when 12 rounds have been played; the round indicator resets to January, and the game continues. **The game ends only if a player runs out of the stones after the futa-moto has already been borrowed.**
+
+Game setup involves **distributing the initial points**, **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. 
+
+Unlike many hanafuda games, Suhara-bana does not stop when 12 rounds have been played; the round indicator resets to January, and the game continues. **The game ends only if a player runs out of the stones after the futa-moto has already been borrowed.**
+
+## Distributing the Initial Points
+Each player starts with one full plate of stones, **containing 11 white stones and 6 black stones** (at this time, the plate is worth 250 points).
+
+The two extra plate of stones are set aside on the table.
 
 ## Choosing the Dealer
 Each player draws a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
@@ -136,7 +150,7 @@ On their turn, a player chooses a single card from their hand and plays it to th
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
 ## *Shoi-fuda*
-*Shoi-fuda* (背負い札) are cards in a player’s hand that, when discarded into the field, could be captured by one of the other two players to complete their yaku (due to having only one card missing from the yaku). 
+*Shoi-fuda* (背負い札, lit. "burden cards") are cards in a player’s hand that, when discarded into the field, could be captured by one of the other two players to complete their yaku (due to having only one card missing from the yaku). 
 
 **A player cannot play their *shoi-fuda* from their hand** (they cannot discard it nor use it to capture a card on the table).
 
@@ -144,9 +158,9 @@ After a card has been played from their hand, the player takes the top card of t
 {.is-warning}
 
 However, there are three exceptions:
-* If the shoi-fuda is a **part of your *Teyaku***. You must declare **"Teyaku desu"** (手役です) before playing.
+* If the shoi-fuda **belongs to a Dekiyaku that is not yet formed but is either completely in your hand, or partially in your hand and partially in your captured cards**. You must declare **"Teyaku desu"** (手役です) before playing.
 
-> The term '**Teyaku**' here refers to **a complete set of Dekiyaku cards** either **completely in your hand**, or **partially in the hand and partially in your captured cards**. It is different from the standard definition of 'teyaku', which strictly means a set formed in a player's hand.
+> The term '**Teyaku**' here refers to **a complete set of Dekiyaku cards** either **completely in your hand**, or **partially in the hand and partially in your captured cards**. It is different from the standard definition of 'teyaku', which typically means a set formed in a player's hand.
 {.is-info}
 
 * If **two of your shoi-fuda are of the same month**. You must declare **"Ni-mai mochi"** (2枚持ち) before playing one of the shoi-fuda, and you must play the other shoi-fuda during your next turn.
@@ -241,18 +255,18 @@ The player with the highest score becomes the dealer for the next round. If two 
 ## Dekiyaku Scoring
 After the card points have been settled, players then check their captured cards for Dekiyaku.
 
-The unit of scoring for Dekiyaku is called **hai** (ハイ). It is worth **20 points.**
+Dekiyaku are measured in **cups** (杯, *hai*). Each cup is worth **20 points.**
 
-### Hai in stones
-During Small Field: `1 hai = 1 white stone`
-During Middle Field: `1 hai = 2 white stones`
-During Main Field: `1 hai = 4 white stones`
+### Stones per Cup
+During Small Field: `1 cup = 1 white stone`
+During Middle Field: `1 cup = 2 white stones`
+During Main Field: `1 cup = 4 white stones`
 
 ### Dekiyaku
 
 All Dekiyaku are **mutually exclusive**; only the most valuable yaku is scored. There are a few exceptions (See **Stacked Dekiyaku**).
 
-|Value (in *hai*)|Name of Yaku|Composition|
+|Value (in cups)|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |6|**Four Brights**<br/>四本役 [*shi-hon yaku* (four-card yaku)] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |4|**Crane, Full Moon, Phoenix**<br/>御老中 [*goro-ju* (elder middle)]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>When this Yaku is formed, all other players' Yaku are nullified, except for *Cards of the Month*. *Blue Ribbon Bonus* is also unaffected.|
@@ -260,7 +274,7 @@ All Dekiyaku are **mutually exclusive**; only the most valuable yaku is scored. 
 |2|**Large Birds**<br/>大鳥 [*oh-tori* (large birds)]|Crane, Geese, Phoenix:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |2|**Spring**<br/>菅原 [*sugawara*]|The highest scoring cards of the first 3 months:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |2|**Autumn**<br/>秋役 [*akiyaku* (autumn yaku)]|Boar, Geese, Deer:<br>[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
-|2|**Blue Ribbons**<br/>ミム [*mimu*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>In addition to its hai value, the player who forms this Yaku gets a *bonus* of 50 points each from the players in the round, and 25 points each from the players outside the round.|
+|2|**Blue Ribbons**<br/>ミム [*mimu*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>In addition to its value in cups, the player who forms this Yaku gets a *bonus* of 50 points each from the players in the round, and 25 points each from the players outside the round.|
 |1|**Poetry Ribbons**<br/>小菅原 [*ko-sugawara* (small sugawara)]|The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |1|**Grass Flowers**<br/>草花 [*kusa-bana* (grass flowers)]|Bridge, Butterflies, Sake cup:<br>[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
 |1|**Small Birds**<br/>小鳥 [*ko-tori* (small birds)]|Bush warbler, Cuckoo, Swallow:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
@@ -281,18 +295,18 @@ All Dekiyaku are **mutually exclusive**; only the most valuable yaku is scored. 
 Each player compares their yaku value to the other two players. Players with a lower yaku value must pay the difference to the player with a higher yaku value.
 
 Example:
-Player A has `3 hai`
-Player B has `1 hai`
-Player C has `0 hai`
+Player A has `3 cups`
+Player B has `1 cup`
+Player C has `0 cups`
 
-Player B pays **2 hai** to Player A.
-Player C pays **3 hai** to Player A, and **1 hai** to Player B.
+Player B pays **2 cups** to Player A.
+Player C pays **3 cups** to Player A, and **1 cup** to Player B.
 
 
-All payments in hai **must be converted into stones**.
-During Small Field: `1 hai = 1 white stone`
-During Middle Field: `1 hai = 2 white stones`
-During Main Field: `1 hai = 4 white stones`
+All payments in cups **must be converted into stones**.
+During Small Field: `1 cup = 1 white stone`
+During Middle Field: `1 cup = 2 white stones`
+During Main Field: `1 cup = 4 white stones`
 
 > If you run out of stones while doing the payment, **you pay all of your stones**. You don't have to pay for the shortage.
 {.is-warning}
@@ -300,32 +314,35 @@ During Main Field: `1 hai = 4 white stones`
 # Awarding the Pot
 After Dekiyaku payments have been settled, the player with the highest scoring Dekiyaku takes the pot (where all dropout penalties are placed).
 
-However, if the highest scoring Dekiyaku during a round is only 1 or 2 hai, the player who formed it only takes a part of the pot, and the rest goes back (equally distributed) to the players who paid the dropout penalties.
+However, if the highest scoring Dekiyaku during a round is only 1 or 2 cups, the player who formed it only takes a part of the pot, and the rest goes back (equally distributed) to the players who paid the dropout penalties.
 
 If 3 players have the same yaku value, or none of the players have a yaku, then the dropout penalties go back to the players who paid them.
 
-|HIGHEST SCORING DEKIYAKU WORTH:|1 hai yaku|2 hai yaku|3-8 hai yaku|
+|HIGHEST SCORING DEKIYAKU WORTH:|1 cup yaku|2 cup yaku|3-8 cup yaku|
 |:---:|:---:|:---:|:---:|
 |1 player who formed the yaku takes:|1/3 of the pot|2/3 of the pot|the entire pot|
 |2 players who have the same yaku value must split between:|1/3 of the pot|2/3 of the pot|the entire pot|
 |3 players have same yaku value: |Pot is not awarded.|Pot is not awarded.|Pot is not awarded.|
 |Nobody forms a dekiyaku:|Pot is not awarded.|Pot is not awarded.|Pot is not awarded.|
 
+# Running out of Stones
+After the round payments have been settled, if a player runs out of stones, then that player must borrow one of the two extra plates on the table to continue playing.
 
 # End of the Game and Final Scoring
-The game ends once a player runs out of stones after the futa-moto has already been borrowed.
+The game ends once a player runs out of stones after the two extra plates have already been borrowed.
 
-Players who have borrowed from the futa-moto deduct an ichi-moto (11 white stones and 5 black stones) for each plate borrowed.
+Players who have borrowed plates must **deduct a full plate** worth of stones (11 white stones and 6 black stones) **from their total stones for each plate borrowed**.
 
-Players then count their stones and determine the final score.
+Players then count their stones, exchange them for bills, and determine the final score in bills.
 
-Each ichi-moto (11 white stones + 5 black stones) is worth **'100'**.
-If there are stones left, each “1 white stone + 1 black stone” is worth **'10'**.
-If there are still white stones left, each remaining white stone is worth **'5'**. 
-On the other hand, if there are still black stones left, each remaining 2 black stones is worth **'5'**.
+## Exchange rate between Stones and Bills
+Each ichi-moto (11 white stones + 5 black stones) is worth a **'100'** bill.
+If there are stones left, each “1 white stone + 1 black stone” is worth a **'10'** bill.
+If there are still white stones left, each remaining white stone is worth a **'5'** bill. 
+On the other hand, if there are still black stones left, each remaining 2 black stones is worth a **'5'** bill.
 (if there is only 1 black stone left, it is dropped in the calculation)
 
-**The player with the highest final score wins the game**.
+**The player with the highest final score in bills wins the game**.
 
 
 # Bibliography
