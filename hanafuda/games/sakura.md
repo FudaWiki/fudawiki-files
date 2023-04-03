@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-03-30T13:41:34.598Z
+date: 2023-04-03T03:05:10.975Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -43,7 +43,7 @@ As in most Hanafuda games, the dealer takes the first turn, followed by each pla
 
 When playing with teams, each team shares a common score pile. Note that teammates are **not** allowed to reveal the contents of their hands to each other.
 
-**The winner of the round becomes dealer for the next round.**
+**The winner of the round becomes dealer for the next round.** If tied, the dealer (or the player closest to the dealer's right if players other then the dealer are tied) wins the tie.
 
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the field.
@@ -62,7 +62,7 @@ On their turn, a player chooses a single card from their hand and plays it to th
 ## Hiki (Four of a Kind)
 If a player sees all 4 cards of a given suit among the cards in their hand and those on the field (in any combination), this is known as a *hiki*. On their turn, the player may, instead of playing a card from their hand, declare the *hiki* and immediately capture all 4 cards. They then play a card from the draw pile as normal. 
 
-A player is not required to reveal a *hiki* unless another player attempts to capture a card that belongs to that *hiki* using the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card (which will force the player of the Lightning to target a different card).
+A player must reveal a *hiki* when another player attempts to capture a card that belongs to that *hiki* using the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card (which will force the player of the Lightning to target a different card).
 
 > Note that the concept of *hiki* in the game of Sakura does not have an exact equivalent in other hanafuda games, and overlaps with those games' concepts of dealer's privilege, [lucky hands](/en/hanafuda/games/roppyakken#lucky-hands), capturing stacked cards on the field with one from the hand, and [bombing the field](/en/hanafuda/games/go-stop#bombing-the-field).
 {.is-info}
@@ -117,12 +117,12 @@ The yaku in this game also seem to lack specific names; instead, each is typical
 |Name of Yaku|Composition|Description|
 |:---:|:---:|:---|
 |**I** - い|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|A.k.a **'Drinking'**</br>(Nomi)|
-|**Ro** - ろ|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|The highest scoring card</br>of each month </br>used in the '**Ha**' yaku.</br>A.k.a **'Spring'**</br>(Omote Sugawara)|
+|**Ro** - ろ|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|The Bright or Animal</br>of each month </br>used in the '**Ha**' yaku.</br>A.k.a **'Spring'**</br>(Omote Sugawara)|
 |**Ha** - は|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|**Three Red</br>Poetry Ribbons.**</br>(Akatan)|
 |**Ni** - に|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|**Three Blue</br>Ribbons.**</br>(Aotan)|
-|**Ho** - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|The highest scoring card</br>of each month</br>used in the '**Ni**' yaku.|
+|**Ho** - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|The Animal</br>of each month</br>used in the '**Ni**' yaku.|
 |**He** - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|Three Red Ribbons</br>without writing,</br>excluding Willow ribbon.</br>A.k.a. '**Grass Ribbons**'</br>(Kusatan)|
-|**To** - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|The highest scoring card</br>of each month</br>used in the '**He**' yaku.|
+|**To** - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|The Animal</br>of each month</br>used in the '**He**' yaku.|
 |**Chi** - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|A.k.a **'Boar-Deer-Geese'**</br>(Inoshikagan/Ganbo)|
 
 # Notable Variations
