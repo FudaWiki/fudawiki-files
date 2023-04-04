@@ -2,16 +2,16 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-04-03T03:05:10.975Z
+date: 2023-04-04T09:32:51.490Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
 ---
 
-> **Some of the information is incomplete or unclear. You can help by expanding it.**
+> **Some of the information is incomplete or unclear. If you are from Hawaii and have played this game, you can help by expanding it.**
 {.is-warning}
 
-Sakura is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique *Hiki* rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
+**Sakura** is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique *Hiki* rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
 
 While most hanafuda games allow a maximum of three active players (with the remainder needing to drop out for the round), Sakura is unusual in being seemingly designed for large numbers of players. There are even options for team play!
 
@@ -34,9 +34,10 @@ Once the cards have been shuffled and cut, the dealer passes out cards face down
 |**6**|🧍‍🧍‍🧍‍🧍‍🧍‍<br>🧍‍|3|12|
 |**7**|🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️<br>🧍‍♂️🧍‍♂️|3|6|
 
-Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
+Any remaining cards form the **draw pile** for the round and are to be placed in a single face down stack beside the field cards.
 
-If four cards of the same suit have been dealt to the table, the dealer automatically captures them.
+> If four cards of the same suit have been dealt to the table, the **dealer automatically captures them.**
+{.is-info}
 
 # Gameplay
 As in most Hanafuda games, the dealer takes the first turn, followed by each player around the table in counter-clockwise order.
@@ -59,31 +60,35 @@ On their turn, a player chooses a single card from their hand and plays it to th
 > As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type to make detecting yaku easier.<br><br>However, since Chaff are worth 0 points and play no role in any yaku, it is common in Sakura to **discard all Chaff cards** to a common junk pile. 
 {.is-warning}
 
-## Hiki (Four of a Kind)
-If a player sees all 4 cards of a given suit among the cards in their hand and those on the field (in any combination), this is known as a *hiki*. On their turn, the player may, instead of playing a card from their hand, declare the *hiki* and immediately capture all 4 cards. They then play a card from the draw pile as normal. 
+## *Hiki* (Four of a Kind)
+If a player sees **all 4 cards of a given suit among the cards in their hand and those on the field (in any combination)**, this is known as a ***hiki*** (引き, lit. "to draw"). On their turn, the player may, instead of playing a card from their hand, declare the *hiki* and immediately capture all 4 cards. They then play a card from the draw pile as normal. 
 
-A player must reveal a *hiki* when another player attempts to capture a card that belongs to that *hiki* using the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card (which will force the player of the Lightning to target a different card).
+This rule will often cause the person claiming the *hiki* to run out of cards in hand faster than the other players; once that player **runs out of cards**, their **remaining turns consist only of drawing a card on the draw pile and playing it.**
 
 > Note that the concept of *hiki* in the game of Sakura does not have an exact equivalent in other hanafuda games, and overlaps with those games' concepts of dealer's privilege, [lucky hands](/en/hanafuda/games/roppyakken#lucky-hands), capturing stacked cards on the field with one from the hand, and [bombing the field](/en/hanafuda/games/go-stop#bombing-the-field).
 {.is-info}
 
 ## Gaji (Wild Card)
 
-The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
+[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)
+
+The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as **Gaji** in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field (even those of the Willow suit). However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
 Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
 
-However, the Gaji cannot be used to capture a card that would complete another player's *hiki*. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. The player of the Gaji must then target a different card, or simply leave the Gaji on the field.
+However, the Gaji **cannot be used to capture a card that would complete another player's *hiki***. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. **The owner of the *hiki* takes the four *hiki* cards into their captured cards immediately**, and the player of the Gaji must then target a different card, or simply leave the Gaji on the field.
 
 > In some variants of the game, if the Gaji is dealt to the field at the beginning of the round, then it is simply discarded.
 {.is-info}
 
 # End of Round and Scoring
-The round ends once all players run out of cards **and** the draw pile has been exhausted; the existence of the *hiki* rule means that these events may not be simultaneous.
+The round ends once all players run out of cards **and** the draw pile has been exhausted.
 
-Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the Gaji (![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning).
+> In a 2 player game, the round ends once all players run out of cards. All cards left in the draw pile are considered **dead cards** and will not be used during scoring.
+{.is-info}
 
-In this case, the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
+Due to the usage of a wild card, most rounds will end with two or more remaining cards on the field, one of which matches the suit of whatever card was captured by the Gaji (![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning).
+That card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
 
 Then, the round is scored. Each player's (or team's) base score is the total value of their captured cards. They then subtract 50 points for each *yaku* (scoring combination) held by each of their opponents.
 
@@ -126,11 +131,25 @@ The yaku in this game also seem to lack specific names; instead, each is typical
 |**Chi** - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|A.k.a **'Boar-Deer-Geese'**</br>(Inoshikagan/Ganbo)|
 
 # Notable Variations
-There are two main variations in overall scoring: the one which counts points cumulatively across rounds, used by Hanafuda Hawaii Style, and the one which instead counts round victories, used by Paradise Factors.
+## Victory Scoring
+There are two main variations in overall scoring: the one which **counts points cumulatively across rounds**, used by Hanafuda Hawaii Style and is the one described in the main part of this page, and the one which instead **counts round victories**, used by Paradise Factors, which will be explained here:
 
-The cumulative points system is the one described in the main part of this page. The round-counting system works as follows:
+Whenever a player wins a round, it is counted as a single **victory**, and once the agreed-upon number of rounds has been played, **the player with the most victories wins the game**.
 
-Whenever a player wins a round, they receive a single token. If they win by at least 50 points, they instead receive two tokens, and if by at least 100 points, three tokens. Once the agreed-upon number of rounds has been played, the player with the greatent number of tokens is the winner.
+There are several optional rules to make the game more exciting:
+- **Basa** - If a player wins and their score is 100 (or more) points higher than their opponent(s), then it is counted as a **double victory**. If the player manages to do this during a round in which a Yaku isn't formed, then it is called **Shira Basa**.
+- **Chu** - If a player wins and their score is 50 (or more) points higher than their opponent(s), then it is counted as a **double victory**.
+- Sometimes Chu and Basa are combined such that **Chu counts as a double victory**, and **Basa counts as a triple victory**.
+
+## *Oi-bana* (追い花, "chasing flowers")
+Oi-bana is a Sakura variant which can be played by a maximum of 6 players, but only 2 players participate during the round; the rest are eliminated via an auction.
+
+Each player is dealt 8 cards. Starting with the dealer counter-clockwise, each player must bid an amount. There is only one round of bidding per round in the game, and the two highest bidders win the auction.
+
+The other players must shuffle back their cards into the deck and place 8 cards face up on the field, and the rest of the deck face-down as the draw pile. The two auction winners participate in a 2-player matching round, and the winner is paid by the loser the amount that the loser has bid.
+
+> Basa and Chu rules can optionally be applied here: A double victor is paid by the loser twice the loser's bid, and a triple victor is paid three times the loser's bid.
+{.is-info}
 
 # Strategy
 There are four cards that contribute to 2 yaku each; thus, these should be considered more valuable than others and priority should be given to their capture. These are the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer). Among these, the ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain is worth 20 points on its own as well, making it the most valuable card in the game.
