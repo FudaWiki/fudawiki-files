@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-04-04T09:33:10.322Z
+date: 2023-04-04T10:08:02.526Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -41,7 +41,7 @@ As in most Hanafuda games, the dealer takes the first turn, followed by each pla
 
 When playing with teams, each team shares a common score pile. Note that teammates are **not** allowed to reveal the contents of their hands to each other.
 
-**The winner of the round becomes dealer for the next round.** If tied, the dealer (or the player closest to the dealer's right if players other then the dealer are tied) wins the tie.
+**The winner of the round becomes dealer for the next round.** If tied, the dealer (or the player closest to the dealer's right if players other than the dealer are tied) wins the tie.
 
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the field.
