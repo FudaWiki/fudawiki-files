@@ -2,7 +2,7 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2022-11-19T03:20:06.194Z
+date: 2023-04-05T02:54:07.141Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
@@ -74,17 +74,17 @@ After shuffling the deck, the player to the dealer's right chooses whether to ha
 
 For **2 players**, **10 cards** are dealt in each **hand**, and **10 cards** face-up on the **field**.
 
-> If cards are dealt this way, the deck will run out of cards as soon as there is 1 card left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+> If cards are dealt this way, the deck will run out of cards as soon as there is 1 card left in each player's hand. It is not explained how to deal with this situation, though it is most likely that the remaining turns consist only of playing a card from the hand.
 {.is-warning}
 
 For **3 players**, **9 cards** are dealt in each **hand**, and **9 cards** face-up on the **field**.
 
-> If cards are dealt this way, the deck will run out of cards as soon as there are 5 cards left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+> If cards are dealt this way, the deck will run out of cards as soon as there are 5 cards left in each player's hand. It is not explained how to deal with this situation, though it is most likely that the remaining turns consist only of playing a card from the hand.
 {.is-warning}
 
 For **4 players** (team-play), **8 cards** are dealt in each **hand**, and **8 cards** face-up on the **field**.
 
-> If cards are dealt this way, the deck will run out of cards as soon as there are 6 cards left in each player's hand. It is not explained how to deal with this situation. (**NEEDS MORE DOCUMENTATION**)
+> If cards are dealt this way, the deck will run out of cards as soon as there are 6 cards left in each player's hand. It is not explained how to deal with this situation, though it is most likely that the remaining turns consist only of playing a card from the hand.
 {.is-warning}
 
 The remainder of the deck is placed face-down to form the **draw pile**.
@@ -184,7 +184,7 @@ In these cases, the player claims the most valuable of the mutually exclusive *y
 # Gameplay for 4 players (Team-play)
 If playing with 4 players, then players on opposite sides of the table are a **team**. Each team shares one capture area, and scores are calculated per team instead of per player. Otherwise, **the gameplay is the same as the rules mentioned above.**
 
-> It is not explained which person in the team becomes the dealer if the team loses in a round. (**NEEDS MORE DOCUMENTATION**)
+> It is not explained which person in the team becomes the dealer if the team loses in a round. This should probably be decided via a house rule.
 {.is-warning}
 
 In a team, only one player collects and arranges the captured cards of that team. [This is known in Palauan as *omechobech*.]
