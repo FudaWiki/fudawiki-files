@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-03-31T08:28:58.675Z
+date: 2023-04-05T02:38:11.229Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -43,7 +43,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Mekuri-kei|Osaka, Japan|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Mekuri-kei|Japan|
-|[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Mekuri-kei|Higo Province, Japan|
+|[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana, Kumamoto-Bana, or Hawaiian Hanafuda|2-7|Fishing|Mekuri-kei|Higo Province, Japan|
 |[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Kabu-kei|Korea|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
@@ -114,6 +114,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Mekuri-kei|Japan|
 |[Nylon-ppong](/en/hanafuda/games/nylon-ppong)|2-6|Draw and Discard|unconventional|Korea|
 |[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
+|[Oi-Bana](/en/hanafuda/games/sakura#oi-bana-%E8%BF%BD%E3%81%84%E8%8A%B1-chasing-flowers)|2 per round, 3-6 per game|Fishing|Mekuri-kei|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Mekuri-kei|Gifu, Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|Yomi-kei|-|
