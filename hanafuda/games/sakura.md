@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-04-04T10:08:02.526Z
+date: 2023-04-05T02:34:08.116Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -95,7 +95,7 @@ Thus, each player's (or team's) score at the end of the round will be:
 
 **The player with the highest score at the end of the round becomes dealer for the next round**. In the event of a tie, the player who was earliest in the turn order becomes the dealer.
 
-> **What happens here when playing in teams? Does the winning team decide among themselves who will be the dealer next round?**
+> **It is not mentioned who becomes the dealer among the players of a winning team during team play. This should be decided via a house rule.**
 {.is-warning}
 
 # End of Game
