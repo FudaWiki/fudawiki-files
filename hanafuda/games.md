@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-04-05T02:38:11.229Z
+date: 2023-04-05T02:49:40.573Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -29,6 +29,8 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 3. **Kingo-kei** games are showdown/banking games where players keep drawing cards until the sum of numbers on the cards in hand reaches 15, and if they exceed 15, it's a bust. The gameplay is comparable to Blackjack.
 4. **Yomi-kei** is the Japanese term for sequence games.
 5. **Honbiki-kei** games involve players choosing between two or more options, and those who chose the strongest option (or the option chosen by the banker) wins the game. The most popular game of this style is [Tehonbiki](/en/tehonbiki); however, that game uses special sets of cards instead of a hanafuda deck.
+
+Also, any Hanafuda fishing game that is played by only 2 players is classified as **Sashi-bana** (さし花).
 
 # Traditional Games
 
