@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-02T14:26:24.981Z
+date: 2023-04-26T05:25:45.628Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -23,15 +23,15 @@ Currently, Nintendo produces the standard Hanafuda pattern in 3 main brands, whi
 
 | Brand | Label | Packaging | Card texture |
 | --- | --- | --- | --- |
-| **Daitoryo**  <br>(大統領, president) |![1._daitoryo1.png](/suryong_nintendo_labels/1._daitoryo1.png =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box.| Heavy clear-coat on the front; Glossy on the back |
-| **Tengu**  <br>(天狗) |![2._tengu_1_late_showa.jpg](/suryong_nintendo_labels/2._tengu_1_late_showa.jpg =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Faint clear-coat on the front; Glossy on the back |
-| **Miyako no Hana**  <br>(都の花, flowers of the capital) |![3._miyako_no_hana.jpg](/suryong_nintendo_labels/3._miyako_no_hana.jpg =150x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back |
+| **[Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo)**  <br>(大統領, president) |![1._daitoryo1.png](/suryong_nintendo_labels/1._daitoryo1.png =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box.| Heavy clear-coat on the front; Glossy on the back |
+| **[Tengu](/en/hanafuda/manufacturers/nintendo/tengu)**  <br>(天狗) |![2._tengu_1_late_showa.jpg](/suryong_nintendo_labels/2._tengu_1_late_showa.jpg =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Faint clear-coat on the front; Glossy on the back |
+| **[Miyako no Hana](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)**  <br>(都の花, flowers of the capital) |![3._miyako_no_hana.jpg](/suryong_nintendo_labels/3._miyako_no_hana.jpg =150x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back |
 
 Nintendo also uses a different brand called “Chiyozakura”, which was first released sometime in the 1990's (possibly 1994) for sale in convenience stores. It has the same price as a Miyako no Hana deck, and the quality is the same.
 
 | Brand | Label | Packaging | Card texture |
 | --- | --- | --- | --- |
-| **Chiyozakura**  <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =100x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) |
+| **[Chiyozakura](/en/hanafuda/manufacturers/nintendo/chiyozakura)**  <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =100x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) |
 
 In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. 
 
