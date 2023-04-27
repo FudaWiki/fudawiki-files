@@ -2,7 +2,7 @@
 title: Tengu
 description: Nintendo's middle-class hanafuda brand.
 published: true
-date: 2023-04-27T04:01:23.087Z
+date: 2023-04-27T07:29:47.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T04:01:23.087Z
@@ -18,6 +18,8 @@ It features a portrait of a red-skinned Tengu with a large, pointed nose and a l
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1912.*</span>
 
 It is one of 6 Nintendo brands to feature a Tengu in the label, the others being [Kintengu](/en/hanafuda/manufacturers/nintendo/kintengu), [Gintengu](/en/hanafuda/manufacturers/nintendo/gintengu), [Ohtengu](/en/hanafuda/manufacturers/nintendo/ohtengu), [Azuma Tengu](/en/hanafuda/manufacturers/nintendo/azuma_tengu), and [Daitengu](/en/hanafuda/manufacturers/nintendo/daitengu).
+
+Brand names aside, this brand is treated as almost the same brand as Kintengu and Ohtengu, as all 3 brands feature a gold background and feature similar Tengu illustrations.
 
 # Gallery
 | Label | Description |
