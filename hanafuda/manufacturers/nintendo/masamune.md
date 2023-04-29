@@ -2,7 +2,7 @@
 title: Masamune
 description: Originally Nintendo's 4th premier hanafuda brand.
 published: true
-date: 2023-04-29T01:53:15.197Z
+date: 2023-04-29T08:11:30.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T01:51:23.709Z
@@ -21,7 +21,7 @@ It was also one of Nintendo's oldest registered trademarks for hanafuda decks. T
 ![masamune_patent.jpg](/suryong_nintendo_labels/masamune/masamune_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900.*</span>
 
-The brand was known to be used as late as the 1930's before it was discontinued. Existing decks have become extremely rare.
+The brand was known to be used until as late as the 1930's before it was discontinued. However, the brand has been listed on the end of the wrapper of most Nintendo decks (until 1967). Existing decks have become extremely rare.
 
 # Bibliography
 - https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
