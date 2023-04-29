@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-04-29T01:44:04.935Z
+date: 2023-04-29T01:45:46.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -30,3 +30,4 @@ Despite being the 2nd highest-ranking brand and despite being prominently featur
 
 # Bibliography
 - The Playing Card Journal of the International Playing Card Society, Vol. X, No. 2. November 1981
+- https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
