@@ -2,7 +2,7 @@
 title: Sanbazuru
 description: One of Nintendo's premier hanafuda brands.
 published: true
-date: 2023-04-29T00:14:40.079Z
+date: 2023-04-29T00:15:55.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T00:14:40.079Z
@@ -14,7 +14,9 @@ dateCreated: 2023-04-29T00:14:40.079Z
 
 The earliest known mention of this brand is from an ad from 1929 about various Nintendo brands of playing cards. Despite this, the brand is surprisingly absent in pre-war Nintendo card catalogues. 
 
-The brand continued to be used until the 1980's. It was mentioned in an IPCS Journal from 1981 that the brand was discontinued; However, a Nintendo card catalogue from 1983 contains the brand, at the same price point as [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), making it the second-highest ranking brand alongside Otafuku.
+The brand continued to be used until the 1980's. It was mentioned in an IPCS Journal from 1981 that the brand was discontinued; However, a Nintendo card catalogue from 1983 contains the brand. 
+
+In both the 1971 Nintendo price list and 1983 Nintendo card catalogue, the brand was put at the same price point as [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), making it the second-highest ranking brand alongside Otafuku.
 
 # Gallery
 | Label | Description |
