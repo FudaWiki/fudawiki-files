@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-04-29T01:45:46.422Z
+date: 2023-04-29T01:54:10.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -11,6 +11,8 @@ dateCreated: 2023-04-28T15:01:57.228Z
 ![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =100x)
 
 **Taisho** (大将, General) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
+
+It depicts a portrait of a Japanese General, though his identity is unknown.
 
 It was the 2nd highest-ranking brand in Nintendo's hanafuda lineup, only behind [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo). 
 
