@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-29T02:58:47.703Z
+date: 2023-04-29T08:17:41.458Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -53,7 +53,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Daifuku**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Daikoku**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★★<br>Unique | Depicts Daikokuten, one of the Seven Lucky Gods.|
 | **Daioh jirushi**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
-| **[Daitengu](/en/hanafuda/manufacturers/nintendo/daitengu)**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a replacement brand for **Tengu**, discontinued around 1980. The label features a floating Tengu head among the clouds, in a silver background. |
+| **[Daitengu](/en/hanafuda/manufacturers/nintendo/daitengu)**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a brand ranking above **Tengu**, discontinued around 1980. The label features a floating Tengu head among the clouds, in a silver background. |
 | **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
 | **[Fuji](/en/hanafuda/manufacturers/nintendo/fuji)**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★<br>Rare |     |
 | **Fukuju**  <br>(福壽, Fortune and Prosperity) |![fukuju_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost.jpg =150x)![fukuju_lost_2.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost_2.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Two label designs are known to exist, one of which depicts Fukurokuju, one of the Seven Lucky Gods.|
