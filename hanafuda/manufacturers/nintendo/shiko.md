@@ -2,7 +2,7 @@
 title: Shiko Jirushi
 description: One of Nintendo's high-class hanafuda cards.
 published: true
-date: 2023-04-29T02:41:33.580Z
+date: 2023-04-29T08:10:49.450Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T02:41:33.580Z
@@ -19,7 +19,7 @@ It was the 5th highest-ranking brand in Nintendo's hanafuda lineup, behind [Masa
 ![shiko_patent_1916.jpg](/suryong_nintendo_labels/shiko/shiko_patent_1916.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1916.*</span>
 
-The brand was known to be used as late as the 1930's before it was discontinued. The brand has become extremely rare. To this day, there is only one known existing deck that appeared on the internet.
+The brand was known to be used from the 1910's to the 1930's before it was discontinued. However, the brand has been listed on the end of the wrapper of most Nintendo decks (until 1967). The brand has become extremely rare. To this day, there is only one known existing deck that appeared on the internet.
 
 ![img_20210410_161030.jpg](/suryong_nintendo_labels/shiko/img_20210410_161030.jpg =150x)
 <span style="font-size:small;">*Photo of the existing deck.*</span>
