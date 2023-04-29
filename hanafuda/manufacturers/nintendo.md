@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-29T02:06:36.228Z
+date: 2023-04-29T02:18:30.497Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -98,7 +98,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Momotaro**  <br>(桃太郎, Peach boy) |![momotaro.png](/suryong_nintendo_labels/momotaro.png =150x)| ★★★★★<br>Unique | |
 | **Mushi**  <br>(虫, Insect) |![mushi_clean.jpg](/suryong_nintendo_labels/mushi_clean.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Despite the brand name, the label depicts two swallows under a willow tree. |
 | **Oedo**  <br>(大江戸, Great Edo) |![oedo.jpg](/suryong_nintendo_labels/oedo.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Daioh**. |
-| **[Ohengu](/en/hanafuda/manufacturers/nintendo/ohtengu)**  <br>(王天狗, King Tengu) |![ohtengu.jpg](/suryong_nintendo_labels/ohtengu.jpg =150x)| ★★★★<br>Very rare | Shares the same label design as the old design for **Kintengu**, which had a more elaborate clothing pattern. There's an example that was intended for sale in Japanese-occupied Korea. |
+| **[Ohtengu](/en/hanafuda/manufacturers/nintendo/ohtengu)**  <br>(王天狗, King Tengu) |![ohtengu.jpg](/suryong_nintendo_labels/ohtengu.jpg =150x)| ★★★★<br>Very rare | Shares the same label design as the old design for **Kintengu**, which had a more elaborate clothing pattern. There's an example that was intended for sale in Japanese-occupied Korea. |
 | **[Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku)**  <br>(お多福) |![otafuku1.jpg](/suryong_nintendo_labels/otafuku1.jpg =150x)| ★<br>Common ||
 | **Ranko**  <br>(蘭光, Orchid light) |![ranko.png](/suryong_nintendo_labels/ranko.png =150x)| ★★★★<br>Very rare | Label appears in the **Nintendo Company Guide 2019.** Used in Dairenbana decks. |
 | **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) |![sakura_no_yama2.png](/suryong_nintendo_labels/sakura_no_yama2.png =150x)| ★★<br>Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
