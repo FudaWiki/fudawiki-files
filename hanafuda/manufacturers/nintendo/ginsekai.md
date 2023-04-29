@@ -2,7 +2,7 @@
 title: Ginsekai
 description: One of Nintendo's high-class hanafuda brands.
 published: true
-date: 2023-04-29T02:53:29.462Z
+date: 2023-04-29T08:05:26.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T02:53:29.462Z
@@ -16,4 +16,4 @@ The brand shares the exact same label design as [Kaoh jirushi](/en/hanafuda/manu
 
 It was the 6th highest-ranking brand in Nintendo's hanafuda lineup, behind [Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko).
 
-The brand was known to be used as late as the 1930's before it was discontinued. The brand has become extremely rare. To this day, there is only one known existing deck that appeared on the internet.
+The brand was known to be used around the 1920's and 1930's before it was discontinued. The brand has become extremely rare. To this day, there is only one known existing deck that appeared on the internet.
