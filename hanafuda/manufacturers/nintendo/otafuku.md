@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2023-04-29T01:40:19.540Z
+date: 2023-04-29T01:41:44.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-28T08:53:48.759Z
  
 **Otafuku** (お多福, lit. "much good fortune") was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
 
-It was the 3rd highest-ranking brand in Nintendo's hanafuda lineup until [Taisho](/en/hanafuda/manufacturers/nintendo/taisho) was discontinued. Since then, it became the 2nd highest-ranking brand alongside [Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru). The brand continued to be used until as late as 1990.
+It was the 3rd highest-ranking brand in Nintendo's hanafuda lineup, behind [Taisho](/en/hanafuda/manufacturers/nintendo/taisho) until the latter brand was discontinued. Since then, it became the 2nd highest-ranking brand alongside [Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru). The brand continued to be used until as late as 1990.
 
 It was also one of Nintendo's oldest registered trademarks for hanafuda decks. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1900, a year before even [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo) was registered. 
 
