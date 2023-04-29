@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-28T23:45:48.814Z
+date: 2023-04-29T01:29:56.368Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -91,7 +91,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Manryo**  <br>(万両, Ten thousand Ryo) |![manryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/manryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Senryo**. |
 | **Marufuku jirushi**  <br>(丸福印, Marufuku mark) |![marufuku.jpg](/suryong_nintendo_labels/marufuku.jpg =150x)| ★★★★★★<br>**Lost** | There is one example of a box with this label, but the contents are for a different hanafuda. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. The brand was represented by only a large Marufuku logo in the label. |
 | **Marufuku Sakura**  <br>(丸福桜) |![marufuku_sakura_1.jpg](/suryong_nintendo_labels/marufuku_sakura_1.jpg =150x)![marufuku_sakura_2.png](/suryong_nintendo_labels/marufuku_sakura_2.png =150x)| ★★★★<br>Very rare | Shares the same label design with **Heian**. Brand was written in Romaji on the label. An example from 1960 came in a box marked “Made in Japan" and “Black” in English; this was possibly an exported product. There was also a variant of the label where the brand is only represented by the Marufuku logo; it is difficult to tell if this label falls under “**Marufuku jirushi**” or “Marufuku Sakura”. |
-| **Masamune**  <br>(正宗) |![masamune.jpg](/suryong_nintendo_labels/masamune.jpg =150x)| ★★★★<br>Very rare | Depicts Japanese Swordsmith, Goro Nyudo Masamune (五郎入道正宗) |
+| **[Masamune](/en/hanafuda/manufacturers/nintendo/masamune)**  <br>(正宗) |![masamune.jpg](/suryong_nintendo_labels/masamune.jpg =150x)| ★★★★<br>Very rare | Depicts Japanese Swordsmith, Goro Nyudo Masamune (五郎入道正宗) |
 | **Masayuki**  <br>(正行) |![masayuki.jpg](/suryong_nintendo_labels/masayuki.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **Matsu jirushi**  <br>(松印, Pine mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Miyakonishiki**  <br>(都錦, Capital Brocade) |![miyakonishiki_kamigataya.png](/suryong_nintendo_labels/kamigataya/miyakonishiki_kamigataya.png =150x)-| ★★★★<br>Very Rare | Produced by Nintendo for Kamigataya. |
