@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-04-29T01:29:56.368Z
+date: 2023-04-29T02:06:36.228Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -57,7 +57,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Eiyu**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Features a portrait of Saigo Takamori (西郷隆盛) |
 | **[Fuji](/en/hanafuda/manufacturers/nintendo/fuji)**  <br>(不二, Peerless) |![fuji.png](/suryong_nintendo_labels/fuji.png =150x)| ★★★<br>Rare |     |
 | **Fukuju**  <br>(福壽, Fortune and Prosperity) |![fukuju_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost.jpg =150x)![fukuju_lost_2.jpg](/suryong_nintendo_labels/nintendo_2019_lost/fukuju_lost_2.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Two label designs are known to exist, one of which depicts Fukurokuju, one of the Seven Lucky Gods.|
-| **Ginsekai**  <br>(銀世界, Silver World) |![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
+| **[Ginsekai](/en/hanafuda/manufacturers/nintendo/ginsekai)**  <br>(銀世界, Silver World) |![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =150x)| ★★★★★<br>Unique | Shares the same label design with **Kaoh jirushi**. Handprinted hanafuda deck. |
 | **[Gintengu](/en/hanafuda/manufacturers/nintendo/gintengu)**  <br>(銀天狗, Silver Tengu) |![gintengu.jpg](/suryong_nintendo_labels/gintengu.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Kintengu**, except for the background color. Only a deck with an individual paulownia box (no printed label) exists.|
 | **Gion**  <br>(祇園) |![gion.png](/suryong_nintendo_labels/gion.png =150x)| ★★★<br>Rare |     |
 | **Goshozakura**  <br>(御所櫻, Imperial Palace Sakura) |![goshozakura.png](/suryong_nintendo_labels/goshozakura.png =150x)| ★★★★★<br>Unique | Shares the same label design with **Asahi Sakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. |
@@ -105,7 +105,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **[Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru)**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **San Hakushu**  <br>(三拍手, Three Claps) |![san_hakushu_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/san_hakushu_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
 | **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Manryo**. |
-| **Shiko jirushi**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
+| **[Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko)**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
 | **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)![shunyu_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/shunyu_kamigataya.jpg =150x)| ★★★<br>Rare | Also released as a Kamigataya brand, still produced by Nintendo. |
 | **Sukeroku**  <br>(助六) |![sukeroku_nishimura_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/sukeroku_nishimura_lost.jpg =150x)| ★★★★★★<br>**Lost** | A Nishimura brand that appears in the **Nintendo Company Guide 2019.** Probably manufactured by Nintendo.|
 | **[Taisho](/en/hanafuda/manufacturers/nintendo/taisho)**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★★<br>Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. |
