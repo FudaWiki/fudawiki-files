@@ -2,7 +2,7 @@
 title: Masamune
 description: Originally Nintendo's 4th premier hanafuda brand.
 published: true
-date: 2023-04-29T01:51:23.709Z
+date: 2023-04-29T01:53:15.197Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T01:51:23.709Z
@@ -11,6 +11,8 @@ dateCreated: 2023-04-29T01:51:23.709Z
 ![masamune.jpg](/suryong_nintendo_labels/masamune.jpg =100x)
 
 **Masamune** (正宗) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
+
+The brand is named after a Japanese Swordsmith, Goro Nyudo Masamune (五郎入道正宗), who is depicted in the label.
 
 It was the 4th highest-ranking brand in Nintendo's hanafuda lineup, behind [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku).
 
