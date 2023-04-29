@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-04-28T23:24:07.992Z
+date: 2023-04-29T01:43:48.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -10,7 +10,9 @@ dateCreated: 2023-04-28T15:01:57.228Z
 
 ![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =100x)
 
-**Taisho** (大将, General) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. It was the 2nd highest-ranking brand in Nintendo's hanafuda lineup, only behind [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo). 
+**Taisho** (大将, General) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
+
+It was the 2nd highest-ranking brand in Nintendo's hanafuda lineup, only behind [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo). 
 
 It was also one of Nintendo's oldest registered trademarks for hanafuda decks. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1900, a year before even Daitoryo was registered. 
 
