@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-04-29T01:43:48.580Z
+date: 2023-04-29T01:44:04.935Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -19,7 +19,7 @@ It was also one of Nintendo's oldest registered trademarks for hanafuda decks. T
 ![taisho_patent.jpg](/suryong_nintendo_labels/taisho/taisho_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900.*</span>
 
-Despite being the 2nd highest-ranking brand and despite being featured on the side of the wrapper of most Nintendo decks (until 1967), Taisho decks are extremely rare. To this day, there is only one known existing deck that appeared on the internet.
+Despite being the 2nd highest-ranking brand and despite being prominently featured on the side of the wrapper of most Nintendo decks (until 1967), Taisho decks are extremely rare. To this day, there is only one known existing deck that appeared on the internet.
 
 # Gallery
 | Label | Description |
