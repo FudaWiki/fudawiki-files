@@ -2,14 +2,14 @@
 title: Konishiki jirushi
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-04-30T12:24:24.699Z
+date: 2023-04-30T12:43:22.367Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T12:24:24.699Z
 ---
 
 ![konishiki.jpg](/suryong_nintendo_labels/konishiki.jpg =100x)
-
+ 
 **Konishiki jirushi** (小錦印, Small Brocade Mark) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) middle-class brands of [hanafuda](/en/hanafuda) decks.
 
 It features what could possibly be a loincloth of a sumo wrestler, hence the brand name.
