@@ -2,7 +2,7 @@
 title: Marufuku Jirushi
 description: One of Nintendo's middle-class hanafuda decks.
 published: true
-date: 2023-04-30T11:28:16.728Z
+date: 2023-04-30T13:17:08.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T14:52:03.895Z
@@ -15,5 +15,9 @@ dateCreated: 2023-04-29T14:52:03.895Z
 The brand is unique in that the name of the brand is not explicitly written on the label; instead, it is merely represented by the Marufuku logo. This would also be done in another brand called [Marufuku Sakura](/en/hanafuda/manufacturers/nintendo/marufuku_sakura), although it is not known if it is the same brand as this one.
  
 It was the 9th highest-ranking brand in Nintendo's hanafuda lineup, behind both [Asahi Sakura](/en/hanafuda/manufacturers/nintendo/asahi_sakura) and [Kintengu](/en/hanafuda/manufacturers/nintendo/kintengu), and followed by [Yaezakura](/en/hanafuda/manufacturers/nintendo/yaezakura), [Kikusui](/en/hanafuda/manufacturers/nintendo/kikusui), and [Gintengu](/en/hanafuda/manufacturers/nintendo/gintengu).
+
+As a kabufuda brand, it ranks above [Masayuki](/en/hanafuda/manufacturers/nintendo/masayuki) and below [Eiyu](/en/hanafuda/manufacturers/nintendo/eiyu).
+
+As a regional karuta brand, it ranks above [Hiruko](/en/hanafuda/manufacturers/nintendo/hiruko) and below Eiyu.
 
 The brand is extremely rare, and no existing deck has showed up on the internet, though a box of one existed (but it contained a deck of a different manufacturer).
