@@ -2,14 +2,14 @@
 title: Kikusui
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-04-30T11:23:57.353Z
+date: 2023-04-30T12:24:54.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T11:23:57.353Z
 ---
 
 ![kikusui.png](/suryong_nintendo_labels/kikusui.png)
-
+ 
 **Kikusui** (菊水, Chrysanthemum Water) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) middle-class brands of [hanafuda](/en/hanafuda) decks.
 
 It features a bunch of colorful [chrysanthemum](/en/hanafuda/suits/chrysanthemum) flowers floating in the silver sky with the clouds. It shares the same label design with [Hagoromo](/en/hanafuda/manufacturers/nintendo/hagoromo).
