@@ -2,7 +2,7 @@
 title: Gintengu (Nintendo)
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-04-30T11:24:36.366Z
+date: 2023-04-30T12:25:08.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T05:52:22.156Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-28T05:52:22.156Z
 ![gintengu.jpg](/suryong_nintendo_labels/gintengu.jpg =100x)
 
 **Gintengu** (金天狗, Silver Tengu) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) middle-class brands of [hanafuda](/en/hanafuda) decks. As the name suggests, it ranks lower than [Kintengu](/en/hanafuda/manufacturers/nintendo/kintengu) (金天狗, Golden Tengu).
-
+ 
 It usually features a silver background, and a portrait of a red-skinned Tengu with a large, pointed nose and a long, white beard. It is depicted holding a magical feather fan called *hauchiwa* (羽団扇).
 
 It was the 10th highest-ranking brand in Nintendo’s hanafuda lineup, alongside [Yaezakura](/en/hanafuda/manufacturers/nintendo/yaezakura) and [Kikusui](/en/hanafuda/manufacturers/nintendo/kikusui), behind [Marufuku jirushi](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi) and followed by [Konishiki jirushi](/en/hanafuda/manufacturers/nintendo/konishiki).
