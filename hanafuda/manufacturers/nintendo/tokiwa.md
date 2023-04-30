@@ -2,7 +2,7 @@
 title: Tokiwa (Nintendo)
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2023-04-30T13:04:34.420Z
+date: 2023-04-30T13:12:37.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T13:04:34.420Z
@@ -21,6 +21,8 @@ The wrapper label is also unique in that the label illustration wraps both sides
 
 ![sides.jpg](/suryong_nintendo_labels/tokiwa/sides.jpg =150x)
 <span style="font-size:small;">*Unopened deck with side of wrapper visible.*</span>
+
+It was the 13th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Kikumaku](/en/hanafuda/manufacturers/nintendo/kikumaku) and followed by [Hatsuzakura](/en/hanafuda/manufacturers/nintendo/hatsuzakura).
 
 It is known to be used during the 1920's and 1930's, and was discontinued very early. Existing decks have become quite rare.
 
