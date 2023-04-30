@@ -1,8 +1,8 @@
 ---
 title: Chujo
-description: One of Nintendo's high-class hanafuda brands.
+description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-04-29T03:15:58.411Z
+date: 2023-04-30T13:24:05.818Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T03:15:58.411Z
@@ -10,11 +10,13 @@ dateCreated: 2023-04-29T03:15:58.411Z
 
 ![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =100x)
 
-**Chujo** (中将, Lieutenant General) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) high-class brands of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
+**Chujo** (中将, Lieutenant General) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) middle-class brands of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks. 
 
 It depicts a portrait of a Japanese Lieutenant General, though his identity is unknown.
 
-It was the 7th highest-ranking brand in Nintendo's hanafuda lineup, behind [Ginsekai](/en/hanafuda/manufacturers/nintendo/ginsekai).
+It was the 7th highest-ranking brand in Nintendo's hanafuda lineup, behind [Ginsekai](/en/hanafuda/manufacturers/nintendo/ginsekai) and followed by both [Asahi Sakura](/en/hanafuda/manufacturers/nintendo/asahi_sakura) and [Kintengu](/en/hanafuda/manufacturers/nintendo/kintengu).
+
+As a regional karuta brand, it shared the same price point with [Kinryu](/en/hanafuda/manufacturers/nintendo/kinryu), and ranks above [Eiyu](/en/hanafuda/manufacturers/nintendo/eiyu).
 
 The brand was possibly used until the early 1940's before it was discontinued. The brand has become quite rare, but not as rare as the thematically-related brand, [Taisho](/en/hanafuda/manufacturers/nintendo/taisho).
 
