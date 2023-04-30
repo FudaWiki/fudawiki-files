@@ -2,7 +2,7 @@
 title: Ginsekai
 description: One of Nintendo's high-class hanafuda brands.
 published: true
-date: 2023-04-29T08:12:58.733Z
+date: 2023-04-30T12:39:46.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T02:53:29.462Z
@@ -14,6 +14,13 @@ dateCreated: 2023-04-29T02:53:29.462Z
 
 The brand shares the exact same label design as [Kaoh jirushi](/en/hanafuda/manufacturers/nintendo/kaoh). However, the latter brand was not mentioned in pre-war Nintendo card catalogues.
 
-It was the 6th highest-ranking brand in Nintendo's hanafuda lineup, behind [Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko).
+It was the 6th highest-ranking brand in Nintendo's hanafuda lineup, behind [Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko) and followed by [Chujo](/en/hanafuda/manufacturers/nintendo/chujo).
 
 The brand was known to be used around the 1920's and 1930's before it was discontinued. However, the brand has been listed on the end of the wrapper of most Nintendo decks (until 1963). The brand has become extremely rare. To this day, there is only one known existing deck that appeared on the internet.
+
+# Gallery
+| Label | Description |
+| --- | --- |
+|![ginsekai.jpg](/suryong_nintendo_labels/ginsekai.jpg =100x)|Wrapper label.|
+|![ginsekai_box.jpg](/suryong_nintendo_labels/ginsekai/ginsekai_box.jpg =150x)|Label from two-deck box.|
+|![ginsekai_alternate_box.jpg](/suryong_nintendo_labels/ginsekai/ginsekai_alternate_box.jpg =150x)|Alternate label from two-deck box.|
