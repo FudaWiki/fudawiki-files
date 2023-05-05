@@ -2,14 +2,14 @@
 title: Hatsuzakura
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2023-05-05T15:42:22.806Z
+date: 2023-05-05T16:08:41.331Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-05T15:41:42.815Z
 ---
 
 ![hatsuzakura_very_old_1940.jpg](/suryong_nintendo_labels/hatsuzakura/hatsuzakura_very_old_1940.jpg =100x)
-
+ 
 **Hatsuzakura** (初櫻, First Cherry Blossom) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [hanafuda](/en/hanafuda) decks.
 
 It was the 14th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Tokiwa](/en/hanafuda/manufacturers/nintendo/tokiwa) and followed by [Hyaku-en](/en/hanafuda/manufacturers/nintendo/hyaku-en).
