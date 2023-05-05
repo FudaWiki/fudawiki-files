@@ -2,14 +2,14 @@
 title: Tokiwa (Nintendo)
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2023-04-30T13:12:37.243Z
+date: 2023-05-05T15:42:50.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T13:04:34.420Z
 ---
 
 ![yaezakura_(2).jpg](/suryong_nintendo_labels/tokiwa/yaezakura_(2).jpg =100x)
-
+ 
 **Tokiwa** (常磐, Eternal), also known as **Marufuku Tokiwa** (丸福常磐), was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [hanafuda](/en/hanafuda) decks.
 
 It mimics the label design of a Murai Bros. cigarette brand of the same name. The sky and trees have become less detailed, and the word 'Tokiwa' written in roman letters has been replaced with the word 'MARUFUKU' also written in roman letters.
