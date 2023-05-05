@@ -2,7 +2,7 @@
 title: Hyaku-en
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2023-05-05T16:08:22.668Z
+date: 2023-05-05T16:10:45.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-05T16:08:22.668Z
@@ -15,6 +15,8 @@ dateCreated: 2023-05-05T16:08:22.668Z
 It depicts a late-Meiji-to-early-Showa-era coin with a value of 100 yen, which is a fantasy (the highest denomination bearing this coin design was 20 yen). The chrysanthemum crest was also replaced with what could possibly be a [paulownia](/en/hanafuda/suits/paulownia) flower.
 
 It was the 15th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Hatsuzakura](/en/hanafuda/manufacturers/nintendo/hatsuzakura) and followed by [Hi no De](/en/hanafuda/manufacturers/nintendo/hi_no_de).
+
+It also shared the same price point as [Daikoku](/en/hanafuda/manufacturers/nintendo/daikoku), a [kabufuda](/en/kabufuda) and regional karuta brand.
 
 It is known to be used during the 1920’s and 1930’s, and was discontinued very early. Existing decks have become quite rare.
 
