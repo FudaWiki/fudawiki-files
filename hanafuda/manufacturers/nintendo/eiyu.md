@@ -2,7 +2,7 @@
 title: Eiyu
 description: One of Nintendo's middle-class kabufuda decks.
 published: true
-date: 2023-05-06T16:58:22.431Z
+date: 2023-05-06T16:58:34.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T15:06:08.641Z
@@ -16,7 +16,7 @@ It features a portrait of Saigo Takamori (西郷隆盛), famously considered as 
  
 As a kabufuda brand, it was of the same rank as [Kintengu](/en/hanafuda/manufacturers/nintendo/kintengu), ranks below [Chujo](/en/hanafuda/manufacturers/nintendo/chujo), and ranks above [Marufuku jirushi](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi).
 
-As a mushibana brand, it ranks below Chujo and [Kinryu](/en/hanafuda/manufacturers/nintendo/kinryu), and ranks above [Kikumaku](/en/hanafuda/manufacturers/nintendo/kikumaku).
+As a mushibana brand, it ranks below Chujo and ranks above [Kikumaku](/en/hanafuda/manufacturers/nintendo/kikumaku).
 
 As a regional karuta brand, it ranks below Chujo and [Kinryu](/en/hanafuda/manufacturers/nintendo/kinryu), and ranks above Marufuku jirushi.
 
