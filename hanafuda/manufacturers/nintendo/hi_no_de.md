@@ -2,7 +2,7 @@
 title: Hi no De
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2023-05-06T15:21:06.977Z
+date: 2023-05-06T16:20:18.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T15:21:06.977Z
@@ -11,7 +11,7 @@ dateCreated: 2023-05-06T15:21:06.977Z
 ![hinode1.png](/suryong_nintendo_labels/hinode1.png =100x)
 
 **Hi no De** (日の出, 日乃出, or 日之出, lit 'sunrise') was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks.
-
+ 
 It was the 16th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Hyaku-en](/en/hanafuda/manufacturers/nintendo/hyaku-en) and followed by [Hana no Yama](/en/hanafuda/manufacturers/nintendo/hana_no_yama).
 
 It is known to be used during the 1920’s and 1930’s.
