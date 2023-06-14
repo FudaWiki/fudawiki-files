@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2023-03-07T15:23:08.711Z
+date: 2023-06-14T18:19:15.558Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -222,7 +222,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Raika - Kasenkyuu (<span lang='ja'>蕾花 花仙宮</span>)](/en/hanafuda/video-games/pc-98/raika-kasenkyuu)
 * [Super Koi-Koi 98 (<span lang='ja'>Ｓｕｐｅｒ－ｋｏｉｋｏｉ９８</span>)](/en/hanafuda/video-games/pc-98/super-koi-koi-98)
 * [Taisen Hanafuda (<span lang='ja'>対戦花札</span>)](/en/hanafuda/video-games/pc-98/taisen-hanafuda)
-* [Usajong Gaiden ~ I am the Trump Card ~ (<span lang='ja'>うさ雀外伝～俺が切り札～</span>)](/en/hanafuda/video-games/pc-98/usajong-gaiden-i-am-the-trump-card-)
+* [Usa suzume gaiden ore ga kirifuda! (<span lang='ja'>うさ雀外伝～俺が切り札～</span>)](/en/hanafuda/video-games/pc-98/usa-suzume-gaiden-ore-ga-kirifuda)
 ## PC-1350
 * [Crazy Hanafuda S (<span lang='ja'>Crazy 花札 S</span>)](/en/hanafuda/video-games/pc-1350/crazy-hanafuda-s)
 ## PC-E500
