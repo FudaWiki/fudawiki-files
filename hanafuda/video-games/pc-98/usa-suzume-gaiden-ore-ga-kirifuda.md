@@ -2,7 +2,7 @@
 title: Usajong Gaiden ~ I am the Trump Card ~
 description: 
 published: true
-date: 2023-06-14T18:20:53.278Z
+date: 2023-06-14T18:23:50.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:25:24.597Z
@@ -23,3 +23,8 @@ I'm going to recommend using RetroArch to play this:
 7. Start the game: main menu > load content > (choose game zip) > load > NEC PC-98
 
 ...have fun!
+
+## Video
+
+https://www.youtube.com/watch?v=OG5h01Z74jA
+
