@@ -2,7 +2,7 @@
 title: Tengu
 description: Nintendo's middle-class hanafuda brand.
 published: true
-date: 2023-04-27T07:29:47.988Z
+date: 2023-06-17T07:37:29.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T04:01:23.087Z
@@ -10,9 +10,9 @@ dateCreated: 2023-04-27T04:01:23.087Z
 
 ![2._tengu_1_late_showa.jpg](/suryong_nintendo_labels/2._tengu_1_late_showa.jpg =100x)
 
-**Tengu** (天狗), also known as **Marufuku Tengu** (丸福天狗), is [Nintendo's](/en/hanafuda/manufacturers/nintendo) current middle-class brand of [hanafuda](/en/hanafuda) decks, and was also used as a brand of [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks in the past.
+**Tengu** (天狗), also known as **Marufuku Tengu** (丸福天狗), is [Nintendo's](/en/hanafuda/manufacturers/nintendo) current middle-class brand of [hanafuda](/en/hanafuda) decks, and was also used as a brand of [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks in the past until sometime in the mid 1990's.
 
-It features a portrait of a red-skinned Tengu with a large, pointed nose and a long, white beard. It is depicted holding a magical feather fan called *hauchiwa* (羽団扇).
+It features a gold background, and a portrait of a red-skinned Tengu with a large, pointed nose and a long, wavy white beard. It is depicted holding a magical feather fan called *hauchiwa* (羽団扇).
 
 ![tengu_patent_1912.jpg](/suryong_nintendo_labels/tengu/tengu_patent_1912.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1912.*</span>
