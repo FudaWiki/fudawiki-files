@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-04-27T03:30:56.631Z
+date: 2023-06-17T07:39:59.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -10,14 +10,20 @@ dateCreated: 2023-04-26T08:20:21.725Z
 
 ![1._daitoryo1.png](/suryong_nintendo_labels/1._daitoryo1.png =100x)
 
-**Daitoryo** (大統領, lit. 'president') is [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mekurifuda](/en/mekurifuda), and other karuta decks, and is still in use today. It is one of the most famous hanafuda brands, and is subject to parody in various character hanafuda decks.
+**Daitoryo** (大統領, lit. 'president') is [Nintendo's](/en/hanafuda/manufacturers/nintendo) premier brand of [hanafuda](/en/hanafuda) and [kabufuda](/en/kabufuda) decks, and is still in use today. 
+
+It was also used as the premier brand of [mekurifuda](/en/mekurifuda) and other karuta decks in the past, until sometime in the mid 1990's. 
+
+It is one of the most famous hanafuda brands, and is subject to parody in various character hanafuda decks.
 
 It features a portrait of Napoleon Bonaparte, who, despite the brand name, was an Emperor, not a President. The portrait and name of Napoleon would also be used in Nintendo's early [western playing cards](/en/trump).
 
-It is believed to be the first brand of hanafuda cards Nintendo has ever released since its founding in 1889, though there is no concrete evidence supporting it. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1901.
+It is believed to be the first brand of hanafuda cards Nintendo has ever released since its founding in 1889, though there is no concrete evidence supporting it. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1901, one year after [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), and [Masamune](/en/hanafuda/manufacturers/nintendo/masamune) were registered.
 
 ![daitoryo_0_1900's_sketch_japan_patent.png](/suryong_nintendo_labels/daitoryo/daitoryo_0_1900's_sketch_japan_patent.png =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1901.*</span>
+
+In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, followed by [Taisho](/en/hanafuda/manufacturers/nintendo/taisho).
 
 # Gallery
 | Label | Description |
