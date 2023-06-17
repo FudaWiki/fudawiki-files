@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-06-17T07:39:59.189Z
+date: 2023-06-17T13:13:23.900Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -38,6 +38,27 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 |![daitoryo_5_weird_face.png](/suryong_nintendo_labels/daitoryo/daitoryo_5_weird_face.png =100x)|"Impostor Napoleon". Known to be used in decks from the early 1970's. Portrait looks absolutely nothing like Napoleon Bonaparte.|
 |![daitoryo_6_fat_napoleon.jpg](/suryong_nintendo_labels/daitoryo/daitoryo_6_fat_napoleon.jpg =100x)|"Smirking Napoleon". Known to be used in two-deck wooden box sets from 1977-1978. The label is completely redesigned, and the brand is now written left-to-right instead of right-to-left.|
 |![daitoryo_11_one_ream_box_better_quality.png](/suryong_nintendo_labels/daitoryo/daitoryo_11_one_ream_box_better_quality.png =100x)|Used in five-deck ream boxes from the 1960's and 1970's.|
+
+# Brand Line Up (1930's Catalog)
+## Hanafuda
+1. Daitoryo
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)
+6. [**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)
+7. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+8. [**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura), [**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)
+9. [**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)
+10. [**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura), [**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui), [**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)
+11. [**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)
+12. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+13. [**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)
+14. [**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)
+15. [**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)
+16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
+17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
+18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
 
 
 # Bibliography
