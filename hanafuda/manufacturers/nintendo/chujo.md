@@ -2,7 +2,7 @@
 title: Chujo
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-04-30T13:24:05.818Z
+date: 2023-06-18T01:41:14.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T03:15:58.411Z
@@ -27,3 +27,24 @@ The brand was possibly used until the early 1940's before it was discontinued. T
 |![2.png](/suryong_nintendo_labels/chujo/2.png =100x)|"Derpy Chujo". Appears in the 2019 Nintendo Company Guide.|
 |![3.jpg](/suryong_nintendo_labels/chujo/3.jpg =100x)|"Whiteface Chujo". Label from the box of an existing hanafuda deck.|
 |![4.jpg](/suryong_nintendo_labels/chujo/4.jpg =100x)|"Shoulder Pad Chujo". Label from the wrappers of existing shirofuda decks. Illustration looks different from the other labels.|
+
+# Brand Line Up (1930's Catalog)
+## Hanafuda
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)
+6. [**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)
+7. Chujo
+8. [**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura), [**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)
+9. [**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)
+10. [**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura), [**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui), [**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)
+11. [**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)
+12. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+13. [**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)
+14. [**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)
+15. [**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)
+16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
+17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
+18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
