@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-06-19T13:15:03.660Z
+date: 2023-06-19T13:15:53.781Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -43,7 +43,7 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 ## Hanafuda
 1. Daitoryo
 2. [**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)
-3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana), [**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)
 
 ## Kabufuda
 1. Daitoryo
