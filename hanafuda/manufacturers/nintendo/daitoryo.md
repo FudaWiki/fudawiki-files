@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-06-17T13:13:23.900Z
+date: 2023-06-19T13:15:03.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -38,6 +38,15 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 |![daitoryo_5_weird_face.png](/suryong_nintendo_labels/daitoryo/daitoryo_5_weird_face.png =100x)|"Impostor Napoleon". Known to be used in decks from the early 1970's. Portrait looks absolutely nothing like Napoleon Bonaparte.|
 |![daitoryo_6_fat_napoleon.jpg](/suryong_nintendo_labels/daitoryo/daitoryo_6_fat_napoleon.jpg =100x)|"Smirking Napoleon". Known to be used in two-deck wooden box sets from 1977-1978. The label is completely redesigned, and the brand is now written left-to-right instead of right-to-left.|
 |![daitoryo_11_one_ream_box_better_quality.png](/suryong_nintendo_labels/daitoryo/daitoryo_11_one_ream_box_better_quality.png =100x)|Used in five-deck ream boxes from the 1960's and 1970's.|
+
+# Brand Line Up (Current)
+## Hanafuda
+1. Daitoryo
+2. [**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)
+3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+
+## Kabufuda
+1. Daitoryo
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
