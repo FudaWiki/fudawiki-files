@@ -2,7 +2,7 @@
 title: Tengu
 description: Nintendo's middle-class hanafuda brand.
 published: true
-date: 2023-06-17T07:37:29.853Z
+date: 2023-06-19T13:19:25.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T04:01:23.087Z
@@ -28,3 +28,9 @@ Brand names aside, this brand is treated as almost the same brand as Kintengu an
 |![tengu_nihonichi.jpg](/suryong_nintendo_labels/tengu/tengu_nihonichi.jpg =100x)|"Nihonichi Karuta Tengu". Used as early as 1960. Illustration of the Tengu is slightly simplified, and the nostril is removed,and the feathers of the fan are pointed. Bottom text reads 'Nihonichi Marufuku Karuta' (日本一(福)かるた), a slogan borrowed from its similar brand, Kintengu.|
 |![tengu_nintendo.jpg](/suryong_nintendo_labels/tengu/tengu_nintendo.jpg =100x)|"Nintendo Tengu". A slight modification of the earlier label design used since around early 1970's, and is still in use today. The 'Nihonichi Marufuku Karuta' slogan was replaced with the word 'Nintendo' written in its Japanese logo font.|
 |![tengu_twodeck_box.jpg](/suryong_nintendo_labels/tengu/tengu_twodeck_box.jpg =100x)|Used in two-deck carton boxes from 1960's to 1970's.|
+
+# Brand Line Up (Current)
+## Hanafuda
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. Tengu
+3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana), [**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)
