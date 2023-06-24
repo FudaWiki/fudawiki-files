@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2023-06-24T10:38:09.635Z
+date: 2023-06-24T10:39:00.760Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
@@ -14,7 +14,7 @@ The source of Bakappana's simplicity is its complete lack of *yaku*, or *scoring
 
 It appears as though, over time, Bakappana developed yaku of its own as house rules. Or, perhaps the term "Bakappana" expanded in scope to include some of the simpler Hana-Awase variants. Whatever the case, both 'Bakappana' and 'Hana-Awase' have been used as generic names to describe a wide range of hanafuda fishing games.
 
->The name "bakappana" may have originally been a term which, in the past, was used deridingly by [Hachi-hachi](/en/hanafuda/games/hachi-hachi) players to refer to any hanafuda game that can be considered a simplified form of their favorite game, Hachi-hachi, or a variation of it. <br><br>Such people believe that the people who play those kinds of games are too stupid [馬鹿, *baka*] to understand the complex rules and scoring system of Hachi-hachi, hence the name.
+>The name "bakappana" may have originally been a term which, in the past, was used deridingly by [Hachi-hachi](/en/hanafuda/games/hachi-hachi) players to refer to any hanafuda game that can be considered a simplified form of their favorite game, Hachi-hachi, or a variation of it. <br><br>They believe that the people who play those kinds of games are too stupid [馬鹿, *baka*] to understand the complex rules and scoring system of Hachi-hachi, hence the name.
 {.is-info}
 
 The version described here is the typical *yaku*-less flavour - a simple fishing game for 2-4 players which involves collecting cards to score points.
