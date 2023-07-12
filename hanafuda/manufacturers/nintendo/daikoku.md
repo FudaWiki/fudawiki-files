@@ -2,7 +2,7 @@
 title: Daikoku
 description: One of Nintendo's budget kabufuda brands.
 published: true
-date: 2023-05-06T16:54:55.302Z
+date: 2023-07-12T05:45:18.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T16:54:55.302Z
@@ -21,3 +21,15 @@ As a kabufuda and regional karuta brand, it ranks above [Hi no De](/en/hanafuda/
 As a mushibana brand, it ranks above [Daifuku](/en/hanafuda/manufacturers/nintendo/daifuku) and below [Kikumaku](/en/hanafuda/manufacturers/nintendo/kikumaku).
 
 It was known to be used during the 1920's and 1930's.
+
+# Brand Line Up (1930's Catalog)
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. Daikoku
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
