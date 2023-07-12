@@ -2,7 +2,7 @@
 title: Chujo
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2023-06-18T01:41:14.772Z
+date: 2023-07-12T05:47:08.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T03:15:58.411Z
@@ -48,3 +48,14 @@ The brand was possibly used until the early 1940's before it was discontinued. T
 16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
 17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
 18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. Chujo
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
