@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-06-17T13:31:53.433Z
+date: 2023-07-12T05:56:47.861Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -50,6 +50,17 @@ Despite being the 2nd highest-ranking brand and despite being prominently featur
 16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
 17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
 18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. Taisho
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
 
 # Bibliography
 - The Playing Card Journal of the International Playing Card Society, Vol. X, No. 2. November 1981
