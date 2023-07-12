@@ -2,7 +2,7 @@
 title: Eiyu
 description: One of Nintendo's middle-class kabufuda decks.
 published: true
-date: 2023-05-06T16:58:34.864Z
+date: 2023-07-12T05:46:30.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T15:06:08.641Z
@@ -21,3 +21,15 @@ As a mushibana brand, it ranks below Chujo and ranks above [Kikumaku](/en/hanafu
 As a regional karuta brand, it ranks below Chujo and [Kinryu](/en/hanafuda/manufacturers/nintendo/kinryu), and ranks above Marufuku jirushi.
 
 It was known to be used until as late as 1944-1946 before it was discontinued. However, the brand has been listed on the end of the wrapper of most Nintendo decks (until 1963).  The brand was quite rare, and only a few existing kabufuda decks appeared on the internet.
+
+# Brand Line Up (1930's Catalog)
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. Eiyu
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
