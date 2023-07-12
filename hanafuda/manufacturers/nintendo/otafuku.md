@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2023-06-17T13:32:20.492Z
+date: 2023-07-12T05:48:41.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -49,6 +49,17 @@ It was also one of Nintendo's oldest registered trademarks for hanafuda decks. T
 16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
 17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
 18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. Otafuku
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
 
 # Bibliography
 - https://en.wikipedia.org/wiki/Hyottoko
