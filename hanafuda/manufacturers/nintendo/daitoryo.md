@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-06-19T13:15:53.781Z
+date: 2023-07-12T05:43:10.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -68,7 +68,16 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
 17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
 18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
-
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. Daitoryo
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
 
 # Bibliography
 - https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
