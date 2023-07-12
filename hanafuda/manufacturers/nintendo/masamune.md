@@ -2,7 +2,7 @@
 title: Masamune
 description: Originally Nintendo's 4th premier hanafuda brand.
 published: true
-date: 2023-06-17T13:33:55.338Z
+date: 2023-07-12T05:47:50.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T01:51:23.709Z
@@ -43,6 +43,17 @@ The brand was known to be used until as late as the 1930's before it was discont
 16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
 17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
 18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+
+## [Mushibana](/en/hanafuda/patterns/mushibana)
+1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
+2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
+3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
+4. Masamune
+5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
+6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
+7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
+8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
+9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
 
 # Bibliography
 - https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
