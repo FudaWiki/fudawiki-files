@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2022-11-18T08:31:35.739Z
+date: 2023-07-17T15:18:38.514Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:34.887Z
@@ -155,7 +155,7 @@ At the end of the round, compensation for poor performance is given, as follows:
 
 These rules are only given in accounts describing the three-player version of the game; I'm unsure how they'd work with other numbers of players.
 
-In Japanese, the term for this rule is *oya naka hatchou biki jutchou* [親仲八丁ビキ十丁 - おやなかはっちょうびきじゅっちょう], roughly 'ten for dealer and second, eight for third'.
+In Japanese, the term for this rule is *oya naka hatchou biki jutchou* [親仲八丁ビキ十丁 - おやなかはっちょうびきじゅっちょう], roughly 'eight for dealer and second, ten for third'.
 
 ## Extra *Yaku* Interactions
 Some additional rules for yaku are sometimes given:
