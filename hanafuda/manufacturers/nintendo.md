@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2023-06-17T04:21:43.559Z
+date: 2023-07-21T11:19:46.393Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -107,11 +107,11 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Sakura no Yama**  <br>(櫻の山, Mountain of Sakura) |![sakura_no_yama2.png](/suryong_nintendo_labels/sakura_no_yama2.png =150x)| ★★<br>Uncommon | Label design looks similar to those of **Hana no Yama** and **Tsukimi Yama**. |
 | **[Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru)**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **San Hakushu**  <br>(三拍手, Three Claps) |![san_hakushu_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/san_hakushu_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
-| **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Manryo**. |
+| **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Manryo**. |
 | **[Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko)**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
 | **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)![shunyu_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/shunyu_kamigataya.jpg =150x)| ★★★<br>Rare | Also released as a Kamigataya brand, still produced by Nintendo. |
 | **Sukeroku**  <br>(助六) |![sukeroku_nishimura_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/sukeroku_nishimura_lost.jpg =150x)| ★★★★★★<br>**Lost** | A Nishimura brand that appears in the **Nintendo Company Guide 2019.** Probably manufactured by Nintendo.|
-| **[Taisho](/en/hanafuda/manufacturers/nintendo/taisho)**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★★<br>Unique | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. One of the earliest Nintendo trademarks.|
+| **[Taisho](/en/hanafuda/manufacturers/nintendo/taisho)**  <br>(大将, General) |![taisho.jpg](/suryong_nintendo_labels/taisho.jpg =150x)| ★★★★<br>Very rare | Always featured in the side of wrappers until the 1970's, yet existing decks are surprisingly hard to find. One of the earliest Nintendo trademarks.|
 | **Taisho Hana**  <br>(大正花, Taisho Flower) |![taisho_hana_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/taisho_hana_kamigataya.jpg =150x)| ★★★★★<br>Unique | Produced by Nintendo for Kamigataya. |
 | **Take jirushi**  <br>(竹印, Bamboo mark) |-| ★★★★★★<br>**Lost** | No photos exist on the internet yet. Only mentioned in Nintendo card catalogs. Only used for shirofuda decks. |
 | **Take ni Suzume**  <br>(竹に雀, Sparrow on Bamboo) |![takenisuzume_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/takenisuzume_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
