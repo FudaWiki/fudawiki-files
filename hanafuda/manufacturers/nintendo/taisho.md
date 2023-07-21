@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-07-21T12:01:06.498Z
+date: 2023-07-21T12:08:14.694Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -16,12 +16,12 @@ It was the 2nd highest-ranking brand in Nintendo's hanafuda lineup, only behind 
 
 It was also one of Nintendo's oldest registered trademarks for hanafuda decks. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1900, a year before even Daitoryo was registered. 
 
-It originally depicted a portrait of Prince Iwao Oyama (大山巌), who became a Field Marshal of the Imperial Japanese Army in January 1898. 
+It originally depicted a portrait of Prince Iwao Oyama (大山 巌, 12 November 1842 – 10 December 1916), who became a Field Marshal of the Imperial Japanese Army in January 1898, 2 years before the Taisho trademark was registered.
 
 ![taisho_patent.jpg](/suryong_nintendo_labels/taisho/taisho_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900, which depicts Prince Iwao Oyama.*</span>
 
-It was later replaced with a different Japanese General whose identity is unknown (or possibly fictional).
+It was later replaced with a different Japanese General whose identity is not confirmed (possibly still Prince Iwao Oyama, or a fictional Japanese General).
 
 ![taisho_standard.png](/suryong_nintendo_labels/taisho/taisho_standard.png =100x)
 <span style="font-size:small;">*Illustration of the label from the Nintendo early Showa era poster.*</span>
@@ -70,3 +70,4 @@ The Taisho label was prominently featured on the side of the wrapper of most Nin
 # Bibliography
 - The Playing Card Journal of the International Playing Card Society, Vol. X, No. 2. November 1981
 - https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
+- https://en.wikipedia.org/wiki/%C5%8Cyama_Iwao
