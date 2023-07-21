@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2023-07-21T12:08:14.694Z
+date: 2023-07-21T12:08:53.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -21,7 +21,7 @@ It originally depicted a portrait of Prince Iwao Oyama (大山 巌, 12 November 
 ![taisho_patent.jpg](/suryong_nintendo_labels/taisho/taisho_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900, which depicts Prince Iwao Oyama.*</span>
 
-It was later replaced with a different Japanese General whose identity is not confirmed (possibly still Prince Iwao Oyama, or a fictional Japanese General).
+It was later replaced with a different illustration whose identity is not confirmed (possibly still Prince Iwao Oyama, or a fictional Japanese General).
 
 ![taisho_standard.png](/suryong_nintendo_labels/taisho/taisho_standard.png =100x)
 <span style="font-size:small;">*Illustration of the label from the Nintendo early Showa era poster.*</span>
