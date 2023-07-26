@@ -2,7 +2,7 @@
 title: Ume Botan
 description: A hanafuda fishing game built upon various local rules.
 published: true
-date: 2023-07-26T14:30:39.432Z
+date: 2023-07-26T14:30:47.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-26T13:58:03.288Z
@@ -90,7 +90,7 @@ If it is on the field, **it must be captured by Player 1 using the card drawn fr
 
 If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
 
-If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is **taken alone** into the scoring pile.
+If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is **taken alone** into the scoring area.
 
 > Again, this is different from the game Mushi, where if there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
 {.is-info}
