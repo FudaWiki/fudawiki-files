@@ -2,7 +2,7 @@
 title: Ume Botan
 description: A hanafuda fishing game built upon various local rules.
 published: true
-date: 2023-07-26T14:29:30.109Z
+date: 2023-07-26T14:30:39.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-26T13:58:03.288Z
@@ -85,7 +85,7 @@ The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card ser
 
 If it is on the field, **it must be captured by Player 1 using the card drawn from the deck during their first turn, regardless of its suit**.
 
-> This is different from the game [Mushi](/en/hanafuda/games/mushi), where the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card on the field is captured by the first non-willow card drawn from the pile.
+> This is different from the game [Mushi](/en/hanafuda/games/mushi), where the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card on the field is captured by the first non-willow card drawn from the draw pile.
 {.is-info}
 
 If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
