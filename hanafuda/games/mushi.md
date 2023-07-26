@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2023-07-26T09:16:07.186Z
+date: 2023-07-26T12:11:24.703Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z
@@ -64,7 +64,7 @@ If it is drawn from the deck, **it must capture a non-Willow card on the field.*
 If, however, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card is the last to be drawn from the deck, **it captures all remaining cards in play**.
 
 ## End of Round
-The current round ends when both players have played 8 turns and thus exhausted their hands. Due to the reduced size of the deck, this will also coincide with the draw pile being emptied, and thus all cards will have been played and captured.
+The current round ends when both players have played 8 turns and thus exhausted their hands. Due to the reduced size of the deck, this will also coincide with the draw pile being emptied.
 
 Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning.
 
