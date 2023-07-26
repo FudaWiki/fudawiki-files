@@ -2,7 +2,7 @@
 title: Ume Botan
 description: A hanafuda fishing game built upon various local rules.
 published: true
-date: 2023-07-26T13:58:03.288Z
+date: 2023-07-26T14:29:30.109Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-26T13:58:03.288Z
@@ -86,11 +86,14 @@ The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card ser
 If it is on the field, **it must be captured by Player 1 using the card drawn from the deck during their first turn, regardless of its suit**.
 
 > This is different from the game [Mushi](/en/hanafuda/games/mushi), where the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card on the field is captured by the first non-willow card drawn from the pile.
-{.is-warning}
+{.is-info}
 
 If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
 
-If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
+If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is **taken alone** into the scoring pile.
+
+> Again, this is different from the game Mushi, where if there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
+{.is-info}
 
 ## End of Round
 The current round ends when all players have run out of card in their hands. This will also coincide with the draw pile being emptied.
@@ -98,9 +101,12 @@ The current round ends when all players have run out of card in their hands. Thi
 Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning. In this case, **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes both cards into their scoring area.**
 
 > Again,this is different from Mushi, where the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
-{.is-warning}
+{.is-info}
 
 > Due to the '![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning on the field' rule, it is possible that the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card gets captured by a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card. In this case, there will be no cards left on the field at the end of the round.
+{.is-warning}
+
+> It is also possible that either 1 or 4 cards will be left on the field at the end of the game instead of 2. In this case, it is presumed that **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes all leftover cards into their scoring area.**
 {.is-warning}
 
 ## Scoring
