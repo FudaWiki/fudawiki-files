@@ -2,7 +2,7 @@
 title: Ume Botan
 description: A hanafuda fishing game built upon various local rules.
 published: true
-date: 2023-07-26T14:30:47.653Z
+date: 2023-07-26T14:33:50.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-26T13:58:03.288Z
@@ -90,7 +90,7 @@ If it is on the field, **it must be captured by Player 1 using the card drawn fr
 
 If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
 
-If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is **taken alone** into the scoring area.
+If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is **taken alone** into the score pile.
 
 > Again, this is different from the game Mushi, where if there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
 {.is-info}
@@ -98,15 +98,15 @@ If it is drawn from the deck, **it must capture a non-Willow card on the field.*
 ## End of Round
 The current round ends when all players have run out of card in their hands. This will also coincide with the draw pile being emptied.
 
-Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning. In this case, **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes both cards into their scoring area.**
+Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning. In this case, **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes both cards into their score pile.**
 
-> Again,this is different from Mushi, where the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
+> Again,this is different from Mushi, where the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the score pile of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the score pile of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
 {.is-info}
 
 > Due to the '![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning on the field' rule, it is possible that the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card gets captured by a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card. In this case, there will be no cards left on the field at the end of the round.
 {.is-warning}
 
-> It is also possible that either 1 or 4 cards will be left on the field at the end of the game instead of 2. In this case, it is presumed that **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes all leftover cards into their scoring area.**
+> It is also possible that either 1 or 4 cards will be left on the field at the end of the game instead of 2. In this case, it is presumed that **the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card takes all leftover cards into their score pile.**
 {.is-warning}
 
 ## Scoring
@@ -173,7 +173,7 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |20|**Paulownia Row**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)
 |20|**Cards of the Month**<br>月役 [つきやく, *tsukiyaku*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |<h2 align="center">Dandruff Yaku</h2>|||
-|50 (in a 3-player game),<br>40 (in a 4-player game)|**Dandruff**<br>頭垢 [ふけ, *fuke*]|An extremely poor scoring pile worth 20 points or lower in a 3-player game, or 15 points or lower in a 4-player game.|
+|50 (in a 3-player game),<br>40 (in a 4-player game)|**Dandruff**<br>頭垢 [ふけ, *fuke*]|An extremely poor score pile worth 20 points or lower in a 3-player game, or 15 points or lower in a 4-player game.|
 
 
 # Bibliography
