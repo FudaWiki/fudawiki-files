@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-04-05T02:49:40.573Z
+date: 2023-07-26T09:25:38.573Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -164,18 +164,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Sangohana (Coral Flowers)](http://cartacc.g1.xrea.com/sangohana.html)|2-4|Draw and Discard|
-## K.K. Corner and R. Whitbeck
+## Greyson
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Kwa-Dō](/newgames/kwa-do)|2-6|Fishing|
-## Report Station
-|Game|Players|Family|
-|:---|:---:|---:|
-|[Ino-Shika-Chō](/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
-## Robert Goodwin
-|Game|Players|Family|
-|:---|:---:|---:|
-|[Gardening](/newgames/robert_goodwin_-_gardening.pdf)|2|Draw and Discard|
+|[Oni](/newgames/oni_greyson), a.k.a. 270|2-8|Matching|
 ## IndianWolf Studios
 **The rules for these games can be found on the book, [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).**
 |Game|Players|Family|
@@ -206,14 +198,14 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Oni-Nuki|-|-|
 |Tsuki-Ate|-|-|
 |Zei-kan|-|-|
-## Greyson
-|Game|Players|Family|
-|:---|:---:|---:|
-|[Oni](/newgames/oni_greyson), a.k.a. 270|2-8|Matching|
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Hanaya (Florist)](/newgames/how_to_play_hanaya.pdf)|2|Commerce|
+## K.K. Corner and R. Whitbeck
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Kwa-Dō](/newgames/kwa-do)|2-6|Fishing|
 ## Long Beak
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -221,6 +213,14 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
 |[Korobeiniki](https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
 |[Rubicon](https://cdn.discordapp.com/attachments/550677413193842688/913101251300958248/RUBICON.pdf)|2|Showdown|
+## Report Station
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Ino-Shika-Chō](/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
+## Robert Goodwin
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Gardening](/newgames/robert_goodwin_-_gardening.pdf)|2|Draw and Discard|
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -235,6 +235,13 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Hanapette](/newgames/hanapette_by_sem_en.pdf)|2|Speed and Sequence|
+## Shodo Watanabe
+|Game|Players|Family|
+|:---|:---:|---:|
+|Mekuri-Kabu (Turning Up Nine)|2-10|Showdown|
+|Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
+|[Tsuki-Narabe (Month Arrangement)](/newgames/tsuki-narabe)|3-4|Draw and Discard|
+|Yon-San (Four-Three)|3|Commerce|
 ## Sumo-No-Z
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -247,17 +254,14 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[Oh No!](/70_no_oh_no_v2.pdf)|2-6|Adding|
 |[Untitled 1](/this_is_some_game_that_i_made_up.pdf)|2-5|Matching|
 |[Untitled 2](/untitled_2.pdf)|2|Combat|
-## Shodo Watanabe
-|Game|Players|Family|
-|:---|:---:|---:|
-|Mekuri-Kabu (Turning Up Nine)|2-10|Showdown|
-|Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
-|[Tsuki-Narabe (Month Arrangement)](/newgames/tsuki-narabe)|3-4|Draw and Discard|
-|Yon-San (Four-Three)|3|Commerce|
 ## Tezuka Karuta Kobo/Matsui Tengudo
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Shichi-shichi-bana (77 flowers)](/newgames/shichi-shichi-bana)|4 per round|Fishing|
+## Ume Channel
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Ume Botan](/newgames/ume-botan)|2-3|Fishing|
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
