@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-07-26T09:25:38.573Z
+date: 2023-07-26T14:01:59.935Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -261,7 +261,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Ume Channel
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Ume Botan](/newgames/ume-botan)|2-3|Fishing|
+|[Ume Botan](/newgames/ume-botan)|3-4|Fishing|
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
