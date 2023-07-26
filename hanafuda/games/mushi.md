@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2022-11-18T08:35:10.263Z
+date: 2023-07-26T09:16:07.186Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z
@@ -19,11 +19,17 @@ Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck,
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
 
 ## Distributing the Initial Cards
-Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
+**Eight cards are distributed to each player, and eight to the table.** While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
 
 The remainder of the deck is placed face-down to form the draw pile.
 
-If 4 cards of the same suit are dealt to the field at the beginning of a round, generally a misdeal is declared and the same dealer shuffles and distributes cards once more. The same may or may not be true in the case that that 4 pairs of different suits are dealt to the field; be sure to agree on this as a house rule before play begins.
+If **4 cards of the same suit are dealt to the field** at the beginning of a round, generally a **misdeal** is declared and the same dealer shuffles and distributes cards once more. 
+
+>Whether or not a misdeal is declared when **4 pairs of different suits** are dealt to the field is *optional*; be sure to agree on this as a house rule before play begins.
+{.is-warning}
+
+> Whether or not a misdeal is declared when **the Rainman, the Swallow, and the Willow Ribbon** are all dealt to the field is not something the available rulesets care to mention, although it seems likely that it is treated as a misdeal since none of those cards can be captured in this case.
+{.is-warning}
 
 # Gameplay
 Each round, the dealer is the first to play, and turn to play alternates. The turn structure of Mushi is entirely typical of [Hana-Awase](/en/hanafuda/games/hana-awase)-derived games such as [Koi-Koi](/en/hanafuda/games/koi-koi).
