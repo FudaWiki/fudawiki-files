@@ -2,7 +2,7 @@
 title: Roku-tan
 description: A 2-player hanafuda game with simple rules and one yaku.
 published: true
-date: 2022-07-17T15:16:53.061Z
+date: 2023-08-05T04:07:39.567Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-17T15:07:55.101Z
@@ -18,6 +18,10 @@ Play **stops** when a player obtains **6 Ribbon cards**. The player is paid **3 
 {.is-info}
 
 **If all players run out of cards** before the yaku is made, the player with the **greater number of card points** is paid **2 shares** by the other player. 
+
+> Optional: You may also play such that the dealer deals 10 cards to each player and 8 cards on the field. In this case, all cards of the deck will be used, and it will be impossible to run out of cards without forming 6 ribbon cards.
+{.is-info}
+
 ## Card Values
 The card values used in this game are completely standard, the same as used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi). Note that captured card values do not matter unless all players run out of cards before anyone has completed the yaku.
 |Card Type|Value|Number in Deck|
