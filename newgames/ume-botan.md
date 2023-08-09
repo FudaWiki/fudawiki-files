@@ -2,7 +2,7 @@
 title: Ume Botan
 description: A hanafuda fishing game built upon various local rules.
 published: true
-date: 2023-07-27T05:14:39.574Z
+date: 2023-08-09T14:35:14.633Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-26T13:58:03.288Z
@@ -167,7 +167,7 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |20|**Paulownia Row**<br>桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)
 |20|**Cards of the Month**<br>月役 [つきやく, *tsukiyaku*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |<h2 align="center">Dandruff Yaku</h2>|||
-|50 (in a 3-player game),<br>40 (in a 4-player game)|**Dandruff**<br>頭垢 [ふけ, *fuke*]|An extremely poor score pile worth 20 points or lower in a 3-player game, or 15 points or lower in a 4-player game.|
+|50 (in a 3-player game),<br>40 (in a 4-player game)|**Dandruff**<br>頭垢 [ふけ, *fuke*]|An extremely poor score pile.<br>Ignoring all ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow cards, the score pile should be worth **20 points** or lower in a 3-player game, or **15 points** or lower in a 4-player game.<br>**ALL PLAYERS' SCORES AND ALL OTHER YAKU DURING THE ROUND ARE CANCELLED.**|
 
 
 # Bibliography
