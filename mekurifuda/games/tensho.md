@@ -2,13 +2,15 @@
 title: Tensho (using Ise deck)
 description: Rules for Tensho using Ise deck.
 published: true
-date: 2022-10-08T17:24:10.053Z
+date: 2023-08-12T03:31:50.334Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T17:24:10.053Z
 ---
 
 **Tensho** was a mekurifuda game for two players, likely originating in the Nagoya region of Japan. 
+
+The game was considered as the predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-Awase](/en/hanafuda/games/hana-awase).
 
 This game was originally played using a [mekurifuda](/en/mekurifuda) deck called Ise. It can also be played using Hanafuda; click [here](/en/hanafuda/games/tensho) to see the rules using Hanafuda.
 
