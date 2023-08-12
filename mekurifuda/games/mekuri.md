@@ -2,7 +2,7 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2023-08-12T12:48:40.672Z
+date: 2023-08-12T14:14:29.443Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
@@ -14,7 +14,10 @@ The name comes from the act of drawing a card from the face-down draw pile, whic
 
 Originally, it was played using Tensho Karuta, which were faithful copies of the Portuguese playing cards. It was also thought to be played using local decks with abstract designs based on Tensho Karuta, hence giving them the term "Mekuri Karuta" or "Mekurifuda". 
 
-The game described below is attested to be played by **4 people**, with 3 people participating in each round at once. *(Of course, it is possible to play the game with 3 players only)*
+The game described below was designed to be played by **4 people**, with 3 people participating in each round at once.
+
+> It has been attested to be "playable with 2 to 5 people"; However, the 5th person will have to wait in line until the game has ended. So technically, only 4 people participate in the game.<br>Also, it was not explained how a 2-player game was done.
+{.is-warning}
 
 # The Cards
 A Tensho Karuta or [Mekurifuda](/en/mekurifuda) deck of 48 cards is used. Remove any extra Onifuda/Bakefuda from the deck.
@@ -52,8 +55,8 @@ Among the recommended Mekuri Karuta decks to be used for this game are Fukutoku,
 | **12</br>(King)**  | Ao kiri</br>(Blue King) | Jū no kiri</br>(10-pt. King) | Subeta</br>(Junk) | Subeta</br>(Junk) |
 
 # Game Setup
-## Choosing the Dealer
-There is no attested method for choosing a dealer, so you may use whichever method suits you.
+## Choosing the Dealer and Seating Position
+There is no attested method for choosing the dealer and seating position, so you may use whichever method suits you.
 
 ## Dealing the Initial Cards
 7 cards are dealt to each player, and 6 cards face-up to the table. The remainder of the deck is placed face-down to form the draw pile.
