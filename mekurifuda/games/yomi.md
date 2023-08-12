@@ -2,7 +2,7 @@
 title: Yomi
 description: The ancestor of hanafuda sequence games such as Poka and Hiyoko.
 published: true
-date: 2023-08-12T09:59:45.904Z
+date: 2023-08-12T10:00:05.156Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T07:44:58.686Z
@@ -109,3 +109,4 @@ Card points and Yaku points have not been attested.
 # Bibliography
 
 -    https://www.asahi-net.or.jp/~rp9h-tkhs/dg_yomi.htm
+- https://sudare10.gokenin.com/room/mein/mein-01.html
