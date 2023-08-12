@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2023-08-12T05:25:38.010Z
+date: 2023-08-12T14:43:08.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -47,6 +47,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 |[Sento](/en/mekurifuda/games/sentowo), a.k.a. Sentochi|-|-|-|Japan|Ise|
 |[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|unconventional|Japan|Komatsu|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Mekuri-kei|Japan|Shimafuda|
+|[Shippin (Kingo variant)](/en/kabufuda/games/shippin-kingo)|-|-|Kingo-kei|Japan|Ise|
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Mekuri-kei|Japan|Ise|
 |[Sujiyomi](/en/mekurifuda/games/sujiyomi)|-|Sequence|Yomi-kei|Kyoto, Japan|-|
 |[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Mekuri-kei|Japan|Akahachi or Ise|
@@ -62,7 +63,7 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|Kinseizan|
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|Kinseizan|
 |[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Kabu-kei|Japan|Komaru|
-|[Dosari](/en/kabufuda/games/dosari)|-|-|-|Japan|Kinseizan|
+|[Dosari](/en/kabufuda/games/dosari)|-|-|Kingo-kei|Japan|Kinseizan|
 |[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Kabu-kei|Japan|Irinokichi|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|Daini|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|Tensho Karuta or Kingofuda|
