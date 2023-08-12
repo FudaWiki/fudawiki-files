@@ -2,7 +2,7 @@
 title: Tensho Karuta
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2022-12-21T02:34:39.213Z
+date: 2023-08-12T02:06:41.780Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -12,7 +12,9 @@ dateCreated: 2022-12-14T07:36:35.926Z
 
 **Tensho Karuta** [天正かるた] is the term used for [karuta](/en/karuta) (playing cards) made in Japan, which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]), except they were smaller in length and width than their Portuguese counterparts.
 
-These karuta started to be manufactured sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (Now the southern part of Fukuoka Prefecture. During this time, card decks from Portugal were also imported to Japan.
+The name may have come from the speculation that these karuta started to be locally manufactured in Japan sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (Now the southern part of Fukuoka Prefecture. During this time, card decks from Portugal were also being imported to Japan.
+
+The name may have also come from the game [Tensho](/en/mekurifuda/games/tensho), which was a predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-awase](/en/hanafuda/games/hana-awase).
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
