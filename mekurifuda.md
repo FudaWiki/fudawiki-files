@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2023-03-31T05:56:44.847Z
+date: 2023-08-12T03:28:27.561Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -14,7 +14,7 @@ dateCreated: 2022-08-19T08:46:15.982Z
 
 There were many different Mekurifuda patterns depending on the region of Japan, but all of them consisted of 48 cards, and were structurally the same as a Portuguese playing card deck.
 
-The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), which was originally played using Tensho Karuta. However, these cards are not strictly used for Mekuri games only.
+The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), a game which was thought of as a predecessor to [Hana-Awase](/en/hanafuda/games/hana-awase), but has actually coexisted with the latter. However, these cards are not strictly used for Mekuri games only.
 
 [**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
@@ -22,22 +22,20 @@ These card decks were subject to bans due to their association with gambling, wh
 
 There was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) as a way to get around the bans. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
 
-
-
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
 # History
-Sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were today known as Tensho Karuta.
+It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as Karuta (now classified as Tensho Karuta).
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
-Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Tensho Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
+Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
 
-Because of this, card manufacturers tried to cover up or change the iconography of Tensho Karuta (due to their possible religious association) by heavily overprinted them with color or transformed them into abstract shapes or strokes.
+Considering this, it seemed that card manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
 
-Depending on the region of Japan it was made, the deck varied in design. These types of cards would be collectively known today as Mekurifuda, after a game it was played with.
+The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards would be given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
 
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** In some decks, a **joker card** is used, called **Onifuda** ('demon card') or Bakefuda ('monster card').
