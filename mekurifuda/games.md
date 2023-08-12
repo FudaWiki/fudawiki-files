@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2023-08-12T03:51:01.279Z
+date: 2023-08-12T05:25:38.010Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -50,8 +50,8 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 |[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri#subeta-mekuri-using-mekurifuda-deck)|3|Fishing|Mekuri-kei|Japan|Ise|
 |[Sujiyomi](/en/mekurifuda/games/sujiyomi)|-|Sequence|Yomi-kei|Kyoto, Japan|-|
 |[Taoshi](/en/mekurifuda/games/taoshi) |3 per round, max 6 per game|Fishing|Mekuri-kei|Japan|Akahachi or Ise|
-|[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Mekuri-kei|Japan|Ise|
-|[Tenshu](/en/mekurifuda/games/tenshu)|4-7|Fishing|Mekuri-kei|Uozu, Toyama Prefecture, Japan|Fukutoku|
+|[Tensho](/en/mekurifuda/games/tensho)|2|Fishing|Tensho-kei|Japan|Ise|
+|[Tenshu](/en/mekurifuda/games/tenshu)|4-7|Fishing|Tensho-kei|Uozu, Toyama Prefecture, Japan|Fukutoku|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Yomi-kei|Japan|Tensho Karuta or Yomifuda|
 |[Yusuri](/en/hanafuda/games/yusuri)|-|Sequence|Yomi-kei|Aichi region, Japan|-|
 
