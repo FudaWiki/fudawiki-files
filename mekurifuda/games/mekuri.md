@@ -2,7 +2,7 @@
 title: Mekuri
 description: The ancestor game of Hana-awase.
 published: true
-date: 2022-12-16T09:06:23.862Z
+date: 2023-08-12T12:48:40.672Z
 tags: fishing games, mekurifuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-11T13:22:02.003Z
@@ -123,12 +123,13 @@ In addition to the usual card point scoring, each player who forms a yaku receiv
 
 | NAME OF YAKU | Card 1 | Card 2 | Card 3 |
 |:------:|:---:|:---:|:---:|
-| **Danjuro** | Club Dragon | Club 2 | Club Maid |
-| **Nakazo** | Club 7 | Club 8 | Club 9 |
-| **Akazo** | Sword 7 | Sword 8 | Sword 9 |
-| **Shimosan**  | Club Dragon | Club 2 | Club 3 |
-| **Kamisan**  | Club Maid | Club Horse | Club King |
-| **Ebizo**  | Club Dragon | Sword 2 | Club Maid |
+| **Danjuro [団十郎]** | Club Dragon (1) | Club 2 | Club Maid (10) |
+| **Ebizo [海老蔵]**  | Club Dragon (1) | Sword 2 | Club Maid (10) |
+| **Nakazo [仲蔵]** | Club 7 | Club 8 | Club 9 |
+| **Akazo [赤蔵]** | Sword 7 | Sword 8 | Sword 9 |
+| **Shimosan [上三]**  | Club Dragon (1) | Club 2 | Club 3 |
+| **Kamisan [下三]**  | Club Maid (10) | Club Horse (11) | Club King (12) |
+
 
 # Bibliography
 
