@@ -2,13 +2,15 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2022-10-08T17:28:19.348Z
+date: 2023-08-12T03:31:25.895Z
 tags: hanafuda games, fishing games, alternate suit order, stripped deck
 editor: markdown
 dateCreated: 2022-04-01T18:03:52.824Z
 ---
 
 **Tensho** is a hanafuda game for two players, likely originating in the Nagoya region of Japan. Like some other games from the area, it is played without the 3 [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff, and it uses an alternate [suit order](/en/hanafuda/suits#arrangement-of-suits) shared with [Hon-Bana](/en/hanafuda/games/honbana), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant). Other notable features are its two different sets of yaku, only one of which is used each round, and its two-tiered tie-breaking arbitration.
+
+The game was considered as the predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-Awase](/en/hanafuda/games/hana-awase).
 
 This game was originally played using a [mekurifuda](/en/mekurifuda) deck called Ise; click [here](/en/mekurifuda/games/tensho) to see the rules using the Ise deck.
 
