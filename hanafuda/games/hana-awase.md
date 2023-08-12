@@ -2,13 +2,13 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2023-07-17T15:18:38.514Z
+date: 2023-08-12T12:50:54.120Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:34.887Z
 ---
 
-**Hana-Awase - 花合わせ** [はなあわせ, lit. "joining together flowers"] may refer to a number of related but differing games, depending on the time period of the reference. It may be considered the basis on which the many other fishing games are built; indeed, the name "Hana-Awase" sometimes appears as a catch-all term to denote any game in which players capture cards on the table by matching them.
+**Hana-Awase - 花合わせ** [はなあわせ, lit. "joining together flowers"] may refer to a number of related but differing games, depending on the time period of the reference. It may be considered the basis on which the many other [Hanafuda](/en/hanafuda) fishing games are built; indeed, the name "Hana-Awase" sometimes appears as a catch-all term to denote any game in which players capture cards on the table by matching them.
 
 The game described here is a basic fishing game for two to four players, with three being the typical amount. Points are scored mainly from the values of captured cards, with bonus points awarded for forming certain combinations - making it, in essence, [*Bakappana*](/en/hanafuda/games/bakappana) with yaku. It is typical of those given in more recent books under the title of 'Hana-Awase', or sometimes 'Matching Flowers'. While it is no doubt representative of the many games to which the label of *Hana-Awase* has been applied, it is far from definitive.
 
