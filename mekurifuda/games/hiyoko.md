@@ -2,7 +2,7 @@
 title: Hiyoko (using Ise deck)
 description: Rules for Hiyoko using Ise deck.
 published: true
-date: 2022-11-19T03:23:35.592Z
+date: 2023-08-12T15:28:34.962Z
 tags: mekurifuda games, yomi-kei
 editor: markdown
 dateCreated: 2022-10-08T16:09:39.359Z
@@ -24,18 +24,18 @@ A variant of this game exists, called [Isuri](#isuri-hiyoko-variant).
 ## Card Names
 | NUMBER | Clubs</br>[Hau/Pao] | Swords</br>[Isu] | Coins</br>[Oru/Ouru] | Cups</br>[Koppu/Kotsu]|
 |:------:|:---:|:---:|:---:|:---:|
-| **1</br>(Dragon)** | Aza | Pin | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **2** | Ao ni</br>(Blue 2) | Ebi ni</br>(Shrimps 2) | Taiko ni</br>(Drums 2) | Kuchibiru no ni</br>(Lips of 2) |
-| **3** | Ao san</br>(Blue 3) | Aka san</br>(Red 3) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **4**  | Ao shi</br>(Blue 4) | Aka shi</br>(Red 4) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **5**  | Ao go</br>(Blue 5) | Aka go</br>(Red 5) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **6**  | Ao roku</br>(Blue 6) | Aka roku</br>(Red 6) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **7**  | Ao nana</br>(Blue 7) | Aka nana</br>(Red 7) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **8**  | Ao hachi</br>(Blue 8) | Aka hachi</br>(Red 8) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **9**  | Ao kyu</br>(Blue 9) | Aka kyu</br>(Red 9) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **10</br>(Maid)**  | Shaka jū</br>(Buddha 10) | Sudare jū</br>(Blinds 10) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **11</br>(Horse)**  | Ao uma</br>(Blue Horse) | Jū no uma</br>(10-pt. Horse) | Subeta</br>(Junk) | Subeta</br>(Junk) |
-| **12</br>(King)**  | Ao kiri</br>(Blue King) | Jū no kiri</br>(10-pt. King) | Subeta</br>(Junk) | Subeta</br>(Junk) |
+| **1</br>(Dragon)** | Doro pin | Aka pin</br>(Red 1) | Gasu pin</br>(Junk 1) | Gasu pin</br>(Junk 1) |
+| **2** | Ao ni</br>(Blue 2) | Aka ni</br>(Red 2) | Taiko ni</br>(Drums 2) | Neburi no ni</br>(Licking of 2) |
+| **3** | Ao san</br>(Blue 3) | Aka san</br>(Red 3) | Gasu san</br>(Junk 3) | Gasu san</br>(Junk 3) |
+| **4**  | Ao shi</br>(Blue 4) | Aka shi</br>(Red 4) | Gasu shi</br>(Junk 4) | Gasu shi</br>(Junk 4) |
+| **5**  | Ao go</br>(Blue 5) | Aka go</br>(Red 5) | Gasu go</br>(Junk 5) | Gasu go</br>(Junk 5) |
+| **6**  | Ao roku</br>(Blue 6) | Aka roku</br>(Red 6) | Mame roku</br>(Beans 6) | Gasu roku</br>(Junk 6) |
+| **7**  | Ao nana</br>(Blue 7) | Aka nana</br>(Red 7) | Gasu nana</br>(Junk 7) | Gasu nana</br>(Junk 7) |
+| **8**  | Ao hachi</br>(Blue 8) | Aka hachi</br>(Red 8) | Gasu hachi</br>(Junk 8) | Gasu hachi</br>(Junk 8) |
+| **9**  | Ao kyu</br>(Blue 9) | Aka kyu</br>(Red 9) | Gasu kyu</br>(Junk 9) | Gasu kyu</br>(Junk 9) |
+| **10</br>(Maid)**  | Ao jū</br>(Blue 10) | Surume jū</br>(Cuttlefish 10) | Gasu jū</br>(Junk 10) | Gasu jū</br>(Junk 10) |
+| **11</br>(Horse)**  | Ao uma</br>(Blue Horse) | Aka uma</br>(Red Horse) | Gasu uma</br>(Junk Horse) | Gasu uma</br>(Junk Horse) |
+| **12</br>(King)**  | Ao giri</br>(Blue King) | Aka giri</br>(Red King) | Gasu giri</br>(Junk King) | Gasu giri</br>(Junk King) |
 
 # Setup
 The game uses **45 cards** from an **Ise** deck. Remove the **6 of swords, 6 of cups, 6 of coins**, and the extra **bakefuda (ghost card)** from the deck before playing.
