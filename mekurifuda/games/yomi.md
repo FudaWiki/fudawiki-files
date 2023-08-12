@@ -2,7 +2,7 @@
 title: Yomi
 description: The ancestor of hanafuda sequence games such as Poka and Hiyoko.
 published: true
-date: 2022-10-17T04:17:27.956Z
+date: 2023-08-12T09:59:45.904Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T07:44:58.686Z
@@ -67,6 +67,44 @@ The wild card can be used to follow any card, or be followed by any card, regard
 # Winning the Round
 During each round, the goal is to **discard all the cards in your hand** before other players can do the same. If you do, **the round ends and you win** the round, and you become the dealer for the next round.
 
+# Variation
+There is another ruleset for a game called "Yomi" which is different from what was explained above.
+
+This game is played by 4 players.
+
+## The Cards
+Only 37 out of 48 cards from a mekurifuda deck is used; **remove all cards of the Swords suit except for the 2 of Swords**. (The Onifuda is also not used.)
+
+## Dealing the Initial Cards
+Dealer shuffles and deals 9 cards are to each player. Place the undealt card on the table face down; It will not be used during gameplay, but it will be added to the score of the winner of the round.
+
+## Checking for Teyaku
+Each player must check their hands for any Teyaku before the dealer starts their first turn. If they have, they will earn Teyaku points if they win the round.
+
+A complete list of Teyaku was not attested, but Sanko/Danjuro (1, 2, and 10 of Clubs) is used.
+
+## Forming the Discard Pile
+Dealer places any one card from his/her hand onto the table face-up. This will serve as the discard pile.
+
+## Gameplay
+Dealer plays first; turns move counter-clockwise.
+
+During a player’s turn, he/she looks at the topmost card in the discard pile, and then looks for a **card of the next number** from his/her hand.
+
+> The number sequence is on a loop; if a 12 (King) is the top card on the discard pile, you must discard a 1 (Dragon).
+{.is-info}
+
+If the player **has a card of the next number**, he/she **discards it onto the discard pile face-up**. That player **gets another turn**.
+
+If the player **doesn't have** one, he/she **passes the turn** to the next player.
+
+## Winning the Round
+During each round, the goal is to **discard all the cards in your hand** before other players can do the same. If you do, **the round ends and you win** the round, and you become the dealer for the next round.
+
+## Score Calculation
+The winner earns points from all discarded cards, plus their Yaku points if they have one.
+
+Card points and Yaku points have not been attested.
 
 # Bibliography
 
