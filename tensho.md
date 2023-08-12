@@ -1,8 +1,8 @@
 ---
-title: Tensho Karuta
+title: Tensho Karuta (Early Japanese Karuta)
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2023-08-12T03:23:35.631Z
+date: 2023-08-12T05:57:57.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
