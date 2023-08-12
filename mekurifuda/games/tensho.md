@@ -2,7 +2,7 @@
 title: Tensho (using Ise deck)
 description: Rules for Tensho using Ise deck.
 published: true
-date: 2023-08-12T03:31:50.334Z
+date: 2023-08-12T15:12:59.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T17:24:10.053Z
@@ -129,16 +129,40 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 
 # Card Values
 **Under most circumstances, only yaku are counted,** and card values are not calculated. However, in the case that both players have identical yaku scores and equal numbers of captured Chaff cards, **the tie may be broken and the winner determined by the player with the greater sum of points for all captured cards.**
+
+> The differences between card value tables are marked in **bold**.
+{.is-info}
+
+## Ise Card Values
 |Card Value|Cards|
 |:---:|:---|
 |15|1 (dragon) of clubs|
-|12|2 of clubs|
-|11|11 of clubs|
-|10|2 of clubs, 2 of swords, 6 of clubs, 10 (maid) of clubs, 10 (maid) of swords|
+|12|12 (king) of clubs|
+|11|11 (horse) of clubs|
+|10|2 of clubs, **2 of coins**, **6 of coins**, 10 (maid) of clubs, 10 (maid) of swords|
 |9|9 of clubs|
 |8|8 of clubs|
 |7|7 of clubs|
 |5|5 of clubs, 1 (dragon) of swords|
 |4|4 of clubs|
 |3|3 of clubs|
-|1|All swords except 10 (maid) and 1 (dragon), All cups, All coins|
+|1|6 of clubs, All swords except 1 (dragon) and 10 (maid), All coins except 2 and 6, All cups|
+
+## Alternative Card Values (Optional)
+*These values have been taken from the [Hanafuda version of the game](/en/hanafuda/games/tensho), where each card in the Mekurifuda deck corresponds to that of the Hanafuda deck in Nagoya month sequence.*
+|Card Value|Cards|
+|:---:|:---|
+|15|1 (dragon) of clubs|
+|12|12 (king) of clubs|
+|11|11 (horse) of clubs|
+|10|2 of clubs, **2 of swords**, **6 of clubs**, 10 (maid) of clubs, 10 (maid) of swords|
+|9|9 of clubs|
+|8|8 of clubs|
+|7|7 of clubs|
+|5|5 of clubs, 1 (dragon) of swords|
+|4|4 of clubs|
+|3|3 of clubs|
+|1|All swords except 1 (dragon), 2 and 10 (maid), All coins, All cups|
+
+# Bibliography
+- https://sudare10.gokenin.com/room/mein/mein-06.html
