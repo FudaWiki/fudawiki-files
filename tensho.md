@@ -2,7 +2,7 @@
 title: Tensho Karuta (Early Japanese Karuta)
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2023-08-12T05:59:44.854Z
+date: 2023-08-13T12:45:56.209Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -14,7 +14,7 @@ dateCreated: 2022-12-14T07:36:35.926Z
 
 Originally, they were simply known as Karuta, which is a Japanese pronunciation for *carta*, the Portuguese word for cards. Nowadays, to differentiate them from the other types of karuta, they were named Tensho Karuta due to the speculation that these karuta started to be locally manufactured in Japan sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (Now the southern part of Fukuoka Prefecture. During this time, card decks from Portugal were also being imported to Japan.
 
->The name may have also come from the game [Tensho](/en/mekurifuda/games/tensho), which was a predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-awase](/en/hanafuda/games/hana-awase); however, decks named in this context did not always have designs faithful to the Portuguese counterparts, and such decks are classified under [Mekurifuda](/en/mekurifuda).
+>The name may have also come from the game [Tensho](/en/mekurifuda/games/tensho), which was a predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-awase](/en/hanafuda/games/hana-awase); however, decks named in this context, named **Tenshofuda** **[テンショ札]**, did not always have designs faithful to the Portuguese counterparts, and such decks are classified under [Mekurifuda](/en/mekurifuda).
 {.is-warning}
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
