@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2023-08-12T14:41:33.390Z
+date: 2023-08-17T04:00:27.296Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -169,6 +169,11 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Oni](/newgames/oni_greyson), a.k.a. 270|2-8|Matching|
+## Hanafuda Hawaii LLC
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Hanafuda Solitaire 1](http://www.hanafudahawaii.com/gsolitaire1.html)|1-4|Patience|
+|[Hanafuda Solitaire 2](http://www.hanafudahawaii.com/gsolitaire2.html)|1|Patience|
 ## IndianWolf Studios
 **The rules for these games can be found on the book, [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).**
 |Game|Players|Family|
