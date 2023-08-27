@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-08-27T10:01:59.765Z
+date: 2023-08-27T10:21:12.814Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -86,6 +86,9 @@ The round ends once all players run out of cards **and** the draw pile has been 
 
 Due to the usage of a wild card, most rounds will end with two or more remaining cards on the field, **one of which matches the suit of whatever card was captured by the Gaji** (![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning).
 That card is **added** to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate. All other remaining cards are considered **dead cards** and will not be used during scoring.
+
+> Some people play such that all remaining cards will go to the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card.
+{.is-warning}
 
 Then, the round is scored. Each player's (or team's) base score is the total value of their captured cards. They then subtract 50 points for each *yaku* (scoring combination) held by each of their opponents.
 
