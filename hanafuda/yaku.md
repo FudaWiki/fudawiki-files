@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2022-11-21T03:10:50.412Z
+date: 2023-09-02T07:10:24.644Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -202,7 +202,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Koroshi</br>殺し|-|Kill|Rainman plus an incomplete set of Inoshikachō|Used in the game Taiyaku. The Yaku is based on the story of Ono Sadakuro, a murderer who got shot after being mistaken for a wild Boar. The Rainman in Echigobana is thought to depict Ono Sadakuro.|
 |Kumanosan</br>熊野サン|-|Kumano Mountains *or* Greater 9-11-3|Sake Cup, Rainman, Curtain|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kusabana</br>草花|-|Grass Flowers|Bridge, Butterflies, Sake Cup.|Unrelated to Kusatan.|
-|Kusatan</br>草短|**Kusa** [草], **Kusaken** [クサケン], **Chodan** [초단] in Korean, **Ksaiak** in Palauan|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
+|Kusatan</br>草短|**Kusa** [草], **Kusayaku** [草役], **Kusaken** [クサケン], **Chodan** [초단] in Korean, **Ksaiak** in Palauan|Grass Ribbons|Three Red Ribbons without writing, excluding the Willow Ribbon.|Might have evolved from a Mekuri dekiyaku involving collecting Sword cards.|
 |Marigakari</br>鞠懸|-|Kemari Court|Crane, Curtain, Deer, Rainman|An old Yaku named after the trees planted on the four corners of a Kemari court: Pine, Cherry, Maple, and Willow.|
 |Matsukiribōzu</br>松桐坊主|**Sanko** [三光], **Nichigessei** [日月星], **Gorōjū** [御老中] (in Suhara-bana), **Songwoldong** [송월동] in Korean, **Mats Kiri Bo** in Palauan|Pine, Paulownia, Baldy|Crane, Phoenix, Full Moon.|Bōzu is a nickname of the Full Moon card, which appears to be a monk with a bald head. Sanko and Nichigessei are references to the Sun, Moon and Star (more specifically, the planet Venus [金星, kinsei]).|
 |Matsu Shima</br>松島|**Matsu Zoro** [松ゾロ]|Four Pines|Four Pine cards.|Has mekurifuda origins.|
