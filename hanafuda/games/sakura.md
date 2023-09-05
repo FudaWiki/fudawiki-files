@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-08-27T16:30:51.184Z
+date: 2023-09-05T17:43:15.677Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -143,7 +143,13 @@ Oi-bana is a Sakura variant which can be played by a maximum of 6 players, but o
 
 Each player is dealt 8 cards. Starting with the dealer counter-clockwise, each player must bid an amount. There is only one round of bidding per round in the game, and the two highest bidders win the auction.
 
-The other players must shuffle back their cards into the deck and place 8 cards face up on the field, and the rest of the deck face-down as the draw pile. The two auction winners participate in a 2-player matching round, and the winner is paid by the loser the amount that the *winner* has bid.
+> The bidding process was not explained in detail; it is up to the players to decide how to do it, and what can and can't be done during the bidding process.
+{.is-warning}
+
+The other players must shuffle back their cards into the deck and place 8 cards face up on the field, and the rest of the deck face-down as the draw pile. The two auction winners participate in a 2-player matching round, and the winner is paid by the loser.
+
+> Whether the loser pays the amount bid by the *winner* or by the *loser* is not specified. **NEEDS MORE DOCUMENTATION**
+{.is-warning}
 
 > Basa and Chu rules can optionally be applied here: A double victor is paid by the loser twice the winner's bid, and a triple victor is paid three times the winner's bid.
 {.is-info}
