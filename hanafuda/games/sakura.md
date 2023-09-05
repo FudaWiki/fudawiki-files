@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2023-09-05T17:43:15.677Z
+date: 2023-09-05T17:43:32.478Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -151,7 +151,7 @@ The other players must shuffle back their cards into the deck and place 8 cards 
 > Whether the loser pays the amount bid by the *winner* or by the *loser* is not specified. **NEEDS MORE DOCUMENTATION**
 {.is-warning}
 
-> Basa and Chu rules can optionally be applied here: A double victor is paid by the loser twice the winner's bid, and a triple victor is paid three times the winner's bid.
+> Basa and Chu rules can optionally be applied here: A double victor is paid by the loser twice the bid, and a triple victor is paid three times the bid.
 {.is-info}
 
 # Strategy
