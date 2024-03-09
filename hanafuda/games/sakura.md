@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2024-03-03T07:59:44.037Z
+date: 2024-03-09T14:57:15.264Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -172,3 +172,4 @@ Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow]
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
 - "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* 
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
+- Kupuna Power: Episode 19. *K5*
