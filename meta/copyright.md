@@ -2,7 +2,7 @@
 title: Copyrights
 description: Copyright Information
 published: true
-date: 2022-04-10T15:18:42.248Z
+date: 2024-04-06T07:11:22.163Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:19.976Z
@@ -23,3 +23,7 @@ Icons on the Hanafuda Suit pages were created and copyrighted by Sem for this wi
 ## Kabufuda Cards
 
 Kabufuda card images are "Pixel Kabufuda."  They are Copyright &copy; 2020 Ryan Sartor and licensed under [Creative Commons Attribution Non-Commercial](http://creativecommons.org/licenses/by-nc/4.0/)
+
+## Mekurifuda Cards
+
+All full card set images of Mekurifuda patterns (four-suited and one-suited) were created and copyrighted by Suryong specifically for use on this wiki. They are licensed under [Creative Commons Attribution Non-Commercial](http://creativecommons.org/licenses/by-nc/4.0/).
