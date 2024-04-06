@@ -2,7 +2,7 @@
 title: Kingo
 description: A hanafuda game similar to blackjack
 published: true
-date: 2022-11-19T03:49:58.305Z
+date: 2024-04-06T07:29:53.732Z
 tags: hanafuda games, kabufuda games, mekurifuda games, kingo-kei
 editor: markdown
 dateCreated: 2022-07-14T03:41:53.329Z
@@ -68,10 +68,10 @@ During a player's turn, he/she **draws a card** from the draw pile and put it in
 
 Afterward, the player can **keep drawing cards** until his/her hand value total **becomes close to 15**, or **pass the turn**  to the next player if he/she thinks the next draw will push his/her hand's value beyond 15.
 
-## Bareta
-If the player's hand value **reaches 16 or higher**, his/her hand is called **Bareta** (バレタ, lit. 'busted'). The player **automatically loses the round** and has to pass the turn to the next player immediately. In addition, **the wager he/she must place in the pot during that round is doubled**.
+## Bareta (Bust)
+If the player's hand value **reaches 16 or higher**, his/her hand **busts** (バレタ, *bareta*). The player **automatically loses the round** and has to pass the turn to the next player immediately. In addition, **the wager he/she must place in the pot during that round is doubled**.
 
-> If all players have Bareta, then the round is voided, all wagers go back to the players, and the cards must be redealt by the same dealer.
+> If all players bust, then the round is void. All wagers go back to the players, and the cards must be redealt by the same dealer.
 {.is-info}
 
 # Showdown
@@ -134,8 +134,8 @@ A player **cannot pass their turn** unless the value in their hand is **12 or hi
 > *Some play such that this value is 13 or 11.*
 {.is-info}
 
-### Bareta
-If a player's hand value **reaches 16 or higher**, his/her hand is called **Bareta** (ばれた), and must reveal their hand immediately. 
+### Bareta (Bust)
+If a player's hand value **reaches 16 or higher**, his/her hand **busts**, and he/she must reveal their hand immediately. 
 
 That player **automatically loses the round** and has to pass the turn to the next player.
 
