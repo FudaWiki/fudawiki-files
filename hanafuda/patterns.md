@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2022-12-28T04:24:17.754Z
+date: 2024-04-06T10:30:19.489Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -20,7 +20,7 @@ For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 ## Standard Pattern
 |Name|Played In|Description|
 |:---:|:---:|:---:|
-|[**Hachi-Hachi-Bana**](/en/hanafuda/patterns/hachihachibana) |Japan, Taiwan and some places in China, Karafuto (now South Sakhalin, Russia), Korea, Hawaii (USA), Palau| The standard pattern of hanafuda. Named after the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) which was the most popular hanafuda game in Japan during the early 20th century. Possibly evolved from Yokohama-bana.|
+|[**Hachi-Hachi-Bana**](/en/hanafuda/patterns/hachihachibana) |Japan, Taiwan and some places in China, Karafuto (now South Sakhalin, Russia), Korea, USA, and Micronesia| The standard pattern of hanafuda. Named after the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) which was the most popular hanafuda game in Japan during the early 20th century. Possibly evolved from Yokohama-bana.|
 
 ## Regional Patterns in Japan
 |Name|Played In|Description|
@@ -42,6 +42,8 @@ For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 |:---:|:---:|:---:|
 |**Dairen-Bana** |Dalian, China| Same design as Hachi-hachi-Bana except the Ribbons have Japanesque patterns on the background. Sold in Dairen (Now Dalian, China) when it was part of the Kwantung Leased Territory.|
 |[**Hwatu**](/en/hanafuda/hwatu)|South Korea|This pattern evolved from the low-cost Hachi-hachi-bana pattern made by **Nihon Karuta**, where a lot of design elements were borrowed, such as the Geese colorization and the idea of putting a symbol on the Full Moon card. The origin of the circled '光' symbol is disputed, with both **Oishi Tengudo** and **Nihon Karuta** claiming to be the originator. Nowadays, Hwatu is mainly manufactured using plastic rather than paper.|
+|[**Kwa-Dō**](https://fudawiki.org/en/newgames/kwa-do)|USA|Illustrated by Virginia Seeger and published by **K.K. Corner and R. Whitbeck** in 1959, it aimed to promote Hanafuda to an unsuspecting American market as an "ancient Oriental game played for over 400 years". The designs are based on Japanese hanafuda, albeit crudely drawn, and all the bright cards are marked with a circled '光', in similar fashion to Hwatu. Each set included instructions for a game that is largely based on [Sakura](/en/hanafuda/games/sakura).|
+|[**Hanafuda Hawaii Style**](https://hanafudahawaii.com/2024/03/06/how-to-play-hanafuda-hawaii-style/)|Hawaii, USA|Designed by Helen Nakano and her son Jason Nakano, who drew the illustrations. It was sold by her company, **Hanafuda Hawaii LLC**, since 2009, in order to promote the local game of Sakura around Hawaii. Each card has markers that indicate the month of the card, its point value, and what yaku it is part of. Originally made of small, stiff cardboard similar to traditional hanafuda decks, it was later replaced with the larger and thinner card format similar to western playing cards.|
 
 ## Special Patterns
 |Name|Description|
