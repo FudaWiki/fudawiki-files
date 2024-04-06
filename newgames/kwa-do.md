@@ -2,13 +2,13 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2022-08-16T00:26:03.423Z
+date: 2024-04-06T10:13:52.469Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
 ---
 
-The following rules are based on the rulesheet included in the set of Kwa-Dō, a card game with cards of the same material and construction as western playing cards, but is functionally a hanafuda/hwatu deck hybrid, with patterns drawn by Virginia Seeger. It was published by K.K. Corner and R. Whitbeck for the American market.
+The following rules are based on the rulesheet included in the set of Kwa-Dō, a card game with cards of the same material and construction as western playing cards, but is functionally a hanafuda/hwatu deck hybrid, with patterns drawn by Virginia Seeger. It was published by K.K. Corner and R. Whitbeck in 1959 for the American market.
 
 The game is designed to be played by 2 to 6 players (team-playing is also allowed) , and is largely based on [Sakura](/en/hanafuda/games/sakura), with elements from other hanafuda games mixed in.
 
