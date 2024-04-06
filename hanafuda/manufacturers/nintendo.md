@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2024-03-03T07:45:47.188Z
+date: 2024-04-06T08:17:23.156Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -18,7 +18,7 @@ In 1902, they started selling the first locally-produced [western playing cards]
 Nintendo’s manufacturer's mark is a circled 福 (*fuku*, ‘fortune’), called Marufuku (丸福, lit. 'circle fortune').
 
 The meaning of the name ‘Nintendo’ is not exactly known, but a U.S. Patent Office trademark describes it as “a corporation whose fortune or prosperity should be left to the mercy of heaven”. This could possibly be the origin of the phrase “leave luck to heaven”, which is widely regarded to be the meaning of the name.
-
+ 
 Despite being a full-fledged video game manufacturer, Nintendo still continues to manufacture Hanafuda today.
 
 # Current Brands
