@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2024-04-07T12:23:14.841Z
+date: 2024-04-07T12:25:26.162Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -36,6 +36,10 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 
 # Character Hanafuda
 - **Attack on Titan Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
+- **LoveLive! Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
+- **Nintama Rantaro Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
+- **The Quintessential Quintuplets Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
+- **Urusei Yatsura Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
 - **Kyoto Hanafuda** (designed by Nakano Design Laboratory, Kyoto Institute of Technology) - An original hanafuda deck design with Kyoto's specialties and famous places.
 - **Otōri danshi: Jōka Hanafuda**
 - **Spirited Away Hanafuda**
