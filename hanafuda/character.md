@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2024-04-07T11:54:06.552Z
+date: 2024-04-07T11:57:22.151Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2022-04-01T17:56:01.351Z
@@ -107,7 +107,6 @@ The character hanafuda decks manufactured by Nintendo are unlike most character 
 ## Oishi Tengudo
 Just like Nintendo, the character hanafuda decks manufactured by Oishi Tengudo are properly backpapered like traditional karuta and also tend to be of the same quality as their traditional hanafuda decks. 
 - Kyoto
-- Nakayoshi Village Hachi-hachi
 
 ## Yanoman
 The character hanafuda decks manufactured for Yanoman are generally considered to be of high quality, but are still not backpapered. Their sides are black to match the borders and backs, rather than bare cardboard. The only exception is the Deluxe Collector's Edition of Yokai Hana Asobi, which were properly backpasted like traditional karuta.
