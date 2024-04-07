@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-23T04:28:26.362Z
+date: 2024-04-07T12:23:14.841Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -34,11 +34,9 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 - **Echigokobana** - an Echigo-bana variant but smaller in dimensions and has no Waka poems. The Rainman has a raccoon tail, the yellow paulownia chaff has a small ribbon on it. Comes with 3 Onifuda cards.
 - **Kintokibana** - a unique pattern from Shikoku island, with some silver overprints. Most Chaff, Ribbons, and some other cards explicitly mention the month number on the cards. The Chaff of Pine and Susuki Grass have a very abridged version of the Echigo-bana poems. Includes an Onifuda which depicts Kintaro.
 
-
 # Character Hanafuda
 - **Attack on Titan Hanafuda** (manufactured for TOKYOGETS's "Charaditional Toy" line)
 - **Kyoto Hanafuda** (designed by Nakano Design Laboratory, Kyoto Institute of Technology) - An original hanafuda deck design with Kyoto's specialties and famous places.
-- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card.
 - **Otōri danshi: Jōka Hanafuda**
 - **Spirited Away Hanafuda**
 - **The Great Yokai War: Guardians Hanafuda**
@@ -46,6 +44,7 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 # Promotional Hanafuda
 - **New Era 9THIRTY Hanafuda** - Included when you buy a special Ōishi Tengudō design New Era 9THIRTY Cap.
 - **Starbucks Reserve Roastery Hanafuda** - Sold only at Starbucks Reserve Roastery in Tokyo, Japan.
+- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card, as well as illustrations inspired by the art of paper-cutting. Created in commemoration of the 35th anniversary of **Nakayoshi Village and Game Tree**, a group of people who enjoy playing board games.
 
 # Discontinued Brands
 - **Atariya** (Winning Arrow)
