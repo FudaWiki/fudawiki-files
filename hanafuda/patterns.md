@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2024-04-06T10:30:19.489Z
+date: 2024-04-07T11:52:00.535Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -49,6 +49,7 @@ For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 |Name|Description|
 |:---:|:---:|:---:|
 |[**Character Hanafuda**](/en/hanafuda/character)|Any type of hanafuda pattern that features a particular cultural theme or intellectual property, which may be either on the scoring cards only, or throughout the entire deck. Usually sold for the purpose of being promotional materials or collectors' items. This family of hanafuda patterns fluorished after the abolition of the Trump Tax Law in 1989.|
+|[**Junior Hanafuda**](https://www.junior.cards/articles/juniorhanafuda/)|Published by **Louie Mantia** in 2020 and printed by The United States Playing Card Co. on western-style cardstock. The design features a reinterpretation of the hanafuda plants, animals, and objects in the form of Japanese crests (紋, *mon*), making the cards easier to distinguish from each other.|
 |**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of **Murai Bros.** cigarettes, but was printed as a complete hanafuda set by **Tsuchida Tenguya**. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations. Each card has a western playing card design printed on the top right corner of the card.|
 |**Kinbotan** | A special-made Hanafuda commissioned by Former **Prime Minister Ito Hirobumi**. The cards are larger and thicker than regular hanafuda cards. However, the patterns are more colorful, more detailed, and with plenty of gold outlines.|
 |**Musashino** | A very early woodblock-printed hanafuda from the Edo period. The name comes from the Waka poem written on the Susuki grass Chaff. It shares the same drawings as Echigo-bana, including the Waka poems. It is thought to be the standard pattern of hanafuda before Hachi-hachi-bana took its place.|
@@ -90,9 +91,10 @@ While a standard hanafuda deck has 12 suits, there are variants where suits are 
 ## Using Western-style Cardstock
 |Name|Description|
 |:---:|:---:|
-|**Bridge-Size**|Hachi-hachi-bana pattern printed on bridge-size western-style playing card material. The front of each card shows not only the hanafuda design, but also the points of the card as indices, and the name of the suit on the top, and the name of the month on the bottom. The card points may either be standard, or those used in Sakura, depending on the deck. Manufactured for export to Hawaii, USA, by different playing card companies including [**Nintendo**](/en/hanafuda/manufacturers/nintendo).|
+|**Bridge-Size**|Hachi-hachi-bana pattern printed on bridge-size western-style playing card material. The front of each card shows not only the hanafuda design, but also the points of the card as indices, and the name of the suit on the top, and the name of the month on the bottom. The card points may either be standard, or those used in Sakura, depending on the deck. Manufactured mostly for export to Hawaii, USA, by different playing card companies including [**Nintendo**](/en/hanafuda/manufacturers/nintendo).|
 |[**Hana-Trump**](/en/trump#hana-trump)|Hachi-hachi-bana pattern printed on western-style playing card material. On the front of each card, the hanafuda design is printed in the middle, while the indices indicate its western playing card value. This makes it possible to be used for both Hanafuda games and Western playing card games. Available in different card dimensions, although typically it is slightly smaller than bridge size playing cards.|
 |**Yasen Hanafuda**|Hachi-hachi-bana pattern printed on western-style playing card material. The deck is as thick as a typical western playing card deck, but the length and width of the cards are close to those of traditional hanafuda. Manufactured by **Universal Playing Card Co.**|
+|**Master Hanafuda**|Published by **Beverly** for its "Master" board game series. It is a variant of the Bridge-Size hanafuda but with all the [Hana-awase](/en/hanafuda/games/hana-awase) Yaku shown on the bottom part of the card.|
 
 ## Other Unique Hanafuda Formats
 |Name|Description|
