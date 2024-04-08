@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2024-04-08T06:09:59.772Z
+date: 2024-04-08T06:10:31.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-08T06:06:33.721Z
 
 ![hana_cards_1.png](/suryongfiles/hana_cards_1.png =150x)
 
-**Hana Cards** (花カード) were a unique type of [Hanafuda](/en/hanafuda)en/hanafuda) printed using western-style cardstock. They were introduced by [**Nintendo**](/en/hanafuda/manufacturers/nintendo) around the 1950's, and continued to be manufactured until the late 1960's, usually for export to Hawaii, USA.
+**Hana Cards** (花カード) were a unique type of [Hanafuda](/en/hanafuda) printed using western-style cardstock. They were introduced by [**Nintendo**](/en/hanafuda/manufacturers/nintendo) around the 1950's, and continued to be manufactured until the late 1960's, usually for export to Hawaii, USA.
 
 # Features
 Unlike traditional hanafuda, which were small and thick, and cannot be bent to any degree without damaging them, Hana Cards were printed on bridge-size western-style cardstock, making them easier to shuffle.
