@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2024-04-08T06:06:33.721Z
+date: 2024-04-08T06:08:38.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -37,7 +37,7 @@ Since this type of deck was already discontinued by Nintendo, it's modern succes
 
 # Predecessors
 ## Hana-Trump
-Printing hanafuda designs on western-style cardstock was not a new idea. [Hana-Trump](en/trump#hana-trump), which combined the elements of hanafuda and french-suited playing cards and printed them on western-style cardstock, were already being made by Nintendo before Hana Cards were introduced. 
+Printing hanafuda designs on western-style cardstock was not a new idea. [Hana-Trump](/en/trump#hana-trump), which combined the elements of hanafuda and french-suited playing cards and printed them on western-style cardstock, were already being made by Nintendo before Hana Cards were introduced. 
 
 The differences are Hana-Trump were usually smaller than western playing cards, whereas Hana Cards had the same size (Hana-Trump that had the same size as western playing cards also existed). Also, Hana Cards omitted all elements of western playing cards (suits and numbers) from its faces.
 
