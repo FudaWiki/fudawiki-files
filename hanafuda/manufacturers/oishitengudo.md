@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2024-04-07T12:25:26.162Z
+date: 2024-04-08T01:53:32.412Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -48,7 +48,7 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 # Promotional Hanafuda
 - **New Era 9THIRTY Hanafuda** - Included when you buy a special Ōishi Tengudō design New Era 9THIRTY Cap.
 - **Starbucks Reserve Roastery Hanafuda** - Sold only at Starbucks Reserve Roastery in Tokyo, Japan.
-- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card, as well as illustrations inspired by the art of paper-cutting. Created in commemoration of the 35th anniversary of **Nakayoshi Village and Game Tree**, a group of people who enjoy playing board games.
+- **Nakayoshi Village Hachi-hachi Hanafuda** - An original hanafuda deck design with indices telling the month and score of each card, as well as illustrations inspired by the art of paper-cutting. Created in commemoration of the 35th anniversary of Nakayoshi Village and Game Tree, a group of people who enjoy playing board games.
 
 # Discontinued Brands
 - **Atariya** (Winning Arrow)
