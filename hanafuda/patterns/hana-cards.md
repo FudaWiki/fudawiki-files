@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2024-04-08T08:51:54.663Z
+date: 2024-04-08T08:52:14.855Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -55,7 +55,7 @@ The face format is similar to Hana Cards: There's a small illustration of a hach
 In addition, all the possible yaku that can be formed by each card is fully illustrated at the bottom part of the face of each card. Yaku for both [Hana-awase](/en/hanafuda/games/hana-awase) and Koi-koi are illustrated.
 
 ## Hanafuda Hawaii Style
-Hanafuda hawaii Style was designed by Helen Nakano and her son Jason Nakano, who drew the illustrations. It was sold by her company, **Hanafuda Hawaii LLC**, since 2009, in order to promote the local game of Sakura around Hawaii. 
+Hanafuda Hawaii Style was designed by Helen Nakano and her son Jason Nakano, who drew the illustrations. It was sold by her company, **Hanafuda Hawaii LLC**, since 2009, in order to promote the local game of Sakura around Hawaii. 
 
 The first edition was originally made of small, stiff cardboard similar to traditional hanafuda decks, but it has been discontinued in favor of the "extra-large" version printed on western-style cardstock, to make the cards easier to read. This version is still being sold today.
 
