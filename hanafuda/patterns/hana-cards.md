@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2024-04-08T08:52:14.855Z
+date: 2024-04-18T06:09:25.371Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -15,7 +15,7 @@ dateCreated: 2024-04-08T06:06:33.721Z
 # Features
 Unlike traditional hanafuda, which were small and thick, and cannot be bent to any degree without damaging them, Hana Cards were printed on bridge-size western-style cardstock, making them easier to shuffle.
 
-The faces contained a small illustration of the standard [hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana) pattern. To facilitate easier playing, the suits are indicated by both the name of the plant above the illustration, and the name of the month below the illustration. Also, the point value of the card is indicated on its indices.
+The faces contained a small illustration of the standard [hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana) pattern. To facilitate easier playing, the suits are indicated by both the name of the plant above the illustration, and the name of the month below the illustration, in both English and Japanese Romaji. Also, the point value of the card is indicated on its indices.
 
 Included in the set was a booklet containing Japanese-language instructions for games that can be played using Hana Cards. Curiously, these were not games traditionally played using hanafuda, but were actually western card games adapted for play using hanafuda!
 
