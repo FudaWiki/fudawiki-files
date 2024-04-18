@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2024-04-08T08:53:22.934Z
+date: 2024-04-18T06:05:40.047Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -87,7 +87,7 @@ While a standard hanafuda deck has 12 suits, there are variants where suits are 
 |**Kirippanashi**|Hanafuda where the manufacturing step of wrapping the card with a backpaper (this technique is called *herikaeshi*) is completely omitted, leaving the edges of the cards unprotected. It is a characteristic of budget hanafuda decks.|
 |**Plastic Hanafuda** |Hanafuda made of plastic instead of paper. It wasn't fully embraced in Japan, with only a handful of manufacturers such as **Ace** and [**Angel**](/en/hanafuda/manufacturers/angel) selling their plastic hanafuda. However, it was fully embraced in South Korea since the 1970's, and all paper Hwatu was replaced with plastic Hwatu.|
 |**Suzuiri Hanafuda**|Hanafuda that has a layer(s) of tinfoil sandwiched in between the washi paper in the cardstock. This was an alternative method of adding weight to each card, as traditionally a very fine stone powder (*tonoko*) is mixed with the paste for gluing the paper layers together to add weight to the cards.|
-|**Tezuri** |Hand-printed hanafuda cards. Before the 20th century, the traditional way of printing hanafuda cards is by using a woodblock to stamp the pattern on the paper (this technique is called *hone-zuri*), and then using stencils and a round brush, the colored dyes are applied to the paper (this technique is called *kappa-zuri*). This practice died out by the 1940's, when machine-printed hanafuda was more common and easily mass-produced. However in 1975, the technique was revived by **Matsui Tengudo**, in order to differentiate their products from those of hanafuda manufacturers.|
+|**Tezuri** |Hand-printed hanafuda cards. Before the 20th century, the traditional way of printing hanafuda cards is by using a woodblock to stamp the pattern on the paper (this technique is called *hone-zuri*), and then using stencils and a round brush, the colored dyes are applied to the paper (this technique is called *kappa-zuri*). This practice died out by the 1940's, when machine-printed hanafuda was more common and easily mass-produced. However in 1975, the technique was revived by **Matsui Tengudo**, in order to differentiate their products from those of other hanafuda manufacturers.|
 
 ## Using Western-style Cardstock
 |Name|Description|
