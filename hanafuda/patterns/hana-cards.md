@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2024-04-18T06:09:25.371Z
+date: 2024-04-18T06:15:56.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -43,7 +43,7 @@ The differences are Hana-Trump were usually smaller than western playing cards, 
 Another type of hanafuda was already being printed on western-style cardstock before Hana Cards were introduced, called Yasen Hanafuda. They were made by **Universal Playing Card Co.**, and had the same thickness and material as western playing cards, and the same face design, height, and width as traditional hanafuda. Based on the brand name and label, it is suggested that this type of hanafuda might have been carried around in the battlefield by soldiers because they fit easily in the pocket due to their small size.
 
 # Modern Equivalents
-Hana Cards, in both the normal and Hawaiian version, were already long discontinued by Nintendo. However, there exist modern equivalents that are similar to Hana Cards.
+Hana Cards, in both the standard and Hawaiian version, were already long discontinued by Nintendo. However, there exist modern equivalents that are similar to Hana Cards.
 
 ## Master Hanafuda
 Master Hanafuda was a set of hanafuda cards printed on western-style cardstock, published by **Beverly** in Japan for its “Master” board game series. 
