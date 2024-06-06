@@ -2,7 +2,7 @@
 title: Kujuroku
 description: A fishing game using Daini cards.
 published: true
-date: 2022-11-19T03:58:47.852Z
+date: 2024-06-06T13:36:20.434Z
 tags: hanafuda games, kabufuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-31T07:33:58.373Z
@@ -205,7 +205,7 @@ The game continues until **all players** have had their chance to be a dealer in
 **The player with the most chips wins the game.**
 
 # Variant: Jizo-fuda
-This variant was based on a presumed restoration of the rules of the game by Nobuaki Kenbe.
+This variant was based on a presumed restoration of the rules of the game by Nobuaki Takerube.
 
 In this variant, the **Jizo-fuda** is included in the deck as different wild card in the game, as a counter to the existing Oni-fuda card. In this case, the number of cards in the deck is 42.
 
