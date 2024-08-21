@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2024-08-21T01:05:26.987Z
+date: 2024-08-21T01:11:45.368Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -371,7 +371,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Shinobi Hanafuda Hyakka Ryouran Kouhen (<span lang='ja'>忍花札 百花繚乱 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-kouhen)
 * [Shinobi Hanafuda Hyakka Ryouran Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-zenpen)
 * [Shinobi Hanafuda 2 Hyakka Soumei - Kouhen (<span lang='ja'>花札2 百華争鳴 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
-* [Shinobi Hanafuda 2 Hyakka Soumei - Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-zenpen)
+* [Shinobi Hanafuda 2 Hyakka Soumei - Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-zenpen)
 * [Shock Price Advance Series Hanafuda hanahuda (<span>Shock Price Advance Series 花札 hanahuda</span>)](/en/hanafuda/video-games/win/shock-price-advance-series-hanafuda-hanahuda)
 * [Standard 2-in-1 Vol.1 Mahjong & Hanafuda (<span lang='ja'>Standard 2-in-1 Vol.1 麻雀＆花札</span>)](/en/hanafuda/video-games/win/standard-2-in-1-vol1-mahjong-hanafuda)
 * [Super Hanafuda (<span lang='ja'>スーパー花札</span>)](/en/hanafuda/video-games/win/super-hanafuda)
