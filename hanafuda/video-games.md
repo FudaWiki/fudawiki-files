@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2024-08-21T00:30:46.218Z
+date: 2024-08-21T01:05:26.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -337,6 +337,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Fate / hollow ataraxia (<span lang='ja'>フェイト/ホロウアタラクシア</span>)](/en/hanafuda/video-games/win/fate-hollow-ataraxia)
 * [FEEL-GOOD Japanese play series Hanafuda (<span lang='ja'>FEEL-GOOD 日本の遊びシリーズ 花札</span>)](/en/hanafuda/video-games/win/feel-good-japanese-play-series-hanafuda)
 * [Gakuen Hanafuda Gouka Kenran Kouhen (<span lang='ja'>学園花札 豪華絢爛 後編</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-kouhen)
+* [Gakuen Hanafuda Gouka Kenran Zenpen (<span lang='ja'>学園花札 豪華絢爛 前編</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-zenpen)
 * [GAME FAN 1200 Vol.6 Hanafuda (<span lang='ja'>ゲームファン1200 Vol.6 花札・バックギャモン・スピナーの逆襲</span>)](/en/hanafuda/video-games/win/game-fan-1200-vol6-hanafuda)
 * [GAME FAN 1980 Shogi, Fishing II, Hanafuda II, Hyakunin Isshu (<span lang='ja'>GAME FAN 1980 将棋・釣りII・花札II・百人一</span>)](/en/hanafuda/video-games/win/game-fan-1980-shogi-fishing-ii-hanafuda-ii-hyakunin-isshu)
 * [GAMEPACK Hanafuda Koi-Koi (<span lang='ja'>GAMEPACK 花札 こいこい</span>)](/en/hanafuda/video-games/win/gamepack-hanafuda-koi-koi)
@@ -351,6 +352,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Koi-Koi (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/win/hanafuda-koi-koi)
 * [Hanafuda Koi-Koi 100yen Soft Series vol.12: Koikoi Shimasuka? for Windows (<span lang='ja'>花札こいこい 100円ソフトシリーズ vol.12 Koikoi Shimasuka? for Windows</span>)](/en/hanafuda/video-games/win/hanafuda-koi-koi-100yen-soft-series-vol12-koikoi-shimasuka-for-windows)
 * [Hanafuda L (<span lang='ja'>花札L（八八，花合わせ，すだおし）</span>)](/en/hanafuda/video-games/win/hanafuda-l)
+* [Hanafuda Market Totsugeki! Tonari no Kanban Musume (<span lang='ja'>はなふだマーケット 突撃！隣の看板娘</span>)](/en/hanafuda/video-games/win/hanafuda-market-totsugeki-tonari-no-kanban-musume)
 * [Hanafuda Tenkomori (Explosive 1480 Best Series Selected! BOX) (<span lang='ja'>花札てんこもり 爆発的1480ベストシリーズ 厳選!!BOX</span>)](/en/hanafuda/video-games/win/hanafuda-tenkomori-explosive-1480-best-series-selected-box)
 * [Hanafuda Tenkomori for Dad (<span lang='ja'>お父さんのための花札 てんこもり</span>)](/en/hanafuda/video-games/win/hanafuda-tenkomori-for-dad)
 * [IT Playing Cards • Hanafuda • Hyakunin Isshu (<span lang='ja'>ITトランプ・花札・百人一首</span>)](/en/hanafuda/video-games/win/it-playing-cards-hanafuda-hyakunin-isshu)
@@ -366,7 +368,10 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Private Hanafuda Gakuen (<span lang='ja'>私立華々学園</span>)](/en/hanafuda/video-games/win/private-hanafuda-gakuen)
 * [Rabbit’s Hanafuda (<span lang='ja'>うさぎさんの花札</span>)](/en/hanafuda/video-games/win/rabbits-hanafuda)
 * [Shinji and Good Friends: Second Hanafuda Impact (<span lang='ja'>シンジと愉快な仲間たち セカンド・花札いんぱくと</span>)](/en/hanafuda/video-games/win/shinji-and-good-friends-second-hanafuda-impact)
-* [Shinobi Hanafuda 2 Hyakka Soumei - Kouhen (<span lang='ja'>忍花札2 百華争鳴</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
+* [Shinobi Hanafuda Hyakka Ryouran Kouhen (<span lang='ja'>忍花札 百花繚乱 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-kouhen)
+* [Shinobi Hanafuda Hyakka Ryouran Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-zenpen)
+* [Shinobi Hanafuda 2 Hyakka Soumei - Kouhen (<span lang='ja'>花札2 百華争鳴 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
+* [Shinobi Hanafuda 2 Hyakka Soumei - Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-zenpen)
 * [Shock Price Advance Series Hanafuda hanahuda (<span>Shock Price Advance Series 花札 hanahuda</span>)](/en/hanafuda/video-games/win/shock-price-advance-series-hanafuda-hanahuda)
 * [Standard 2-in-1 Vol.1 Mahjong & Hanafuda (<span lang='ja'>Standard 2-in-1 Vol.1 麻雀＆花札</span>)](/en/hanafuda/video-games/win/standard-2-in-1-vol1-mahjong-hanafuda)
 * [Super Hanafuda (<span lang='ja'>スーパー花札</span>)](/en/hanafuda/video-games/win/super-hanafuda)
