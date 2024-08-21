@@ -2,8 +2,8 @@
 title: Hanafuda Market Totsugeki! Tonari no Kanban Musume
 description: 
 published: true
-date: 2024-08-21T00:46:43.695Z
-tags: 
+date: 2024-08-21T04:43:00.172Z
+tags: nsfw
 editor: markdown
 dateCreated: 2024-08-21T00:46:43.695Z
 ---
