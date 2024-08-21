@@ -1,8 +1,8 @@
 ---
 title: Hanafuda Market Totsugeki! Tonari no Kanban Musume
-description: 
+description: はなふだマーケット 突撃！隣の看板娘
 published: true
-date: 2024-08-21T04:50:51.996Z
+date: 2024-08-21T04:51:31.158Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T00:46:43.695Z
