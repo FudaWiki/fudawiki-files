@@ -2,7 +2,7 @@
 title: Shinobi Hanafuda 2 Hyakka Soumei - Kouhen
 description: 
 published: true
-date: 2022-04-10T15:35:52.299Z
+date: 2024-08-21T00:43:26.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T23:03:46.109Z
