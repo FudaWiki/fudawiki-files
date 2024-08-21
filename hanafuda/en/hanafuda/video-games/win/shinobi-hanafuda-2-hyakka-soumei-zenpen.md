@@ -2,7 +2,7 @@
 title: Shinobi Hanafuda 2 Hyakka Soumei - Zenpen
 description: 
 published: true
-date: 2024-08-21T01:09:16.737Z
+date: 2024-08-21T01:10:17.574Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T01:09:16.737Z
