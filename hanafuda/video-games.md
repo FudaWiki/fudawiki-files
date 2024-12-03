@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2024-08-21T01:11:45.368Z
+date: 2024-12-03T03:06:34.527Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -220,9 +220,10 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Injuu Genmu (<span lang='ja'>淫獣幻夢</span>)](/en/hanafuda/video-games/pc-98/injuu-genmu)
 * [Oh! Tsukiaitai!! (<span lang='ja'>Oh! ツキ遭いた～い!!</span>)](/en/hanafuda/video-games/pc-98/oh-tsukiaitai)
 * [Raika - Kasenkyuu (<span lang='ja'>蕾花 花仙宮</span>)](/en/hanafuda/video-games/pc-98/raika-kasenkyuu)
+* [Star Platinum (<span lang='ja'>スタープラチナ</span>)](/en/hanafuda/video-games/pc-98/star-platinum)
 * [Super Koi-Koi 98 (<span lang='ja'>Ｓｕｐｅｒ－ｋｏｉｋｏｉ９８</span>)](/en/hanafuda/video-games/pc-98/super-koi-koi-98)
 * [Taisen Hanafuda (<span lang='ja'>対戦花札</span>)](/en/hanafuda/video-games/pc-98/taisen-hanafuda)
-* [Usa suzume gaiden ore ga kirifuda! (<span lang='ja'>うさ雀外伝～俺が切り札～</span>)](/en/hanafuda/video-games/pc-98/usa-suzume-gaiden-ore-ga-kirifuda)
+* [Usajong Gaiden ~ I am the Trump Card ~ (<span lang='ja'>うさ雀外伝～俺が切り札～</span>)](/en/hanafuda/video-games/pc-98/usa-suzume-gaiden-ore-ga-kirifuda)
 ## PC-1350
 * [Crazy Hanafuda S (<span lang='ja'>Crazy 花札 S</span>)](/en/hanafuda/video-games/pc-1350/crazy-hanafuda-s)
 ## PC-E500
@@ -309,6 +310,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## TG16
 * [Idol Hanafuda Fan Club (<span lang='ja'>アイドル花札ファンクラブ</span>)](/en/hanafuda/video-games/tg16/idol-hanafuda-fan-club)
 ## Web Browser
+* [Board Game Arena (<span lang='ja'>n/a</span>)](/en/hanafuda/video-games/web/boardgamearena)
 * [Coded Dragon (<span lang='ja'>n/a</span>)](/en/hanafuda/video-games/web/coded-dragon)
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi)
 * [Koi-Koi (<span lang='ja'>こいこい ~koikoi~</span>)](/en/hanafuda/video-games/web/koi-koi)
@@ -336,8 +338,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Family Hanafuda · Hyakunin Isshu 3 (<span lang='ja'>ファミリー花札・百人一首3</span>)](/en/hanafuda/video-games/win/family-hanafuda-hyakunin-isshu-3)
 * [Fate / hollow ataraxia (<span lang='ja'>フェイト/ホロウアタラクシア</span>)](/en/hanafuda/video-games/win/fate-hollow-ataraxia)
 * [FEEL-GOOD Japanese play series Hanafuda (<span lang='ja'>FEEL-GOOD 日本の遊びシリーズ 花札</span>)](/en/hanafuda/video-games/win/feel-good-japanese-play-series-hanafuda)
-* [Gakuen Hanafuda Gouka Kenran Kouhen (<span lang='ja'>学園花札 豪華絢爛 後編</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-kouhen)
-* [Gakuen Hanafuda Gouka Kenran Zenpen (<span lang='ja'>学園花札 豪華絢爛 前編</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-zenpen)
+* [Gakuen Hanafuda Gouka Kenran(<span lang='ja'>学園花札 豪華絢爛</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-kouhen)
 * [GAME FAN 1200 Vol.6 Hanafuda (<span lang='ja'>ゲームファン1200 Vol.6 花札・バックギャモン・スピナーの逆襲</span>)](/en/hanafuda/video-games/win/game-fan-1200-vol6-hanafuda)
 * [GAME FAN 1980 Shogi, Fishing II, Hanafuda II, Hyakunin Isshu (<span lang='ja'>GAME FAN 1980 将棋・釣りII・花札II・百人一</span>)](/en/hanafuda/video-games/win/game-fan-1980-shogi-fishing-ii-hanafuda-ii-hyakunin-isshu)
 * [GAMEPACK Hanafuda Koi-Koi (<span lang='ja'>GAMEPACK 花札 こいこい</span>)](/en/hanafuda/video-games/win/gamepack-hanafuda-koi-koi)
@@ -365,13 +366,11 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Konami Net Mix (<span lang='ja'>コナミネットミックス</span>)](/en/hanafuda/video-games/win/konami-net-mix)
 * [Netto taisen nanboku hanafuda (<span lang='ja'>ネット対戦南北花札</span>)](/en/hanafuda/video-games/win/netto-taisen-nanboku-hanafuda)
 * [Nine Lives ~Hanyafuda Suru Nyan~ (<span lang='ja'>ないん☆らいぶす 〜はニャ札するにゃん！〜</span>)](/en/hanafuda/video-games/win/nine-lives-hanyafuda-suru-nyan)
-* [Private Hanafuda Gakuen (<span lang='ja'>私立華々学園</span>)](/en/hanafuda/video-games/win/private-hanafuda-gakuen)
+* [Private Hanabana Gakuen (<span lang='ja'>私立華々学園</span>)](/en/hanafuda/video-games/win/private-hanafuda-gakuen)
 * [Rabbit’s Hanafuda (<span lang='ja'>うさぎさんの花札</span>)](/en/hanafuda/video-games/win/rabbits-hanafuda)
 * [Shinji and Good Friends: Second Hanafuda Impact (<span lang='ja'>シンジと愉快な仲間たち セカンド・花札いんぱくと</span>)](/en/hanafuda/video-games/win/shinji-and-good-friends-second-hanafuda-impact)
-* [Shinobi Hanafuda Hyakka Ryouran Kouhen (<span lang='ja'>忍花札 百花繚乱 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-kouhen)
-* [Shinobi Hanafuda Hyakka Ryouran Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-zenpen)
-* [Shinobi Hanafuda 2 Hyakka Soumei - Kouhen (<span lang='ja'>花札2 百華争鳴 後編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
-* [Shinobi Hanafuda 2 Hyakka Soumei - Zenpen (<span lang='ja'>忍花札2 百華争鳴 前編</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-zenpen)
+* [Shinobi Hanafuda Hyakka Ryouran (<span lang='ja'>忍花札 百花繚乱</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-hyakka-ryouran-kouhen)
+* [Shinobi Hanafuda 2 Hyakka Soumei (<span lang='ja'>花札2 百華争鳴</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
 * [Shock Price Advance Series Hanafuda hanahuda (<span>Shock Price Advance Series 花札 hanahuda</span>)](/en/hanafuda/video-games/win/shock-price-advance-series-hanafuda-hanahuda)
 * [Standard 2-in-1 Vol.1 Mahjong & Hanafuda (<span lang='ja'>Standard 2-in-1 Vol.1 麻雀＆花札</span>)](/en/hanafuda/video-games/win/standard-2-in-1-vol1-mahjong-hanafuda)
 * [Super Hanafuda (<span lang='ja'>スーパー花札</span>)](/en/hanafuda/video-games/win/super-hanafuda)
