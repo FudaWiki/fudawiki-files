@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2022-04-10T15:18:19.336Z
+date: 2024-12-05T13:57:29.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-01T17:56:34.399Z
 A list of popular media that contains Hanafuda. Intentionally excluded from this list are video games where playing a Hanafuda game is the primary purpose (i.e. Koi-Koi Japan) and video games that are presented as a collection of games where one of the games is a Hanafuda game (i.e. 51 Worldwide Games). For more information on such video games, please view the [Hanafuda Video Game list](/en/hanafuda/video-games).
 
 # Significant Role
-Media in which Hanafuda players a significant role.
+Media in which Hanafuda plays a significant role.
 
 * [Summer Wars](https://en.wikipedia.org/wiki/Summer_Wars) (サマーウォーズ, <i>Samā Wōzu</i>).
   A 2009 Japanese animated sci-fi film.  
