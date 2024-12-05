@@ -2,15 +2,15 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2024-03-09T14:57:15.264Z
+date: 2024-12-05T13:39:03.289Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
 ---
 
-**Sakura** is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Kumamoto-Bana, Hawaiian Hanafuda, Hawaiian Koi-Koi, or even just Hanafuda. 
+**Sakura** is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Kumamoto-Bana, Hawaiian Hanafuda, or even just Hanafuda. The game is sometimes called Hawaiian [Koi-Koi](/en/hanafuda/games/koi-koi), but Sakura does not have a koi-koi mechanic, and it is more simlar to the games [Roppyakken](/en/hanafuda/games/roppyakken) and [Hana-Awase](/en/hanafuda/games/hana-awase).
 
-The name "Sakura" comes from the strongest card in the game, the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) [Curtain](/en/hanafuda/suits/cherry-blossom) card, which is worth 20 points and is a part of two Yaku in the game.
+The name "Sakura" likely comes from the strongest card in the game, the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) [Curtain](/en/hanafuda/suits/cherry-blossom) card, which is worth the maximum single card value of 20 points and is also a part of two Yaku in the game.
 
 [![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)
 
