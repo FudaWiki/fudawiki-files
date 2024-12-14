@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2022-12-29T01:22:07.219Z
+date: 2024-12-14T11:13:06.152Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -43,6 +43,9 @@ In each round, turns move counterclockwise, starting with the starting player.
 
 A player with **two cards in hand of the same month as the card on top of the discard pile** can, instead of drawing a card from the draw pile, **call 'ppong'** [뽕] or 'pong' [뻥], and **discard those two cards** from their hand. They must still **discard a card from their hand afterward** to end the turn.
 
+> Some players allow calling 'ppong' out of turn. In this case the player who called 'ppong' discards a card as usual and play continues to the next player from the player who just called 'ppong'.
+{.is-warning}
+
 If a player **goes out** (discards all cards in hand) by calling 'ppong', the **round ends immediately**.
 
 ## Stop
@@ -68,7 +71,7 @@ The game ends after a predetermined number of rounds. **The player with the leas
 
 |Name|Value|Composition|
 |:---:|:---:|:---:|
-|Three pairs<br>또이또이또이 [*ddoi-ddoi-ddoi*]|0|Three pairs from three different months<br>[![Cherry Blossom Chaff 1](/sheldonchen-cards/32.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Cherry Blossom Chaff 2](/sheldonchen-cards/33.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|Three pairs<br>또이또이 [*ddoi-ddoi*]|0|Three pairs from three different months<br>[![Cherry Blossom Chaff 1](/sheldonchen-cards/32.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Cherry Blossom Chaff 2](/sheldonchen-cards/33.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |Two triplets<br>또이또이 [*ddoi-ddoi*]|0|Two triplets from two different months<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Pine Chaff 1](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Pine Chaff 2](/sheldonchen-cards/13.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 |Four and pair<br>4장 또이 [*nejang-ddoi*]|-50|A four of a kind of a month and a pair of another month<br>[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|
 |Straight<br>스트레이트|-Sum|6 cards of consecutive months<br>[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)<br>Example: This straight's value is -(3+4+5+6+7+8) = -33 points.|
@@ -80,6 +83,11 @@ The game ends after a predetermined number of rounds. **The player with the leas
 |:---:|:---:|:---:|
 |Four of a kind<br>4장 [*nejang*]|0|A four of a kind of a month and any other two cards<br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 |66 or more<br>대빵 [*daeppang*]|-100|6 cards with sum of 66 or more<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+
+> Some players use '60 or more' instead of '66 or more'.
+{.is-warning}
+
+> Some local players use different names for some of the combinations, like 'Minus'(마이너스) instead of 'Straight', and 'President'(총통, *chongtong*) instead of any 'Four of a kind' combinations.
 
 # Optional Rule: Concealed triplet
 
@@ -101,6 +109,7 @@ If a player has **a triplet and a pair in hand**,  and the card on **top of the 
 # Bibliography
 
 - https://namu.wiki/w/%ED%99%94%ED%88%AC
+- https://namu.wiki/w/%EB%82%98%EC%9D%B4%EB%A1%B1%EB%BD%95
 - https://brunch.co.kr/@tystory/35
 - https://taegeukh.tistory.com/7999964
 - https://m.cafe.daum.net/cheldoarirang/5wkm/237
