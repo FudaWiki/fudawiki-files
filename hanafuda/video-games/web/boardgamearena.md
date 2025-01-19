@@ -2,13 +2,13 @@
 title: Board Game Arena
 description: 
 published: true
-date: 2025-01-19T14:15:16.260Z
+date: 2025-01-19T14:15:55.799Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T03:01:32.470Z
 ---
 
-_Board Game Arena_ is an online multiplayer tabletop game platform that also hosts a lot of hanafuda games.
+_Board Game Arena_ is an online multiplayer tabletop game platform that also hosts a lot of hanafuda games. Most of them inlude an interactive tutorial.
 
 ## List of hanafuda games
 * [Go-Stop](https://boardgamearena.com/gamepanel?game=gostop), developed by ufm
