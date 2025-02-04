@@ -2,7 +2,7 @@
 title: Ino-Shika-Chō (Hana-awase that even kids can play)
 description: Report Station's attempt to make Hanafuda accessible to children.
 published: true
-date: 2025-02-04T07:53:49.971Z
+date: 2025-02-04T08:17:12.186Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-24T03:45:35.885Z
@@ -17,7 +17,8 @@ The game is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant, designed to b
 - The Dekiyaku in the game were selected for the purpose of being easy to remember.
 - The score calculation was simplified by treating Chaff as 0 points.
 - The scoring system is cumulative instead of a zero-sum system, making it less suited for playing with gambling-style tokens or chips.
-- A wild card rule (like the one in [Mushi](/en/hanafuda/games/mushi) but a bit simplified) was implemented to make the game more exciting.
+- A wild card rule was implemented to make the game more exciting.
+(It works like the wild card in [Mushi](/en/hanafuda/games/mushi), which is also added in some local variants of Hana-Awase, except it is a bit simplified in this game.)
 
 # Setup
 Game setup involves shuffling the deck, distributing the initial cards, and choosing the first player.
