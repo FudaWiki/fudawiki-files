@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2025-01-08T16:20:38.317Z
+date: 2025-02-04T08:13:15.783Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:34.887Z
@@ -181,6 +181,23 @@ Whether or not a player *must* declare these teyaku if they have them is unspeci
 
 > These strange, capture-able teyaku- unlike those found in any other game- are only attested in one source (Graham Leonard's archived hanafuda page). So we know very little about them, other than that they're most likely some weird local variant.
 {.is-info}
+
+## Wild card
+A fairly common local variant is to add the wildcard rules from the game [Mushi](/en/hanafuda/games/mushi) to the game, which works as follows:
+
+> The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card serves as a wild card, and can be used to capture any other individual card except another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow).
+> 
+> If it is on the field, **it must be captured by the first non-Willow card drawn from the deck**.
+> 
+> If it is dealt on a player's hand, that player **may use it to capture a non-Willow card** during any of their turns.
+> 
+> If it is drawn from the deck, **it must capture a non-Willow card on the field.**. If there are no non-Willow cards on the field, then it is discarded onto the field, to be captured later.
+> 
+> If, however, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card is the last to be drawn from the deck, **it captures all remaining cards in play**.
+
+> Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning.
+> 
+> In this case, the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
 
 # Bibliography
 *(section needs reworking)*
