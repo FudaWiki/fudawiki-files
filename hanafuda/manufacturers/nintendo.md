@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2025-02-09T13:27:47.398Z
+date: 2025-02-09T13:33:15.291Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -51,8 +51,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Arashiyama**  <br>(嵐山) |![arashiyama_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/arashiyama_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
 | **[Asahi Sakura](/en/hanafuda/manufacturers/nintendo/asahi_sakura)**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
 | **[Azuma Tengu](/en/hanafuda/manufacturers/nintendo/azuma_tengu)**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| ★★<br>Uncommon | Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. An example with a newer label design from 1999 had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
-| **Banzai**  <br>(萬歳, Ten Thousand Years) |![banzai_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/banzai_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
-| **Chitose**  <br>(千歳, Millenium) |![chitose_label.jpg](/suryong_nintendo_labels/chitose_label.jpg =150x)| ★★★★★<br>**Unique** | Shares the same label design with **Fukuju**. |
+| **Banzai**  <br>(萬歳, Live Ten Thousand Years) |![banzai_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/banzai_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **[Chujo](/en/hanafuda/manufacturers/nintendo/chujo)**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
 | **[Daifuku](/en/hanafuda/manufacturers/nintendo/daifuku)**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **[Daikoku](/en/hanafuda/manufacturers/nintendo/daikoku)**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★★<br>Unique | Depicts Daikokuten, one of the Seven Lucky Gods.|
@@ -110,6 +109,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **[Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru)**  <br>(三羽鶴, Three cranes) |![sanbazuru_1.jpg](/suryong_nintendo_labels/sanbazuru_1.jpg =150x)![sanbazuru_2.png](/suryong_nintendo_labels/sanbazuru_2.png =150x)| ★<br>Common | Label features three cranes in a red background. There was a label variant where there's a red sun and blue background behind the three cranes. |
 | **San Hakushu**  <br>(三拍手, Three Claps) |![san_hakushu_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/san_hakushu_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.** |
 | **Senryo**  <br>(千両, One thousand Ryo) |![senryo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/senryo_lost.jpg =150x)| ★★★★★<br>Unique | Appears in the **Nintendo Company Guide 2019.** Shares a similar label design with **Manryo**. |
+| **Senzai**  <br>(千歳, Live One Thousand Years) |![chitose_label.jpg](/suryong_nintendo_labels/chitose_label.jpg =150x)| ★★★★★<br>**Unique** | Shares the same label design with **Fukuju**. |
 | **[Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko)**  <br>(四光印, Four Lights mark) |![shiko.png](/suryong_nintendo_labels/shiko.png =150x)| ★★★★★<br>Unique | Handprinted hanafuda deck. |
 | **Showa**  <br>(昭和) |![showa_label.png](/suryong_nintendo_labels/showa_label.png =150x)| ★★★★<br>Very Rare | Produced by Nintendo for Kamigataya. |
 | **Shun'yu**  <br>(春遊, Spring Outing) |![shunyu.png](/suryong_nintendo_labels/shunyu.png =150x)![shunyu_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/shunyu_kamigataya.jpg =150x)| ★★★<br>Rare | Also released as a Kamigataya brand, still produced by Nintendo. |
