@@ -2,13 +2,13 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2025-01-08T16:19:02.337Z
+date: 2025-02-14T11:15:30.797Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:52.656Z
 ---
 
-**Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-7 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). It is similar to the Japanese game [Hana-Awase](en/hanafuda/games/hana-awase). Unlike its popular Korean sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
+**Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-7 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). It is similar to the Japanese game [Hana-Awase](/en/hanafuda/games/hana-awase). Unlike its popular Korean sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
 
 Min-hwatu's name was 'Hwatu' before emergence of other games like [Seotda](/en/hanafuda/games/seotda) or Go-Stop. ([Link](https://www.dropbox.com/sh/x4snur4algi1dhb/AABpj1zMjQm5P1iWr83pzLb5a/Rules/Hwatu%20-%20Korean%20Air%201.jpg?dl=0)) But when these games took over, Koreans added 'Min' (which is a shortened form of 'bland' in Korean) to change the game name as Minhwatu, to indicate it being quite bland compared to other complex games. ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12))
 
