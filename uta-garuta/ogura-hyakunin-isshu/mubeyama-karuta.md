@@ -2,7 +2,7 @@
 title: Mubeyama Karuta
 description: A game using Hyakunin Isshu cards that is similar to Bingo.
 published: true
-date: 2022-10-27T09:37:10.719Z
+date: 2025-02-22T05:53:52.885Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T02:56:22.876Z
@@ -84,6 +84,10 @@ However, the interesting part of this game are the "yaku" poems. These are poems
 |**花** - はな</br>(*hana*, 'flower')|#29, #33, #35, **#66**|
 
 > Editor's note: Supposedly there are only **28 Torifuda** with the above key words, but it seems that I have found **39 of them in total**. Probably only some of these poems are used in the game. **NEEDS MORE DOCUMENTATION**
+{.is-warning}
+
+> The original article (JPCM's [1]) by Izumozi has the following explanation: in order to つき to count, its light should be visible, and the moon behind clowds or in the morning does not count.  This presumably excludes #21, #36, and #57.  Likewise, dead flowers don't count either, likely invalidating #33. 
+> Now, #96 doesn't count as the keyword is in the first half.  Izumozi excludes #4 for an unknown reason.  Anyway, this makes the number of poems with _exactly one_ keyword in their latter half 28.
 {.is-warning}
 
 - If a player flips a Torifuda that contains **one of the above key words**, that player **passes one face-up Torifuda to the player on their right**. 
