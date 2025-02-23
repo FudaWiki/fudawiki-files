@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2025-02-23T11:38:33.284Z
+date: 2025-02-23T11:38:51.706Z
 tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:47.539Z
