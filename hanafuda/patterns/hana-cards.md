@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-02-25T12:42:18.427Z
+date: 2025-02-25T17:08:37.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -25,7 +25,7 @@ Included in the set was a booklet containing Japanese-language instructions for 
 ### 1. Babanuki (old maid)
 The game can be played by 2 or more players. All 49 cards of the deck are used, including the joker.
 
-First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time, starting with the person to his left, clockwise. When all the cards have been dealt, the number of cards in each player's hand will vary slightly; this is normal. 
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all the cards in the deck have been dealt. The number of cards in each player's hand will vary slightly; this is normal. 
 
 Each player looks carefully at their own hand and discards any pair of cards that have matching suits. (If there are three cards of the same suit in your hand, you cannot put all three on the table. Only two of these cards must be discarded.) This way, no cards with the same picture will remain in any players' hand. 
 
@@ -40,7 +40,7 @@ Players keep doing this until one player discards all the cards in their hand co
 The joker card acts as the "old maid" in this game, and cannot be matched and discarded. If you have it in your hand, you want an opponent to take it away from you. So, the game has an element of psychological battle where you try to read the facial expressions of your opponents as you decide which card to pick, while taking care not to emote yourself when it's your opponent's turn to pick.
 
 ### 2. Shinkei Suijaku (concentration)
-This game is a test of the players' memory. It can be played by any number of players. 48 cards of the deck are used (excluding the joker).
+This game is a test of the players' memory. It can be played by 1 or more players. 48 cards of the deck are used (excluding the joker).
 
 Shuffle and place all cards on the table place down in a grid of 4 cards per column and 12 cards per row.
 
@@ -55,6 +55,22 @@ Players must remember the positions of the cards already turned by the other pla
 The game continues until all the cards on the table are taken by the players. The player with the most cards in their score pile wins the game.
 
 ### 3. Doubt
+The game can be played by 2 or more players. 48 cards of the deck are used (excluding the joker).
+
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all players have 12 cards in hand.
+
+Starting with the dealer clockwise, each player discards a card to the table face-down, while declaring the month number of the discarded card aloud. For example, if the dealer discards a Wisteria card, the dealer declares "4". The player to the dealer's left must discard an Iris card and declare "5", the player to that player's left must discard a Peony card and declare "6", etc. (If a player discards a Paulownia and declares "12", the next player must discard a Pine and declare "1".)
+
+However, a player may discard a card and declare a month number that is NOT of the discarded card. (There are also situations where a player has no choice but to do so.)
+
+At any time during the game, if a player notices that an opponent misdeclares the month number of their discarded card, the player may call "Doubt!":
+- If the discarded card's month number was indeed misdeclared, the player who discarded the card must take the entire discard pile into their hand.
+- If the discarded card's month number turns out to be declared correctly, the player who called "Doubt!" must take the entire discard pile into their hand.
+
+Also, a player may also discard multiple cards of the same suit instead of just one card, without anybody noticing. If an opponent notices, they may call "Doubt!", and the discarding player must take the discard pile into their hand.
+
+The first player to get rid of all the cards in their hand wins the game.
+
 ### 4. Unmei no Uranai (fortune telling)
 ### 5. Kazoku-awase (happy families)
 
