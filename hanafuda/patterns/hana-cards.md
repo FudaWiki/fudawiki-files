@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-02-25T12:16:04.695Z
+date: 2025-02-25T12:42:18.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -23,7 +23,7 @@ Included in the set was a booklet containing Japanese-language instructions for 
 
 ## Games Included in the Hana Cards Booklet
 ### 1. Babanuki (old maid)
-The game can be played by 2 or more players. The deck contains all 49 cards (including the joker).
+The game can be played by 2 or more players. All 49 cards of the deck are used, including the joker.
 
 First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time, starting with the person to his left, clockwise. When all the cards have been dealt, the number of cards in each player's hand will vary slightly; this is normal. 
 
@@ -31,11 +31,29 @@ Each player looks carefully at their own hand and discards any pair of cards tha
 
 Once all players have done discarding cards, they then arrange their cards in a fan shape and hold it in one hand, making it easier for the opponent to pick a card from the hand and easier for the player to see their own cards. 
 
-Starting with the dealer, each player picks one card from one of their opponents' hands. If the card matches suit with any of the cards in their hand, they discard the matching cards. If it doesn't, the card remains on the player's hand. The turn passes to the player to their left. Players keep doing this until one player discards all the cards in their hand completely; that player wins the game.
+Starting with the dealer, each player picks one card from one of their opponents' hands: 
+- If the card matches suit with any of the cards in their hand, they discard the matching cards. 
+- If it doesn't, the card remains on the player's hand. The turn passes to the player to their left. 
+
+Players keep doing this until one player discards all the cards in their hand completely; that player wins the game.
 
 The joker card acts as the "old maid" in this game, and cannot be matched and discarded. If you have it in your hand, you want an opponent to take it away from you. So, the game has an element of psychological battle where you try to read the facial expressions of your opponents as you decide which card to pick, while taking care not to emote yourself when it's your opponent's turn to pick.
 
 ### 2. Shinkei Suijaku (concentration)
+This game is a test of the players' memory. It can be played by any number of players. 48 cards of the deck are used (excluding the joker).
+
+Shuffle and place all cards on the table place down in a grid of 4 cards per column and 12 cards per row.
+
+Each player take turns flipping over any two face-down cards on the table face up. 
+- If the two cards don't have matching suits, they are turned face down again, and the player passes the turn to the next player. 
+- If the two cards have matching suits, then the player turns another face-down card on the table face up. If the third card doesn't match suit with the 2 other face-up cards, all 3 cards are turned face down again, and the player passes the turn to the next player.
+- If the third card matches suit with the 2 other face-up cards, then the player turns another face-down card on the table face up. If the fourth card doesn't match suit with the 3 other face-up cards, all 4 cards are turned face down again, and the player passes the turn to the next player.
+- If the fourth card matches suit with the 3 other face-up cards, then the player takes all 4 cards into their score pile, and they take another turn.
+
+Players must remember the positions of the cards already turned by the other players in order to successfully turn four matching cards and add more cards to their own score pile.
+
+The game continues until all the cards on the table are taken by the players. The player with the most cards in their score pile wins the game.
+
 ### 3. Doubt
 ### 4. Unmei no Uranai (fortune telling)
 ### 5. Kazoku-awase (happy families)
