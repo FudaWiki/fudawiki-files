@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2024-12-05T13:39:03.289Z
+date: 2025-02-25T01:38:00.492Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -79,7 +79,7 @@ The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/ha
 
 Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
 
-However, the Gaji **cannot be used to capture a card that would complete another player's *hiki***. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. **The owner of the *hiki* takes the four *hiki* cards into their captured cards immediately**, and the player of the Gaji must then target a different card, or simply leave the Gaji on the field.
+However, the Gaji **cannot be used to capture a card that would complete another player's *hiki***. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. **The owner of the *hiki* takes the four *hiki* cards into their captured cards immediately**, and the player of the Gaji must then target a different card, or simply leave the Gaji on the field. Depending on the house rules, a blocked Gaji may also be returned to the hand, allowing another card to be played instead of it.
 
 > In some variants of the game, if the Gaji is dealt to the field at the beginning of the round, then it is simply discarded.
 {.is-info}
@@ -167,7 +167,7 @@ That said, a bird in the hand is worth two in the bush; rather than indiscrimina
 
 Being that Chaff cards are not worth any points, one should refrain from matching two Chaff together, and instead attempt to hold onto any Chaff in the hand until one of its matching point cards appear on the board. But, it is usually better to discard a Chaff or match it with another Chaff than to discard a more valuable card and risk allowing another player to claim it.
 
-Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku.
+Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku. Conversely, every single non-Chaff card in the other 10 suits does participate in one to two yaku.
 # Bibliography
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
 - "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* 
