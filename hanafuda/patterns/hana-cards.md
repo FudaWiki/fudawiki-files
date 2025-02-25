@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-01-23T05:30:57.107Z
+date: 2025-02-25T12:16:04.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -13,6 +13,8 @@ dateCreated: 2024-04-08T06:06:33.721Z
 **Hana Cards** (花カード) were a unique type of [Hanafuda](/en/hanafuda) printed using western-style cardstock. They were introduced by [**Nintendo**](/en/hanafuda/manufacturers/nintendo) around the 1950's, and continued to be manufactured until the late 1960's, usually for export to Hawaii, USA.
 
 # Features
+The deck contains 48 cards, plus one joker, for a total of 49 cards.
+
 Unlike traditional hanafuda, which were small and thick, and cannot be bent to any degree without damaging them, Hana Cards were printed on bridge-size western-style cardstock, making them easier to shuffle.
 
 The faces contained a small illustration of the standard [hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana) pattern. To facilitate easier playing, the suits are indicated by both the name of the plant above the illustration, and the name of the month below the illustration, in both English and Japanese Romaji. Also, the point value of the card is indicated on its indices.
@@ -20,11 +22,23 @@ The faces contained a small illustration of the standard [hachi-hachi-bana](/en/
 Included in the set was a booklet containing Japanese-language instructions for games that can be played using Hana Cards. Curiously, these were not games traditionally played using hanafuda, but were actually western card games adapted for play using hanafuda!
 
 ## Games Included in the Hana Cards Booklet
-1. Babanuki (old maid)
-2. Shinkei Suijaku (concentration)
-3. Doubt
-4. Unmei no Uranai (fortune telling)
-5. Kazoku-awase (happy families)
+### 1. Babanuki (old maid)
+The game can be played by 2 or more players. The deck contains all 49 cards (including the joker).
+
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time, starting with the person to his left, clockwise. When all the cards have been dealt, the number of cards in each player's hand will vary slightly; this is normal. 
+
+Each player looks carefully at their own hand and discards any pair of cards that have matching suits. (If there are three cards of the same suit in your hand, you cannot put all three on the table. Only two of these cards must be discarded.) This way, no cards with the same picture will remain in any players' hand. 
+
+Once all players have done discarding cards, they then arrange their cards in a fan shape and hold it in one hand, making it easier for the opponent to pick a card from the hand and easier for the player to see their own cards. 
+
+Starting with the dealer, each player picks one card from one of their opponents' hands. If the card matches suit with any of the cards in their hand, they discard the matching cards. If it doesn't, the card remains on the player's hand. The turn passes to the player to their left. Players keep doing this until one player discards all the cards in their hand completely; that player wins the game.
+
+The joker card acts as the "old maid" in this game, and cannot be matched and discarded. If you have it in your hand, you want an opponent to take it away from you. So, the game has an element of psychological battle where you try to read the facial expressions of your opponents as you decide which card to pick, while taking care not to emote yourself when it's your opponent's turn to pick.
+
+### 2. Shinkei Suijaku (concentration)
+### 3. Doubt
+### 4. Unmei no Uranai (fortune telling)
+### 5. Kazoku-awase (happy families)
 
 # Hawaiian Version
 Hana Cards were known to be exported to the United States during the 1960's. These sets of cards came with an English-language instruction for playing [Koi-Koi](/en/hanafuda/games/koi-koi).
