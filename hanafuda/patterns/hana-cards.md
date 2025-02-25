@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-02-25T17:08:37.077Z
+date: 2025-02-25T17:29:18.878Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -63,11 +63,11 @@ Starting with the dealer clockwise, each player discards a card to the table fac
 
 However, a player may discard a card and declare a month number that is NOT of the discarded card. (There are also situations where a player has no choice but to do so.)
 
-At any time during the game, if a player notices that an opponent misdeclares the month number of their discarded card, the player may call "Doubt!":
+At any time during the game, if a player notices that an opponent misdeclares the month number of their discarded card, the player may call "Doubt!" and reveal the discarded card:
 - If the discarded card's month number was indeed misdeclared, the player who discarded the card must take the entire discard pile into their hand.
 - If the discarded card's month number turns out to be declared correctly, the player who called "Doubt!" must take the entire discard pile into their hand.
 
-Also, a player may also discard multiple cards of the same suit instead of just one card, without anybody noticing. If an opponent notices, they may call "Doubt!", and the discarding player must take the discard pile into their hand.
+Also, a player may also discard multiple cards of the same suit instead of just one card, without anybody noticing. If an opponent notices, they may call "Doubt!" and reveal the multiple discarded cards. When proven guilty, the discarding player must take the entire discard pile into their hand.
 
 The first player to get rid of all the cards in their hand wins the game.
 
