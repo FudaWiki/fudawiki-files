@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-02-25T17:29:18.878Z
+date: 2025-02-25T17:39:21.616Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -71,8 +71,8 @@ Also, a player may also discard multiple cards of the same suit instead of just 
 
 The first player to get rid of all the cards in their hand wins the game.
 
-### 4. Unmei no Uranai (fortune telling)
-### 5. Kazoku-awase (happy families)
+### 4. Kazoku-awase (happy families)
+### 5. Unmei no Uranai (fortune telling)
 
 # Hawaiian Version
 Hana Cards were known to be exported to the United States during the 1960's. These sets of cards came with an English-language instruction for playing [Koi-Koi](/en/hanafuda/games/koi-koi).
