@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-03-17T04:33:56.262Z
+date: 2025-03-17T04:51:52.771Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -63,7 +63,9 @@ On their turn, a player chooses a single card from their hand and plays it to th
 > As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type to make detecting yaku easier.<br><br>However, since Chaff are worth 0 points and play no role in any yaku, it is common in Sakura to **discard all Chaff cards** to a common junk pile. 
 {.is-warning}
 
-Secondly, the player draws a card from the draw pile and plays it in the same way as before. Then the player's turn ends, and the next player plays.
+After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+
+
 ## *Hiki* (Four of a Kind)
 If a player sees **all 4 cards of a given suit among the cards in their hand and those on the field (in any combination)**, this is known as a ***hiki*** (引き, lit. "to draw"). On their turn, the player may, instead of playing a card from their hand, declare the *hiki* and immediately capture all 4 cards. They then play a card from the draw pile as normal. 
 
