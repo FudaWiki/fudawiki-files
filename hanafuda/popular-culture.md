@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2024-12-05T14:20:08.358Z
+date: 2025-03-28T03:07:09.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -34,15 +34,26 @@ Video games (that are not collections of games) where hanafuda or a hanafuda-der
 Media in which Hanafuda is made reference to
 
 * [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, きめつ の やいば, *Kimetsu no Yaiba*)  
-  A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.  
-  The protagonist's earrings are references to Hanafuda cards
+  (A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.)
+  The protagonist's earrings are elongated hanafuda cards that resemble the [Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) card.
+  
+* [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball) (1986 animated series)
+  The animated series has a filler episode called [The Rampage of InoShikaCho](https://dragonball.fandom.com/wiki/The_Rampage_of_InoShikaCho), featuring a monster called [InoShikaCho](https://dragonball.fandom.com/wiki/InoShikaCho) that looks like a purple boar with deer antlers and butterfly wings.
 
-* [Naruto - Formation Ino-Shika-Cho](https://naruto.fandom.com/wiki/Formation_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D)
-	The original series introduces a trio of secondary characters named Ino, Shikamaru, and Choji, whose families are later revealed to have a long history of working in tandem. The given names within each of their families tend to start with "Ino," "Shika," and "Cho," a reference to the hanafuda yaku consisting of the Boar, Deer, and Butterflies.
+* James Bond - [Trigger Mortis](https://en.wikipedia.org/wiki/Trigger_Mortis) (2015 novel)
+  The main antagonist is from South Korea, and uses hanafuda cards to decide how to execute his victims. See [here](https://jamesbond.fandom.com/wiki/Hanafuda) on the James Bond wiki for more info.
 
-* [Yu-Gi-Oh! Flower Cardians](https://yugioh.fandom.com/wiki/Flower_Cardian) (花札衛)  
-  A Trading Card game and animated television series (Yu-Gi-Oh! ARC-V, 遊☆戯☆王ＡＲＣ－Ⅴ)  
-  The Yu-Gi-Oh Flower Cardians are parodies of Hanafuda cards.
+* [Naruto](https://en.wikipedia.org/wiki/Naruto) and [Boruto](https://en.wikipedia.org/wiki/Boruto)
+  (manga and anime series)
+  The original series introduces a [trio of secondary characters](https://naruto.fandom.com/wiki/Team_10_(Asuma)) named Ino, Shikamaru, and Chōji, whose families are later revealed to have a long history of working in tandem. The given names within each of their families tend to start with "Ino," "Shika," and "Chō," a reference to the hanafuda yaku consisting of the Boar, Deer, and Butterflies. Their families' special combo moves are called [Formation Ino-Shika-Chō](https://naruto.fandom.com/wiki/Formation_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D).
+  Their fathers - Shikaku, Inoichi and Chōza - were [the previous generation's Ino-Shika-Chō team](https://naruto.fandom.com/wiki/Ino%E2%80%93Shika%E2%80%93Ch%C5%8D_(15th)). In the Boruto series, their children Inojin, Shikadai and Chōchō are [the next generation of Ino-Shika-Cho](https://naruto.fandom.com/wiki/Team_10_(Moegi)).
   
 * [Nisemonogatari](https://bakemonogatari.fandom.com/wiki/Nisemonogatari)
+  (novel and anime in the [Monogatari series](https://en.wikipedia.org/wiki/Monogatari_(series)))
   The game [Koi-Koi](/en/hanafuda/games/koi-koi) is played between Araragi Koyomi and Suruga Kanbaru.  Araragi, or perhaps the author, laments that hanafuda is not more popular.
+  
+* [Shadow and Bone](https://en.wikipedia.org/wiki/Shadow_and_Bone_(TV_series))
+  Hanafuda appear shortly in season 2 episode 2 of the Netflix series. There is a scene where the main character Alina Starkov is invited to play cards with sailors from the Asian-coded nation of [Shu Han](https://thegrishaverse.fandom.com/wiki/Shu_Han), who use colorful redesigned hanafuda cards.
+
+* [Yu-Gi-Oh!](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
+  The [Flower Cardian](https://yugioh.fandom.com/wiki/Flower_Cardian) monsters (from the animated television series [Yu-Gi-Oh! ARC-V](Arc-V) and the trading card game) are parodies of hanafuda cards.
