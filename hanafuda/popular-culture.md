@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2025-03-28T03:07:09.742Z
+date: 2025-03-28T03:09:14.556Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -56,4 +56,4 @@ Media in which Hanafuda is made reference to
   Hanafuda appear shortly in season 2 episode 2 of the Netflix series. There is a scene where the main character Alina Starkov is invited to play cards with sailors from the Asian-coded nation of [Shu Han](https://thegrishaverse.fandom.com/wiki/Shu_Han), who use colorful redesigned hanafuda cards.
 
 * [Yu-Gi-Oh!](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
-  The [Flower Cardian](https://yugioh.fandom.com/wiki/Flower_Cardian) monsters (from the animated television series [Yu-Gi-Oh! ARC-V](Arc-V) and the trading card game) are parodies of hanafuda cards.
+  The [Flower Cardian](https://yugioh.fandom.com/wiki/Flower_Cardian) monsters (from the animated television series [Yu-Gi-Oh! ARC-V](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Arc-V) and the trading card game) are parodies of hanafuda cards.
