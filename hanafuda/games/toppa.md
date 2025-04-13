@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2022-11-18T08:43:25.479Z
+date: 2025-04-13T14:54:01.635Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -79,10 +79,10 @@ Exposing a teyaku to the other player **doesn't stop the round**; Play continues
 |<h2 align="left">Group A: Set Teyaku</h2>|||
 |20|**Triplet/Three of a Kind**<br/>三本ざらし [さんぼんざらし, *sanbonzarashi*]|Any three cards of the same month.|
 |<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, each [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card is treated according to its card type; Willow cards are not automatically treated as Chaff cards.|||
-|20|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, seven Chaff.|
-|20|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, seven Chaff.|
-|20|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, seven Chaff.|
-|30|**Empty Hand**<br/>総ガラ [そうがら, *sō gara*]|Eight Chaff cards.|
+|20|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, nine Chaff.|
+|20|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, nine Chaff.|
+|20|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, nine Chaff.|
+|30|**Empty Hand**<br/>総ガラ [そうがら, *sō gara*]|Ten Chaff cards.|
 
 ## Gameplay
 > **The gameplay is the same as in hana-awase.**
