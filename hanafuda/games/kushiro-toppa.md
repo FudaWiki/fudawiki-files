@@ -2,7 +2,7 @@
 title: Kushiro Toppa
 description: A Koi-koi variant from Kushiro subprefecture in Hokkaido, Japan.
 published: true
-date: 2022-11-19T03:59:44.282Z
+date: 2025-04-14T12:20:51.539Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-09T02:26:28.629Z
@@ -39,10 +39,10 @@ Since Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards a
 |<h2 align="left">Group A: Set Teyaku</h2>|||
 |1|**Three Pairs**<br/>さんぞくいち [*sanzokuichi*]|Three pairs of cards- a pair being two cards from the same month.|
 |<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, each [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card is treated according to its card type; Willow cards are not automatically treated as Chaff cards.|||
-|1|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, seven Chaff.|
-|1|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, seven Chaff.|
-|1|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, seven Chaff.|
-|1|**Empty Hand**<br/>総ガラ [そうがら, *sō gara*]|Eight Chaff cards.|
+|1|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, nine Chaff.|
+|1|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, nine Chaff.|
+|1|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, nine Chaff.|
+|1|**Empty Hand**<br/>総ガラ [そうがら, *sō gara*]|Ten Chaff cards.|
 
 ## Join-in / Drop-out Phase
 Since only 2 players can participate during a round, players must decide if they want to participate (or "join in"), or wait until the next round (or "drop out").
