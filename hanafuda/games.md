@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-04-14T12:25:08.562Z
+date: 2025-04-14T12:25:39.720Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -30,7 +30,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 4. **Yomi-kei** is the Japanese term for sequence games.
 5. **Honbiki-kei** games involve players choosing between two or more options, and those who chose the strongest option (or the option chosen by the banker) wins the game. The most popular game of this style is [Tehonbiki](/en/tehonbiki); however, that game uses special sets of cards instead of a hanafuda deck.
 
-Also, in a Hana-Awase game, if only 2 players are participating in a matching battle, it is called **Sashi-bana** (さし花). This includes playing games that are designed for 2 players only, as well as playing a 2-player variant of a game normally played by 3 or more players.
+Also, in a Hana-Awase type game, if only 2 players are participating in a matching battle, it is called **Sashi-bana** (さし花). This includes playing games that are designed for 2 players only, as well as playing a 2-player variant of a game normally played by 3 or more players.
 
 # Traditional Games
 
