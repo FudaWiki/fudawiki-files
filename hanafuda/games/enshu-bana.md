@@ -2,7 +2,7 @@
 title: Enshu-bana
 description: A 3-player hanafuda game with simple rules and few teyaku and dekiyaku
 published: true
-date: 2025-04-24T17:01:05.472Z
+date: 2025-04-26T12:43:44.707Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-06T14:46:54.758Z
@@ -153,9 +153,12 @@ Since only 3 players can participate in the flower-matching phase during each ro
 {.is-warning}
 
 ## The Flower-Matching Phase
-Players then check for teyaku in their hand and reveal the relevant cards (place them face-up on the table near them) to avail their points. 
+Players then check for teyaku in their hand. If they have a teyaku, they announce it and expose the relevant cards (place them face-up on the table near them) to avail the teyaku. 
 
-Afterward, the gameplay is the same as Hana-awase, and play continues until either all players' hands run out of cards, or one player forms an *Uchikiriyaku*.
+>Teyaku that are not announced and exposed before the dealer's first turn are considered void.
+{.is-warning}
+
+Afterward, the dealer starts their first turn. The gameplay is the same as Hana-awase, and play continues until either all players' hands run out of cards, or one player forms an *Uchikiriyaku*.
 
 Regardless of how the round ended, the total score for each player is counted as follows:
 `Player's Total Score = (Total captured card points - Points from opponents' yaku*) x Total Field Multiplier x Uchikiriyaku multiplier`
