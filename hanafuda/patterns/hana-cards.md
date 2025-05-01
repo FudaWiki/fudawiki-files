@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-02-25T17:39:21.616Z
+date: 2025-05-01T07:57:57.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -72,7 +72,87 @@ Also, a player may also discard multiple cards of the same suit instead of just 
 The first player to get rid of all the cards in their hand wins the game.
 
 ### 4. Kazoku-awase (happy families)
-### 5. Unmei no Uranai (fortune telling)
+This game is a good way to test your familiarity with the cards of each suit in hanafuda. It can be played by 3 or more players. 48 cards of the deck are used (excluding the joker).
+
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all players have 12 cards in hand.
+
+The goal of the game is to create as many sets of four cards of the same suit as possible.
+
+After the cards have been dealt, each player then checks their hand for any four cards of the same suit. They are grouped together and placed face-up on the table in front of them. Once all players have done discarding cards this way, the first turn begins, starting with the dealer.
+
+During a player's turn, they choose another one player and they **ask them for a specific card**, preferably a card that is part of an incomplete set that the player has in their hand. This is done by mentioning the **name of the player** they want to ask, then asking for **the card** that they want (**by mentioning both the rank and the suit**), making sure to end the request with "**today, please**".
+
+*Example: ***"Player B, can you give me a bright of cherry blossom today, please?"***
+
+> You may also refer to the cards by their **month** instead of their suit, as long as everybody playing is familiar with the hanafuda months.
+{.is-info}
+
+*Example: "Player B, can you give me a bright of **March** today, please?"*
+
+> In the case of bright and animal cards, you may also refer to them by the **object or animal** on the card.
+{.is-info}
+
+*Example: "Player B, can you give me a cherry blossom **curtain** today, please?"*
+
+> The point is that you are asking for a specific card, **not just a specific suit**.
+{.is-warning}
+
+*Example: "Player B, can you give me a **cherry blossom card** today, please?"*
+
+The above example is wrong, and Player B reserves the right to respond by asking what is the rank of the card they're asking for.
+
+> Also, there is a **penalty for forgetting to include "today, please"** completely at the end of the sentence when asking for a card.
+{.is-warning}
+
+*Example 1: "Player B, can you give me a bright of cherry blossom?"*
+*Example 2: "Player B, can you give me a bright of cherry blossom today?"*
+*Example 3: "Player B, can you give me a bright of cherry blossom, please?"*
+
+The above examples are wrong, and the asking player **forfeits their turn** and passes it to Player B. **Player B then gains the right to ask all players** for a specific card **during this turn only**, instead of just asking one player.
+
+*Example: "Can anyone give me a bright of susuki grass today, please?"*
+
+Once a player has asked another player for a card:
+- If the player being asked has the card in their hand, they must give it to the asking player.
+- If the player being asked doesn't have it, they respond with "**Sorry, I don't have it**". The turn passes to the player being asked.
+
+In the case that the asking player receives the card they want, they must respond with "**Thank you**". The asking player then **takes another turn**.
+
+> **There is a penalty for forgetting to say "thank you".**
+{.is-warning}
+
+If the asking player forgets to say "thank you", not only must they **return the card they received** to the player who gave it to them, but they must also **give them another one card** from their hand.
+
+The game ends once all players have discarded all their cards. **The player with the most sets of four cards wins**.
+
+### 5. Unmei no Uranai (destiny fortune telling)
+This card fortune-telling game can be played alone, or can be used to read somebody else's fortune. 40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
+
+The cartomancer thoroughly **shuffles** the deck and divides it roughly into **3 equal face-down piles**.
+
+The person whose fortune will be read must **choose one** of the 3 piles. The cards in the pile are then placed by the cartomancer on the table **face-up, one-by-one, from left to right**.
+
+The cartomancer then **writes down the meaning** of each face-up card in order to read the person's fortune.
+
+>If you are the cartomancer, then you must use your intuition in order to piece the meanings of the cards together, using the table below as a guide. Also, if you are reading another person's fortune, you must take in consideration their feelings and explain the cards to them in a gentle manner, especially if there are many bad cards that appeared.
+{.is-warning}
+
+#### Meaning of the suits
+**Pine** ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) - Good luck, wealth and prosperity. Even if you have given up on something, a new path will open up and the light will shine. It's a good time for love, marriage, starting a business, building a new house, employment, etc.
+**Plum Blossom** ![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x) - A lonely and difficult future. Things that are going well would soon go wrong. Your love partner may have a change of heart. Your business may be affected negatively. Be careful.
+**Cherry Blossom** ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) - Auspicious sign for seizing opportunities. Whatever you wish will come true. However, if you do not seize the opportunity quickly, you may miss it.
+**Wisteria** ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x) - You are ready to move forward toward your goal, but the conditions are not yet ready. You must be patient and wait for the cherry blossoms to bloom.
+**Iris** ![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x) - If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.
+**Susuki Grass** ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x) - Stay true to your intentions and do not waver in your decisions, and you will find great happiness in the near future.
+**Chrysanthemum** ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x) - A fickle and confused mind. You will quiver in your decisions and not be able to make one. You must calm down and reflect on your actions.
+**Maple** ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x) - The road ahead is difficult, but you will not fail. As long as you reflect on yourself and always do the right thing, keep carrying on and moving forward, and you will gradually be blessed with a good fortune.
+**Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) - Follow your own path diligently and keep a pleasant attitude, and you will be socially recognized. Many people around the world will help and cooperate with you, and you will be successful, so this is a very good omen.
+**Paulownia** ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x) - Self-righteousness and lack of self-reflection. You are too stubborn and assertive, and do not listen to what others have to say, so you easily trip up and fall. Please try to maintain a spirit of cooperation.
+
+*Example reading:*
+[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)
+
+*Whatever you do, you must calmly reflect and think about it. But, even though difficult obstacles are expected in the future, if you reflect on your actions and decide that you are doing the right thing, you can resolutely stick to your original intention and forge ahead with single-minded determination. However, if you are too confident and stubborn in sticking to your original intention, you may be tripped up by others, but if you exercise self-restraint, you will be able to seize the opportunity and achieve your goals. And if you maintain a humble attitude and follow your own path, you will be recognized and famous in society, and your later years will be very auspicious.*
 
 # Hawaiian Version
 Hana Cards were known to be exported to the United States during the 1960's. These sets of cards came with an English-language instruction for playing [Koi-Koi](/en/hanafuda/games/koi-koi).
