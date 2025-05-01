@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-05-01T07:57:57.821Z
+date: 2025-05-01T11:36:27.717Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -57,7 +57,7 @@ The game continues until all the cards on the table are taken by the players. Th
 ### 3. Doubt
 The game can be played by 2 or more players. 48 cards of the deck are used (excluding the joker).
 
-First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all players have 12 cards in hand.
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all the cards in the deck have been dealt. The number of cards in each player's hand will vary slightly; this is normal. 
 
 Starting with the dealer clockwise, each player discards a card to the table face-down, while declaring the month number of the discarded card aloud. For example, if the dealer discards a Wisteria card, the dealer declares "4". The player to the dealer's left must discard an Iris card and declare "5", the player to that player's left must discard a Peony card and declare "6", etc. (If a player discards a Paulownia and declares "12", the next player must discard a Pine and declare "1".)
 
@@ -74,7 +74,7 @@ The first player to get rid of all the cards in their hand wins the game.
 ### 4. Kazoku-awase (happy families)
 This game is a good way to test your familiarity with the cards of each suit in hanafuda. It can be played by 3 or more players. 48 cards of the deck are used (excluding the joker).
 
-First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all players have 12 cards in hand.
+First decide the dealer in any method preferred. The dealer shuffles and deals one card at a time to each player's hand, starting with the person to his left, clockwise, until all the cards in the deck have been dealt. The number of cards in each player's hand will vary slightly; this is normal. 
 
 The goal of the game is to create as many sets of four cards of the same suit as possible.
 
@@ -153,6 +153,9 @@ The cartomancer then **writes down the meaning** of each face-up card in order t
 [![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)
 
 *Whatever you do, you must calmly reflect and think about it. But, even though difficult obstacles are expected in the future, if you reflect on your actions and decide that you are doing the right thing, you can resolutely stick to your original intention and forge ahead with single-minded determination. However, if you are too confident and stubborn in sticking to your original intention, you may be tripped up by others, but if you exercise self-restraint, you will be able to seize the opportunity and achieve your goals. And if you maintain a humble attitude and follow your own path, you will be recognized and famous in society, and your later years will be very auspicious.*
+
+> The 8 cards are for example purposes only. The actual pile contains 13 cards, more or less.
+{.is-warning}
 
 # Hawaiian Version
 Hana Cards were known to be exported to the United States during the 1960's. These sets of cards came with an English-language instruction for playing [Koi-Koi](/en/hanafuda/games/koi-koi).
