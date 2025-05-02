@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-05-02T12:29:58.009Z
+date: 2025-05-02T12:31:13.865Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -224,9 +224,9 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |[Babanuki](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (old maid)|2+|Shedding|
 |[Shinkei Suijaku](/en/hanafuda/patterns/hana-cards#h-2-shinkei-suijaku-concentration) (concentration)|1+|Patience|
-|[Doubt](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) |2+|Shedding|
-|[Kazoku-awase](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (happy families)|3+|Shedding|
-|[Unmei no Uranai](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (fortune-telling)|1|Divination|
+|[Doubt](/en/hanafuda/patterns/hana-cards#h-3-doubt) |2+|Shedding|
+|[Kazoku-awase](/en/hanafuda/patterns/hana-cards#h-4-kazoku-awase-happy-families) (happy families)|3+|Shedding|
+|[Unmei no Uranai](/en/hanafuda/patterns/hana-cards#h-5-unmei-no-uranai-destiny-fortune-telling) (fortune-telling)|1|Divination|
 
 ## Report Station
 |Game|Players|Family|
