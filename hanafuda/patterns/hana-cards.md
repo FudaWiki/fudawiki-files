@@ -2,7 +2,7 @@
 title: Hana Cards
 description: Hanafuda printed on western-style cardstock.
 published: true
-date: 2025-05-01T11:53:30.521Z
+date: 2025-05-02T12:18:15.190Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-08T06:06:33.721Z
@@ -141,16 +141,16 @@ The cartomancer then **writes down the meaning** of each face-up card in order t
 
 |Icon|Plant|Meaning|
 |:---:|:---:|:---:|
-|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|Good luck, wealth and prosperity. Even if you have given up on something, a new path will open up and the light will shine. It's a good time for love, marriage, starting a business, building a new house, employment, etc.|
-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|A lonely and difficult future. Things that are going well would soon go wrong. Your love partner may have a change of heart. Your business may be affected negatively. Be careful.|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Auspicious sign for seizing opportunities. Whatever you wish will come true. However, if you do not seize the opportunity quickly, you may miss it.|
-|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|You are ready to move forward toward your goal, but the conditions are not yet ready. You must be patient and wait for the cherry blossoms to bloom.|
-|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.|
-|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|Stay true to your intentions and do not waver in your decisions, and you will find great happiness in the near future.|
-|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|A fickle and confused mind. You will quiver in your decision-making and not be able to make one. You must calm down and reflect on your actions.|
-|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|The road ahead is difficult, but you will not fail. As long as you reflect on yourself and always do the right thing, keep carrying on and moving forward, and you will gradually be blessed with a good fortune.|
-|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|Follow your own path diligently and keep a pleasant attitude, and you will be socially recognized. Many people around the world will help and cooperate with you, and you will be successful, so this is a very good omen.)|
-|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|Self-righteousness and lack of self-reflection. You are too stubborn and assertive, and do not listen to what others have to say, so you easily trip up and fall. Please try to maintain a spirit of cooperation.|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**FORTUNE** - Good luck, wealth and prosperity. Even if you have given up on something, a new path will open up and the light will shine. It's a good time for love, marriage, starting a business, building a new house, employment, etc.|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|**MISFORTUNE** - A lonely and difficult future. Things that are going well would soon go wrong. Your love partner may have a change of heart. Your business may be affected negatively. Be careful.|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|**OPPORTUNITY** - Auspicious sign for seizing opportunities. Whatever you wish will come true. However, if you do not seize the opportunity quickly, you may miss it.|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|**INCONVENIENCE** - You are ready to move forward toward your goal, but the conditions are not yet ready. You must be patient and wait for the cherry blossoms to bloom.|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|**DELIBERATENESS** - If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|**STEADFASTNESS** - Stay true to your intentions and do not waver in your decisions, and you will find great happiness in the near future.|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|**UNCERTAINTY** - A fickle and confused mind. You will quiver in your decision-making and not be able to make one. You must calm down and reflect on your actions.|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|**PERSEVERANCE** - The road ahead is difficult, but you will not fail. As long as you reflect on yourself and always do the right thing, keep carrying on and moving forward, and you will gradually be blessed with a good fortune.|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|**FRIENDSHIP** - Follow your own path diligently and keep a pleasant attitude, and you will be socially recognized. Many people around the world will help and cooperate with you, and you will be successful, so this is a very good omen.)|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**ARROGANCE** - Self-righteousness and lack of self-reflection. You are too stubborn and assertive, and do not listen to what others have to say, so you easily trip up and fall. Please try to maintain a spirit of cooperation.|
 
 *Example reading:*
 [![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)
