@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T14:48:13.416Z
+date: 2025-05-05T15:28:31.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -18,6 +18,52 @@ Typically, each method has a table of their own interpretation of the meanings o
 {.is-warning}
 
 # Divination Methods and Card Meanings
+
+## From James Yong Kerby
+All 48 cards of the deck are used.
+
+### Setup and Instructions
+
+**Shuffle** the deck well, and place 4 face-down cards in a row on the table. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, with each stack having 4 cards**.
+
+Finally, place **4 face-up cards partially covering the 4th row**, and the "Solitaire game" begins.
+
+- If there are any **two** face-up cards on the bottom of each stack with **matching suits**, remove them from the stacks and **set them aside in a specific manner (described below)**.
+
+>**Each matching pair is set aside in one of four face-up piles** in a specific manner: The first pair goes into the first pile, the second pair goes into the second pile, the third pair goes into the third pile, and the fourth pair goes into the fourth pile. The fifth pair goes on top of the first pile, 6th pair on top of 2nd pile, 7th pair on top of 3rd pile, 8th pair on top of 4th pile, 9th pair on top of 1st pile, 10th pair on top of 2nd pile, and so on. At the end of the "solitaire game", all the cards will have been placed into one of these piles.
+{.is-info}
+
+>You cannot match three matching cards at once.
+{.is-warning}
+
+- If the **bottom card of a stack is a face-down card** after you have removed any matching cards, **flip** that face-down card face-up.
+
+
+
+If there are no more matching cards, **place a card in a separate row below the stacks**.
+
+- If it matches suit with any of the **face-up cards on the bottom of each stack**, take the pair of matching cards and **set them aside in the manner already described above**.
+
+**Continue the above process until there are no more cards left in the draw pile**.
+
+Finally, check the four piles of cards that were set aside, **look for any sets of four cards of the same suit within each pile, and write down their meanings** in order to read your fortune.
+
+### Meaning of the suits
+
+|Icon|Plant|Meaning|
+|:---:|:---:|:---:|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**Good luck,  new start,  energy,  freshness,  optimism**|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|**Good news,  triumph,  joy,  persistence,  stubbornness,  patience**|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|**Celebration,  party,  dance,  entertainment,  fun**|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|**Falling in love,  romance, passion,  likes and hobbies**|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|**Hard work,  wisdom,  success in projects and studies,  courage,  travel,  masculinity**|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|**Government,  authorities,  respect and honor,  power,  riches,  spotlight,  jealousy**|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|**Vacation,  holiday,  rest,  sleep,  tiredness,  bed,  recovery, laziness**|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|**Practicality,  domestic responsibilities,  carefulness.  Also mysticism,  philosophy and poetry**|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|**spending time with elders and grandparents,  ancestry,  tradition,  family**|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|**Calm,  peace, friendliness, innocence,  gratitude,  diplomacy and appreciation**|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|**Self-doubt,  depression,  negativity,  bad news,  surprises,  fear, endings**|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**Solution,  help,  protection,  divine guidance,  help by the powerful,  fate and life,  utility**|
 
 ## From Lucky Lynx
 All 48 cards of the deck are used.
@@ -36,7 +82,7 @@ Next, place **4 face-up cards partially covering the 4th face-down row**.
 {.is-info}
 
 #### Playing Process
-If there are any face-up cards at the bottom of any of the stacks that **match suit with any of the cards on the above face-up row**, remove them from the stack(s) and **place them on top of the matching card on the above face-up row**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+If there are any face-up cards at the bottom of any of the stacks that **match suit with any of the cards on the above face-up row**, remove them from the stack(s) and **place them on top of the matching card on the above face-up row**. Otherwise, **place 1 face-up card at the bottom of each stack (forming another row of 4 face-up cards below)**, and look for any matching cards again.
 
 **Continue the above process until there are no more cards left in the draw pile**.
 
@@ -130,7 +176,7 @@ Finally, **flip all 4 cards in the bottom row face-up**, and the "Solitaire game
 >You cannot match a card on the bottom of a stack with a card in the middle of a stack.
 {.is-warning}
 
-If there are no more matching cards, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+If there are no more matching cards, **place 1 face-up card at the bottom of each stack (forming another row of 4 face-up cards below)**, and look for any matching cards again.
 
 **Continue the above process until there are no more cards left in the draw pile**.
 
@@ -151,7 +197,7 @@ Finally, place **4 face-up cards partially covering the 4th row**, and the "Soli
 >You cannot match a card on the bottom of a stack with a card in the middle of a stack.
 {.is-warning}
 
-If there are no more matching cards, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+If there are no more matching cards, **place 1 face-up card at the bottom of each stack (forming another row of 4 face-up cards below)**, and look for any matching cards again.
 
 **Continue the above process until there are no more cards left in the draw pile**.
 
@@ -193,6 +239,7 @@ All 48 cards of the deck are used.
 |![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**Solution,  help,  protection,  divine guidance,  help by the powerful,  fate and life,  utility**|
 
 # Bibliography
+- [James Yong Kerby - Cartomancy: Hanafuda Divination Demonstration](https://www.youtube.com/watch?v=t6pt03-lOm8)
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 1](https://www.youtube.com/watch?v=DJLlDADNhU8) 
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 2](https://www.youtube.com/watch?v=z37YGcLk-JA)
 - Nintendo Hana Cards Booklet, 1950's
