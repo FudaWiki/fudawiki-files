@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T08:38:16.881Z
+date: 2025-05-05T09:09:59.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -20,8 +20,11 @@ Typically, each method has a table of their own interpretation of the meanings o
 # List of Known Methods and Card Meanings
 
 ## Nintendo Hana Cards Booklet
-This method can be used to read your own fortune, or somebody else's. 40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
+40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
 
+This method is used to read a person's fortune in the near future. You can either read your own fortune or somebody else's. 
+
+### Setup and Instructions
 **Shuffle** the deck and divide it roughly into **3 equal face-down piles**.
 
 The person whose fortune will be read must **choose one** of the 3 piles. 
@@ -53,18 +56,43 @@ Using the guide below, **write down the meaning** of each face-up card that appe
 > The 8 cards are for example purposes only. The actual pile contains 13 cards, more or less.
 {.is-warning}
 
-## From Para Glitter
+## From ParaGlitter
 All 48 cards of the deck are used.
 
+This method can only be used to read your own fortune; If another person touches any of the cards during the divination process, the result is nullified. 
+
+By default, this method reveals your fortune in the near future; However, it can also be used for answering specific questions, by **asking the question during shuffling**.
+
+### Setup and Instructions
 **Shuffle** the deck well, and place 4 face-down cards in a row on the table. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, with each stack having 4 cards**.
 
-Next, the cartomancer places **4 face-up cards partially covering the 4th row**.
+Next, place **4 face-up cards partially covering the 4th row**.
 
-If there are any face-up cards on the table with **matching suits**, remove them from the stack(s) and **set them aside**. Otherwise, 
+If there are any face-up cards on the table with **matching suits**, remove them from the stack(s) and **set them aside**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
 
-The person whose fortune will be read must **choose one** of the 3 piles. The cards in the pile are then placed by the cartomancer on the table **face-up, one-by-one, from left to right**.
+If the **bottom card of a stack is a face-down card** after you have removed any matching cards, **flip** that face-down card face-up.
 
-The cartomancer then **writes down the meaning** of each face-up card from left to right, and **pieces the meanings together** in order to read the person's fortune.
+If a **face-up card in a stack matches suit with the cards that were set aside**, remove it from the stack and place it among the other cards that match suit with it.
+
+**Continue the above process until there are no more cards left in the draw pile**.
+
+Finally, check all the matching cards that were set aside, **look for any sets of four cards of the same suit, and write down their meanings** in order to read your fortune.
+
+### Meaning of the suits
+|Icon|Plant|Meaning|
+|:---:|:---:|:---:|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**MESSENGER**|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|**LOVE**|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|**VOYAGE**|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|**FIGHT**|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|**EATING SOMETHING GOOD**|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|**HAPPINESS**|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|**LUCK**|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|**GOING OUT AND SPENDING MONEY AT NIGHT**|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|**DRINKING AND MEETING PEOPLE**|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|**WORRY**|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|**VISITOR**|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**SPENDING MONEY**|
 
 ## From Tarot Daily
 All 48 cards of the deck are used.
@@ -87,4 +115,5 @@ All 48 cards of the deck are used.
 
 # Bibliography
 - Nintendo Hana Cards Booklet, 1950's
+- [ParaGlitter - Diving with Hanafuda](https://www.youtube.com/watch?v=GYi7vX-FzYE)
 - [Tarot Daily youtube channel](https://www.youtube.com/@TarotDaily) (video already deleted)
