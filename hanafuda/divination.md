@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T11:51:17.123Z
+date: 2025-05-05T14:48:13.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -32,11 +32,18 @@ Lucky Lynx describes the method as "playing Solitaire" with the cards, after whi
 
 Next, place **4 face-up cards partially covering the 4th face-down row**.
 
-If there are any face-up cards on the stacks that **match suit with any of the cards on the above face-up row**, remove them from the stack(s) and **place them on top of the matching card on the above face-up row**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+>If there are cards with matching suits on the above row, then stack them together.
+{.is-info}
+
+#### Playing Process
+If there are any face-up cards at the bottom of any of the stacks that **match suit with any of the cards on the above face-up row**, remove them from the stack(s) and **place them on top of the matching card on the above face-up row**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
 
 **Continue the above process until there are no more cards left in the draw pile**.
 
 Finally, check the cards on the above face-up row, **look for any sets of four cards of the same suit, and write down their meanings** in order to read your fortune.
+
+>During the process, there are only a maximum of 4 suits that can be used in revealing the fortune, since the matching cards need to include any of the four face-up cards in the row above the stacks. So right away during the setup, you can already imagine what fortune you will get, but you need to "play Solitaire" to confirm those fortunes.
+{.is-info}
 
 ### Meaning of the suits
 
@@ -103,15 +110,48 @@ This method can only be used to read your own fortune; If another person touches
 By default, this method reveals your fortune in the near future; However, it can also be used for answering specific questions, by **asking the question during shuffling**.
 
 ### Setup and Instructions
+ParaGlitter had two videos about Hanafuda Divination, and she used a different setup in each video.
+
+#### SETUP A
+**Shuffle** the deck well, and place 4 face-down cards in a row on the table, and 4 face-up cards in a row above the face-down row. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st face-down row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, each stack having 4 cards, and 4 face-up cards above the 4 face-down stacks**.
+
+>If there are cards with matching suits on the above row, then stack them together.
+{.is-info}
+
+Finally, **flip all 4 cards in the bottom row face-up**, and the "Solitaire game" begins.
+
+#### Playing Process for Setup A
+- If there are any face-up cards on the bottom of each stack with **matching suits**, remove them from the stacks and **place them in the above row**.
+
+- If the **bottom card of a stack is a face-down card** after you have removed any matching cards, **flip** that face-down card face-up.
+
+- If a **face-up card on the bottom of a stack matches suit with the cards in the above row**, remove it from the stack and place it among the other cards that match suit with it.
+
+>You cannot match a card on the bottom of a stack with a card in the middle of a stack.
+{.is-warning}
+
+If there are no more matching cards, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+
+**Continue the above process until there are no more cards left in the draw pile**.
+
+Finally, check all the matching cards that were set aside, **look for any sets of four cards of the same suit, and write down their meanings** in order to read your fortune.
+
+#### SETUP B
 **Shuffle** the deck well, and place 4 face-down cards in a row on the table. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, with each stack having 4 cards**.
 
-Next, place **4 face-up cards partially covering the 4th row**.
+Finally, place **4 face-up cards partially covering the 4th row**, and the "Solitaire game" begins.
 
-If there are any face-up cards on the table with **matching suits**, remove them from the stack(s) and **set them aside**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+#### Playing Process for Setup B
+- If there are any face-up cards on the bottom of each stack with **matching suits**, remove them from the stacks and **set them aside**.
 
-If the **bottom card of a stack is a face-down card** after you have removed any matching cards, **flip** that face-down card face-up.
+- If the **bottom card of a stack is a face-down card** after you have removed any matching cards, **flip** that face-down card face-up.
 
-If a **face-up card in a stack matches suit with the cards that were set aside**, remove it from the stack and place it among the other cards that match suit with it.
+- If a **face-up card on the bottom of a stack matches suit with the cards that were set aside**, remove it from the stack and place it among the other cards that match suit with it.
+
+>You cannot match a card on the bottom of a stack with a card in the middle of a stack.
+{.is-warning}
+
+If there are no more matching cards, **place 4 more face-up cards below each stack**, and look for any matching cards again.
 
 **Continue the above process until there are no more cards left in the draw pile**.
 
@@ -156,5 +196,6 @@ All 48 cards of the deck are used.
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 1](https://www.youtube.com/watch?v=DJLlDADNhU8) 
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 2](https://www.youtube.com/watch?v=z37YGcLk-JA)
 - Nintendo Hana Cards Booklet, 1950's
+- [ParaGlitter - hanafuda cards (fortune telling)](https://www.youtube.com/watch?v=l0dwiXVQN-I)
 - [ParaGlitter - Divining with Hanafuda](https://www.youtube.com/watch?v=GYi7vX-FzYE)
 - [Tarot Daily youtube channel](https://www.youtube.com/@TarotDaily) (video already deleted)
