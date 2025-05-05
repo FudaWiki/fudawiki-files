@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T02:20:02.013Z
+date: 2025-05-05T02:28:35.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -55,13 +55,10 @@ UNDER CONSTRUCTION
 
 |Icon|Plant|Meaning|
 |:---:|:---:|:---:|
-|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**FORTUNE** - good luck,  new start,  energy,  freshness,  optimism
-<br>Crane – many people in the crowd
-<br>Ribbon – express thoughts to others, help others or receive help from others, loneliness, starting out small
-|
-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|**MISFORTUNE** - A lonely and difficult future. Things that are going well would soon go wrong. Your love partner may have a change of heart. Your business may be affected negatively. Be careful.|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|**OPPORTUNITY** - Auspicious sign for seizing opportunities. Whatever you wish will come true. However, if you do not seize the opportunity quickly, you may miss it.|
-|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|**INCONVENIENCE** - You are ready to move forward toward your goal, but the conditions are not yet ready. You must be patient and wait for the cherry blossoms to bloom.|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|Good luck,  new start,  energy,  freshness,  optimism<br>Crane – many people in the crowd<br>Ribbon – express thoughts to others, help others or receive help from others, loneliness, starting out small|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Good news,  triumph,  joy,  persistence,  stubbornness,  patience.<br>Bush Warbler – huge scale<br>Ribbon – express thoughts between you and others.<br>junks – simple good news, triumph, joy|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Celebration,  party,  dance,  entertainment,  fun<br>Curtain – many people in the crowd celebrating; invitation to a big party<br>Ribbon – invitation to a party or concert|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|Falling in love,  romance, passion,  likes and hobbies<br>Cuckoo – Strike your heart, falling in love with somebody, moon = emotions<br>Ribbon – love songs, writing love poems, <br>junks – small love, keeping your love to yourself|
 |![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|**DELIBERATENESS** - If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.|
 |![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|**DELIBERATENESS** - If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.|
 |![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|**DELIBERATENESS** - If you take it one step at a time and work hard, you will gradually reach your goal. But do not rush and make a big leap, as you will surely make a grave mistake. Keep calm.|
