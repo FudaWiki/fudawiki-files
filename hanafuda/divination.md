@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T09:09:59.157Z
+date: 2025-05-05T09:26:39.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -17,7 +17,7 @@ Typically, each method has a table of their own interpretation of the meanings o
 >When performing cartomancy to read another person's fortune, you must take in consideration their feelings and explain the cards to them in a gentle manner, especially if there are many bad cards that appeared.
 {.is-warning}
 
-# List of Known Methods and Card Meanings
+# Divination Methods and Card Meanings
 
 ## Nintendo Hana Cards Booklet
 40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
