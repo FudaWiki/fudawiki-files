@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T08:16:44.242Z
+date: 2025-05-05T08:38:16.881Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -22,13 +22,15 @@ Typically, each method has a table of their own interpretation of the meanings o
 ## Nintendo Hana Cards Booklet
 This method can be used to read your own fortune, or somebody else's. 40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
 
-The cartomancer thoroughly **shuffles** the deck and divides it roughly into **3 equal face-down piles**.
+**Shuffle** the deck and divide it roughly into **3 equal face-down piles**.
 
-The person whose fortune will be read must **choose one** of the 3 piles. The cards in the pile are then placed by the cartomancer on the table **face-up, one-by-one, from left to right**.
+The person whose fortune will be read must **choose one** of the 3 piles. 
 
-The cartomancer then **writes down the meaning** of each face-up card from left to right, and **pieces the meanings together** in order to read the person's fortune.
+Once a pile has been chosen, place the cards from the chosen pile on the table **face-up, one-by-one, in a row from left to right**.
 
-#### Meaning of the suits
+Using the guide below, **write down the meaning** of each face-up card that appeared from left to right, and **piece the meanings together** in order to read the person's fortune.
+
+### Meaning of the suits
 
 |Icon|Plant|Meaning|
 |:---:|:---:|:---:|
@@ -51,8 +53,22 @@ The cartomancer then **writes down the meaning** of each face-up card from left 
 > The 8 cards are for example purposes only. The actual pile contains 13 cards, more or less.
 {.is-warning}
 
+## From Para Glitter
+All 48 cards of the deck are used.
+
+**Shuffle** the deck well, and place 4 face-down cards in a row on the table. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, with each stack having 4 cards**.
+
+Next, the cartomancer places **4 face-up cards partially covering the 4th row**.
+
+If there are any face-up cards on the table with **matching suits**, remove them from the stack(s) and **set them aside**. Otherwise, 
+
+The person whose fortune will be read must **choose one** of the 3 piles. The cards in the pile are then placed by the cartomancer on the table **face-up, one-by-one, from left to right**.
+
+The cartomancer then **writes down the meaning** of each face-up card from left to right, and **pieces the meanings together** in order to read the person's fortune.
+
 ## From Tarot Daily
-#### Meaning of the suits
+All 48 cards of the deck are used.
+### Meaning of the suits
 
 |Icon|Plant|Meaning|
 |:---:|:---:|:---:|
@@ -71,4 +87,4 @@ The cartomancer then **writes down the meaning** of each face-up card from left 
 
 # Bibliography
 - Nintendo Hana Cards Booklet, 1950's
-- Tarot Daily youtube channel (video already deleted)
+- [Tarot Daily youtube channel](https://www.youtube.com/@TarotDaily) (video already deleted)
