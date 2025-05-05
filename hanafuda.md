@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2022-12-28T04:24:48.717Z
+date: 2025-05-05T01:36:48.158Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -14,11 +14,14 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 **Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
 
-For a list of different hanafuda variations and how they differ from the standard pattern, see [Hanafuda Variations](/en/hanafuda/patterns). 
+>For a list of different hanafuda variations and how they differ from the standard pattern, see [Hanafuda Variations](/en/hanafuda/patterns). 
+{.is-info}
 
-For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
+>For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
+{.is-info}
 
-For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
+>For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
+{.is-info}
 
 # Composition
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
@@ -71,6 +74,8 @@ They are thought to have been devised as a way to attract people into buying the
 Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 cards; In games where wild cards are required, at least one of the cards **within** the 48 cards of the deck are used. For example, in [Mushi], the Chaff of [Willow](/en/hanafuda/suits/willow) is used as a **wild card**.
 
 However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
+
+In addition, typically most modern hanafuda decks include a blank card called *shirofuda* [白札], which is used for many purposes, but can be used as a Wild Card in games that require one outside of the 48-card deck.
 
 # Using Hanafuda as a Substitute for Other Decks
 
