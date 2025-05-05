@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T09:26:50.237Z
+date: 2025-05-05T11:51:17.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -19,7 +19,46 @@ Typically, each method has a table of their own interpretation of the meanings o
 
 # Divination Methods and Card Meanings
 
-## From Nintendo Hana Cards Booklet
+## From Lucky Lynx
+All 48 cards of the deck are used.
+
+This method is intended only for reading your own fortune, but Lucky Lynx believes that it can also be used for reading the fortunes of other people.
+
+Lucky Lynx describes the method as "playing Solitaire" with the cards, after which you must look for any sets of four cards of the same suit among the cards you've matched, and read their meanings. However, Lucky Lynx also mentions that sometimes the "Solitaire" method isn't necessary for the cards to reveal your fortune.
+
+### Setup and Instructions
+
+**Shuffle** the deck well, and place 4 face-down cards in a row on the table, and 4 face-up cards in a row above the face-down row. Next, place 4 more face-down cards in a row, each partially covering the bottom part of the 1st face-down row (similar to setting up the cards in Klondike, except each stack has an equal number of cards). Keep doing this until there are **4 fanned stacks of face-down cards on the table, each stack having 4 cards, and 4 face-up cards above the 4 face-down stacks**.
+
+Next, place **4 face-up cards partially covering the 4th face-down row**.
+
+If there are any face-up cards on the stacks that **match suit with any of the cards on the above face-up row**, remove them from the stack(s) and **place them on top of the matching card on the above face-up row**. Otherwise, **place 4 more face-up cards below each stack**, and look for any matching cards again.
+
+**Continue the above process until there are no more cards left in the draw pile**.
+
+Finally, check the cards on the above face-up row, **look for any sets of four cards of the same suit, and write down their meanings** in order to read your fortune.
+
+### Meaning of the suits
+
+|Icon|Plant|Meaning|
+|:---:|:---:|:---:|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**Affection, celebration, new year, auspiciousness, patience, new beginnings, cold dark winter**<br>Crane - happiness, messenger, birth  |
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|**Coming of spring, wishes for spring, goal, time for planning**<br>"Nightingale" – love, compassion, hope|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|**Spring, youth, beauty, elegance, grace. However, the beauty is short-lived, just like the cherry blossoms. You must focus on the present.**|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|**Protection, cover, battle, courage. You will have success later in life.**<br>Cuckoo – return home, call in the night, honor advancement, status|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|**Virility, eating something good, fire. Manage your mind or you will become lost. Power. Someone may be holding you down.**|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|**You maybe be in a situation which you cannot do alone without somebody's help. Help is on its way if you choose to attract it. Medicine/healing or the need for medicine/healing. Transformation, happiness or a choice specifically to become happy. Flooded with emotion, devoid of emotion, wealth good fortune and prosperity, the ability or need to attract something.**|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|**Luck, swelling grains in summer, affection, danger, pest, not being honest with yourself**<br>Boar - courage|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|**Romance, enticement, nightlife, spending money at night, the need for balance, insights, and/or secrets being revealed or kept**<br>Geese - auspiciousness|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|**Friendship, loyalty, victory, longevity**<br>Sake cup - Drinking and meeting people, agreements being made |
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|**Worry, sensitivity, caution, psychic ability, dark part of the year, spirits, omens, gentleness**|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|**Visitor (supernatural or human), Take a break. Be flexible, graceful and strong. Communication, Being persistent. Don't give up.**|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**Preparing for a new cycle, disillusion, spending money and balancing accounts, shaking off burdens by balancing your debts, righteousness. **|
+
+>In addition, the **Ribbon** cards in each month represent "poetry, writing, or books".
+{.is-info}
+
+## From Nintendo Hana Cards Booklet (1950's)
 40 cards of the deck are used, excluding the joker and the peony ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x) and bush clover ![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x) suits.
 
 This method is used to read a person's fortune in the near future. You can either read your own fortune or somebody else's. 
@@ -94,7 +133,7 @@ Finally, check all the matching cards that were set aside, **look for any sets o
 |![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|**VISITOR**|
 |![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**SPENDING MONEY**|
 
-## From Tarot Daily
+## From Tarot Daily (2019?)
 All 48 cards of the deck are used.
 ### Meaning of the suits
 
@@ -114,6 +153,8 @@ All 48 cards of the deck are used.
 |![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**Solution,  help,  protection,  divine guidance,  help by the powerful,  fate and life,  utility**|
 
 # Bibliography
+- [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 1](https://www.youtube.com/watch?v=DJLlDADNhU8) 
+- [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 2](https://www.youtube.com/watch?v=z37YGcLk-JA)
 - Nintendo Hana Cards Booklet, 1950's
-- [ParaGlitter - Diving with Hanafuda](https://www.youtube.com/watch?v=GYi7vX-FzYE)
+- [ParaGlitter - Divining with Hanafuda](https://www.youtube.com/watch?v=GYi7vX-FzYE)
 - [Tarot Daily youtube channel](https://www.youtube.com/@TarotDaily) (video already deleted)
