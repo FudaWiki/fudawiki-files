@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-05T15:28:31.157Z
+date: 2025-05-06T12:21:27.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-05T02:20:02.013Z
 
 **Hanafuda Divination** is a form of cartomancy where a [hanafuda](/en/hanafuda) deck is used to read a person's fortune.
 
-There are endless variations in performing hanafuda divination, depending on the region, the method used, the guide in reading the hanafuda designs, and the intuition of the cartomancer themself.
+There are endless variations in performing hanafuda divination, depending on the region, the method used, the guide in reading the hanafuda designs, and the intuition of the cartomancer themself. Sometimes, hanafuda divination is used in conjunction with divination using other types of cards, or even divination with crystals.
 
 Typically, each method has a table of their own interpretation of the meanings of the hanafuda designs, which usually considers the suits of the cards, but sometimes, the types of cards are also considered.
 
@@ -18,6 +18,25 @@ Typically, each method has a table of their own interpretation of the meanings o
 {.is-warning}
 
 # Divination Methods and Card Meanings
+
+## From Hanafuda with Auten
+
+### Energies of the suits
+
+|Icon|Plant|Meaning|
+|:---:|:---:|:---:|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**Longevity, Commitment, A soul-level commitment to self and to the world. Perseverance and endurance while working toward one's goals.**<br>Crane - Marital harmony and longevity, happiness |
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|UNDER CONSTRUCTION|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|UNDER CONSTRUCTION|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|UNDER CONSTRUCTION|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|UNDER CONSTRUCTION|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|UNDER CONSTRUCTION|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|UNDER CONSTRUCTION|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|UNDER CONSTRUCTION|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|UNDER CONSTRUCTION|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|UNDER CONSTRUCTION|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|UNDER CONSTRUCTION|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|UNDER CONSTRUCTION|
 
 ## From James Yong Kerby
 All 48 cards of the deck are used.
@@ -239,6 +258,7 @@ All 48 cards of the deck are used.
 |![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|**Solution,  help,  protection,  divine guidance,  help by the powerful,  fate and life,  utility**|
 
 # Bibliography
+- [Hanafuda with Auten - Monthly Predictions 2023](https://www.youtube.com/watch?v=0ErNtGGHjHE&list=PLMPK23Bhrkk1QUxDZNmoo-96Uqd9u_V80)
 - [James Yong Kerby - Cartomancy: Hanafuda Divination Demonstration](https://www.youtube.com/watch?v=t6pt03-lOm8)
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 1](https://www.youtube.com/watch?v=DJLlDADNhU8) 
 - [Lucky Lynx - Fortunetelling with Japanese Hanafuda Cards part 2](https://www.youtube.com/watch?v=z37YGcLk-JA)
