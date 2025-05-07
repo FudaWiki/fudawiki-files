@@ -2,7 +2,7 @@
 title: Hanafuda Divination
 description: Fortune-telling using Hanafuda cards
 published: true
-date: 2025-05-06T12:21:27.272Z
+date: 2025-05-07T13:59:58.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T02:20:02.013Z
@@ -20,23 +20,13 @@ Typically, each method has a table of their own interpretation of the meanings o
 # Divination Methods and Card Meanings
 
 ## From Hanafuda with Auten
+The divination method used by Leia (the owner of the Youtube channel "Hanafuda with Auten") involved **the viewer of her video picking one of four cards, and depending on the card chosen by the viewer, she revealed 3 cards which predicted the viewer's fortune, which she explained in detail on the video**.
 
-### Energies of the suits
+In addition to the usage of hanafuda, Leia also associated each of the four card choices with a unique crystal for those who want to "pick with crystals". Also, after every hanafuda fortune reading, she also brought up oracle cards for additional predictions.
 
-|Icon|Plant|Meaning|
-|:---:|:---:|:---:|
-|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|**Longevity, Commitment, A soul-level commitment to self and to the world. Perseverance and endurance while working toward one's goals.**<br>Crane - Marital harmony and longevity, happiness |
-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|UNDER CONSTRUCTION|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|UNDER CONSTRUCTION|
-|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Wisteria](/en/hanafuda/suits/wisteria)|UNDER CONSTRUCTION|
-|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/en/hanafuda/suits/iris)|UNDER CONSTRUCTION|
-|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peony](/en/hanafuda/suits/peony)|UNDER CONSTRUCTION|
-|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|UNDER CONSTRUCTION|
-|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|UNDER CONSTRUCTION|
-|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|UNDER CONSTRUCTION|
-|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Maple](/en/hanafuda/suits/maple)|UNDER CONSTRUCTION|
-|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|UNDER CONSTRUCTION|
-|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|UNDER CONSTRUCTION|
+Most of Leia's "Pick-a-card" hanafuda divination videos were meant for predicting the fortune for a specific month of 2023, although some videos dealt with specific topics such as opportunity, love, and rebirth.
+
+Leia used spiritual master teacher **Selena Rodriguez's "Hanafuda Magic"** as a guide for her hanafuda interpretations and readings.
 
 ## From James Yong Kerby
 All 48 cards of the deck are used.
