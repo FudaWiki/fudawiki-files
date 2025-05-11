@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2023-08-12T03:28:27.561Z
+date: 2025-05-11T09:18:49.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -35,7 +35,7 @@ Moreover, Christianity was formally banned in Japan in 1612 and was subject to p
 
 Considering this, it seemed that card manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
 
-The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards would be given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
+The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
 
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** In some decks, a **joker card** is used, called **Onifuda** ('demon card') or Bakefuda ('monster card').
