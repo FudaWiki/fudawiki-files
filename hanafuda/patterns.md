@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2024-04-18T06:05:40.047Z
+date: 2025-05-11T09:49:00.991Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -50,12 +50,12 @@ For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 |:---:|:---:|:---:|
 |[**Character Hanafuda**](/en/hanafuda/character)|Any type of hanafuda pattern that features a particular cultural theme or intellectual property, which may be either on the scoring cards only, or throughout the entire deck. Usually sold for the purpose of being promotional materials or collectors' items. This family of hanafuda patterns fluorished after the abolition of the Trump Tax Law in 1989.|
 |[**Junior Hanafuda**](https://www.junior.cards/articles/juniorhanafuda/)|Published by **Louie Mantia** in 2020 and printed by The United States Playing Card Co. on western-style cardstock. The design features a reinterpretation of the hanafuda plants, animals, and objects in the form of Japanese crests (紋, *mon*), making the cards easier to distinguish from each other.|
-|**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of **Murai Bros.** cigarettes, but was printed as a complete hanafuda set by **Tsuchida Tenguya**. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations. Each card has a western playing card design printed on the top right corner of the card.|
+|**Kairyō Hachi-hachi-bana** | A colorful and well detailed hana-trump design originally used as one of the sets of cigarette cards from packs of **Murai Bros.** cigarettes, but was printed as a complete hanafuda set by **Tsuchida Tenguya** in the 1900's. The designs demonstrate the western machine-printing techniques of the time, which produced very detailed and colorful illustrations that look like traditional Japanese paintings. Each card has a western playing card design printed on the top right corner of the card.|
 |**Kinbotan** | A special-made Hanafuda commissioned by Former **Prime Minister Ito Hirobumi**. The cards are larger and thicker than regular hanafuda cards. However, the patterns are more colorful, more detailed, and with plenty of gold outlines.|
 |**Musashino** | A very early woodblock-printed hanafuda from the Edo period. The name comes from the Waka poem written on the Susuki grass Chaff. It shares the same drawings as Echigo-bana, including the Waka poems. It is thought to be the standard pattern of hanafuda before Hachi-hachi-bana took its place.|
 |**Nakayoshi Village Hachi-hachi Hanafuda** |Designed by **Nakayoshi Village and Game Tree** and manufactured by **Oishi Tengudo** in 2015 to commemorate the 35th anniversary of Nakayoshi Village and Game Tree. It features pips with the month and card points written on it, and the illustrations were inspired by the art of paper-cutting (切り絵, *kiri-e*).|
 |**Quadtych Hanafuda**|Usually custom hanafuda patterns in which cards of the same suit could be put together like a puzzle to form a complete, larger picture.|
-|**Soridaijin no Hanakaruta** | A special-made Hanafuda commissioned by Former **Prime Minister Ito Hirobumi** and manufactured by [**Oishi Tengudo**](/en/hanafuda/manufacturers/oishitengudo). The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns seemingly inspired by Echigo-bana. Waka poems are also included. Replicas are still being sold by Oishi Tengudo.|
+|**Soridaijin no Hanakaruta**<br>"Prime Minister's Hanakaruta" | A special-made Hanafuda commissioned by Former **Prime Minister Ito Hirobumi** and manufactured by [**Oishi Tengudo**](/en/hanafuda/manufacturers/oishitengudo) during the Meiji era. The cards are larger and thicker than regular hanafuda cards, and have detailed woodblock patterns inspired by traditional Japanese paintings. Waka poems present in Echigo-bana are also present in this pattern. Only two original copies survived: One from the descendants of Ito Hirobumi, and one at Oishi Tengudo. Since 1991, Oishi Tengudo produced replicas of this pattern for the general public to enjoy, and they continue to produce them to this day.|
 |-|A unique style of handprinted hanafuda since [**Matsui Tengudo**](/en/hanafuda/manufacturers/matsuitengudo)'s revival of the technique. It features green leaves instead of black, and the Waka poems are reintroduced into the standard Hachi-hachi-bana design.|
 
 
