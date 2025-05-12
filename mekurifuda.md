@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-05-11T09:18:49.752Z
+date: 2025-05-12T10:15:50.912Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -132,7 +132,7 @@ The **Rainman** corresponds to the **2 of Coins**.
 |**Akahachi**|![akahachi_deck.png](/suryongfiles/akahachi_deck.png)|
 |**Ise**|![ise_deck.png](/suryongfiles/ise_deck.png)|
 |**Fukutoku**|![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png)|
-|**Kingyoku**|-|
+|**Kingyoku**|![kingyoku_deck.png](/suryongfiles/kingyoku_deck.png)|
 |**Kurofuda**; a.k.a Tsugarubana|-|
 |**Kurouma**|-|
 |**Mitsuogi**|-|
