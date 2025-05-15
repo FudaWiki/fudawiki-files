@@ -2,7 +2,7 @@
 title: Hanahuda
 description: A Hana-awase variant played by the Palauns.
 published: true
-date: 2023-04-05T02:54:07.141Z
+date: 2025-05-15T01:52:33.686Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-07-16T16:08:29.193Z
@@ -12,6 +12,8 @@ dateCreated: 2022-07-16T16:08:29.193Z
 {.is-warning}
 
 ***Hanahuda***, also known as **Hanakuda** or **Palauan Hanafuda**, is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant for two to four players, with slightly different scoring, played in Palau.
+
+Based on the values of the card points used in the game, Hanahuda may have evolved from [Roppyakken](/en/hanafuda/games/roppyakken). The list of yaku is similar to the one used in Hana-Awase and Roppyakken, but has some unique yaku that are not found in either of the latter two games.
 
 >For the purposes of this ruleset, terms in **Palauan** language are introduced in [square brackets].
 {.is-info}
