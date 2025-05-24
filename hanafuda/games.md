@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-05-24T14:03:42.375Z
+date: 2025-05-24T15:14:19.160Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -45,7 +45,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Hana-Awase|Yokohama, Japan|
 |[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Hana-Awase|Japan|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Hana-Awase|Disputed|
-|[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Hana-Awase|Osaka, Japan|
+|[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi or Osaka Mushi|2 per round, max 4 per game|Fishing|Hana-Awase|Osaka, Japan|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Hana-Awase|Japan|
 |[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana, Kumamoto-Bana, or Hawaiian Hanafuda|2-7|Fishing|Hana-Awase|Higo Province, Japan|
@@ -116,7 +116,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Kabu-kei, Honbiki-kei|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
 |[Nana-Tan](/en/hanafuda/games/roku-tan/#nana-tan)|2|Fishing|Hana-Awase|Japan|
 |[Nanbu-Bana](/en/hanafuda/games/nanbu-bana)|-|Fishing|Hana-Awase|Nanbu (which?), Japan|
-|[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase)|4|Fishing|Hana-Awase|Daibutsu-mae, Nara Prefecture, Japan|
+|[Nara Hana-Awase](/en/hanafuda/games/nara-hana-awase), a.k.a. Daibutsu-Bana|4|Fishing|Hana-Awase|Daibutsu-mae, Nara Prefecture, Japan|
 |[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku)|3|Fishing|Hana-Awase|Japan|
 |[Nylon-ppong](/en/hanafuda/games/nylon-ppong)|2-6|Draw and Discard|unconventional|Korea|
 |[Nuki Hachi-Hachi](/en/hanafuda/games/nuki-hachi-hachi)|2 per round, max 4 per game|Fishing|Hana-Awase|Japan|
