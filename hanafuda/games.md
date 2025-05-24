@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-05-24T14:02:40.755Z
+date: 2025-05-24T14:03:42.375Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -66,7 +66,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Hana-Awase|Bizen Province, Japan|
 |[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
-|[Botan-chō](/en/hanafuda/games/botan-cho)|2|Fishing|Hana-Awase|Kanto region, Japan|
+|[Botan-chō](/en/hanafuda/games/botan-cho), a.k.a Kanto Mushi|2|Fishing|Hana-Awase|Kanto region, Japan|
 |[Changara](/en/hanafuda/games/roppyakken/#changara)|2|Fishing|Hana-Awase|Kanto region, Japan|
 |[Chunchun](/en/hanafuda/games/chunchun)|3 per round, max 7 per game|Fishing|Hana-Awase|San'yō region, Japan|
 |[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Kabu-kei|Japan|
