@@ -2,15 +2,15 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2023-03-29T10:21:19.519Z
+date: 2025-05-24T13:58:02.048Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
 ---
 
-Six Hundred - 六百間 [ろっぴゃっけん, *roppyakken*] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) card as a de-facto Bright card.
+**Six Hundred** - 六百間 [ろっぴゃっけん, *roppyakken*] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) card as a de-facto Bright card.
 
-Six Hundred was also introduced in Korea after World War II, and Koreans developed own scoring rules and variants. In Korea, the game is called *'육백'* (*Yukbaek* - 'Six Hundred' in Korean) or *'삼봉'* (*Sambong* - 'Three Peaks' in Korean).
+Six Hundred was one of the most widespread Hanafuda games outside of Japan. It was played in **Dalian, China** during its occupation by the Japanese. It was also introduced in **Korea** after World War II, and Koreans developed own scoring rules and variants. In Korea, the game is called *'육백'* (*Yukbaek* - 'Six Hundred' in Korean) or *'삼봉'* (*Sambong* - 'Three Peaks' in Korean). It was even brought to **Micronesia**, especially in **Palau** where it developed into its own local variant called [*Hanahuda*](/en/hanafuda/games/hanahuda).
 
 # Setup
 Game setup involves choosing a dealer - 親 [おや, oya], shuffling the deck, and distributing the initial cards. Any other house rules (such as which yaku to use and their values) should also be established at this point in order to keep gameplay smooth and fair.
