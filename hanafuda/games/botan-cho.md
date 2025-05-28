@@ -2,7 +2,7 @@
 title: Botan-chō
 description: Mushi but with an extra card as its Onifuda.
 published: true
-date: 2025-05-28T13:39:47.991Z
+date: 2025-05-28T13:40:48.947Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2025-05-24T15:12:34.355Z
@@ -88,4 +88,4 @@ Despite being less important than in the Osaka version of Mushi, the ![Icon for 
 When the last round counter is taken (i.e. the final round is played), the game ends, and the **player with the most points is declared the winner of the game.**
 
 # Bibliography
-- https://www.youtube.com/watch?v=ZmB57GBTrnE
+- https://www.youtube.com/watch?v=ZmB57GBTrnE Omitsu's gameplay footage of Botan-chō with Jun Kusaba
