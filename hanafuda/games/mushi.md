@@ -2,13 +2,15 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2023-07-26T12:11:24.703Z
+date: 2025-05-28T13:25:11.218Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z
 ---
 
-Mushi [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card as a wild card, relatively few yaku, and zero-sum scoring.
+**Mushi** [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card as a wild card, relatively few yaku, and zero-sum scoring.
+
+The game is well known to be played in the Osaka region of Japan, but there is also a [variant played in the Kanto region](/en/hanafuda/games/botan-cho). For that reason, this specific game is also called **Osaka Mushi**.
 
 * 📺 [Video Tutorial](/en/hanafuda/games/mushi#external-resources)
 
