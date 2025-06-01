@@ -2,7 +2,7 @@
 title: Botan-chō
 description: Mushi but with an extra card as its Onifuda.
 published: true
-date: 2025-05-28T13:40:48.947Z
+date: 2025-06-01T15:55:51.611Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2025-05-24T15:12:34.355Z
@@ -38,11 +38,16 @@ The Peony with Butterflies card in a player's hand **can be used to capture any 
 ## Botan-chō drawn from the pile
 If the Peony with Butterflies card is drawn from the draw pile, it **must be used** to capture any card (or 3 cards of the same suit) on the field. In other words, **it cannot be discarded onto the field without capturing anything**.
 
+However, if there are no cards on the field, only then can the Peony with Butterflies card be discarded onto the field.
+
 ## Botan-chō on the field (*Onitsuki*)
-If the Peony with Butterflies card is dealt onto the field, it can be captured during a player's turn if they want to (it can be captured using any card in hand or the card from the draw pile). However, the **player is not allowed to discard a card onto the field while the Peony with Butterflies card is still on the field**; if it can't capture any other card on the field, **it must capture the Peony with Butterflies card**.
+If the Peony with Butterflies card is dealt or discarded onto the field, it can be captured during a player's turn if they want to (it can be captured using any card in hand or the card from the draw pile). However, the **player is not allowed to discard a card onto the field while the Peony with Butterflies card is still on the field**; if it can't capture any other card on the field, **it must capture the Peony with Butterflies card**.
 
 ## End of round leftover card
 At the end of the round, **the remaining card on the field belongs to the player who used the Peony with Butterflies card**.
+
+## Botan-chō below the pile (*Name-oni*)
+If the Peony with Butterflies card is the last card to be drawn from the pile, it can no longer be used to match another card (since the field is already empty). Therefore **it is captured alone**, not by the player who drew it, but **by the opponent of the player who drew it**.
 
 # Scoring
 At the end of the round, players score both for the value of their captured cards, and for any *yaku* (scoring combinations) they managed to collect in their score piles.
