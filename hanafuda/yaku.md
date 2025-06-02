@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2025-06-02T22:57:54.652Z
+date: 2025-06-02T23:10:47.377Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -194,7 +194,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Kasuyaku</br>カス役|-|Chaff Yaku|Seven Chaff cards for Dealer, Eight Chaff cards for 2nd player, Nine Chaff cards for last player. Value increases if more Chaff are collected.|Used only in Sendai-hana.|
 |Kikukiri</br>菊桐|-|Coat of Arms|Sake Cup and Phoenix|An old yaku based on the 2 Coat of Arms of the Imperial Family.|
 |Kirinchō</br>きりん蝶|-|Phoenix Butterflies|Phoenix and Butterflies.|Used in the game Taiyaku.|
-|Kiri Shima</br>桐島|**Yanagi Zoro** [桐ゾロ], **Kiri Tsubo** [桐壷], **Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
+|Kiri Shima</br>桐島|**Kiri Zoro** [桐ゾロ], **Kiri Tsubo** [桐壷], **Ttongyak** [똥약] in Korean|Four Paulownias|Four Paulownia cards.|Has mekurifuda origins.|
 |Kirishima</br>霧島|-|Mist Island *or* Greater 12-4-11|Phoenix, Cuckoo, Rainman.|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Kirishima</br>霧島|-|Mist Island|Phoenix, Cuckoo, Bush Warbler.|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except the Rainman is replaced with Bush Warbler for some reason.|
 |Koto</br>こと|-|Two Small Birds|Any two of Bush Warbler, Cuckoo, or Swallow.|These birds are drawn smaller in old hanafuda designs.|
