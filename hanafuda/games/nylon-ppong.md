@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2024-12-14T11:13:06.152Z
+date: 2025-06-10T17:13:13.796Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -105,6 +105,31 @@ If a player has **a triplet and a pair in hand**,  and the card on **top of the 
 
 > Some players do not ignore scores of triplets during scoring.
 {.is-warning}
+
+# Optional Rule: Alternative Scoring
+
+This scoring rule is optimized for playing for money, which does not keep a running total score.
+Therefore, combination values are ignored.
+
+Payments are made by the last place paying a specific value to 1st place, second-to-last player paying a lesser value to 2nd place, and so on.
+For 4 players, starting from 1st, the payment scheme would be **+2, +1, -1, -2**.
+For 5 players, the payment scheme would be **+2, +1, 0, -1, -2**.
+> Other number of players can employ a simlar scheme.
+{.is-info}
+
+If the round ended by one of the following combinations, the winner receives the same amount 1st place would normally receive from each of the other players.
+- 7-12 Straight
+- Four of a kind
+- '10 or less'
+- '60 or more'
+
+Otherwise, the positions are decided as follows:
+1. If someone **won with a combination not listed above**, that player becomes **1st place**.
+2. If someone **goes out with 'ppong'**, that player becomes **1st place**, while the player that **discarded a card right before the 'ppong'** becomes **last place**.
+3. If someone called **'stop'** but did not have the lowest scoring hand, that player becomes **last place**.
+4. Rest of the undecided positions are decided by hand score order, with **lower score taking the higher position**. Ties are broken by turn order, starting from the starting player.
+
+For case 2 and 3, payments from last place to 1st place are **doubled**.
 
 # Bibliography
 
