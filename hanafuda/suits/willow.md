@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2025-06-13T14:37:40.570Z
+date: 2025-06-13T14:41:46.252Z
 tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:47.539Z
@@ -16,6 +16,8 @@ The other three cards of the suit have maintained the willow tree motif. The Ani
 
 In a few games, including Tensho, an alternate month ordering is used, with the Willow suit representing February or the number 2 instead. On the other hand, in the [Korean](/en/hanafuda/hwatu) suit order, Willow is considered to represent December or the number 12.
 
+In multiple games, cards of this suit have special or different mechanics compared to cards with the same ranks or properties in other suits.
+
 # Rain Man
 ![110.svg](/sheldonchen-cards/110.svg#float-right,hanafuda-card =150x)
 The Rain Man is a lesser bright, with Bright yaku that include the Rain Man being generally worth less than the corresponding version without the Rainman. In [Koi-Koi](/en/hanafuda/games/koi-koi), it cannot form part of a "Three Brights" yaku.
@@ -27,7 +29,7 @@ Other designs (mainly older ones) depict someone running inside a closed umbrell
 While it used as part of a "Small Birds" yaku in [Musashino-Bana](/en/hanafuda/games/musashino-bana) and [Taiyaku](/en/hanafuda/games/taiyaku), interestingly, the Korean [Go-Stop](/en/hanafuda/games/go-stop) and [Minhwatu](/en/hanafuda/games/minhwatu)  do not recognize it for the "Five Birds" yaku, analogous to how the Rain Man does not count towards "Three Bright" and "Four Brights" in most games.
 In Koi-Koi, it can of course be used for the general "Animals" yaku.
 # Plain Ribbon
-![112.svg](/sheldonchen-cards/112.svg#float-right,hanafuda-card =150x)
+![112.svg](/sheldonchen-cards/112.svg#float-right,hanafuda-card =150x)Just like the Swallow and the Rain Man
 
 # Lightning
 ![113.svg](/sheldonchen-cards/113.svg#float-right,hanafuda-card =150x)
