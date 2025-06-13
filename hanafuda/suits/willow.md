@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2025-06-13T15:22:07.878Z
+date: 2025-06-13T15:22:32.281Z
 tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:47.539Z
@@ -39,3 +39,6 @@ In Koi-Koi however, it can be used for the general "Ribbons" Yaku.
 The special design and coloration this card has in most decks is likely due to its usage as a "wild card" or *onifuda* that can capture any card regardless of its suit (with some restrictions) in several games like e.g. Sakura, Bakabana or [Mushi](/en/hanafuda/games/mushi). For the exact mechanics of this, check the respective pages of the games.
  
  
+ 
+  
+   
