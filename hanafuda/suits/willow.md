@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2025-06-13T10:29:55.166Z
+date: 2025-06-13T14:26:57.824Z
 tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:47.539Z
@@ -18,10 +18,12 @@ In a few games, including Tensho, an alternate month ordering is used, with the 
 
 # Rain Man
 ![110.svg](/sheldonchen-cards/110.svg#float-right,hanafuda-card =150x)
-The Rain Man is a lesser bright, with Bright yaku that include the Rain Man being generally worth less than the corresponding version without the Rainman. In Koi-Koi, it can not form part of a "Three Brights" yaku.
+The Rain Man is a lesser bright, with Bright yaku that include the Rain Man being generally worth less than the corresponding version without the Rainman. In Koi-Koi, it cannot form part of a "Three Brights" yaku.
+
+Other designs (mainly older ones) depict someone running inside a closed umbrella, possibly an *Amefurikozō* or a *Kasa-obake*, two Japanese *yōkai* (demon-like supernatural beings in folklore).
 
 # Swallow
-![111.svg](/sheldonchen-cards/111.svg#float-right,hanafuda-card =150x)
+![111.svg](/sheldonchen-cards/111.svg#float-right,hanafuda-card =150x)The Swallow is a basic Animal card that does not contribute to many Yaku. 
 # Plain Ribbon
 ![112.svg](/sheldonchen-cards/112.svg#float-right,hanafuda-card =150x)
 
