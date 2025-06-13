@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2022-04-10T15:22:40.086Z
+date: 2025-06-13T13:46:38.934Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -17,7 +17,7 @@ In a few games, including Tensho, an alternate month ordering is used, with the 
 
 In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warbler is a de-facto Bright card, being worth more points than the other Animals, and forming the "Big Three" yaku when combined with the [Crane](/en/hanafuda/suits/pine#crane-with-sun) and [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). The same combination of cards is also used in other games, including [Mushi](/en/hanafuda/games/mushi) where the yaku is called "Three Brights."
 # Poetry Ribbon
-![A tanzaku ribbon in a plum blossom tree; it reads "あ𛀙よろし"](/sheldonchen-cards/21.svg#float-right,hanafuda-card =150x) Like the [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), the Ribbon on this card usually features the text *aka-yoroshi* in hiragana. This phrase is one name of the "Poetry Ribbons" yaku that consists of this card, the aforementioned Pine Ribbon, and the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon). This yaku shows up in a large number of games, including Koi-Koi, Go-Stop Six Hundred, and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), and may also go by "Red Ribbons," "Little Three," or other names.
+![A tanzaku ribbon in a plum blossom tree; it reads "あ𛀙よろし"](/sheldonchen-cards/21.svg#float-right,hanafuda-card =150x) Like the [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), the Ribbon on this card usually features the text *aka-yoroshi* in hiragana. This phrase is one name of the "Poetry Ribbons" yaku that consists of this card, the aforementioned Pine Ribbon, and the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon). This yaku shows up in a large number of games, including Koi-Koi, Go-Stop, Six Hundred, and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), and may also go by "Red Ribbons," "Little Three," or other names.
 # Chaff
 ![Stylized plum blossom branch with flowers](/sheldonchen-cards/22.svg#float-right,hanafuda-card =150x)![Stylized plum blossom branch with flowers (mirrored version of the previous card)](/sheldonchen-cards/23.svg#float-right,hanafuda-card =150x)As with most suits, there are two Chaff cards in the Plum Blossom suit, often with one card featuring a branch coming from the lower left and the other card featuring a branch coming from the lower right. In some patterns, including [Echigo-Bana](/en/hanafuda/patterns/echigobana), each of the cards is inscribed with half of the following *waka* poem penned by an unknown author.
 
