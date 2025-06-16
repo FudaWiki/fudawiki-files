@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2025-06-16T16:23:13.785Z
+date: 2025-06-16T16:26:49.747Z
 tags: hanafuda suits, animals, plain ribbons, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:47.539Z
@@ -25,7 +25,7 @@ Other designs (mainly older ones) depict someone running inside a closed umbrell
 
 # Swallow
 ![111.svg](/sheldonchen-cards/111.svg#float-right,hanafuda-card =150x)The Swallow is a basic Animal card that (comparatively) does not contribute to many yaku in most popular Hanafuda games.
-While it is used as part of a "Small Birds" yaku in [Musashino-Bana](/en/hanafuda/games/musashino-bana) and [Taiyaku](/en/hanafuda/games/taiyaku), interestingly, the Korean [Go-Stop](/en/hanafuda/games/go-stop) and [Minhwatu](/en/hanafuda/games/minhwatu)  do not recognize it for the "Five Birds" yaku, analogous to how the Rain Man does not count towards "Three Bright" and "Four Brights" in most games.
+While it is used as part of a "Small Birds" yaku in [Musashino-Bana](/en/hanafuda/games/musashino-bana) and [Taiyaku](/en/hanafuda/games/taiyaku), interestingly, the Korean [Go-Stop](/en/hanafuda/games/go-stop) and [Minhwatu](/en/hanafuda/games/minhwatu)  do not recognize it for the "Five Birds" yaku, analogous to how the Rain Man does not count towards "Three Brights" and "Four Brights" in most games.
 In Koi-Koi, it can of course be used for the general "Animals" yaku.
 
 # Plain Ribbon
