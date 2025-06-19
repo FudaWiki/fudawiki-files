@@ -2,13 +2,13 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-19T05:39:11.442Z
+date: 2025-06-19T08:02:39.568Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
 ---
 
-# Producers/Manufacturers in Japan
+# Hanafuda Manufacturers in Japan
 This is a list of known producers of hanafuda in Japan, arranged alphabetically, with links to individual pages for those manufacturers for which we have sufficient information.
 |Manufacturer|Location|Founded in|Status|Notes|
 |:---|:---:|:---:|:---:|:---:|
@@ -26,7 +26,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Kohara Honten (小原本店)|-|-|-|-|
 | Kyōto Karuta (京都かるた)|-|-|-|-|
 | Kyōwadō (京和堂)|-|-|-|-|
-| Maruē (マルエー)|Mino, Gifu Prefecture.|-|Closed|-|
+| Maruē (マルエー)|Mino, Gifu Prefecture.|1960|Closed|-|
 | Marukin (丸金)|-|-|-|-|
 | [Matsui Tengudō (松井天狗堂)](/en/hanafuda/manufacturers/matsuitengudo)|Kyoto|1897|Closed in 2010|Most famous for its hand-printed hanafuda created by the third generation, Shigeo Matsui since the mid-1970's.|
 | Nakao Seikadō (中尾清花堂)|-|-|-|-|
@@ -45,6 +45,13 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Tanaka Gyokusuidō (田中玉水堂)|Kyoto|1864, Registered in 1893|Closed in the 1960's|Brands were taken over by Iwata Honten.|
 | Universal (ユニバーサル, *yunibāsaru*)|-|-|-|-|
 | Yamashiro Shōten (山城商店)|-|-|-|-|
+
+# Hwatu/Hanafuda Manufacturers in Korea
+
+# Other Hanafuda Manufacturers Around the World
+|Manufacturer|Location|Founded in|Status|Notes|
+|:---|:---:|:---:|:---:|:---:|
+| Hanafuda Hawaii|Hawaii, USA|2009|Active|Founded by Helen Nakano in order to promote and preserve the local game of [Sakura](/en/hanafuda/games/sakura) in the island of Hawaii. Currently sells Hanafuda Hawaii Style, Hanafuda Na Pua Hawaii, and Hanafuda Pilina. Their cards are manufactured in China.|
 
 # Bibliography
 Pollard, George. “Traditional Hanafuda Brands.” *Ways To Play*, games.porg.es/articles/cards/japan/hanafuda/traditional-manufacturers/.
