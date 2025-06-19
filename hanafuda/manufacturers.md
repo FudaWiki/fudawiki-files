@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-19T17:27:34.052Z
+date: 2025-06-19T17:38:27.880Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -52,6 +52,16 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Yanoman (やのまん)|Osaka.<br>Taito-ku, Tokyo.|1954|**Active**|Founded as a trading company. It sold mostly tin toys during its early years, but became well known for being the first company to produce Jigsaw puzzles in Japan, in 1973. It also produced various character hanafuda.|
 
 # Hwatu/Hanafuda Manufacturers in Korea
+|Manufacturer|Status|Brands|
+|:---|:---:|:---:|
+| Chorus|Active|Golden Pierrot|
+| Diamond|Active|Diamond|
+| Dragon|Active|Dragon|
+| -|Active|Gaeulkkeoch|
+| Keumbok|Active|Dookubi Gold|
+| Royal|Active|Royal|
+| -|Active|Sunrise|
+| Waddamda|Active|Waddamda|
 
 # Other Hanafuda Manufacturers Around the World
 |Manufacturer|Location|Founded in|Status|Notes|
