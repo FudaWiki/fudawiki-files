@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-19T17:38:27.880Z
+date: 2025-06-19T17:42:24.111Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -27,7 +27,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Kawakita (川北)|Kyoto|1948|Closed in 1962|Also manufactured western playing cards for The Far East Playing Card Company. Or it could possibly be the same company under a different name.|
 | Kinkadō (金花堂)|Sakata, Yamagata Prefecture.|-|Closed|-|
 | Kohara Honten (小原本店)|Osaka|-|Closed in 1980|-|
-| Kyōto Karuta (京都かるた)|Kyoto|1977|Closed|Founded by an ex-employee of Nihon Karuta Seizō|
+| Kyōto Karuta (京都かるた)|Kyoto|1977|Closed|Founded by an ex-employee of Nihon Karuta Seizō. This company is not related to Usui Nichigetsudo, which produced "Kyoto Karuta" in 1920.|
 | Kyōwadō (京和堂)|Kyoto?|-|Closed|-|
 | Maruē (マルエー)|Mino, Gifu Prefecture.|1960|Closed|-|
 | [Matsui Tengudō (松井天狗堂)](/en/hanafuda/manufacturers/matsuitengudo)|Kyoto|1897|Closed in 2010|Most famous for its hand-printed hanafuda created by the third generation, Shigeo Matsui since the mid-1970's.|
