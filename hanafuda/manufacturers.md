@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-19T05:31:47.454Z
+date: 2025-06-19T05:39:11.442Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -19,7 +19,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Dai Nippon (大日本)|-|-|-|-|
 | Heibon (平凡)|-|-|-|
 | Inoue Juntendō (井上順天堂)|-|-|-|-|
-| Iwata Shoten (岩田商店)|-|1918|Closed|Sold products by other manufacturers, including Nintendo|
+| Iwata Shoten (岩田商店)|Aichi? Gifu? Shiga?|1844-1848, Registered in 1918|Closed|Sold products by other manufacturers, including Nintendo|
 | [Kamigata-ya (上方屋)](/en/hanafuda/manufacturers/kamigataya)|Tokyo|1886|Closed|Sold products by other manufacturers, including Nintendo|
 | Kawai|-|-|-|-|
 | Kawakita (川北)|-|-|-|-|
