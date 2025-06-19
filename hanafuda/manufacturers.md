@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-19T08:02:39.568Z
+date: 2025-06-19T13:52:30.392Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -12,12 +12,12 @@ dateCreated: 2022-04-01T17:56:17.897Z
 This is a list of known producers of hanafuda in Japan, arranged alphabetically, with links to individual pages for those manufacturers for which we have sufficient information.
 |Manufacturer|Location|Founded in|Status|Notes|
 |:---|:---:|:---:|:---:|:---:|
-| Ace (エース *ēsu*)|Kyoto|1960|Closed in 1967 due to bankruptcy|-|
-| [Angel (エンゼル *enzeru*)](/en/hanafuda/manufacturers/angel),<br>a.k.a. Okina Karuta (翁かるた)|Higashiomi, Shiga Prefecture.<br>Kyoto.|1949, Established in 1965|Active|Currently its focus is on western playing cards and supply of equipment for casinos around the world.|
-| Akata Shōjōya (赤田猩々屋)|-|-|-|-|
+| Ace (エース *ēsu*)|Kyoto|1960 (as Toyo Trump 東洋トランプ)|Closed in 1967 due to bankruptcy|-|
+| [Angel (エンゼル *enzeru*)](/en/hanafuda/manufacturers/angel),<br>a.k.a. Okina Karuta (翁かるた)|Higashiomi, Shiga Prefecture.<br>Kyoto.|1949, Registered in 1963, Established in 1965|Active|Currently its main focus is on western playing cards and supply of equipment for casinos around the world.|
+| Akata Shōjōya (赤田猩々屋)|Kyoto|Around 1883, Registered in 1900|Closed|Has evidence that their products are imported to San Francisco, USA|
 | Baba Keieidō (馬場京栄堂)|-|-|-|-|
 | Dai Nippon (大日本)|-|-|-|-|
-| Heibon (平凡)|-|-|-|
+| Heibon Trump (平凡トランプ)|Tokyo|1967|Closed|-|
 | Inoue Juntendō (井上順天堂)|-|-|-|-|
 | Iwata Shoten (岩田商店)|Aichi? Gifu? Shiga?|1844-1848, Registered in 1918|Closed|Sold products by other manufacturers, including Nintendo|
 | [Kamigata-ya (上方屋)](/en/hanafuda/manufacturers/kamigataya)|Tokyo|1886|Closed|Sold products by other manufacturers, including Nintendo|
@@ -35,14 +35,14 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Nippon Yūgi Gangu (日本遊戯玩具)|-|-|-|-|
 | [Nintendō (任天堂)](/en/hanafuda/manufacturers/nintendo)|Kyoto|1889|Active|Currently the biggest manufacturer of Hanafuda in Japan. Also currently most famous globally for its contribution in the video gaming industry and bringing famous video game characters such as Mario, Donkey Kong, and many others.|
 | Nishimura (西村)|-|-|-|-|
-| [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)|Kyoto|1800|Active|The oldest Japanese card manufacturer still in operation today. Most famous for its [hyakunin isshu](/en/uta-garuta/ogura-hyakunin-isshu) sets as they are the official manufacturer for [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta).|
+| [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)|Kyoto|1800 (as Minato-ya)|Active|The oldest Japanese card manufacturer still in operation today. Most famous for its [hyakunin isshu](/en/uta-garuta/ogura-hyakunin-isshu) sets as they are the official manufacturer for [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta).|
 | Ōtani Shōten (大谷商店)|-|-|-|-|
 | Ryūtendō (龍天堂)|Kyoto|1946, Registered in 1948|Closed|Established as an independent hanafuda manufacturer by Nintendo's Keijo (now Seoul, Korea) branch manager, Takeuchi Sukegoro.|
 | Seieidō (精英堂)|-|-|-|-|
 | Suisando (翠山堂)|-|-|-|-|
-| Tamada Fukushōdō (玉田福勝堂)|-|-|-|-|
+| Tamada Fukushōdō (玉田福勝堂)|Kyoto|1806|-|-|
 | Tamura Shōgundō (田村将軍堂)|Kyoto|1921|Active|Produces hanafuda and other [karuta](/en/karuta/) using traditional manual methods including coating the paper with a starch finish, and backpasting each card by hand.|
-| Tanaka Gyokusuidō (田中玉水堂)|Kyoto|1864, Registered in 1893|Closed in the 1960's|Brands were taken over by Iwata Honten.|
+| Tanaka Gyokusuidō (田中玉水堂)|Kyoto|1864, Registered in 1893|Closed in the 1960's|After closing, its brands were taken over by Iwata Honten.|
 | Universal (ユニバーサル, *yunibāsaru*)|-|-|-|-|
 | Yamashiro Shōten (山城商店)|-|-|-|-|
 
