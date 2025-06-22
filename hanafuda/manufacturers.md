@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-22T02:32:44.696Z
+date: 2025-06-22T02:41:06.446Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -68,6 +68,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 |Manufacturer|Location|Founded in|Status|Notes|
 |:---|:---:|:---:|:---:|:---:|
 | Hanafuda Hawaii|Hawaii, USA|2009|Active|Founded by Helen Nakano in order to promote and preserve the local game of [Sakura](/en/hanafuda/games/sakura) in the island of Hawaii. Currently sells Hanafuda Hawaii Style, Hanafuda Na Pua Hawaii, and Hanafuda Pilina. Their cards are manufactured in China.|
+| United States Playing Card Company|Cincinnati, Ohio, USA.<br>Erlanger, Kentucky, USA.|1867 (as Russell & Morgan Printing Company)|Active|While not mainly a producer of hanafuda, it also sold custom-made playing cards with hanafuda designs that can be played as a hanafuda deck.|
 
 # Bibliography
 - Pollard, George. “Traditional Hanafuda Brands.” *Ways To Play*, games.porg.es/articles/cards/japan/hanafuda/traditional-manufacturers/.
