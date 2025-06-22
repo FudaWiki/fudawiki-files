@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-22T04:09:40.710Z
+date: 2025-06-22T04:57:38.974Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -15,6 +15,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Ace (エース *ēsu*)|Kyoto|1960 (as Toyo Trump 東洋トランプ)|Closed in 1967 due to bankruptcy|-|
 | [Angel (エンゼル *enzeru*)](/en/hanafuda/manufacturers/angel),<br>a.k.a. Okina Karuta (翁かるた)|Higashiomi, Shiga Prefecture.<br>Kyoto.|1949, Registered in 1963, Established in 1965|**Active**|Currently its main focus is on western playing cards and supply of equipment for casinos around the world.|
 | Akata Shōjōya (赤田猩々屋)|Kyoto|Around 1883, Registered in 1900|Closed|Operated as a stationery company. Has evidence that their products are imported to San Francisco, USA|
+| Alaska (アラスカ)|-|-|Closed|Among those that made hana-trump, even though it did not manufacture a dedicated hanafuda deck.|
 | Baba Keieidō (馬場京栄堂)|Kyoto|1948|Closed|-|
 | Beverly (ビバリー)|Ginza, Chuo-ku, Tokyo.|1977|**Active**|Mainly produces jigsaw puzzles, toys and games. It also produced various character hanafuda, as well as "Master Hanafuda".|
 | Dai Nippon Trump (大日本トランプ)|Higashiomi, Shiga Prefecture.|-|Stopped producing hanafuda|Currently active as a western playing card manufacturer.|
@@ -40,7 +41,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Nippon Yūgi Gangu (日本遊戯玩具), a.k.a. Nichiyu (日遊 or ニチユー)|Asakusa, Tokyo.|1947|Stopped producing hanafuda|Currently active as a Tarot card and western playing card manufacturer. During the 1960's, they were among those who produced [Hana Cards](/en/hanafuda/patterns/hana-cards) for export to Hawaii, USA.|
 | [Nintendō (任天堂)](/en/hanafuda/manufacturers/nintendo)|Kyoto|1889|**Active**|Currently the biggest manufacturer of Hanafuda in Japan. Also currently most famous globally for its contribution in the video gaming industry and bringing famous video game characters such as Mario, Donkey Kong, and many others.|
 | Nishimura (西村)|Tokyo|1887|Closed|They used to manufacture their own hanafuda, but in their later years they sold hanafuda made by other companies such as Oishi Tengudo.|
-| [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)|Kyoto|1800 (as Minato-ya)|**Active**|Operated as a rice merchant as Minato-ya. The oldest Japanese card manufacturer still in operation today. Most famous for its [hyakunin isshu](/en/uta-garuta/ogura-hyakunin-isshu) sets as they are the official manufacturer for [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta).|
+| [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)|Kyoto|1800 (as Minatoya)|**Active**|Operated as a rice merchant as Minatoya. The oldest Japanese card manufacturer still in operation today. Most famous for its [hyakunin isshu](/en/uta-garuta/ogura-hyakunin-isshu) sets as they are the official manufacturer for [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta).|
 | Ōtani Shōten (大谷商店)|Sakurai town, Shiki district, Nara prefecture.|-|Closed|Became Tenjudō Honten, also closed.|
 | Ryūtendō (龍天堂)|Kyoto|1946, Registered in 1948|Closed|Founded by Nintendo's Keijo (now Seoul, Korea) ex-branch manager, Takeuchi Sukegoro.|
 | Seieidō (精英堂)|Yonezawa City, Yamagata Prefecture.|1915|Stopped producing hanafuda|Currently active as a printing company for packaging, labels, and stickers.|
@@ -48,6 +49,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Tamada Fukushōdō (玉田福勝堂)|Kyoto|1806|Closed|Operated as a needle wholesaler. The Tamada family would later inherit Nihon Karuta Seizō.|
 | Tamura Shōgundō (田村将軍堂)|Kyoto|1921|**Active**|Produces hanafuda and other [karuta](/en/karuta/) using traditional manual methods including coating the paper with a starch finish, and backpasting each card by hand.|
 | Tanaka Gyokusuidō (田中玉水堂)|Kyoto|1864, Registered in 1893|Closed in the 1960's|After closing, its brands were taken over by Iwata Honten.|
+| Tsuchida Tenguya (土田天狗屋)|Osaka|1885 (as Osaka Tenguya)|Closed|Operated as a maker of wooden combs.|
 | Universal (ユニバーサル, *yunibāsaru*)|Osaka|1914 (as Inoue Nanyo Bracelet Factory), 1918 (as Universal)|Closed in 1972|Initially started as a bracelet factory, but eventually ventured into the western playing card business. They also manufactured hanafuda and hana-trump. Nowadays their most widely known hanafuda product is *Gomuhana*, a cut-out hanafuda deck that was coated with rubber to make the cards slippery.|
 | Usui Nichigetsudo (臼井日月堂)|Kyoto|1853|Closed in 1927|Operated as a manufacturer of perfume oils and face powder. Manufactured "Kyoto Karuta" in 1920.|
 | Yamashiro Shōten (山城商店), a.k.a. Yamayo (山與)|Kyoto|Registered in 1901|Closed in 1989|"Yamayo" is a shortening of the founder's name, Yamashiro Yosaburō (山城與三郎).|
@@ -69,6 +71,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 |Manufacturer|Location|Founded in|Status|Notes|
 |:---|:---:|:---:|:---:|:---:|
 | Hanafuda Hawaii|Hawaii, USA|2009|Active|Founded by Helen Nakano in order to promote and preserve the local game of [Sakura](/en/hanafuda/games/sakura) in the island of Hawaii. Currently sells Hanafuda Hawaii Style, Hanafuda Na Pua Hawaii, and Hanafuda Pilina. Their cards are manufactured in China.|
+| IndianWolf Studios|Pittsburgh, Pennsylvania, USA.|Kickstarter account created in 2012|Active|A two-person studio founded by Jason and Antonietta Johnson that published several card games and board games. They also published several hanafuda-related products using western cardstock and plastic. Their cards are manufactured in China.|
 | United States Playing Card Company|Cincinnati, Ohio, USA.<br>Erlanger, Kentucky, USA.|1867 (as Russell & Morgan Printing Company)|Active|While not mainly a producer of hanafuda, it also sold custom-made playing cards with hanafuda designs that can be played as a hanafuda deck.|
 
 # Bibliography
