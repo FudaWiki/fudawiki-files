@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-22T05:06:45.399Z
+date: 2025-06-22T14:50:03.216Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -41,7 +41,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Nihon Parl Kakoh (日本パール加工)|Higashiosaka City, Osaka Prefecture.|1967|**Active**|Mainly a manufacturer of stationery, school supplies, and toys. They also manufactured low-cost cut-out hanafuda, which was also sold by Motobayashi (a 100-yen store).|
 | Nippon Yūgi Gangu (日本遊戯玩具), a.k.a. Nichiyu (日遊 or ニチユー)|Asakusa, Tokyo.|1947|Stopped producing hanafuda|Currently active as a Tarot card and western playing card manufacturer. During the 1960's, they were among those who produced [Hana Cards](/en/hanafuda/patterns/hana-cards) for export to Hawaii, USA.|
 | [Nintendō (任天堂)](/en/hanafuda/manufacturers/nintendo)|Kyoto|1889|**Active**|Currently the biggest manufacturer of Hanafuda in Japan. Also currently most famous globally for its contribution in the video gaming industry and bringing famous video game characters such as Mario, Donkey Kong, and many others.|
-| Nishimura (西村)|Tokyo|1887|Closed|They used to manufacture their own hanafuda, but in their later years they sold hanafuda made by other companies such as Oishi Tengudo.|
+| Nishimura (西村)|Tokyo|1887|Closed|They used to manufacture their own hanafuda, but in their later years they sold hanafuda made by other companies such as Oishi Tengudo and Nintendo.|
 | [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)|Kyoto|1800 (as Minatoya)|**Active**|Operated as a rice merchant as Minatoya. The oldest Japanese card manufacturer still in operation today. Most famous for its [hyakunin isshu](/en/uta-garuta/ogura-hyakunin-isshu) sets as they are the official manufacturer for [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta).|
 | Ōtani Shōten (大谷商店)|Sakurai town, Shiki district, Nara prefecture.|-|Closed|Became Tenjudō Honten, also closed.|
 | Ryūtendō (龍天堂)|Kyoto|1946, Registered in 1948|Closed|Founded by Nintendo's Keijo (now Seoul, Korea) ex-branch manager, Takeuchi Sukegoro.|
