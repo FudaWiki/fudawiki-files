@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-22T02:41:06.446Z
+date: 2025-06-22T04:09:40.710Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -32,6 +32,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Maruē (マルエー)|Mino, Gifu Prefecture.|1960|Closed|-|
 | Marunadō (マルナ堂)|Chuo-ku, Osaka City, Osaka Prefecture.|1913|Stopped selling hanafuda|Currently active as a toy wholesaler. It sold hanafuda manufactured by Ryutendo.|
 | [Matsui Tengudō (松井天狗堂)](/en/hanafuda/manufacturers/matsuitengudo)|Kyoto|1897|Closed in 2010|Most famous for its hand-printed hanafuda created by the third generation, Shigeo Matsui since the mid-1970's.|
+| Murai Bros. & Co. (村井兄弟商會)|Kyoto|1894|Taken over by the Japanese government in 1904 (State tobacco monopoly in effect)|Promoted its brand of Cigarettes by including a trading card in each pack. Several sets featured beautifully illustrated hanafuda designs with a western playing card as its index, making the set effectively a hana-trump. Collecting the whole set|
 | Nakao Seikadō (中尾清花堂)|Kyoto|1894|Closed|-|
 | Nihon Goraku (日本娯楽)|Onomichi city, Hiroshima.|1945(as Takahashi Shoten 高橋商店)|Stopped producing hanafuda|Currently active as an importer of musical instruments. It sold hanafuda manufactured by Kyoto Karuta.|
 | [Nihon Karuta Seizō (日本骨牌製造)](/en/hanafuda/manufacturers/nihonkaruta)|Kyoto|1914|Closed in 2015|Famous for its blue outline on black leaves, as well as an illustration of a rabbit pounding mochi on the Full Moon card. Along with Oishi Tengudo, this company influenced the design elements of Korean-made Hwatu. Also sold Hana-trump decks under the "Windmill" brand. In its later years, it sold cut-out hanafuda decks manufactured by Oishi Tengudo.|
