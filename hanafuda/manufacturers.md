@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-22T14:50:03.216Z
+date: 2025-06-22T14:52:22.362Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -32,7 +32,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Kyōto Karuta (京都かるた)|Kyoto|1977|Closed|Founded by an ex-employee of Nihon Karuta Seizō. This company is not related to Usui Nichigetsudo, which produced "Kyoto Karuta" in 1920.|
 | Kyōwadō (京和堂)|Kyoto?|-|Closed|-|
 | Maruē (マルエー)|Mino, Gifu Prefecture.|1960|Closed|-|
-| Marunadō (マルナ堂)|Chuo-ku, Osaka City, Osaka Prefecture.|1913|Stopped selling hanafuda|Currently active as a toy wholesaler. It sold hanafuda manufactured by Ryutendo.|
+| Marunadō (マルナ堂)|Chuo-ku, Osaka City, Osaka Prefecture.|1913|Stopped selling hanafuda|Currently active as a toy wholesaler. It sold hanafuda manufactured by Nintendo and Ryutendo.|
 | [Matsui Tengudō (松井天狗堂)](/en/hanafuda/manufacturers/matsuitengudo)|Kyoto|1897|Closed in 2010|Most famous for its hand-printed hanafuda created by the third generation, Shigeo Matsui since the mid-1970's.|
 | Murai Bros. & Co. (村井兄弟商會)|Kyoto|1894|Taken over by the Japanese government in 1904 (State tobacco monopoly in effect)|Promoted its brand of Cigarettes by including a trading card in each pack. Several sets featured beautifully illustrated hanafuda designs with a western playing card as its index, making the set effectively a hana-trump. Collecting the whole set|
 | Nakao Seikadō (中尾清花堂)|Kyoto|1894|Closed|-|
