@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-05-12T10:15:50.912Z
+date: 2025-06-24T08:33:03.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -28,6 +28,13 @@ For a list of games played using these cards, see [Mekurifuda Games](/en/mekurif
 It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as Karuta (now classified as Tensho Karuta).
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
+
+## Bans due to Gambling
+The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was demanded penance in the form of a bondage rope, and more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
+
+When Tokugawa Ieyasu and his clan transferred to the Kanto region in 1591, he immediately decreed that gambling is punishable by death. 
+
+In 1597, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**Okitejojo (100 Articles of Chosokabe Motochika)**" in his castle , Urado Castle, which issued a ban on gambling karuta games. This is by far the earliest document in Japanese literature where the word "karuta" can be read.
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
