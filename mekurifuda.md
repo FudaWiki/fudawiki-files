@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-24T18:18:34.572Z
+date: 2025-06-24T18:39:51.695Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -53,16 +53,16 @@ In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujika
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
 ## Soured Relations with Christianity in Japan
-After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he paid attention to external threats, particularly the expansion of European power in East Asia. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
+After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he paid attention to external threats, particularly the expansion of European power in East Asia, especially in the Philippines which was colonized by the Spanish after its people were converted into Christianity. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
 Totoyomi Hideyoshi then promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the missionaries still kept preaching openly. Hideyoshi then executed the 26 Martyrs of Japan.
 
-When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Tokugawa that the Christian countries indeed had territorial ambitions, using Christianity as their means of control.
+When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Ieyasu also secured trade with the Philippines through Manila. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that the Christian countries indeed had territorial ambitions, using Christianity as their means of control.
 
 UNDER CONSTRUCTION
 
 
-During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
+During the enforcement of the Sakoku policy in the Edo period (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal.
 
 Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
 
