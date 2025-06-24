@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-24T05:03:31.671Z
+date: 2025-06-24T05:07:02.457Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -47,7 +47,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Ryūtendō (龍天堂)|Kyoto|1946, Registered in 1948|Closed|Founded by Nintendo's Keijo (now Seoul, Korea) ex-branch manager, Takeuchi Sukegoro.|
 | Seieidō (精英堂)|Yonezawa City, Yamagata Prefecture.|1915|Stopped producing hanafuda|Currently active as a printing company for packaging, labels, and stickers.|
 | Suisando (翠山堂)|-|-|Closed|-|
-| Suzuki Tengudō (鈴木天狗堂)|Kyoto|2019|Inactive since 2023|A one-man studio who tried to revive the traditional hand-printed and manual crafting techniques of hanafuda. Sold hanafuda in the style of Matsui Tengudo, as well as a quadtych nahafuda design. Also sold hand-printed komatsu-fuda.|
+| Suzuki Tengudō (鈴木天狗堂)|Kyoto|2019|Inactive since 2023|A one-man studio who tried to revive the traditional hand-printed and manual crafting techniques of hanafuda. Sold hanafuda in the style of Matsui Tengudo, as well as a quadtych hanafuda design. Also sold hand-printed komatsu-fuda.|
 | Tamada Fukushōdō (玉田福勝堂)|Kyoto|1806|Closed|Operated as a needle wholesaler. The Tamada family would later inherit Nihon Karuta Seizō.|
 | Tamura Shōgundō (田村将軍堂)|Kyoto|1921|**Active**|Produces hanafuda and other [karuta](/en/karuta/) using traditional manual methods including coating the paper with a starch finish, and backpasting each card by hand.|
 | Tanaka Gyokusuidō (田中玉水堂)|Kyoto|1864, Registered in 1893|Closed in the 1960's|After closing, its brands were taken over by Iwata Honten.|
