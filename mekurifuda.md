@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-24T08:38:06.546Z
+date: 2025-06-24T18:16:35.797Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -18,7 +18,7 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), a game which
 
 [**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
-These card decks were subject to bans due to their association with gambling, which is also banned. According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. Despite these harsh penalties, the use and gambling of karuta continued.
+These card decks were subject to bans due to their association with gambling, which is also banned. Those caught in the act of gambling would be punished severely, or even put to death. Despite these harsh penalties, the use and gambling of karuta continued. 
 
 There was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) as a way to get around the bans. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
 
@@ -29,17 +29,36 @@ It was speculated that sometime during the Tensho era (1573-1592), the Japanese 
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
+In the following years, playing with Tensho Karuta would be frowned upon by the ruling authorities, due to two main reasons:
+- It was used as a tool for gambling, which is detrimental to public order.
+- It featured foreign designs that could be mistaken for Christian iconography.
+
 ## Bans due to Gambling
 The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was demanded penance in the form of a bondage rope, and more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
 
-When Tokugawa Ieyasu and his clan transferred to the Kanto region in 1591, he immediately decreed that gambling is punishable by death. 
+In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he immediately decreed that gambling is punishable by death. 
 
-In 1597, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**Okitejojo (100 Articles of Chosokabe Motochika)**" in his castle , Urado Castle, which issued a ban on gambling karuta games. This is by far the earliest document in Japanese literature where the word "karuta" can be read.
+In 1597, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a **ban on gambling karuta games**. This is by far the earliest document in Japanese literature where the word "karuta" can be read.
 
-UNDER CONSTRUCTION
+There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868), but despite the bans, people played karuta undercover, and karuta became widespread in many provinces in Japan.
+
+There were several documents that describe the punishment for evading the bans, as well as accounts of people caught and punished.
+
+In 1683, in Edo, Kichizaemon and Kuzaemon were arrested for gambling with karuta, and were imprisoned for a year and a half, after which they were pardoned.
+
+In 1702, in Edo, Shichirobei Akai Masayuki, a senior official of the front line, was appointed concurrently as a gambling inspector, and during his term, 3 people were executed and 18 were exiled for gambling. This punishment was criticized as being too harsh and severe, and he was eventually dismissed from his position as gambling inspector only 3 months after he was appointed.
+
+In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing *yomikaruta* or betting games: 30 days of handcuffs for first offenders, and a fine of 3 kanmon (approx. 75,000 yen) for repeat offenders.
+
+According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
 ## Soured Relations with Christianity in Japan
-UNDER CONSTRUCTION
+After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he paid attention to external threats, particularly the expansion of European power in East Asia. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
+
+Totoyomi Hideyoshi then promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the missionaries still kept preaching openly. Hideyoshi then executed the 26 Martyrs of Japan.
+
+When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Tokugawa that the Christian countries indeed had territorial ambitions.
+
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
