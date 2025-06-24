@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-24T18:16:35.797Z
+date: 2025-06-24T18:18:34.572Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -57,7 +57,9 @@ After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he paid a
 
 Totoyomi Hideyoshi then promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the missionaries still kept preaching openly. Hideyoshi then executed the 26 Martyrs of Japan.
 
-When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Tokugawa that the Christian countries indeed had territorial ambitions.
+When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Tokugawa that the Christian countries indeed had territorial ambitions, using Christianity as their means of control.
+
+UNDER CONSTRUCTION
 
 
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
