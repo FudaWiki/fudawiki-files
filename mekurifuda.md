@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-24T08:37:44.088Z
+date: 2025-06-24T08:38:06.546Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -36,7 +36,11 @@ When Tokugawa Ieyasu and his clan transferred to the Kanto region in 1591, he im
 
 In 1597, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**Okitejojo (100 Articles of Chosokabe Motochika)**" in his castle , Urado Castle, which issued a ban on gambling karuta games. This is by far the earliest document in Japanese literature where the word "karuta" can be read.
 
+UNDER CONSTRUCTION
+
 ## Soured Relations with Christianity in Japan
+UNDER CONSTRUCTION
+
 During the Sakoku (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal, after they have learned that the Philippines was colonized by Spain after its people were converted to Christianity. 
 
 Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
