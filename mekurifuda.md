@@ -1,8 +1,8 @@
 ---
-title: Mekurifuda
+title: Mekurifuda (Edo-Period Japanese Playing Karuta)
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T12:39:13.213Z
+date: 2025-06-25T12:47:30.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
