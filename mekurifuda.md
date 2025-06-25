@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T03:04:08.916Z
+date: 2025-06-25T04:02:07.710Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -61,16 +61,18 @@ According to Jan Cock Blomhoff's description in a catalog of his collection of J
 ## Soured Relations with Christianity in Japan
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
-Later that same year, Totoyomi Hideyoshi promulgated the Bateren Edict, aimed at prohibiting the slave trade and promoting freedom and respect of all religions, but later aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the edict was not strictly imposed, and the missionaries still kept preaching openly. 
+Later that same year, Totoyomi Hideyoshi promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan due to their clear violation of Buddhist law, prohibiting the slave trade, and promoting freedom and respect of all religions. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the edict was not strictly imposed, and missionaries still kept preaching openly around other parts of Japan. 
 
-Hideyoshi then executed the 26 Martyrs of Japan.
+Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shikoku, where the local feudal lord Chōsokabe Motochika seized the cargo of the ship and escalated the incident to Totoyomi Hideyoshi. Hideyoshi then learned from the pilot of the ship that it was Spain's plot to infiltrate countries with missionaries before an eventual military conquest. He also learned that the Philippines and several countries in the Americas were colonized by the Spanish after converting their inhabitants into Catholicism.
 
-When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Ieyasu also secured trade with the Philippines through Manila. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that the Christian countries indeed had territorial ambitions, using Christianity as their means of control.
+Hideyoshi was furious upon this revelation, and in 1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
 
-UNDER CONSTRUCTION
+## Ban on Christianity and Beginning of *Sakoku* policy
+When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English would never conduct any missionary activities and would only focus on trade.
 
+In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
 
-During the enforcement of the Sakoku policy in the Edo period (1603-1868), The Japanese Shogunate severely limited trade between Japan and other countries, in order to eliminate any colonial and religious influence of primarily Spain and Portugal.
+In addition, Tokugawa also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal.
 
 Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
 
