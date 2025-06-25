@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T06:09:11.711Z
+date: 2025-06-25T06:12:03.973Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -35,9 +35,9 @@ It was speculated that sometime during the Tensho era (1573-1592), the Japanese 
 
 One of the places in Japan known to produce karuta around this time was Miike Village, Chikugo Province (present-day Omuta City, Fukuoka Prefecture). Japanese literature mentions karuta as a specialty of Miike Village as early as 1638.
 
-In the following years, playing with Tensho Karuta would be frowned upon by the ruling authorities, due to two main reasons:
-- It was used as a tool for gambling, which is detrimental to public order.
-- It featured foreign designs that could be mistaken for Christian iconography.
+In the following years, the Tensho Karuta industry would be affected by two factors:
+- The cards were used as a tool for gambling, which is detrimental to public order and frowned upon by the ruling authorities.
+- The cards featured foreign designs that could be mistaken for Christian iconography.
 
 ## Bans on Gambling with Karuta
 The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was demanded penance in the form of a bondage rope, and more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
