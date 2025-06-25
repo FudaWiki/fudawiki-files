@@ -2,7 +2,7 @@
 title: Mekurifuda (Edo-Period Japanese Playing Karuta)
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T13:16:26.681Z
+date: 2025-06-25T13:49:51.018Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -98,6 +98,8 @@ Due to the ban on Christianity, local karuta manufacturers became wary of the de
 Considering this, it seemed that karuta manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
 
 Also, the cards were made to be smaller than the Portuguese cards they were based on. It was initially thought to be an adaptation of a practice by the Portuguese traders to cut the edges of the cards and wrap them with backing paper once the edges started to wear out, but this is untrue. Nowadays, it is thought that the change in dimensions was likely to make the cards easier to be carried and held by Japanese hands.
+
+Originally, each manufacturer created their own designs of karuta, and copying the design of another karuta manufacturer was prohibited; however, during the bans on public sale of karuta, the practice of copying the designs of other manufacturers occurred very often, since manufacturers could not claim copyright on illegal products such as karuta. It is also possible that when a karuta manufacturer producing a popular design suddenly closed, other karuta manufacturers would copy that design to take over their market.
 
 The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
 
