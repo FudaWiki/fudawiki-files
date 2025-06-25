@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T06:12:03.973Z
+date: 2025-06-25T06:19:44.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -85,7 +85,7 @@ When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade 
 
 In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
 
-In addition, Tokugawa also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal. During this time, the only westerners allowed to trade with Japan were the Dutch.
+In addition, Tokugawa Ieyasu also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal. During this time, the only westerners allowed to trade with Japan were the Dutch.
 
 ## Evolution of Tensho Karuta into Mekurifuda
 
