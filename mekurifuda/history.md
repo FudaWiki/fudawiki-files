@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T17:02:04.776Z
+date: 2025-06-25T17:02:46.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -58,7 +58,7 @@ In 1739, an notice was issued in Osaka, ordering all sellers of *kingo karuta* t
 
 In 1755, sale of gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
 
-Because of such crackdowns, many karuta shops around Japan, mostly in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
+Because of such crackdowns, many karuta shops around Japan, the majority of which were in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
 
 It is worthy of note that the prohibitions on karuta cover only those that were designed for playing gambling games. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, were allowed to be sold openly.
 
