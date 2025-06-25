@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T17:00:10.503Z
+date: 2025-06-25T17:02:04.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -56,7 +56,7 @@ In 1728 and 1731, there was a law in the Tottori Domain (now Tottori City, Totto
 
 In 1739, an notice was issued in Osaka, ordering all sellers of *kingo karuta* to stop their business, and those selling openly with a signboard should remove the signboard immediately.
 
-In 1755, gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
+In 1755, sale of gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
 
 Because of such crackdowns, many karuta shops around Japan, mostly in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
 
