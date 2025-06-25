@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-24T18:39:51.695Z
+date: 2025-06-25T02:47:17.136Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -25,6 +25,10 @@ There was a theory that gamblers turned to other kinds of cards such as [Hanafud
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
 # History
+The Portuguese first landed in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, landed on Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
+
+In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. They were later refered to as "*Nanban Karuta* [南蛮カルタ]", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
+
 It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as Karuta (now classified as Tensho Karuta).
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
@@ -53,7 +57,9 @@ In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujika
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
 ## Soured Relations with Christianity in Japan
-After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he paid attention to external threats, particularly the expansion of European power in East Asia, especially in the Philippines which was colonized by the Spanish after its people were converted into Christianity. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
+
+
+After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
 Totoyomi Hideyoshi then promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the missionaries still kept preaching openly. Hideyoshi then executed the 26 Martyrs of Japan.
 
@@ -176,3 +182,6 @@ The **Rainman** corresponds to the **2 of Coins**.
 - https://l-pollett.tripod.com/cards37.htm
 - Nintendo Brands and Chiho-fuda poster, Late Taisho to Early Showa era.
 - https://japanplayingcardmuseum.com/1-2-4-0-jan-cock-blomhoff-two/
+- https://en.wikipedia.org/wiki/Francis_Xavier
+- https://en.wikipedia.org/wiki/San_Felipe_incident_(1596)
+- https://en.wikipedia.org/wiki/Kirishitan
