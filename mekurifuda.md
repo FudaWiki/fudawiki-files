@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T02:47:17.136Z
+date: 2025-06-25T03:04:08.916Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -25,13 +25,15 @@ There was a theory that gamblers turned to other kinds of cards such as [Hanafud
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
 # History
-The Portuguese first landed in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, landed on Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
+The Portuguese first landed in Japan in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, arrived in Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
 
-In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. They were later refered to as "*Nanban Karuta* [南蛮カルタ]", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
+In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* [南蛮カルタ]", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
 
-It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as Karuta (now classified as Tensho Karuta).
+It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as *karuta*, after the Portuguese word for 'cards', *carta*. Nowadays, these domestic products are classified as Tensho Karuta, after the era in which they started to be made.
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
+
+One of the places in Japan known to produce karuta around this time was Miike Village, Chikugo Province (present-day Omuta City, Fukuoka Prefecture). Japanese literature mentions karuta as a specialty of Miike Village as early as 1638.
 
 In the following years, playing with Tensho Karuta would be frowned upon by the ruling authorities, due to two main reasons:
 - It was used as a tool for gambling, which is detrimental to public order.
@@ -42,7 +44,7 @@ The early punishments for gambling in Japan can be traced back to 1581, when a J
 
 In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he immediately decreed that gambling is punishable by death. 
 
-In 1597, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a **ban on gambling karuta games**. This is by far the earliest document in Japanese literature where the word "karuta" can be read.
+In **1597**, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a ban on gambling karuta games. This is by far **the earliest document in Japanese literature where the word "karuta" can be read**.
 
 There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868), but despite the bans, people played karuta undercover, and karuta became widespread in many provinces in Japan.
 
@@ -57,11 +59,11 @@ In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujika
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
 ## Soured Relations with Christianity in Japan
-
-
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
-Totoyomi Hideyoshi then promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the missionaries still kept preaching openly. Hideyoshi then executed the 26 Martyrs of Japan.
+Later that same year, Totoyomi Hideyoshi promulgated the Bateren Edict, aimed at prohibiting the slave trade and promoting freedom and respect of all religions, but later aimed at expelling any Christian missionaries in Japan. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the edict was not strictly imposed, and the missionaries still kept preaching openly. 
+
+Hideyoshi then executed the 26 Martyrs of Japan.
 
 When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Ieyasu also secured trade with the Philippines through Manila. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that the Christian countries indeed had territorial ambitions, using Christianity as their means of control.
 
