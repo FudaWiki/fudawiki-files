@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T16:23:59.945Z
+date: 2025-06-25T16:54:33.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -88,10 +88,14 @@ Originally, each manufacturer created their own designs of karuta, and copying t
 
 The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
 
+![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
+
 # The End of *Sakoku* policy and Birth of the Meiji era
 After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban was eventually lifted in the following years.
 
 This time, a different type of [western playing cards](/en/trump) featuring French suits were being brought to Japan. As early as 1879, rules for playing games with western playing cards were published, translated into Japanese.
+
+![trump_1_final.png](/suryongfiles/trump_1_final.png =150x)![trump_2_revision.png](/suryongfiles/trump_2_revision.png =150x)
 
 In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one.
 
