@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T04:57:37.562Z
+date: 2025-06-25T06:09:11.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -59,7 +59,17 @@ In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujika
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
 ## Bans on Producing and Selling Karuta
+With the bans on gambling with karuta imposed, it can be assumed that the production and sale of karuta was also strictly controlled as well. There were many documents describing the prohibition of sale of Karuta.
 
+In 1728 and 1731, there was a law in the Tottori Domain (now Tottori City, Tottori Prefecture) that prohibited the sale and purchase of karuta and dice.
+
+In 1739, an notice was issued in Osaka, ordering all sellers of *kingo karuta* to stop their business, and those selling openly with a signboard should remove the signboard immediately.
+
+In 1755, gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
+
+Because of such crackdowns, many karuta shops around Japan, mostly in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
+
+It is worthy of note that the prohibitions on karuta cover only those that were designed for playing gambling games. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, were allowed to be sold openly.
 
 ## Soured Relations with Christianity in Japan
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
@@ -86,6 +96,13 @@ Considering this, it seemed that karuta manufacturers tried to cover up or chang
 Also, the cards were made to be smaller than the Portuguese cards they were based on. It was initially thought to be an adaptation of a practice by the Portuguese traders to cut the edges of the cards and wrap them with backing paper once the edges started to wear out, but this is untrue. Nowadays, it is thought that the change in dimensions was likely to make the cards easier to be carried and held by Japanese hands.
 
 The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
+
+## The End of *Sakoku* policy and Birth of the Meiji era
+After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban was eventually lifted in the following years.
+
+This time, a different type of [western playing cards](/en/trump) featuring French suits were being brought to Japan. As early as 1879, rules for playing games with western playing cards were published, translated into Japanese.
+
+In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one.
 
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Mekurifuda deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.** In some decks, a **joker card** is used, called **Onifuda** ('demon card') or Bakefuda ('monster card').
