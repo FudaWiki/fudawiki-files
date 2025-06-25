@@ -2,7 +2,7 @@
 title: Tensho Karuta (Early Japanese Karuta)
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2025-06-24T08:15:04.620Z
+date: 2025-06-25T12:41:50.806Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -17,7 +17,7 @@ Originally, they were simply known as Karuta, which is a Japanese pronunciation 
 >The name may have also come from the game [Tensho](/en/mekurifuda/games/tensho), which was a predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-awase](/en/hanafuda/games/hana-awase); however, decks named in this context, named **Tenshofuda** **[テンショ札]**, did not always have designs faithful to the Portuguese counterparts, and such decks are classified under [Mekurifuda](/en/mekurifuda).
 {.is-warning}
 
-Eventually these card decks would be subject to several bans, especially during the duration of the Sakoku policy (1603-1868), both due to their association with gambling, and due to their foreign iconography being a possible cause of religious persecution. In the case of the latter, some card manufacturers changed the iconography to suit the Japanese tastes. Eventually, to save time and money, card manufacturers transformed the court card designs into abstract shapes, and overpainted them with thick black (or blue) and red paint. These types of cards would be given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
+Eventually these card decks would be subject to several bans, especially during the duration of the Sakoku policy in the Edo period (1603-1868), both due to their association with gambling, and due to their foreign iconography being a possible cause of religious persecution. In the case of the latter, some card manufacturers changed the iconography to suit the Japanese tastes. Eventually, to save time and money, card manufacturers transformed the court card designs into abstract shapes, and overpainted them with thick black (or blue) and red paint. These types of cards would be given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
 
 # Deck Overview
 Just like a Portuguese playing card deck, **there are 4 suits in a Tensho Karuta deck** - clubs, swords, cups, and coins. **There are 12 ranks of cards: Dragon, 2, 3, 4, 5, 6, 7, 8, 9, Maid, Horse, and King.**
