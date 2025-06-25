@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T16:54:33.730Z
+date: 2025-06-25T16:58:42.850Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -13,6 +13,8 @@ dateCreated: 2025-06-25T16:19:42.672Z
 The Portuguese first landed in Japan in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, arrived in Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
 
 In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* (南蛮カルタ)", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
+
+# Domestic Manufacture of Portuguese Playing Cards in Japan
 
 It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as *karuta* (賀留多), after the Portuguese word for 'cards', *carta*. Nowadays, these domestic products are classified as [Tensho Karuta](/en/tensho), after the era in which they started to be made.
 
