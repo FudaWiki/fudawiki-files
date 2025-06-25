@@ -2,7 +2,7 @@
 title: Mekurifuda (Edo-Period Japanese Playing Karuta)
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T13:49:51.018Z
+date: 2025-06-25T16:16:35.962Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -25,6 +25,8 @@ There was a theory that gamblers turned to other kinds of cards such as [Hanafud
 For a list of games played using these cards, see [Mekurifuda Games](/en/mekurifuda/games).
 
 # History
+[History of Playing Karuta in Japan](/en/mekurifuda/history)
+
 The Portuguese first landed in Japan in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, arrived in Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
 
 In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* [南蛮カルタ]", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
