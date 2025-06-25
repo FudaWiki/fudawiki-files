@@ -2,7 +2,7 @@
 title: Mekurifuda (Edo-Period Japanese Playing Karuta)
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T12:47:30.578Z
+date: 2025-06-25T13:16:26.681Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -18,7 +18,7 @@ The name comes from the game [Mekuri](/en/mekurifuda/games/mekuri), a game which
 
 [**One-suited Mekurifuda decks**](/en/one-suited-mekurifuda-variants) were subsequently developed, which were designed for simpler betting games.
 
-These card decks were subject to bans due to their association with gambling, which is also banned. Those caught in the act of gambling would be punished severely, or even put to death. Despite these harsh penalties, the use and gambling of karuta continued. 
+These card decks were subject to bans due to their association with gambling, which is also banned. Those caught in the act of gambling would be punished, or even put to death. Despite the bans, the use and gambling of karuta continued. 
 
 There was a theory that gamblers turned to other kinds of cards such as [Hanafuda](/en/hanafuda) as a way to get around the bans. However, historical evidence suggests that games played using Hanafuda and games played using Mekurifuda coexisted, and there is also a theory that mekurifuda was used to play hanafuda games, not the other way around.
 
@@ -46,7 +46,9 @@ In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he i
 
 In **1597**, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a ban on gambling karuta games. This is by far **the earliest document in Japanese literature where the word "karuta" can be read**.
 
-There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868), but despite the bans, people played karuta undercover, and karuta became widespread in many provinces in Japan.
+There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868), especially during the Kansei reforms (1787-1793) when the bans was strengthened nationwide. Despite the bans, however, people continued to play karuta undercover, and karuta became widespread in many provinces in Japan.
+
+Punishments for gambling varied from one domain to another, and tended to be stricter toward the ruling class and more lenient toward commoners. Criminals could be fined anywhere between 2 to 5 *kanmon* (approximately 60,000 to 150,000 yen today) which has to be paid within seven days, or else they could be handcuffed for a number of days, or sentenced to prison, exile, or banishment, or beaten with a rod, or even put to death.
 
 There were several documents that describe the punishment for evading the bans, as well as accounts of people caught and punished.
 
@@ -54,7 +56,9 @@ In 1683, in Edo, Kichizaemon and Kuzaemon were arrested for gambling with karuta
 
 In 1702, in Edo, Shichirobei Akai Masayuki, a senior official of the front line, was appointed concurrently as a gambling inspector, and during his term, 3 people were executed and 18 were exiled for gambling. This punishment was criticized as being too harsh and severe, and he was eventually dismissed from his position as gambling inspector only 3 months after he was appointed.
 
-In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing *yomikaruta* or betting games: 30 days of handcuffs for first offenders, and a fine of 3 kanmon (approx. 75,000 yen) for repeat offenders.
+In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing *yomikaruta* or betting games: 30 days of handcuffs for first offenders, and a fine of 3 *kanmon* (approx. 75,000 yen today) for repeat offenders.
+
+In 1792, the "Ofu (Owari Province) Criminal Law Rules" was enacted, where repeat offenders of gambling with karuta are punished by 10 days of imprisonment.
 
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
