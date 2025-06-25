@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T16:58:42.850Z
+date: 2025-06-25T17:00:10.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -37,7 +37,7 @@ There were many other local bans on gambling with karuta during the following ye
 
 Punishments for gambling varied from one domain to another, and tended to be stricter toward the ruling class and more lenient toward commoners. Criminals could be fined anywhere between 2 to 5 *kanmon* (approximately 60,000 to 150,000 yen today) which has to be paid within seven days, or else they could be handcuffed for a number of days, or sentenced to prison, exile, or banishment, or beaten with a rod, or even put to death.
 
-There were several documents that describe the punishment for evading the bans, as well as accounts of people caught and punished.
+There were several documents that describe the punishment for gambling with karuta, as well as accounts of people caught and punished.
 
 In 1683, in Edo, Kichizaemon and Kuzaemon were arrested for gambling with karuta, and were imprisoned for a year and a half, after which they were pardoned.
 
