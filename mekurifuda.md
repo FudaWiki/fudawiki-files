@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T06:19:44.551Z
+date: 2025-06-25T07:50:48.039Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -40,7 +40,7 @@ In the following years, the Tensho Karuta industry would be affected by two fact
 - The cards featured foreign designs that could be mistaken for Christian iconography.
 
 ## Bans on Gambling with Karuta
-The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was demanded penance in the form of a bondage rope, and more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
+The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was punished by rope bondage, and a fine of more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
 
 In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he immediately decreed that gambling is punishable by death. 
 
