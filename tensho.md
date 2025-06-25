@@ -2,7 +2,7 @@
 title: Tensho Karuta (Early Japanese Playing Karuta)
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2025-06-25T16:47:49.282Z
+date: 2025-06-25T16:51:52.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-14T07:36:35.926Z
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
-**Tensho Karuta** [天正かるた] is the term used for [karuta](/en/karuta) (playing cards) made in Japan, which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]), except they were smaller in length and width than their Portuguese counterparts.
+**Tensho Karuta** [天正かるた] is the term used for [karuta](/en/karuta) (playing cards) made in Japan, which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]), except they were smaller in length and width than their Portuguese counterparts. (*See [History of Playing Karuta in Japan](/en/mekurifuda/history)*)
 
 Originally, they were simply known as Karuta, which is a Japanese pronunciation for *carta*, the Portuguese word for cards. Nowadays, to differentiate them from the other types of karuta, they were named Tensho Karuta due to the speculation that these karuta started to be locally manufactured in Japan sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (present-day Omuta City, Fukuoka Prefecture). During this time, card decks from Portugal were also being imported to Japan which probably started in 1571 when the Nagasaki port was opened to foreign traders.
 
