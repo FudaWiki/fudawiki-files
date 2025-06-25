@@ -2,7 +2,7 @@
 title: Mekurifuda
 description: Japanese 4-suited cards
 published: true
-date: 2025-06-25T04:02:07.710Z
+date: 2025-06-25T04:57:37.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:46:15.982Z
@@ -39,7 +39,7 @@ In the following years, playing with Tensho Karuta would be frowned upon by the 
 - It was used as a tool for gambling, which is detrimental to public order.
 - It featured foreign designs that could be mistaken for Christian iconography.
 
-## Bans due to Gambling
+## Bans on Gambling with Karuta
 The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was demanded penance in the form of a bondage rope, and more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
 
 In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he immediately decreed that gambling is punishable by death. 
@@ -58,6 +58,9 @@ In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujika
 
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
+## Bans on Producing and Selling Karuta
+
+
 ## Soured Relations with Christianity in Japan
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
@@ -72,11 +75,15 @@ When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade 
 
 In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
 
-In addition, Tokugawa also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal.
+In addition, Tokugawa also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal. During this time, the only westerners allowed to trade with Japan were the Dutch.
 
-Moreover, Christianity was formally banned in Japan in 1612 and was subject to persecution. During this time, a Karuta deck hidden in a Buddhist altar would be a cause for people to accuse its owner of being Christian and have him executed. 
+## Evolution of Tensho Karuta into Mekurifuda
 
-Considering this, it seemed that card manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
+Due to the ban on Christianity, local karuta manufacturers became wary of the designs on the cards, which featured foreign imagery that could be mistaken for Christian iconography, especially the suit of cups which looked like the Holy Grail. A person owning a Karuta deck could be accused of being Christian and executed. There was even a humorous account of this in a collection of Japanese stories in 1749, where Shigeemon of Hatchobori, Edo, discovered a piece of karuta in the Buddhist altar of his tenant Rokubei, and caused a big commotion by quickly assuming that Rokubei was a Christian. The story later goes on to describe how Shigeemon was punished for committing a crude offense because he did not know about karuta.
+
+Considering this, it seemed that karuta manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
+
+Also, the cards were made to be smaller than the Portuguese cards they were based on. It was initially thought to be an adaptation of a practice by the Portuguese traders to cut the edges of the cards and wrap them with backing paper once the edges started to wear out, but this is untrue. Nowadays, it is thought that the change in dimensions was likely to make the cards easier to be carried and held by Japanese hands.
 
 The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as Mekurifuda.
 
