@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T16:19:42.672Z
+date: 2025-06-25T16:23:59.945Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -94,3 +94,11 @@ After the Meiji restoration in 1868, initially the ban on playing and selling ga
 This time, a different type of [western playing cards](/en/trump) featuring French suits were being brought to Japan. As early as 1879, rules for playing games with western playing cards were published, translated into Japanese.
 
 In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one.
+
+# Bibliography
+- https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A3%E3%81%8B%E3%82%8B%E3%81%9F
+- https://l-pollett.tripod.com/cards37.htm
+- https://japanplayingcardmuseum.com/1-2-4-0-jan-cock-blomhoff-two/
+- https://en.wikipedia.org/wiki/Francis_Xavier
+- https://en.wikipedia.org/wiki/San_Felipe_incident_(1596)
+- https://en.wikipedia.org/wiki/Kirishitan
