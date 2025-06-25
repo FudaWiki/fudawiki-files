@@ -2,7 +2,7 @@
 title: Tensho Karuta (Early Japanese Karuta)
 description: A Japanese card deck that faithfully recreates a complete Portuguese card deck.
 published: true
-date: 2025-06-25T12:43:02.674Z
+date: 2025-06-25T12:43:47.230Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T07:36:35.926Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-14T07:36:35.926Z
 
 **Tensho Karuta** [天正かるた] is the term used for [karuta](/en/karuta) (playing cards) made in Japan, which were faithful copies of Portuguese playing cards (Nanban Karuta [南蛮カルタ]), except they were smaller in length and width than their Portuguese counterparts.
 
-Originally, they were simply known as Karuta, which is a Japanese pronunciation for *carta*, the Portuguese word for cards. Nowadays, to differentiate them from the other types of karuta, they were named Tensho Karuta due to the speculation that these karuta started to be locally manufactured in Japan sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (present-day Omuta City, Fukuoka Prefecture). During this time, card decks from Portugal were also being imported to Japan.
+Originally, they were simply known as Karuta, which is a Japanese pronunciation for *carta*, the Portuguese word for cards. Nowadays, to differentiate them from the other types of karuta, they were named Tensho Karuta due to the speculation that these karuta started to be locally manufactured in Japan sometime during the Tensho Era (1573-1592), in the town of Miike in Chikugo Province (present-day Omuta City, Fukuoka Prefecture). During this time, card decks from Portugal were also being imported to Japan which probably started in 1571 when the Nagasaki port was opened to foreign traders.
 
 >The name may have also come from the game [Tensho](/en/mekurifuda/games/tensho), which was a predecessor to the games [Mekuri](/en/mekurifuda/games/mekuri) and [Hana-awase](/en/hanafuda/games/hana-awase); however, decks named in this context, named **Tenshofuda** **[テンショ札]**, did not always have designs faithful to the Portuguese counterparts, and such decks are classified under [Mekurifuda](/en/mekurifuda).
 {.is-warning}
