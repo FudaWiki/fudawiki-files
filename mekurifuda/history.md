@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-26T17:46:18.738Z
+date: 2025-06-26T17:46:31.525Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -118,6 +118,8 @@ Then in the early days of the Meiji era (1868-1912), the current design of hanaf
 
 ## Bans on Gambling with Hanafuda
 The authorities have started to notice hanafuda as being used for gambling as early as 1807, in an imperial decree that was issued in Nishimurayama (now Yamagata Prefecture).
+
+UNDER CONSTRUCTION
 
 
 # The End of *Sakoku* policy and Birth of the Meiji era
