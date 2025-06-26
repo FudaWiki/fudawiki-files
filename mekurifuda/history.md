@@ -2,19 +2,19 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-25T17:02:46.827Z
+date: 2025-06-26T17:46:18.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
 ---
 
-# Arrival of the Portuguese in Japan
+# Portuguese Playing Cards Brought to Japan
 
 The Portuguese first landed in Japan in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, arrived in Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
 
 In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* (南蛮カルタ)", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
 
-# Domestic Manufacture of Portuguese Playing Cards in Japan
+# Birth of Tensho Karuta
 
 It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as *karuta* (賀留多), after the Portuguese word for 'cards', *carta*. Nowadays, these domestic products are classified as [Tensho Karuta](/en/tensho), after the era in which they started to be made.
 
@@ -26,7 +26,7 @@ In the following years, the Tensho Karuta industry would be affected by two fact
 - The cards were used as a tool for gambling, which is detrimental to public order and frowned upon by the ruling authorities.
 - The cards featured foreign designs that could be mistaken for Christian iconography.
 
-# Bans on Gambling with Karuta
+## Bans on Gambling with Karuta
 The early punishments for gambling in Japan can be traced back to 1581, when a Japanese Christian (*kirishitan*), after failing to keep his pledge to stop gambling, was punished by rope bondage, and a fine of more than 80 Portuguese *cruzados* worth of rice. However, it is not known if karuta was involved.
 
 In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he immediately decreed that gambling is punishable by death. 
@@ -49,7 +49,7 @@ In 1792, the "Ofu (Owari Province) Criminal Law Rules" was enacted, where repeat
 
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
-# Bans on Producing and Selling Karuta
+## Bans on Producing and Selling Karuta
 With the bans on gambling with karuta imposed, it can be assumed that the production and sale of karuta was also strictly controlled as well. There were many documents describing the prohibition of sale of Karuta.
 
 In 1728 and 1731, there was a law in the Tottori Domain (now Tottori City, Tottori Prefecture) that prohibited the sale and purchase of karuta and dice.
@@ -60,9 +60,9 @@ In 1755, sale of gambling karuta was also prohibited in the Kumamoto Domain (now
 
 Because of such crackdowns, many karuta shops around Japan, the majority of which were in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
 
-It is worthy of note that the prohibitions on karuta cover only those that were designed for playing gambling games. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, were allowed to be sold openly.
+It is worthy of note that the **prohibitions on karuta cover only those that were designed for playing gambling games**. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, were allowed to be sold openly.
 
-# Soured Relations with Christianity in Japan
+## Soured Relations with Christianity in Japan
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
 
 Later that same year, Totoyomi Hideyoshi promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan due to their clear violation of Buddhist law, prohibiting the slave trade, and promoting freedom and respect of all religions. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the edict was not strictly imposed, and missionaries still kept preaching openly around other parts of Japan. 
@@ -71,7 +71,7 @@ Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shi
 
 Hideyoshi was furious upon this revelation, and in 1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
 
-# Ban on Christianity and Beginning of *Sakoku* policy
+## Ban on Christianity and Beginning of *Sakoku* policy
 When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English would never conduct any missionary activities and would only focus on trade.
 
 In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
@@ -92,6 +92,34 @@ The resulting Karuta decks slightly varied in design and structure depending on 
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
+# The Origins of Hanafuda
+The earliest ancestor of hanafuda can be traced back to the Genroku era (1688-1704), with a type of *e-awase* karuta called ***Hana-awase Karuta***.
+
+Each set contains 400 cards. 100 types of flowers were featured, with each flower appearing in 4 cards. Of those 4 cards, one of them also featured an object or an animal, which is usually a bird (and sometimes the color of the card is different), one of them also featured a tanzaku strip, and the other two featured only the flowers.
+
+These early sets had images that were beautifully painted in great detail and color, especially when compared to today's hanafuda. This could mean that hana-awase karuta was played by the noble-class Japanese. 
+
+Hana-awase karuta continued to be made from the Genroku era up until the early Meiji era (1868-1912). Contents varied from one set to another. Some sets have a different assortment of flowers. Some sets featured different objects and animals, or different assignments for the objects and animals. Some sets did not have the tanzaku strip card. In some sets, not all 100 types were flowers; some of them were different things of nature, such as rocks, mountains, fruits, vegetables, etc.
+
+## Transformation from Hana-Awase Karuta to Hana-karuta (Hanafuda)
+It is not exactly known when the 400-card sets transformed into the current 48-card set. It was thought that it occurred during the middle of the Edo period, probably during the Kyoho era (1716-1736). 
+
+It was theorized that during this time, 48 cards featuring 12 flowers were taken from the 400-card set, and were used to play a gambling game. Because these 48 cards wore faster than the other cards and they had to be replaced, manufacturers eventually sold sets featuring only those 48 cards.
+
+Eventually, these reduced hana-awase sets would be manufactured using woodblock printing and stencils, instead of being meticulously painted. Surviving examples of these decks were refered to as "*Musashino*" (武蔵野), which was what was written on the lid of the storage box. They were believed to be made as early as the Meiwa era (1764-1772).
+
+These early 48-card sets already featured all 12 flowers that appear in modern hanafuda, as well as all the objects and animals except for the lightning card. Japanese poems are featured on some of the junk cards, giving the set an elegant literary touch.
+
+It was theorized that the poems were added to disguise the deck, which was used for gambling, as an uta-garuta deck, which was not used for gambling. During this time, uta-awase sets featured two subsets: one set containing the first half of the poems, and the other containing the second half. Musashino cards containing poems also follow this format: the first half of the poem is on one junk card, and the second half of the poem is on the other. However, there were no historical evidence of "hana-awase karuta", "hana-karuta" or "Musashino" being banned during the Meiwa era.
+
+Toward the end of the Edo period, tastes have changed, and poetry fell out of fashion among the people of Edo, which became Tokyo. This had an effect on the designs of the cards. Poems were removed, and some decorative elements of the cards were changed. 
+
+Then in the early days of the Meiji era (1868-1912), the current design of hanafuda, known as *hachihachi-bana*, was created in the red-light district of Yokohama. After the ban on selling karuta was lifted, the game [hachi-hachi](/en/hanafuda/games/hachi-hachi) became popular, and Kyoto manufacturers started using the hachihachi-bana pattern as well, making it the standard design for hanafuda in Japan even to this day.
+
+## Bans on Gambling with Hanafuda
+The authorities have started to notice hanafuda as being used for gambling as early as 1807, in an imperial decree that was issued in Nishimurayama (now Yamagata Prefecture).
+
+
 # The End of *Sakoku* policy and Birth of the Meiji era
 After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban was eventually lifted in the following years.
 
@@ -108,3 +136,9 @@ In 1885, a company named Dandansha began importing and selling western playing c
 - https://en.wikipedia.org/wiki/Francis_Xavier
 - https://en.wikipedia.org/wiki/San_Felipe_incident_(1596)
 - https://en.wikipedia.org/wiki/Kirishitan
+- https://japanplayingcardmuseum.com/3-3-2-1-flowercarta-tosamitsunari-genrokuera/
+- https://japanplayingcardmuseum.com/3-3-2-2-flowercarta-onehundredflower-suitmarks/
+- https://japanplayingcardmuseum.com/3-3-3-2-flowercarta-older-younger/
+- https://japanplayingcardmuseum.com/3-3-3-3-flowercarta-origin-musashino/
+- https://japanplayingcardmuseum.com/3-3-3-4-flowercarta-musasino-namer/
+- https://japanplayingcardmuseum.com/6-2-2-3-kantohanahudacarta-delation-wakapoem/
