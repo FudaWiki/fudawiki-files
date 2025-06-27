@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-26T17:46:31.525Z
+date: 2025-06-27T05:33:45.974Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -33,9 +33,9 @@ In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he i
 
 In **1597**, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a ban on gambling karuta games. This is by far **the earliest document in Japanese literature where the word "karuta" can be read**.
 
-There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868), especially during the Kansei reforms (1787-1793) when the bans was strengthened nationwide. Despite the bans, however, people continued to play karuta undercover, and karuta became widespread in many provinces in Japan.
+There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868). Despite the bans, however, people continued to play karuta undercover, and karuta became widespread in many provinces in Japan.
 
-Punishments for gambling varied from one domain to another, and tended to be stricter toward the ruling class and more lenient toward commoners. Criminals could be fined anywhere between 2 to 5 *kanmon* (approximately 60,000 to 150,000 yen today) which has to be paid within seven days, or else they could be handcuffed for a number of days, or sentenced to prison, exile, or banishment, or beaten with a rod, or even put to death.
+Punishments for gambling varied from one domain to another, and tended to be stricter toward the ruling class and more lenient toward commoners. Criminals could be fined anywhere between 2 to 5 *kanmon* (approximately 60,000 to 150,000 yen today) which has to be paid within seven days, or else they could be handcuffed for a number of days, or sentenced to prison, exile, banishment, corporal punishment, or even death.
 
 There were several documents that describe the punishment for gambling with karuta, as well as accounts of people caught and punished.
 
@@ -46,6 +46,8 @@ In 1702, in Edo, Shichirobei Akai Masayuki, a senior official of the front line,
 In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing *yomikaruta* or betting games: 30 days of handcuffs for first offenders, and a fine of 3 *kanmon* (approx. 75,000 yen today) for repeat offenders.
 
 In 1792, the "Ofu (Owari Province) Criminal Law Rules" was enacted, where repeat offenders of gambling with karuta are punished by 10 days of imprisonment.
+
+In 1806, in Maehakoda village of Takasaki domain (present-day Maehakoda-cho, Maebashi city), Heizō, who was in possession of a set of karuta, was found guilty of playing karuta for a bet of 1 or 2 mon at his home with Toramatsu and Shigeshichi from the same village. All three were made to lie face down in front of the prison and were whipped 50 times on the shoulders, back, and buttocks.
 
 According to Jan Cock Blomhoff's description in a catalog of his collection of Japanese relics obtained in 1824, those who were caught gambling by the police were beaten with an iron rod 50 times for the first offense, or beaten with an iron rod 100 times and then imprisoned for the second offense, or executed for the third offense. 
 
@@ -58,9 +60,11 @@ In 1739, an notice was issued in Osaka, ordering all sellers of *kingo karuta* t
 
 In 1755, sale of gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
 
-Because of such crackdowns, many karuta shops around Japan, the majority of which were in Kyoto, were not allowed to sell karuta openly in their stores and disappeared. However, the industry continued undercover.
+During the Kansei reforms (1787-1793) the ban on karuta was strengthened nationwide.
 
-It is worthy of note that the **prohibitions on karuta cover only those that were designed for playing gambling games**. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, were allowed to be sold openly.
+Because the enforcement was stricter, many karuta shops around Japan, the majority of which were in Kyoto, were not allowed to sell karuta openly in their stores and disappeared during the Kansei era (1789-1801). However, in some areas, the industry continued covertly, operating under a different trade to avoid any crackdowns.
+
+It is worthy of note that the **prohibitions on karuta cover only those that were designed for playing gambling games**. Because of this, Uta-garuta, such as [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu), as well as other E-awase type karuta, especially those meant to be played by children, were allowed to be sold openly.
 
 ## Soured Relations with Christianity in Japan
 After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he started to become suspicious of the growth of Christianity in Japan. By 1587, after his invasion of Kyushu, he was alarmed by reports of what the Jesuits were doing: they had claimed and garrisoned the city of Nagasaki, forcing commoners to convert to Christianity, taking and selling non-Christian Japanese from the port as slaves, and allowing the slaughter of horses and oxen for food, an offensive deed to Buddhism. 
@@ -116,11 +120,16 @@ Toward the end of the Edo period, tastes have changed, and poetry fell out of fa
 
 Then in the early days of the Meiji era (1868-1912), the current design of hanafuda, known as *hachihachi-bana*, was created in the red-light district of Yokohama. After the ban on selling karuta was lifted, the game [hachi-hachi](/en/hanafuda/games/hachi-hachi) became popular, and Kyoto manufacturers started using the hachihachi-bana pattern as well, making it the standard design for hanafuda in Japan even to this day.
 
-## Bans on Gambling with Hanafuda
-The authorities have started to notice hanafuda as being used for gambling as early as 1807, in an imperial decree that was issued in Nishimurayama (now Yamagata Prefecture).
+## Bans on Gambling with Hana-awase / Hanafuda
+The authorities have started to notice hanafuda as being used for gambling as early as 1807, in an imperial decree that was issued in Nishimurayama (now Yamagata Prefecture). It states that "Hana-karuta" was being played during the New Year holidays, and that it should be noted that it was known to be used for gambling, despite being a game also played by children, and it also requests the people to stop playing with Hana-karuta immediately.
 
-UNDER CONSTRUCTION
+In 1842, A Kyoto town notice states, "Hana-awase, E-sugoroku, and [Juroku] Musashi are used for the amusement of women in early spring, but gambling with them is prohibited".
 
+In 1837, Kitagawa Morisada, a historian on customs and manners, wrote the 28th volume of the magazine "Morisada Mankou (守貞漫稿)", describes "hana-awase" as a game using small cards with images of cherry blossoms, plum blossoms, paulownias, chrysanthemums, irises, etc. painted on them, and that sometimes they were used for gambling.
+
+In 1844, in the Owari Domain (now Nagoya City, Aichi Prefecture), a notice was issued to the village which states, "It is not permitted to sell karuta cards used for gambling. Recently, a type of karuta called "Hana-awase" have been sold, and it has been heard that people naturally use them for gambling, which is concerning. From now on, except for the Hyakunin-Isshu uta-garuta that has been around for a while, it is not permitted to sell any karuta cards with the name "Hana-awase" or similar."
+
+There was a record of an arrest in 1852 in the Moriyama Domain (now Koriyama City, Fukushima Prefecture) for gambling using "Hana Mekuri".
 
 # The End of *Sakoku* policy and Birth of the Meiji era
 After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban was eventually lifted in the following years.
@@ -129,7 +138,9 @@ This time, a different type of [western playing cards](/en/trump) featuring Fren
 
 ![trump_1_final.png](/suryongfiles/trump_1_final.png =150x)![trump_2_revision.png](/suryongfiles/trump_2_revision.png =150x)
 
-In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one.
+In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one. They even registered their businesses to prove its legality.
+
+Despite the legality of sale and use of karuta and playing cards in Japan, the act of gambling continues to be banned in the country even to this day, with only a few exceptions, such as government-run lottery, betting on horse-racing or other types of sports racing, and pachinko parlors.
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A3%E3%81%8B%E3%82%8B%E3%81%9F
