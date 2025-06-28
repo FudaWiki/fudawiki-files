@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:43:08.098Z
+date: 2025-06-28T04:43:57.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -84,6 +84,8 @@ In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunat
 
 # Oranda Karuta: Dutch Playing Cards
 Even before the establishment of the Tokugawa Shogunate in 1603, the Dutch had already been trading with Japan since 1609. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
+
+![oranda_1_final.png](/suryongfiles/oranda_1_final.png =150x)![oranda_2_final.png](/suryongfiles/oranda_2_final.png =150x)
 
 Unlike the 48 card decks of the Portuguese, these Dutch cards contained 52 cards per deck, and featured french suits just like [modern western playing cards](/en/trump).
 
