@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:49:51.584Z
+date: 2025-06-28T04:58:35.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -130,7 +130,7 @@ The earliest ancestor of hanafuda can be traced back to the Genroku era (1688-17
 
 Each set contains 400 cards. 100 types of flowers were featured, with each flower appearing in 4 cards. Of those 4 cards, one of them also featured an object or an animal, which is usually a bird (and sometimes the color of the card is different), one of them also featured a tanzaku strip, and the other two featured only the flowers.
 
-These early sets had images that were beautifully painted in great detail and color, especially when compared to today's hanafuda. This could mean that hana-awase karuta was played by the noble-class Japanese. 
+These early sets had images that were beautifully painted individually by hand in great detail and color, making these early hana-awase sets a luxury item played only by the noble-class Japanese. 
 
 Hana-awase karuta continued to be made from the Genroku era up until the early Meiji era (1868-1912). Contents varied from one set to another. Some sets have a different assortment of flowers. Some sets featured different objects and animals, or different assignments for the objects and animals. Some sets did not have the tanzaku strip card. In some sets, not all 100 types were flowers; some of them were different things of nature, such as rocks, mountains, fruits, vegetables, etc.
 
