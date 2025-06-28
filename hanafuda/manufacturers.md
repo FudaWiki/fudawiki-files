@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-06-24T05:09:36.680Z
+date: 2025-06-28T06:33:44.359Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -19,7 +19,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Baba Keieidō (馬場京栄堂)|Kyoto|1948|Closed|-|
 | Beverly (ビバリー)|Ginza, Chuo-ku, Tokyo.|1977|**Active**|Mainly produces jigsaw puzzles, toys and games. It also produced various character hanafuda, as well as "Master Hanafuda".|
 | Dai Nippon Trump (大日本トランプ)|Higashiomi, Shiga Prefecture.|-|Stopped producing hanafuda|Currently active as a western playing card manufacturer.|
-| Ensky (エンスカイ)|Soka-shi, Saitama Prefecture.|1938 as Amada Toy Mfg. (parent company), split off from parent company in 2005 |**Active**|Its parent company originally sold menko cards. Ensky now currently manufactures various toys, games, and merchandise featuring various intellectual properties. It also manufactured and sold various character hanafuda, and also published Kirby Hanafuda, although the cards were manufactured by Nintendo.|
+| Ensky (エンスカイ)|Soka-shi, Saitama Prefecture.|1938 as Amada Toy Mfg. (parent company), split off from parent company in 2005 |**Active**|Its parent company originally sold [menko](/en/menko) cards. Ensky now currently manufactures various toys, games, and merchandise featuring various intellectual properties. It also manufactured and sold various character hanafuda, and also published Kirby Hanafuda, although the cards were manufactured by Nintendo.|
 | Heibon Trump (平凡トランプ)|Tokyo|1967|Closed in 1972|-|
 | Inoue Juntendō (井上順天堂)|Kyoto|1957|Closed|-|
 | Iwata Shoten (岩田商店)|Aichi? Gifu? Shiga?|1844-1848, Registered in 1918|Closed|Sold products by other manufacturers, including Nintendo|
