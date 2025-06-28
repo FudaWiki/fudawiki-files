@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T05:00:49.910Z
+date: 2025-06-28T06:26:27.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -124,6 +124,10 @@ There are several written documents mentioning the specific name of karuta that 
 In 1739, an notice was issued in Osaka, ordering all sellers of ***kingo karuta*** to stop their business, and those selling openly with a signboard should remove the signboard immediately.
 
 In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing ***yomikaruta*** or betting games: 30 days of handcuffs for first offenders, and a fine of 3 *kanmon* (approx. 75,000 yen today) for repeat offenders.
+
+The "Shinban Kaiban Oharaigawa" published in 1789 mentions the name "***Tensho Karuta***".
+
+In "Bakugi Saisho ('a detailed look on gambling')" written by essayist Yamazaki Yoshishige sometime in the Bunsei era (1818-1830) , the following is explained about "Tensho Karuta": " These are 48 karuta cards that are still in use today. The first card, called ***Tensho***, is especially beautifully colored, and has the characters "*Tensho Kin-iri Gokujo Shiire* (天正金入極上仕入, 'Tensho with gold, finest purchase')" written on it, so it is known to the world as ***Tensho Karuta***. The way this karuta was played in the past is different from how it is played today. In the past, it was used to play a game called ***"yomi"***, but later, a game called ***"mekuri"*** was played. Cards were dealt to the people, and the remaining cards were stacked and placed face down. Players would draw them one by one and match them with the cards they had in their hands, and the winner is determined."
 
 # The Origins of Hanafuda
 The earliest ancestor of hanafuda can be traced back to the Genroku era (1688-1704), with a type of *e-awase* karuta called ***Hana-awase Karuta***.
