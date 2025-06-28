@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2022-12-15T10:15:20.462Z
+date: 2025-06-28T05:51:49.939Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:45.745Z
@@ -24,6 +24,10 @@ Unlike [Western playing cards](/en/trump) [トランプ, 'trump'] and Chinese "p
 
 > The kanji 骨牌 could also be read as *koppai*, which is based on the Chinese reading, *gǔpái*, which is actually used to refer to tiles that used to be made out of bone, such as chinese dominoes and Mahjong. This was cleverly used by the Japanese government to increase the scope of the Karuta Tax Law to include Mahjong sold in Japan, by changing the reading from "Karuta" to "Koppai".
 {.is-info}
+
+# History of Karuta
+
+*See [History of Playing Karuta in Japan](/en/mekurifuda/history)*
 
 # Two Major Families of Karuta
 Karuta sets are classified into two major families:
