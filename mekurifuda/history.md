@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T03:54:13.806Z
+date: 2025-06-28T04:03:47.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -12,11 +12,11 @@ dateCreated: 2025-06-25T16:19:42.672Z
 
 The Portuguese first landed in Japan in 1543 on the island of Tanegashima, where they introduced matchlock firearms to Japan. Francis Xavier, a Jesuit missionary and representative of the King of Portugal, arrived in Japan in 1549 to propagate Christianity (Roman Catholicism) to the islands.
 
-In 1571, Nagasaki was opened as a port for trade with other countries. It is believed that during this time, the Portuguese brought playing cards to Japan, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* (南蛮カルタ)", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
+**In 1571, Nagasaki was opened as a port for trade with other countries.** It is believed that during this time, the **Portuguese brought playing cards to Japan**, which had only 48 cards and featured dragon designs on the aces. Nowadays, these Portuguese cards brought to Japan were classified as "*Nanban Karuta* (南蛮カルタ)", after the term used to refer to the foreign traders, *nanban* (南蛮, 'southern barbarians').
 
 # Birth of Tensho Karuta
 
-It was speculated that sometime during the Tensho era (1573-1592), the Japanese started manufacturing their own copies of Portuguese playing cards, which were then simply known as *karuta* (賀留多), after the Portuguese word for 'cards', *carta*. Nowadays, these domestic products are classified as [Tensho Karuta](/en/tensho), after the era in which they started to be made.
+It was speculated that **sometime during the Tensho era (1573-1592)**, the **Japanese started manufacturing their own copies of Portuguese playing cards**, which were then simply known as *karuta* (賀留多), after the Portuguese word for 'cards', *carta*. Nowadays, these domestic products are classified as [Tensho Karuta](/en/tensho), after the era in which they started to be made.
 
 ![tensho_karuta_deck_sample.png](/suryongfiles/tensho_karuta_deck_sample.png)
 
@@ -33,7 +33,7 @@ In 1591, when Tokugawa Ieyasu and his clan transferred to the Kanto region, he i
 
 In **1597**, Chosokabe Motochika, the feudal lord of Tosa Province (present-day Kochi Prefecture), enacted the "**100 Articles of Chosokabe Motochika**" in Urado Castle, which issued a ban on gambling karuta games. This is by far **the earliest document in Japanese literature where the word "karuta" can be read**.
 
-There were many other local bans on gambling with karuta during the following years within the period of Sakoku policy (1603-1868). Despite the bans, however, people continued to play karuta undercover, and karuta became widespread in many provinces in Japan.
+There were many other local bans on gambling with karuta throughout the Edo period (1603-1868), but despite the bans, people continued to play karuta undercover, and karuta became widespread in many provinces in Japan.
 
 Punishments for gambling varied from one domain to another, and tended to be stricter toward the ruling class and more lenient toward commoners. Criminals could be fined anywhere between 2 to 5 *kanmon* (approximately 60,000 to 150,000 yen today) which has to be paid within seven days, or else they could be handcuffed for a number of days, or sentenced to prison, exile, banishment, corporal punishment, or even death.
 
@@ -60,7 +60,7 @@ In 1739, an notice was issued in Osaka, ordering all sellers of *kingo karuta* t
 
 In 1755, sale of gambling karuta was also prohibited in the Kumamoto Domain (now Kumamoto City, Kumamoto Prefecture).
 
-During the Kansei reforms (1787-1793) the ban on karuta was strengthened nationwide.
+**During the Kansei reforms (1787-1793) the ban on karuta was strengthened nationwide.**
 
 Because the enforcement was stricter, many karuta shops around Japan, the majority of which were in Kyoto, were not allowed to sell karuta openly in their stores and disappeared during the Kansei era (1789-1801). However, in some areas, the industry continued covertly, operating under a different trade to avoid any crackdowns.
 
@@ -71,16 +71,16 @@ After Totoyomi Hideyoshi reunified Japan and became its ruler in 1586, he starte
 
 Later that same year, Totoyomi Hideyoshi promulgated the Bateren Edict, aimed at expelling any Christian missionaries in Japan due to their clear violation of Buddhist law, prohibiting the slave trade, and promoting freedom and respect of all religions. While Hideyoshi was successful in taking back Nagasaki from the Jesuits, the edict was not strictly imposed, and missionaries still kept preaching openly around other parts of Japan. 
 
-Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shikoku, where the local feudal lord Chōsokabe Motochika seized the cargo of the ship and escalated the incident to Totoyomi Hideyoshi. Hideyoshi then learned from the pilot of the ship that it was Spain's plot to infiltrate countries with missionaries before an eventual military conquest. He also learned that the Philippines and several countries in the Americas were colonized by the Spanish after converting their inhabitants into Catholicism.
+Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shikoku, where the local feudal lord Chōsokabe Motochika seized the cargo of the ship and escalated the incident to Totoyomi Hideyoshi. Hideyoshi then learned from the pilot of the ship that **it was Spain's plot to infiltrate countries with missionaries before an eventual military conquest.** He also learned that **the Philippines and several countries in the Americas were colonized by the Spanish after converting their inhabitants into Catholicism.**
 
-Hideyoshi was furious upon this revelation, and in 1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
+Hideyoshi was furious upon this revelation, and in **1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion**, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
 
 ## Ban on Christianity and Beginning of *Sakoku* policy
-When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he initially gave priority to trade with Portugal and Spain. While he did not like Christianity, he tolerated it to a certain degree. Meanwhile, Dutch and English traders, in an attempt to take away control of trade with Japan from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English promised that they would never conduct any missionary activities in Japan and would only focus on trade.
+When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he initially gave priority to trade with Portugal and Spain. While he did not like Christianity, he tolerated it to a certain degree. Meanwhile, **Dutch and English traders, in an attempt to take away control of trade with Japan from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions**, using Christianity as their means to control the inhabitants, and that the Dutch and English promised that they would never conduct any missionary activities in Japan and would only focus on trade.
 
-In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
+**In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan** and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, **all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.**
 
-In addition, when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603, he also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries. During this time, the only westerners allowed to trade with Japan were the Dutch, effectively eliminating any colonial and religious influence of Spain and Portugal. 
+In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, he also imposed foreign trade policies (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, the only westerners allowed to trade with Japan were the Dutch, effectively eliminating any colonial and religious influence of Spain and Portugal. 
 
 # Evolution of Tensho Karuta into Mekurifuda
 
@@ -98,7 +98,9 @@ The resulting Karuta decks slightly varied in design and structure depending on 
 
 There are several written documents mentioning the specific name of karuta that was played.
 
+In 1739, an notice was issued in Osaka, ordering all sellers of ***kingo karuta*** to stop their business, and those selling openly with a signboard should remove the signboard immediately.
 
+In 1742, the 8th Shogun, Tokugawa Yoshimune, ordered the compilation of "*Kujikata Osadamegaki* (Book of Rules for Public Officials)" which describes the punishment for playing ***yomikaruta*** or betting games: 30 days of handcuffs for first offenders, and a fine of 3 *kanmon* (approx. 75,000 yen today) for repeat offenders.
 
 # The Origins of Hanafuda
 The earliest ancestor of hanafuda can be traced back to the Genroku era (1688-1704), with a type of *e-awase* karuta called ***Hana-awase Karuta***.
