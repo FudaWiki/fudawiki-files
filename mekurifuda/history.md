@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:41:18.574Z
+date: 2025-06-28T04:43:08.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -92,11 +92,9 @@ While there were many accounts of these decks being brought to Japan and being p
 It is thought that the game E-tori was originally played using these decks.
 
 ## Hayashi Shihei's *Oranda Karuta* (阿蘭陀加留多)
-Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs resembling those made during the late 18th century) [became an exhibited item](https://www.city.sendai.jp/museum/kidscorner/kids-08/kidscorner-06/kids-38.html) at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum.
-
 It is said that **Hayashi Shihei**, a Japanese military scholar and a retainer of the Sendai Domain, has taken advantage of his position to visit Nagasaki three times since 1775. From there, he bought the Dutch card deck, along with a deck of Chinese money-suited paper cards, and gave them as a gift to his friend **Fujitsuka Shikibu**, who was a Shinto priest at Shiogama Shrine.
 
-Currently this is the **only physical evidence of Dutch playing cards coming to Japan before the Meiji period that exists today**. 
+Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs resembling those made during the late 18th century) [became an exhibited item](https://www.city.sendai.jp/museum/kidscorner/kids-08/kidscorner-06/kids-38.html) at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum. Currently this is the **only physical evidence of Dutch playing cards coming to Japan before the Meiji period that exists today**. 
 
 ## Udagawa Yōan's copy of *Oranda Karuta* (和蘭闘牌)
 When **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki called *Dejima*, arrived to Japan for the second time in August 1817, accompanied with his wife and son among other people, he brought with him twelve types of toys, one of which was a deck of playing cards.
@@ -191,3 +189,11 @@ Despite the legality of sale and use of karuta and playing cards in Japan, the a
 - https://japanplayingcardmuseum.com/3-3-3-3-flowercarta-origin-musashino/
 - https://japanplayingcardmuseum.com/3-3-3-4-flowercarta-musasino-namer/
 - https://japanplayingcardmuseum.com/6-2-2-3-kantohanahudacarta-delation-wakapoem/
+- https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97
+- https://japanplayingcardmuseum.com/1-1-3-1-dutchcards-udagawa-youan/
+- https://japanplayingcardmuseum.com/1-1-3-2-dutchcards-hayashi-shihei/
+- https://twitter.com/gelcyz/status/1401543909868642305
+- https://www.city.sendai.jp/museum/kidscorner/kids-08/kidscorner-06/kids-38.html
+- https://en.wikipedia.org/wiki/Hayashi_Shihei
+- https://japanplayingcardmuseum.com/1-1-5-1-american-british-earlymeijiera/
+- https://history.state.gov/milestones/1830-1860/opening-to-japan#:~:text=On%20July%208%2C%201853%2C%20American,Japan%20and%20the%20western%20world.
