@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:58:35.123Z
+date: 2025-06-28T05:00:49.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -132,7 +132,7 @@ Each set contains 400 cards. 100 types of flowers were featured, with each flowe
 
 These early sets had images that were beautifully painted individually by hand in great detail and color, making these early hana-awase sets a luxury item played only by the noble-class Japanese. 
 
-Hana-awase karuta continued to be made from the Genroku era up until the early Meiji era (1868-1912). Contents varied from one set to another. Some sets have a different assortment of flowers. Some sets featured different objects and animals, or different assignments for the objects and animals. Some sets did not have the tanzaku strip card. In some sets, not all 100 types were flowers; some of them were different things of nature, such as rocks, mountains, fruits, vegetables, etc.
+Hana-awase karuta continued to be made from the Genroku era up until the early Meiji era (1868-1912). Contents varied from one set to another. Some sets have a different assortment of flowers. Some sets featured different objects and animals, or different assignments for the objects and animals. Some sets did not have the tanzaku strip card. In some sets, not all 100 types were flowers; some of them were different things of nature, such as rocks, mountains, fruits, vegetables, etc (Takashi Ebashi refers to these sets as *Kacho-fugetsu Awase*).
 
 ## Transformation from Hana-Awase Karuta to Hana-karuta (Hanafuda)
 It is not exactly known when the 400-card sets transformed into the current 48-card set. It was thought that it occurred during the middle of the Edo period, probably during the Kyoho era (1716-1736). 
