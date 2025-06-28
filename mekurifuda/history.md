@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:03:47.465Z
+date: 2025-06-28T04:41:18.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -82,6 +82,29 @@ When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he init
 
 In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, he also imposed foreign trade policies (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, the only westerners allowed to trade with Japan were the Dutch, effectively eliminating any colonial and religious influence of Spain and Portugal. 
 
+# Oranda Karuta: Dutch Playing Cards
+Even before the establishment of the Tokugawa Shogunate in 1603, the Dutch had already been trading with Japan since 1609. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
+
+Unlike the 48 card decks of the Portuguese, these Dutch cards contained 52 cards per deck, and featured french suits just like [modern western playing cards](/en/trump).
+
+While there were many accounts of these decks being brought to Japan and being played there, almost no accounts of Japanese copying this design on a massive scale exist. Very few physical relics of Dutch-made playing cards in Japan from this era exist today.
+
+It is thought that the game E-tori was originally played using these decks.
+
+## Hayashi Shihei's *Oranda Karuta* (阿蘭陀加留多)
+Remains of a Dutch-made playing card deck (Two cards: A Jack of hearts and a 9 of spades, both bearing designs resembling those made during the late 18th century) [became an exhibited item](https://www.city.sendai.jp/museum/kidscorner/kids-08/kidscorner-06/kids-38.html) at the Hayashi Shihei Memorial Exhibition at the Sendai City Museum.
+
+It is said that **Hayashi Shihei**, a Japanese military scholar and a retainer of the Sendai Domain, has taken advantage of his position to visit Nagasaki three times since 1775. From there, he bought the Dutch card deck, along with a deck of Chinese money-suited paper cards, and gave them as a gift to his friend **Fujitsuka Shikibu**, who was a Shinto priest at Shiogama Shrine.
+
+Currently this is the **only physical evidence of Dutch playing cards coming to Japan before the Meiji period that exists today**. 
+
+## Udagawa Yōan's copy of *Oranda Karuta* (和蘭闘牌)
+When **Jan Cock Blomhoff**, the director of a Dutch trading colony in Nagasaki called *Dejima*, arrived to Japan for the second time in August 1817, accompanied with his wife and son among other people, he brought with him twelve types of toys, one of which was a deck of playing cards.
+
+**Udagawa Yōan**, a Japanese scholar of Western studies who had a close relationship with Blomhoff, knew of these "twelve rare toys" and copied some of them. The "Dutch cards" in particular were copied in his room on April 10, 1821. The copy survived a fire in 1834 and was handed down to the descendants of the Udagawa family. A replica of this deck, which was reprinted at [Nintendo](/en/hanafuda/manufacturers/nintendo) by the Rangaku Materials Study Group, can be found at the Tsuyama Archives of Western Learning.
+
+While the copy of the deck exists today , the original Dutch-made cards were nowhere to be seen, probably because they remained in Blomhoff's possession when they were deported away from Japan.
+
 # Evolution of Tensho Karuta into Mekurifuda
 
 Due to the ban on Christianity, local karuta manufacturers became wary of the designs on the cards, which featured foreign imagery that could be mistaken for Christian iconography, especially the suit of cups which looked like the Holy Grail. A person owning a Karuta deck could be accused of being Christian and executed. There was even a humorous account of this in a collection of Japanese stories in 1749, where Shigeemon of Hatchobori, Edo, discovered a piece of karuta in the Buddhist altar of his tenant Rokubei, and caused a big commotion by quickly assuming that Rokubei was a Christian. The story later goes on to describe how Shigeemon was punished for committing a crude offense because he did not know about karuta.
@@ -138,13 +161,20 @@ In 1844, in the Owari Domain (now Nagoya City, Aichi Prefecture), a notice was i
 There was a record of an arrest in 1852 in the Moriyama Domain (now Koriyama City, Fukushima Prefecture) for gambling using "Hana Mekuri".
 
 # The End of *Sakoku* policy and Birth of the Meiji era
-After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban was eventually lifted in the following years.
+After the Meiji restoration in 1868, initially the ban on playing and selling gambling karuta continued. However, in response to Britain's request for the elimination of non-tariff barriers in an attempt to overcome the slump in trade with Japan, the ban on selling karuta was consequently lifted in the following years.
 
-This time, a different type of [western playing cards](/en/trump) featuring French suits were being brought to Japan. As early as 1879, rules for playing games with western playing cards were published, translated into Japanese.
+This time, a different type of [western playing cards](/en/trump) featuring French suits were being brought to Japan by Britain and the United States. As early as 1879, rules for playing games with western playing cards were published, translated into Japanese.
 
 ![trump_1_final.png](/suryongfiles/trump_1_final.png =150x)![trump_2_revision.png](/suryongfiles/trump_2_revision.png =150x)
 
-In 1885, a company named Dandansha began importing and selling western playing cards, which were called "Trump". In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling both western playing cards and Japanese karuta. He even promoted his shop through advertisements in newspapers. Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one. They even registered their businesses to prove its legality.
+In 1885, a company named Dandansha began importing and selling western playing cards. 
+
+The cards were called by several names which did not stick. At first it was called by the strange name Seiyō karuta (“western karuta”), then Toronpu (“trompe”) or Toranpu (“trump”) and Pāsu or Pā (“pas”). 
+
+In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling Japanese karuta and western playing cards. He even promoted his shop through advertisements in newspapers. By the 1890's, Kamigataya used the name *Toranpu* in an instructional book distributed to promote the sale of karuta. The term became commonly used and it stuck, and to this day, western playing cards are always called *Toranpu* in Japan.
+
+
+Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one. They even registered their businesses to prove its legality.
 
 Despite the legality of sale and use of karuta and playing cards in Japan, the act of gambling continues to be banned in the country even to this day, with only a few exceptions, such as government-run lottery, betting on horse-racing or other types of sports racing, and pachinko parlors.
 
