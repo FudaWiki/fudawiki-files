@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2022-12-22T11:36:22.501Z
+date: 2025-06-28T05:37:06.184Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -16,7 +16,7 @@ The deck contains numbers and courts from Ace, 2 to 10, Jack, Queen, and King. *
 
 The term 'trump' first appeared in Japanese in an 1885 book titled *Seiyō Yūgi Karuta Shiyō-hō* (Usage of Western Playing [Karuta](/en/karuta)). The english term originally refered to the strongest card in trick-taking games, and it is not clear how it came to be used to refer to the playing card deck in general.
 
-Contrary to popular belief, these were not the type of cards that were introduced by the Portuguese when they first traveled to Japan. Neither were they the kind of cards that eventually evolved into [Hanafuda](/en/hanafuda). In fact, they didn't even become widely played in Japan until after the end of Sakoku in 1868, during which the opening of trade to Western forces caused these types of cards to be imported to Japan from United States and England.
+Contrary to popular belief, these were not the type of cards that were introduced by the Portuguese when they first traveled to Japan. Neither were they the kind of cards that eventually evolved into [Hanafuda](/en/hanafuda). In fact, they didn't even become widely played in Japan until after the end of the Edo period in 1868, during which the opening of trade to Western forces caused these types of cards to be imported to Japan from United States and England.
 
 > For Japanese games played using these cards, [click here](/en/karuta/games#japanese-games-using-western-playing-cards).
 {.is-info}
