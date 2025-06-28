@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-27T05:33:45.974Z
+date: 2025-06-28T03:47:19.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -76,11 +76,11 @@ Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shi
 Hideyoshi was furious upon this revelation, and in 1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
 
 ## Ban on Christianity and Beginning of *Sakoku* policy
-When Tokugawa Ieyasu assumed power in 1600, he initially gave priority to trade with Portugal and Spain. Meanwhile, Dutch and English traders, in an attempt to take away control of trade from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English would never conduct any missionary activities and would only focus on trade.
+When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he initially gave priority to trade with Portugal and Spain. While he did not like Christianity, he tolerated it to a certain degree. Meanwhile, Dutch and English traders, in an attempt to take away control of trade with Japan from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English would never conduct any missionary activities in Japan and would only focus on trade.
 
 In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
 
-In addition, Tokugawa Ieyasu also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries, effectively eliminating any colonial and religious influence of Spain and Portugal. During this time, the only westerners allowed to trade with Japan were the Dutch.
+In addition, when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603, he also imposed foreign trade policies (now known as *Sakoku* policy) which severely limited trade between Japan and other countries. During this time, the only westerners allowed to trade with Japan were the Dutch, effectively eliminating any colonial and religious influence of Spain and Portugal. 
 
 # Evolution of Tensho Karuta into Mekurifuda
 
@@ -92,7 +92,7 @@ Also, the cards were made to be smaller than the Portuguese cards they were base
 
 Originally, each manufacturer created their own designs of karuta, and copying the design of another karuta manufacturer was prohibited; however, during the bans on public sale of karuta, the practice of copying the designs of other manufacturers occurred very often, since manufacturers could not claim copyright on illegal products such as karuta. It is also possible that when a karuta manufacturer producing a popular design suddenly closed, other karuta manufacturers would copy that design to take over their market.
 
-The resulting Karuta decks slightly varied in design and structure depending on the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
+The resulting Karuta decks slightly varied in design and structure depending on the manufacturer, the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
 
@@ -116,7 +116,7 @@ These early 48-card sets already featured all 12 flowers that appear in modern h
 
 It was theorized that the poems were added to disguise the deck, which was used for gambling, as an uta-garuta deck, which was not used for gambling. During this time, uta-awase sets featured two subsets: one set containing the first half of the poems, and the other containing the second half. Musashino cards containing poems also follow this format: the first half of the poem is on one junk card, and the second half of the poem is on the other. However, there were no historical evidence of "hana-awase karuta", "hana-karuta" or "Musashino" being banned during the Meiwa era.
 
-Toward the end of the Edo period, tastes have changed, and poetry fell out of fashion among the people of Edo, which became Tokyo. This had an effect on the designs of the cards. Poems were removed, and some decorative elements of the cards were changed. 
+Toward the end of the Edo period, tastes have changed, and poetry fell out of fashion among the people of Edo, which became Tokyo. This had an effect on the designs of the cards. Poems were removed, and some decorative elements of the cards were changed. However, derivative designs based on the original *Musashino* design survived elsewhere in the country, and evolved into various regional hanafuda variants known today.
 
 Then in the early days of the Meiji era (1868-1912), the current design of hanafuda, known as *hachihachi-bana*, was created in the red-light district of Yokohama. After the ban on selling karuta was lifted, the game [hachi-hachi](/en/hanafuda/games/hachi-hachi) became popular, and Kyoto manufacturers started using the hachihachi-bana pattern as well, making it the standard design for hanafuda in Japan even to this day.
 
