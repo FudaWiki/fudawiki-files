@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T04:43:57.388Z
+date: 2025-06-28T04:49:51.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -80,16 +80,16 @@ When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he init
 
 **In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan** and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, **all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.**
 
-In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, he also imposed foreign trade policies (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, the only westerners allowed to trade with Japan were the Dutch, effectively eliminating any colonial and religious influence of Spain and Portugal. 
+In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, he also imposed foreign trade policies (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, **the only westerners allowed to trade with Japan were the Dutch**, effectively eliminating any colonial and religious influence of Spain and Portugal. 
 
 # Oranda Karuta: Dutch Playing Cards
-Even before the establishment of the Tokugawa Shogunate in 1603, the Dutch had already been trading with Japan since 1609. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
+Even before the establishment of the Tokugawa Shogunate in 1603, the **Dutch had already been trading with Japan since 1609**. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
 
 ![oranda_1_final.png](/suryongfiles/oranda_1_final.png =150x)![oranda_2_final.png](/suryongfiles/oranda_2_final.png =150x)
 
 Unlike the 48 card decks of the Portuguese, these Dutch cards contained 52 cards per deck, and featured french suits just like [modern western playing cards](/en/trump).
 
-While there were many accounts of these decks being brought to Japan and being played there, almost no accounts of Japanese copying this design on a massive scale exist. Very few physical relics of Dutch-made playing cards in Japan from this era exist today.
+While there were many accounts of these decks being brought to Japan and being played there, almost no accounts of Japanese copying this design exist, especially on a massive scale intended for sale. Very few physical relics of Dutch-made playing cards in Japan from this era exist today.
 
 It is thought that the game E-tori was originally played using these decks.
 
@@ -177,6 +177,11 @@ In 1886, Maeda Kihei established Kamigataya in Tokyo and started openly selling 
 Following these events, all the existing karuta manufacturers that had been producing and selling karuta undercover started selling openly, one by one. They even registered their businesses to prove its legality.
 
 Despite the legality of sale and use of karuta and playing cards in Japan, the act of gambling continues to be banned in the country even to this day, with only a few exceptions, such as government-run lottery, betting on horse-racing or other types of sports racing, and pachinko parlors.
+
+## Local Manufacture of *Trump* in Japan
+In 1902, **Yamauchi Nintendo** (now [Nintendo Co., Ltd.](/en/hanafuda/manufacturers/nintendo)) started sales of western playing cards that were domestically produced in Japan. It is thought that **Toyo Printing**, which is owned by Cigarette manufacturer **Murai Bros. & Co.**, bought second-hand playing card printing machines from Perfection Playing Card Co. and produced the playing cards for Yamauchi Nintendo. However, a different printing company named **Watada Printing Co. Ltd.** mentions in their company history that in 1902, they produced western playing cards for "Nintendo Koppai" using copperplate printing technology.
+
+There was a story that the first Japanese-made western playing cards were sold by Nintendo in an effort to comfort the Russian POW's during the Russo-Japanese War of 1904-1905. However, Takashi Ebashi stated that he had seen playing cards made by Yamauchi Nintendo in the USPCC Museum (which closed sometime before the transfer of USPCC's factory from Cincinnati, Ohio to Erlanger, Kentucky in 2009), which were collected by USPCC in 1903- a year before the Russo-Japanese War even started.
 
 # Bibliography
 - https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A3%E3%81%8B%E3%82%8B%E3%81%9F
