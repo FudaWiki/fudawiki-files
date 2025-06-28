@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T03:47:19.449Z
+date: 2025-06-28T03:52:50.629Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -92,9 +92,13 @@ Also, the cards were made to be smaller than the Portuguese cards they were base
 
 Originally, each manufacturer created their own designs of karuta, and copying the design of another karuta manufacturer was prohibited; however, during the bans on public sale of karuta, the practice of copying the designs of other manufacturers occurred very often, since manufacturers could not claim copyright on illegal products such as karuta. It is also possible that when a karuta manufacturer producing a popular design suddenly closed, other karuta manufacturers would copy that design to take over their market.
 
-The resulting Karuta decks slightly varied in design and structure depending on the manufacturer, the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "Tensho Karuta", "Yomi Karuta", "Mekuri Karuta", "Kingo Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
+The resulting Karuta decks slightly varied in design and structure depending on the manufacturer, the region in Japan it was made, and the kind of game that was popular in those regions. These types of cards were given various names based on the games played with them, such as "[Tensho](/en/hanafuda/games/tensho) Karuta", "[Yomi](/en/mekurifuda/games/yomi) Karuta", "[Mekuri](/en/mekurifuda/games/mekuri) Karuta", "[Kingo](/en/hanafuda/games/kingo) Karuta", "Kabu Karuta", etc., but because of the similarities in their structure and design, they are now all classified as [Mekurifuda](/en/mekurifuda).
 
 ![fukutoku_deck.png](/suryongfiles/fukutoku_deck.png =500x)
+
+There are several written documents mentioning the specific name of karuta that was played.
+
+
 
 # The Origins of Hanafuda
 The earliest ancestor of hanafuda can be traced back to the Genroku era (1688-1704), with a type of *e-awase* karuta called ***Hana-awase Karuta***.
