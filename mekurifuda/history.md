@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T03:52:50.629Z
+date: 2025-06-28T03:54:13.806Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -76,7 +76,7 @@ Then in 1596, The Spanish ship *San Felipe* was shipwrecked on the island of Shi
 Hideyoshi was furious upon this revelation, and in 1597, Hideyoshi paraded and executed the 26 Martyrs of Japan by crucifixion, the first lethal execution of Christians in the country. The persecution of Christians continued until his death in 1598.
 
 ## Ban on Christianity and Beginning of *Sakoku* policy
-When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he initially gave priority to trade with Portugal and Spain. While he did not like Christianity, he tolerated it to a certain degree. Meanwhile, Dutch and English traders, in an attempt to take away control of trade with Japan from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English would never conduct any missionary activities in Japan and would only focus on trade.
+When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he initially gave priority to trade with Portugal and Spain. While he did not like Christianity, he tolerated it to a certain degree. Meanwhile, Dutch and English traders, in an attempt to take away control of trade with Japan from Portugal and Spain, advised Ieyasu that those countries indeed had territorial ambitions, using Christianity as their means to control the inhabitants, and that the Dutch and English promised that they would never conduct any missionary activities in Japan and would only focus on trade.
 
 In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.
 
