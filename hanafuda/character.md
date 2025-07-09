@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2024-04-07T11:57:22.151Z
+date: 2025-07-09T09:23:28.597Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2022-04-01T17:56:01.351Z
@@ -11,6 +11,8 @@ dateCreated: 2022-04-01T17:56:01.351Z
 Character Hanafuda キャラクター花札 [きゃらくたあはなふだ, *kyarakutaa hanafuda*] are a subgenre of [hanafuda patterns](/en/hanafuda/patterns) that generally feature characters and imagery from popular television, manga, or video game franchises. Alternatively, they may follow some other theme, often specific to a particular region or hobby.
 
 As they tend to have additional subjects depicted on every card, the designs of these decks often make it more difficult to differentiate between certain cards and card types. For that reason, along with the generally lower construction quality of these cards, they tend to be more collectable than they are play-worthy. That said, many of them come with rule leaflets, and almost all of them should be usable to play any hanafuda game, provided enough attention to detail and/or familiarity with the specific deck.
+
+While Character Hanafuda flourished since the 2000's during a time when video games have already become popular, they did not first appear during the 2000's. In fact, hanafuda decks bearing images of Japanese and Chinese military figures, as well as decks bearing images of kabuki actors, already appeared sometime during or after the first Sino-Japanese War (1894-1895).
 
 # Character Hanafuda by Publisher
 
