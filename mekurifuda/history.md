@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-06-28T06:26:27.054Z
+date: 2025-07-09T09:12:07.713Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -145,6 +145,9 @@ It was theorized that during this time, 48 cards featuring 12 flowers were taken
 
 Eventually, these reduced hana-awase sets would be manufactured using woodblock printing and stencils, instead of being meticulously painted. Surviving examples of these decks were refered to as "*Musashino*" (武蔵野), which was what was written on the lid of the storage box. They were believed to be made as early as the Meiwa era (1764-1772).
 
+![echigo_cards.jpg](/suryongfiles/echigo_cards.jpg =500x)
+*Echigo-bana, a regional hanafuda variant from Echigo province (now Niigata Prefecture), retained the characteristics of the old Musashino designs.*
+
 These early 48-card sets already featured all 12 flowers that appear in modern hanafuda, as well as all the objects and animals except for the lightning card. Japanese poems are featured on some of the junk cards, giving the set an elegant literary touch.
 
 It was theorized that the poems were added to disguise the deck, which was used for gambling, as an uta-garuta deck, which was not used for gambling. During this time, uta-awase sets featured two subsets: one set containing the first half of the poems, and the other containing the second half. Musashino cards containing poems also follow this format: the first half of the poem is on one junk card, and the second half of the poem is on the other. However, there were no historical evidence of "hana-awase karuta", "hana-karuta" or "Musashino" being banned during the Meiwa era.
@@ -152,6 +155,8 @@ It was theorized that the poems were added to disguise the deck, which was used 
 Toward the end of the Edo period, tastes have changed, and poetry fell out of fashion among the people of Edo, which became Tokyo. This had an effect on the designs of the cards. Poems were removed, and some decorative elements of the cards were changed. However, derivative designs based on the original *Musashino* design survived elsewhere in the country, and evolved into various regional hanafuda variants known today.
 
 Then in the early days of the Meiji era (1868-1912), the current design of hanafuda, known as *hachihachi-bana*, was created in the red-light district of Yokohama. After the ban on selling karuta was lifted, the game [hachi-hachi](/en/hanafuda/games/hachi-hachi) became popular, and Kyoto manufacturers started using the hachihachi-bana pattern as well, making it the standard design for hanafuda in Japan even to this day.
+
+![hanafuda_deck.jpg](/suryongfiles/hanafuda_deck.jpg =500x)
 
 ## Bans on Gambling with Hana-awase / Hanafuda
 The authorities have started to notice hanafuda as being used for gambling as early as 1807, in an imperial decree that was issued in Nishimurayama (now Yamagata Prefecture). It states that "Hana-karuta" was being played during the New Year holidays, and that it should be noted that it was known to be used for gambling, despite being a game also played by children, and it also requests the people to stop playing with Hana-karuta immediately.
