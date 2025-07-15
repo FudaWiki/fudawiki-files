@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-03-17T04:51:52.771Z
+date: 2025-07-15T09:40:35.508Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -173,6 +173,7 @@ Being that Chaff cards are not worth any points, one should refrain from matchin
 Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku. Conversely, every single non-Chaff card in the other 10 suits does participate in one to two yaku.
 # Bibliography
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
+- “Sakura: How to Play Guide” *HanaFooda Hawaii Grinds playing cards*, HanaFooda, https://www.hanafooda.com/how-to-play-sakura/
 - "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* 
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
 - Kupuna Power: Episode 19. *K5*
