@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-07-15T10:45:54.641Z
+date: 2025-07-15T12:56:14.594Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -172,8 +172,9 @@ Being that Chaff cards are not worth any points, one should refrain from matchin
 
 Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku. Conversely, every single non-Chaff card in the other 10 suits does participate in one to two yaku.
 # Bibliography
-- “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
-- “Sakura: How to Play Guide” *HanaFooda Hawaii Grinds playing cards*, HanaFooda, https://www.hanafooda.com/how-to-play-sakura/
-- "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* (images: [front page](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images7/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg), [back page](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images8/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg))
-- “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
+- "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* (Rules pamphlet included with cards sold around the 1960s. Photos: [front side](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images7/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg), [back side](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images8/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg))
+- “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. (written in 2004 according to website change logs)
+- "HANAPUA RULES" *Puna Enterprises, LLC* (Rules pamphlet included with cards sold from 2008 onwards. Photos: [front side](https://web.archive.org/web/20250715112924/https://thumbs.worthpoint.com/zoom/images6/1/1024/07/card-game-hanapua-hawaii-flower-card_1_3a031cccb0aefc8341d5e845e7be4e93.jpg), [back side](https://web.archive.org/web/20250715112924/https://thumbs.worthpoint.com/zoom/images7/1/1024/07/card-game-hanapua-hawaii-flower-card_1_3a031cccb0aefc8341d5e845e7be4e93.jpg))
+- “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. (likely written around 2009, when the company was founded. Version archived in 2011: [link](https://web.archive.org/web/20110508104542/http://hanafudahawaii.com/ginstructions.html))
+- “Sakura: How to Play Guide” *HanaFooda Hawaii Grinds playing cards*, HanaFooda, https://www.hanafooda.com/how-to-play-sakura/ (2025)
 - Kupuna Power: Episode 19. *K5*
