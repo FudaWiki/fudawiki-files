@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2025-07-18T10:08:52.224Z
+date: 2025-07-18T10:11:37.044Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -117,7 +117,7 @@ Also, because of this, every **Wisteria** card in a new Hwatu deck are positione
 |:---|:---:|:---:|:---|
 |1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|***Songhak*** [송학, 'pine crane']<br/>(less common) ***Sol*** [솔, 'pine']|
 |2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|***Maejo*** [매조, 'plum bird']<br/>(less common) ***Maehwa*** [매화, 'plum blossom']|
-|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']<br/>(old-fashioned) ***Sakura*** [사쿠라]|
+|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']<br/>(less common) ***Sakura*** [사쿠라] (mainly used among older players)|
 |4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']<br/>(rare) ***Deungnamu*** [등나무, 'wisteria']|
 |5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']<br/>(rare) ***Butkkot*** [붓꽃, 'iris']|
 |6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']<br/>(rare) ***Mokdan*** [목단, 'peony']|
