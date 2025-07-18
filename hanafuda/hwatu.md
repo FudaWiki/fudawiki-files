@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2025-07-18T10:06:41.853Z
+date: 2025-07-18T10:08:52.224Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -122,7 +122,7 @@ Also, because of this, every **Wisteria** card in a new Hwatu deck are positione
 |5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']<br/>(rare) ***Butkkot*** [붓꽃, 'iris']|
 |6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']<br/>(rare) ***Mokdan*** [목단, 'peony']|
 |7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']<br/>(rare) ***Ssari*** [싸리, 'bush clover']|
-|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'sky mountain']<br/>(rare) ***Gongsan Myeong'wol*** [공산명월, 'empty mountain bright moon']<br/>(rare) ***Eoksae*** [억새, 'purple eulalia' (a type of susuki grass)]|
+|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'empty mountain']<br/>(rare) ***Gongsan Myeong'wol*** [공산명월, 'empty mountain bright moon']<br/>(rare) ***Eoksae*** [억새, 'purple eulalia' (a type of susuki grass)]|
 |9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|***Gukhwa*** [국화, 'chrysanthemum']<br/>(less common) ***Gukjin*** [국진, 'chrysanthemum' + unknown etymology]<br/>(less common) ***Gukjun*** [국준, 'chrysanthemum' + unknown etymology]|
 |10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']<br/>(less common) ***Pung*** [풍, 'maple']|
 |11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']<br/>(rare) ***Ttong*** [똥]|
