@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2023-02-01T01:35:07.168Z
+date: 2025-07-18T10:06:41.853Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -113,20 +113,20 @@ Also, because of this, every **Wisteria** card in a new Hwatu deck are positione
 
 ![hwatu_april_tane.png](/suryongfiles/hwatu_april_tane.png =80x)![hwatu_april_tanzaku.png](/suryongfiles/hwatu_april_tanzaku.png =80x)![hwatu_april_kasu.png](/suryongfiles/hwatu_april_kasu_1.png =80x)![hwatu_april_kasu_2.png](/suryongfiles/hwatu_april_kasu_2.png =80x)
 
-|Number/Month|Icon|English Name|Korean name|
+|Number/Month|Icon|English Name|Korean names|
 |:---|:---:|:---:|:---|
-|1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|***Songhak*** [송학, 'pine crane']|
-|2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|***Maejo*** [매조, 'plum bird']|
-|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']|
-|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']|
-|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']|
-|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']|
-|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']|
-|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'sky mountain']|
-|9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|***Gukjin*** [국진, 'chrysanthemum (?)']|
-|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']|
-|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']|
-|12. December|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)|***Bi*** [비, 'rain']|
+|1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|***Songhak*** [송학, 'pine crane']<br/>(less common) ***Sol*** [솔, 'pine']|
+|2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|***Maejo*** [매조, 'plum bird']<br/>(less common) ***Maehwa*** [매화, 'plum blossom']|
+|3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']<br/>(old-fashioned) ***Sakura*** [사쿠라]|
+|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']<br/>(rare) ***Deungnamu*** [등나무, 'wisteria']|
+|5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']<br/>(rare) ***Butkkot*** [붓꽃, 'iris']|
+|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']<br/>(rare) ***Mokdan*** [목단, 'peony']|
+|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']<br/>(rare) ***Ssari*** [싸리, 'bush clover']|
+|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'sky mountain']<br/>(rare) ***Gongsan Myeong'wol*** [공산명월, 'empty mountain bright moon']<br/>(rare) ***Eoksae*** [억새, 'purple eulalia' (a type of susuki grass)]|
+|9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|***Gukhwa*** [국화, 'chrysanthemum']<br/>(less common) ***Gukjin*** [국진, 'chrysanthemum' + unknown etymology]<br/>(less common) ***Gukjun*** [국준, 'chrysanthemum' + unknown etymology]|
+|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']<br/>(less common) ***Pung*** [풍, 'maple']|
+|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']<br/>(rare) ***Ttong*** [똥]|
+|12. December|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)|***Bi*** [비, 'rain']<br/>(rare) ***Beodeunamu*** [버드나무, 'willow']<br/>(rare) ***Beodeul*** [버들, 'willow'|
 
 ## Jokers
 Aside from the basic 48 cards, there are usually additional Joker cards included in the deck (around 6 or less). They contain different prints and have different names and rules for them, depending on the manufacturer.
