@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2025-07-18T10:11:37.044Z
+date: 2025-07-23T09:56:10.992Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -118,14 +118,14 @@ Also, because of this, every **Wisteria** card in a new Hwatu deck are positione
 |1. January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)|***Songhak*** [송학, 'pine crane']<br/>(less common) ***Sol*** [솔, 'pine']|
 |2. February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)|***Maejo*** [매조, 'plum bird']<br/>(less common) ***Maehwa*** [매화, 'plum blossom']|
 |3. March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)|***Beojkkot*** [벚꽃, 'cherry blossom']<br/>(less common) ***Sakura*** [사쿠라] (mainly used among older players)|
-|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']<br/>(rare) ***Deungnamu*** [등나무, 'wisteria']|
+|4. April|![monthicon_4upsidedown.png](/suryongfiles/monthicon_4upsidedown.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)|***Heukssari*** [흑싸리, '**black bush clover**']<br/>(rare) ***Sa-heukssari*** [사흑싸리, 'four - black bush clover']<br/>(rare) ***Deungnamu*** [등나무, 'wisteria']|
 |5. May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)|***Nancho*** [난초, '**orchid**']<br/>(rare) ***Butkkot*** [붓꽃, 'iris']|
-|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']<br/>(rare) ***Mokdan*** [목단, 'peony']|
-|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']<br/>(rare) ***Ssari*** [싸리, 'bush clover']|
-|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'empty mountain']<br/>(rare) ***Gongsan Myeong'wol*** [공산명월, 'empty mountain bright moon']<br/>(rare) ***Eoksae*** [억새, 'purple eulalia' (a type of susuki grass)]|
+|6. June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)|***Moran*** [모란, 'peony']<br/>(less common) ***Mokdan*** [목단, 'peony']|
+|7. July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)|***Hongssari*** [홍싸리, 'red bush clover']<br/>(rare) ***Chil-ssari*** [칠싸리, 'seven - bush clover']<br/>(rare) ***Ssari*** [싸리, 'bush clover']|
+|8. August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)|***Gongsan*** [공산, 'deserted mountain']<br/>(less common) ***Gongsan-myeong'wol*** [공산명월, 'deserted mountain with bright moon']<br/>(rare) ***Pal-gongsan*** [팔공산, 'eight - deserted mountain]<br/>(rare) ***Eoksae*** [억새, 'purple eulalia' (a type of susuki grass)]|
 |9. September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)|***Gukhwa*** [국화, 'chrysanthemum']<br/>(less common) ***Gukjin*** [국진, 'chrysanthemum' + unknown etymology]<br/>(less common) ***Gukjun*** [국준, 'chrysanthemum' + unknown etymology]|
-|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']<br/>(less common) ***Pung*** [풍, 'maple']|
-|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']<br/>(rare) ***Ttong*** [똥]|
+|10. October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)|***Danpung*** [단풍, 'maple']<br/>(less common) ***Pung*** [풍, 'maple']<br/>(rare) ***Jang*** [장]|
+|11. November|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)|***Odong*** [오동, 'paulownia']<br/>(less common) ***Ttong*** [똥]|
 |12. December|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)|***Bi*** [비, 'rain']<br/>(rare) ***Beodeunamu*** [버드나무, 'willow']<br/>(rare) ***Beodeul*** [버들, 'willow'|
 
 ## Jokers
