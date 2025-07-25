@@ -2,7 +2,7 @@
 title: Judan
 description: Mekuri game from Echizen, Fukui Prefecture
 published: true
-date: 2025-07-25T15:59:09.125Z
+date: 2025-07-25T15:59:58.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T15:56:18.132Z
@@ -15,7 +15,7 @@ It is traditionally played using Komatsu, a [mekurifuda](/en/mekurifuda) deck.
 The game does not use card points, so players focus on obtaining as many yaku as possible to earn points.
 
 # The Cards
-48 cards of a Komatsu deck may be used. Remove the extra “onifuda/bakefuda” from the deck.
+48 cards of a Komatsu deck is used. Remove the extra “onifuda/bakefuda” from the deck.
 
 ![komatsu_deck.png](/suryongfiles/komatsu_deck.png =500x)
 
