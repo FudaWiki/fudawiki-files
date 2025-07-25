@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2025-07-25T15:56:41.395Z
+date: 2025-07-25T15:57:33.130Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -36,7 +36,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 |[Hachi](/en/mekurifuda/games/hachi)|2|Fishing|Mekuri-kei|Japan|-|
 |[Hiyoko](/en/mekurifuda/games/hiyoko), a.k.a. Shosho|2-4|Sequence|Yomi-kei|Japan|Ise|
 |[Isuri](/en/mekurifuda/games/hiyoko#isuri-hiyoko-variant)|2|Sequence|Yomi-kei|Japan|Ise|
-|[Judan](/en/mekurifuda/games/judan)|-|-|-|Japan|Komatsu|
+|[Judan](/en/mekurifuda/games/judan)|2|Fishing|Mekuri-kei|Echizen, Fukui Prefecture, Japan|Komatsu|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yomi-kei|Japan|Komatsu|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3-4|Fishing|Mekuri-kei|Japan|Tensho Karuta or Mekurifuda|
 |[Mekurikko](/en/mekurifuda/games/mekurikko)|-|Fishing|Mekuri-kei|Japan|Kurofuda|
