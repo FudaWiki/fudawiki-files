@@ -2,14 +2,14 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2023-08-12T14:43:08.958Z
+date: 2025-07-25T15:56:41.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
 ---
 
 This is a list of known [mekurifuda](/en/mekurifuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
-
+ 
 Note that some of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
  
 **There are 3 major families to which mekurifuda games tend to belong:**
