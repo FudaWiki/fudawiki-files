@@ -2,7 +2,7 @@
 title: Judan
 description: Mekuri game from Echizen, Fukui Prefecture
 published: true
-date: 2025-07-25T15:59:58.559Z
+date: 2025-07-28T16:28:47.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T15:56:18.132Z
@@ -32,11 +32,10 @@ There is no attested method for choosing the dealer, so you may use whichever me
 ## Dealing the Initial Cards
 7 cards are dealt to each player, and 6 cards face-up to the table. The remainder of the deck is placed face-down to form the draw pile.
 
-> What happens if 4 cards of the same number/court are dealt to the table has not been attested - usually a misdeal is declared (since these 4 cards are impossible to capture); In this case, the cards are thrown in, shuffled again, and re-dealt. Other rules should probably be agreed upon as a house rule.
-{.is-warning}
+> OPTIONAL: You may choose to deal such that there are 10 cards in each players' hand, and 8 cards face-up on the table. This way, all cards of the deck are used during a round.
+{.is-info}
 
-> Whether or not 4 cards of the same number/court in a player’s hand constitutes as a misdeal has not been attested - the specific answer to this question should probably be agreed upon as a house rule.
-{.is-warning}
+If **4 cards of the same number/court** are dealt to the **table**, then a **misdeal** is declared (since these 4 cards are impossible to capture); In this case, the cards are thrown in, shuffled again, and re-dealt.
 
 # Gameplay
 The core gameplay is identical to Hana-awase, except that instead of matching flowers, **numbers/courts** are being matched instead.
@@ -82,4 +81,4 @@ All yaku in this list **STACK**.
 {.is-info}
 
 # Bibliography
-- Yamaguchi Taihiko, "Saigo no Yomikaruta"
+- Yamaguchi Yasuhiko, "Saigo no Yomikaruta"
