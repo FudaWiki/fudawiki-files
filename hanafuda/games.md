@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-07-30T14:43:08.716Z
+date: 2025-07-30T15:11:07.570Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -128,7 +128,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Saburokku](/en/hanafuda/games/saburokku), a.k.a. Bakananatan|3|Fishing|Hana-Awase|Japan|
 |[Sanbyakuken](/en/hanafuda/games/roppyakken/#sanbyakuken)|2-3|Fishing|Hana-Awase|Japan|
 |[San-Jū Tsuppari](/en/hanafuda/games/san-ju-tsuppari)|3|Fishing|Hana-Awase|Japan|
-|[Sanmai Kabu](/en/hanafuda/games/sanmai-kabu)|2+|Banking|Kabu-kei|Aomori Prefecture, Japan|
+|[Sanmai Kabu](/en/hanafuda/games/sanmai-kabu)|2+|Banking|Kabu-kei, Honbiki-kei|Aomori Prefecture, Japan|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Mekuri-kei|Sanuki Province, Japan|
 |[San-Zoku Go-Jū](/en/hanafuda/games/san-zoku-go-ju)|3|Fishing|Hana-Awase|Japan|
 |[San-Zoku Tsuppari](/en/hanafuda/games/san-ju-tsuppari/#san-zoku-tsuppari)|3|Fishing|Hana-Awase|Japan|
