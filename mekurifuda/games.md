@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2025-07-25T15:57:33.130Z
+date: 2025-07-30T14:44:34.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -43,6 +43,7 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 |[Mutsu-ichi](/en/mekurifuda/games/mutsu-ichi)|2+|Banking|Honbiki-kei|Aichi Prefecture, Tōkai region, Japan|Ise|
 |[Oteage](/en/mekurifuda/games/oteage)|-|-|-|Japan|Akahachi|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kingo-kei|Tōkai region, Japan|-|
+|[Sanmai Kabu](/en/hanafuda/games/sanmai-kabu)|2+|Banking|Kabu-kei|Aomori Prefecture, Japan|-|
 |[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri#sanuki-mekuri-using-mekurifuda-deck)|2|Fishing|Mekuri-kei|Japan|-|
 |[Sento](/en/mekurifuda/games/sentowo), a.k.a. Sentochi|-|-|-|Japan|Ise|
 |[Shirinma](/en/mekurifuda/games/shirinma)|12-23|Showdown|unconventional|Japan|Komatsu|
