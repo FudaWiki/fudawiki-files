@@ -2,13 +2,13 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2022-12-12T03:29:16.983Z
+date: 2025-07-30T12:07:14.425Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
 ---
 
-This is a list of known [kabufuda](/en/kabufuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
+This is a list of games known to be played using a [kabufuda](/en/kabufuda) deck, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 Note that many if not all of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
 
