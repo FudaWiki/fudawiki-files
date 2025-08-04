@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2025-08-04T19:04:52.257Z
+date: 2025-08-04T19:30:20.286Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -64,6 +64,9 @@ Media in which Hanafuda is made reference to
 
 * [Toilet-Bound Hanako-kun](https://hanako-kun.fandom.com/wiki/Toilet-bound_Hanako-kun) (地縛少年花子くん, *Jibaku Shōnen Hanako-kun*)
   In chapter 4 of the manga and episode 3 of the anime, Hanako is briefly seen playing a hanafuda game with Mokke spirits.
+
+* [Tomorrow, and Tomorrow, and Tomorrow](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow_(novel)) (2022 novel by Gabrielle Zevin)
+  One of the character's Japanese father, Ryu Watanabe, laments having passed on an early opportunity to invest in Nintendo in the 70s, back when it was "just a playing card company" making hanafuda cards "for aunties and little children." Then Japanese hanafuda and Korean hwatu are shortly discussed (the former being incorrectly described as "plastic cards" instead of the latter).
 
 * [Yu-Gi-Oh!](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
   The [Flower Cardian](https://yugioh.fandom.com/wiki/Flower_Cardian) monsters (from the animated television series [Yu-Gi-Oh! ARC-V](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Arc-V) and the trading card game) are parodies of hanafuda cards.
