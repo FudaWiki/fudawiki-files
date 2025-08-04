@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2025-08-04T18:58:38.028Z
+date: 2025-08-04T19:04:52.257Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -60,7 +60,7 @@ Media in which Hanafuda is made reference to
 
 * [The Surprise of Haruhi Suzumiya (Final Part)](https://haruhi.fandom.com/wiki/The_Surprise_of_Haruhi_Suzumiya_(Final_Part))  (涼宮ハルヒの驚愕(後), *Suzumiya Haruhi no Kyōgaku (Go)*)
   (Volume 11 of the [Haruhi Suzumiya](https://en.wikipedia.org/wiki/Haruhi_Suzumiya) light novel series)
-  The protagonist is invited to a game of [*xiàngqí*](https://en.wikipedia.org/wiki/Xiangqi) (Chinese chess) by a friend, and asks if they can't play hanafuda instead, noting to the reader that he has a decent amount of experience with [Oicho-Kabu](/en/hanafuda/games/oicho-kabu) and [Koi-Koi](/en/hanafuda/games/koi-koi) thanks to playing with his mom's family in the countryside.
+  The protagonist Kyon is invited to a game of [*xiàngqí*](https://en.wikipedia.org/wiki/Xiangqi) (Chinese chess) by his friend Koizumi, and asks if they can't play with hanafuda instead. He notes to the reader that he has experience playing [Oicho-Kabu](/en/hanafuda/games/oicho-kabu) and [Koi-Koi](/en/hanafuda/games/koi-koi) with family members in the countryside.
 
 * [Toilet-Bound Hanako-kun](https://hanako-kun.fandom.com/wiki/Toilet-bound_Hanako-kun) (地縛少年花子くん, *Jibaku Shōnen Hanako-kun*)
   In chapter 4 of the manga and episode 3 of the anime, Hanako is briefly seen playing a hanafuda game with Mokke spirits.
