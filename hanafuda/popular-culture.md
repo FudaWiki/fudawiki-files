@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2025-03-28T03:09:14.556Z
+date: 2025-08-04T18:58:38.028Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -33,7 +33,7 @@ Video games (that are not collections of games) where hanafuda or a hanafuda-der
 # References
 Media in which Hanafuda is made reference to
 
-* [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, きめつ の やいば, *Kimetsu no Yaiba*)  
+* [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, *Kimetsu no Yaiba*)  
   (A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.)
   The protagonist's earrings are elongated hanafuda cards that resemble the [Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) card.
   
@@ -48,12 +48,22 @@ Media in which Hanafuda is made reference to
   The original series introduces a [trio of secondary characters](https://naruto.fandom.com/wiki/Team_10_(Asuma)) named Ino, Shikamaru, and Chōji, whose families are later revealed to have a long history of working in tandem. The given names within each of their families tend to start with "Ino," "Shika," and "Chō," a reference to the hanafuda yaku consisting of the Boar, Deer, and Butterflies. Their families' special combo moves are called [Formation Ino-Shika-Chō](https://naruto.fandom.com/wiki/Formation_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D).
   Their fathers - Shikaku, Inoichi and Chōza - were [the previous generation's Ino-Shika-Chō team](https://naruto.fandom.com/wiki/Ino%E2%80%93Shika%E2%80%93Ch%C5%8D_(15th)). In the Boruto series, their children Inojin, Shikadai and Chōchō are [the next generation of Ino-Shika-Cho](https://naruto.fandom.com/wiki/Team_10_(Moegi)).
   
-* [Nisemonogatari](https://bakemonogatari.fandom.com/wiki/Nisemonogatari)
+* [Nisemonogatari](https://bakemonogatari.fandom.com/wiki/Nisemonogatari) (偽物語)
   (novel and anime in the [Monogatari series](https://en.wikipedia.org/wiki/Monogatari_(series)))
   The game [Koi-Koi](/en/hanafuda/games/koi-koi) is played between Araragi Koyomi and Suruga Kanbaru.  Araragi, or perhaps the author, laments that hanafuda is not more popular.
+
+* [Princess Jellyfish](https://en.wikipedia.org/wiki/Princess_Jellyfish) (海月姫, *Kuragehime*)
+  In chapter 61 (volume 6) of the manga, some of the main characters play a 3-player game of [Koi-Koi](/en/hanafuda/games/koi-koi) to pass the time.
   
 * [Shadow and Bone](https://en.wikipedia.org/wiki/Shadow_and_Bone_(TV_series))
   Hanafuda appear shortly in season 2 episode 2 of the Netflix series. There is a scene where the main character Alina Starkov is invited to play cards with sailors from the Asian-coded nation of [Shu Han](https://thegrishaverse.fandom.com/wiki/Shu_Han), who use colorful redesigned hanafuda cards.
+
+* [The Surprise of Haruhi Suzumiya (Final Part)](https://haruhi.fandom.com/wiki/The_Surprise_of_Haruhi_Suzumiya_(Final_Part))  (涼宮ハルヒの驚愕(後), *Suzumiya Haruhi no Kyōgaku (Go)*)
+  (Volume 11 of the [Haruhi Suzumiya](https://en.wikipedia.org/wiki/Haruhi_Suzumiya) light novel series)
+  The protagonist is invited to a game of [*xiàngqí*](https://en.wikipedia.org/wiki/Xiangqi) (Chinese chess) by a friend, and asks if they can't play hanafuda instead, noting to the reader that he has a decent amount of experience with [Oicho-Kabu](/en/hanafuda/games/oicho-kabu) and [Koi-Koi](/en/hanafuda/games/koi-koi) thanks to playing with his mom's family in the countryside.
+
+* [Toilet-Bound Hanako-kun](https://hanako-kun.fandom.com/wiki/Toilet-bound_Hanako-kun) (地縛少年花子くん, *Jibaku Shōnen Hanako-kun*)
+  In chapter 4 of the manga and episode 3 of the anime, Hanako is briefly seen playing a hanafuda game with Mokke spirits.
 
 * [Yu-Gi-Oh!](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
   The [Flower Cardian](https://yugioh.fandom.com/wiki/Flower_Cardian) monsters (from the animated television series [Yu-Gi-Oh! ARC-V](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Arc-V) and the trading card game) are parodies of hanafuda cards.
