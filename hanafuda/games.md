@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-08-05T15:21:13.364Z
+date: 2025-08-05T15:25:08.113Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -136,13 +136,12 @@ These games, while not as widespread today as those listed above, are variously 
 |[Senbon-Hana](/en/hanafuda/games/senbon-hana)|-|-|-|Japan|
 |[Sendai-Hana](/en/hanafuda/games/sendai-hana)|3|Fishing|Hana-Awase|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju), a.k.a. Maebashi-Hana|3|Fishing|Hana-Awase|Maebashi, Japan|
-|[Sento](/en/hanafuda/games/sentowo), a.k.a. Sentochi|-|-|-|Japan|
 |[Shimafuda](/en/mekurifuda/games/shimafuda), a.k.a. Jifuda or Ichi-Ni-San|3-4|Fishing|Mekuri-kei|Gushikawa, Uruma City, Okinawa, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Shippin (Kingo variant)](/en/kabufuda/games/shippin-kingo)|-|-|Kingo-kei|Japan|
 |[Shoniban](/en/hanafuda/games/shoniban#shoniban-batta-maki-variant)|2+|Showdown|Kabu-kei|Nagoya region, Japan|
 |[Soro](/en/hanafuda/games/soro)|-|Showdown|-|Okinawa, Japan|
-|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri)|3|Fishing|Mekuri-kei|Chūkyō Region, Japan|
+|[Subeta Mekuri](/en/hanafuda/games/subeta-mekuri), a.k.a. Sento or Sentochi|3|Fishing|Mekuri-kei|Chūkyō Region, Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Hana-Awase|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|3 per round, 4-5 per game|Fishing|Hana-Awase|Okuwa Village, Kiso District, Nagano Prefecture,Japan|
 |[Taiyaku](/en/hanafuda/games/taiyaku), a.k.a Echigobana|2-3 per round, max 7 per game|Fishing|Hana-Awase|Echigo Province (Now Niigata Prefecture), Japan|
