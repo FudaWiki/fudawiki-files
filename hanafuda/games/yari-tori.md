@@ -2,13 +2,15 @@
 title: Yari-Tori
 description: A quick, kabu-style gambling game for 2 players.
 published: true
-date: 2022-09-06T13:26:52.444Z
+date: 2025-08-05T15:43:21.227Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-06T13:26:52.444Z
 ---
 
 **Yari-Tori** (遣り取り, lit. 'give and take') is a quick gambling game played with the 6 "dead cards" set aside during the deal in [Tensho](/en/hanafuda/games/tensho). It is a game for **2 players**, and is closely related to the game [Tokotoko](/en/hanafuda/games/tokotoko).
+
+Simply put, this just a game of [Sashikomi](/en/hanafuda/games/sashikomi) played as a side game to Tensho.
 
 # Setup
 First, prepare the deck as you would for Tensho or [Hon-Bana](/en/hanafuda/games/honbana) by removing the 3 Chaff of [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia), leaving a deck of 45 cards. 
