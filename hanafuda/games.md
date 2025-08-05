@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-07-30T15:11:07.570Z
+date: 2025-08-05T15:04:39.080Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -160,7 +160,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yamagata-Bana](/en/hanafuda/games/yamagata-bana)|-|Fishing|Hana-Awase|Yamagata, Japan|
 |[Yokohama-Bana](/en/hanafuda/games/yokohama-bana), not Hachi-hachi|3 per round|Fishing|Hana-Awase|Kanagawa Region, Japan|
 |[Yomi](/en/mekurifuda/games/yomi)|3-4|Sequence|Yomi-kei|Japan|
-|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei, Honbiki-kei|Japan|
+|[Yoshi](/en/hanafuda/games/yoshi)|2-13|Banking|Kabu-kei|Shikoku Island, Japan|
 |[Zeze-Hana](/en/hanafuda/games/zeze-hana)|-|-|-|Japan|
 
 # Modern Games
