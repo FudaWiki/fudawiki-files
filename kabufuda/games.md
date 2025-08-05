@@ -2,14 +2,14 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2025-07-30T12:07:14.425Z
+date: 2025-08-05T15:03:41.562Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
 ---
 
 This is a list of games known to be played using a [kabufuda](/en/kabufuda) deck, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
-
+ 
 Note that many if not all of these games can also be played with [hanafuda](/en/hanafuda); for the correspondence between flowers and numeric value, see the [suit arrangements](/en/hanafuda/suits#arrangement-of-suits).
 
 Also, some of these games were originally played using different one-suited [Mekurifuda](/en/mekurifuda) decks; for the list of patterns originally used, see [Mekurifuda games](/en/mekurifuda/games).
@@ -39,7 +39,7 @@ Also, some of these games were originally played using different one-suited [Mek
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kabu-kei|Tōkai region, Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Banking|Kabu-kei, Honbiki-kei|Japan|
-|[Yoshi](/en/hanafuda/games/yoshi)|-|-|Kabu-kei, Honbiki-kei|Japan|
+|[Yoshi](/en/hanafuda/games/yoshi)|2-13|Banking|Kabu-kei|Shikoku Island, Japan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a kabufuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
