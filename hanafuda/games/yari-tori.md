@@ -1,8 +1,8 @@
 ---
 title: Yari-Tori
-description: A quick, kabu-style gambling game for 2 players.
+description: A game of Sashikomi played as a sidegame in Tensho
 published: true
-date: 2025-08-05T15:43:21.227Z
+date: 2025-08-05T15:45:54.951Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-09-06T13:26:52.444Z
