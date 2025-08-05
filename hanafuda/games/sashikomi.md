@@ -1,8 +1,8 @@
 ---
 title: Sashikomi
-description: A 3-card kabu game for 2 players.
+description: A quick 3-card kabu game for 2 players.
 published: true
-date: 2022-04-10T15:21:30.669Z
+date: 2025-08-05T15:45:26.008Z
 tags: hanafuda games, kabu games, showdown games
 editor: markdown
 dateCreated: 2022-04-01T18:03:00.145Z
