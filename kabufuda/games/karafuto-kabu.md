@@ -2,7 +2,7 @@
 title: Karafuto Kabu
 description: Simplified tehonbiki that was played in Karafuto (now Sakhalin Island)
 published: true
-date: 2025-08-05T16:47:03.876Z
+date: 2025-08-05T16:51:05.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T16:43:39.891Z
@@ -31,11 +31,6 @@ Next, the banker needs **something to hide the chosen card** before the showdown
 In addition, all players also need **something to hide their guess** before the showdown.
 
 A **pen and paper or notepad** to keep track of the chosen months of each passing round may be useful.
-
-## Ground Rules
-Before play begins, the group should agree on the *bet size*, which is the fixed amount of chips a player could bet on one card.
-
-Also, the group should agree on the *maximum number of cards a player can place a bet* during one round. In Tehonbiki, **4 cards** is the maximum, so it is safe to adopt this number as well.
 
 ## Choosing the Dealer
 No method is stipulated in choosing the dealer, since it is only done in casual games.
