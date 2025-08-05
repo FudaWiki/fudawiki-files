@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-08-05T15:25:08.113Z
+date: 2025-08-05T16:07:49.072Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -96,7 +96,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Hana-Awase|Kaga Province, Hokuriku region, Japan|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yomi-kei|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
-|[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|-|-|Kabu-kei|Karafuto Prefecture (Now South Sakhalin)|
+|[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|2+|Banking|Honbiki-kei|Karafuto Prefecture (Now South Sakhalin)|
 |[Kasuto](/en/hanafuda/games/kasutowo)|-|-|-|Japan|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|
 |[Kekoro](/en/hanafuda/games/kekoro)|2|Fishing|Hana-Awase, Mekuri-kei|-|
