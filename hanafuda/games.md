@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-08-05T16:07:49.072Z
+date: 2025-08-30T12:00:56.880Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -62,7 +62,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Hana-Awase|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana)|2-4|Fishing|Hana-Awase|Japan|
 |[Batta Maki](/en/hanafuda/games/shoniban), a.k.a Batta|2+|Banking|Kabu-kei, Honbiki-kei|Kanto Region, Japan|
-|[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|-|Fishing|Mekuri-kei|Japan|
+|[Bitta Mekuri](/en/hanafuda/games/bitta-mekuri)|2-48|Showdown|unconventional|Japan|
 |[Bizen-Bana](/en/hanafuda/games/bizen-bana)|-|Fishing|Hana-Awase|Bizen Province, Japan|
 |[Bō-Ni](/en/hanafuda/games/hiki-kabu#bō-ni-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|
