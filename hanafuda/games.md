@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-08-30T12:00:56.880Z
+date: 2025-08-30T12:39:24.147Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -211,7 +211,12 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
+|[Chotto! (Hey!)](https://www.junior.cards/chotto/)|2-4|Fishing|
 |[Hanaya (Florist)](/newgames/how_to_play_hanaya.pdf)|2|Commerce|
+|[Kanpai (Cheers)](https://www.junior.cards/kanpai/)|2|Draw and Discard|
+|[Momiji (Maple)](https://www.junior.cards/momiji/)|2|Fishing|
+|[Para-Para (Pitter-patter)](https://www.junior.cards/para-para/)|2|Fishing|
+
 ## K.K. Corner and R. Whitbeck
 |Game|Players|Family|
 |:---|:---:|---:|
