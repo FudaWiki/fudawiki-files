@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-08-30T12:39:24.147Z
+date: 2025-09-04T23:17:34.271Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -278,6 +278,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[Oh No!](/70_no_oh_no_v2.pdf)|2-6|Adding|
 |[Untitled 1](/this_is_some_game_that_i_made_up.pdf)|2-5|Matching|
 |[Untitled 2](/untitled_2.pdf)|2|Combat|
+## Taipa Shijō-shugi
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Taipa Shijō-shugi Hanafuda](/newgames/taipa-hanafuda) (Time-efficient Hanafuda)|2|Fishing|
 ## Tezuka Karuta Kobo/Matsui Tengudo
 |Game|Players|Family|
 |:---|:---:|---:|
