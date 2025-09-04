@@ -2,7 +2,7 @@
 title: Taipa Shijō-shugi Hanafuda
 description: A fast-paced beginner-friendly modern take on hanafuda
 published: true
-date: 2025-09-04T23:19:48.867Z
+date: 2025-09-04T23:29:14.353Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2025-09-04T23:13:48.676Z
@@ -29,7 +29,7 @@ The Taipa Hanafuda deck uses only 6 suits (out of the standard 12), and each sui
 |[Maple](/en/hanafuda/suits/maple)|-|![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =30x)![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =30x)![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =30x)![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =30x)|![101.svg](/sheldonchen-cards/101.svg#hanafuda-card =30x)![101.svg](/sheldonchen-cards/101.svg#hanafuda-card =30x)|![102.svg](/sheldonchen-cards/102.svg#hanafuda-card =30x)![102.svg](/sheldonchen-cards/102.svg#hanafuda-card =30x)|
 |[Peony](/en/hanafuda/suits/peony)|-|![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =30x)![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =30x)![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =30x)![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =30x)|![61.svg](/sheldonchen-cards/61.svg#hanafuda-card =30x)![61.svg](/sheldonchen-cards/61.svg#hanafuda-card =30x)|![62.svg](/sheldonchen-cards/62.svg#hanafuda-card =30x)![62.svg](/sheldonchen-cards/62.svg#hanafuda-card =30x)|
 
-The box also comes with koban coin cards, which act as chips. There are 10 silver coins worth 1 point each and 2 gold coins worth 5 points each.
+The box also comes with [koban](https://en.wikipedia.org/wiki/Koban_(coin)) coin cards, which act as chips. There are 10 silver coins worth 1 point each and 2 gold coins worth 5 points each.
 
 # Setup
 * Distribute the koban coins evenly. (Each player starts with five 1-point coins and one 5-point coin, for a total of 10 points.)
