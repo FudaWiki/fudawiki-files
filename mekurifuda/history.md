@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-07-09T09:12:07.713Z
+date: 2025-09-11T11:53:14.837Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -80,10 +80,10 @@ When Tokugawa Ieyasu assumed power following Totoyomi Hideyoshi's death, he init
 
 **In 1602, Tokugawa Ieyasu issued an edict banning Christianity in Japan** and ordering the destruction of Christian churches, claiming that Christians are bringing disorder to Japanese society. This was effective throughout the entire Edo period (1603-1868). All Japanese were required to register at a Buddhist temple, which became an annual requirement. Moreover, **all European missionaries were expelled, and all Christian converts were executed, marking the end of open Christianity in Japan.**
 
-In addition, **when Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, he also imposed foreign trade policies (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, **the only westerners allowed to trade with Japan were the Dutch**, effectively eliminating any colonial and religious influence of Spain and Portugal. 
+In addition, after **Ieyasu became a Shogun and established the Tokugawa Shogunate in 1603**, the Shogunate imposed foreign trade policies around the 1630's (now known as ***Sakoku* policy**) which severely limited trade between Japan and other countries. During this time, **the only westerners allowed to trade with Japan were the Dutch**, effectively eliminating any colonial and religious influence of Spain and Portugal. 
 
 # Oranda Karuta: Dutch Playing Cards
-Even before the establishment of the Tokugawa Shogunate in 1603, the **Dutch had already been trading with Japan since 1609**. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
+Even before the establishment of the Tokugawa Shogunate in 1603, the **Dutch had already been trading with Japan since 1600, with formal trading relations being established in 1609**. Like the Portuguese, the Dutch also brought playing cards made in the Netherlands to Japan. They were straightforwardly called *Oranda Karuta*, which literally means "Holland playing cards".
 
 ![oranda_1_final.png](/suryongfiles/oranda_1_final.png =150x)![oranda_2_final.png](/suryongfiles/oranda_2_final.png =150x)
 
