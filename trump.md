@@ -2,7 +2,7 @@
 title: Trump
 description: Standard Western French-Suited Playing Cards.
 published: true
-date: 2025-06-28T05:37:06.184Z
+date: 2025-09-11T11:56:54.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T09:09:14.375Z
@@ -25,7 +25,7 @@ Contrary to popular belief, these were not the type of cards that were introduce
 ## *Oranda Karuta* ('Dutch playing cards')
 ![oranda_1_final.png](/suryongfiles/oranda_1_final.png =150x)![oranda_2_final.png](/suryongfiles/oranda_2_final.png =150x)
 
-Even before the Meiji era (1868-1912), some French-suited 52-card decks have made their way through Japanese shores. These decks were made in the Netherlands, and were brought to Japan by the Dutch since they started trading with Japan in 1609.
+Even before the Meiji era (1868-1912), some French-suited 52-card decks have made their way through Japanese shores. These decks were made in the Netherlands, and were brought to Japan by the Dutch since they have established formal trading relations with Japan in 1609.
 
 There were many accounts of these decks being brought to Japan and being played there, but very few physical relics exist today. 
 
