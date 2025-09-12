@@ -2,7 +2,7 @@
 title: Karafuto Kabu
 description: Simplified tehonbiki that was played in Karafuto (now Sakhalin Island)
 published: true
-date: 2025-09-12T06:09:16.246Z
+date: 2025-09-12T06:10:35.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-05T16:43:39.891Z
@@ -11,7 +11,7 @@ dateCreated: 2025-08-05T16:43:39.891Z
 **Karafuto Kabu** [樺太カブ], is a simplified version of [Tehonbiki](/en/tehonbiki) using either hanafuda cards or a unique set of cards called "Dai-ichiroku", and was played in Karafuto island (present day Sakhalin Island, Russia) when it was still under Japanese administration. 
 
 ![tehonbiki_daiichiroku_2.png](/tehonbiki_daiichiroku_2.png =350x)
-*Dai-ichiroku.*
+<span style="font-size:small;">*Dai-ichiroku.*</span>
 
 Despite the name, the game does not feature [kabu-style](/en/kabufuda/games/oicho-kabu) game mechanics.
 
