@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2022-12-14T08:31:45.091Z
+date: 2025-09-12T06:00:35.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
@@ -28,11 +28,17 @@ Each player will hold 6 cards, each representing the numbers 1 to 6.
 
 These are called **"hari-fuda"** and they are used to indicate what number(s) the players have bet on, and what are the odds of their bet.
 
-On the other side of the table is the banker, who holds a different set of 6 cards, also representing the numbers 1 to 6. 
+> Traditionally, harifuda are made using blank cards called **shirofuda** (karuta manufacturers used to sell sets with only shirofuda in it), and the gambling house themselves would paint the numbers on them. Eventually, hari-fuda sets with pre-printed numbers were sold.
+{.is-info}
+
+On the other side of the table is the banker, who holds a different set of 6 cards, smaller in size, also representing the numbers 1 to 6. 
 
 ![tehonbiki_kurifuda.png](/suryongfiles/tehonbiki_kurifuda.png =250x)
 
-These are called **"hiki-fuda"** (a.k.a **"kuri-fuda"** or **"mame-ichi-roku"**), and they are used by the banker to indicate the chosen card. Before players bet, the chosen card is hidden under a white handkerchief or piece of cloth, known as **"Kamishita"**.
+These are called **"hiki-fuda"** (a.k.a **"kuri-fuda"**, **"mame-ichi-roku"**, or **"honshouzu"**), and they are used by the banker to indicate the chosen card. Before players bet, the chosen card is hidden under a white handkerchief or piece of cloth, known as **"Kamishita"**.
+
+> It is called "mame-ichiroku" seemingly as reference to both the coins suit (which look like beans) and the small size of the cards. A similar set of cards with a larger size and using the suit of clubs, called "dai-ichiroku", was used in a similar game called [Karafuto-kabu](/en/kabufuda/games/karafuto-kabu).
+{.is-info}
 
 In the middle of the table are 6 large wooden tiles, each with the numbers 1 to 6, placed sequentially in a row. 
 
