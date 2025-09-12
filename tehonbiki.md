@@ -2,7 +2,7 @@
 title: Tehonbiki
 description: The Japanese gambling game.
 published: true
-date: 2025-09-12T06:00:35.013Z
+date: 2025-09-12T06:01:08.515Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T06:11:39.511Z
@@ -28,7 +28,7 @@ Each player will hold 6 cards, each representing the numbers 1 to 6.
 
 These are called **"hari-fuda"** and they are used to indicate what number(s) the players have bet on, and what are the odds of their bet.
 
-> Traditionally, harifuda are made using blank cards called **shirofuda** (karuta manufacturers used to sell sets with only shirofuda in it), and the gambling house themselves would paint the numbers on them. Eventually, hari-fuda sets with pre-printed numbers were sold.
+> Traditionally, harifuda were made using blank cards called **shirofuda** (karuta manufacturers used to sell sets with only shirofuda in it), and the gambling house themselves would paint the numbers on them. Eventually, hari-fuda sets with pre-printed numbers were sold.
 {.is-info}
 
 On the other side of the table is the banker, who holds a different set of 6 cards, smaller in size, also representing the numbers 1 to 6. 
