@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-09-04T23:17:34.271Z
+date: 2025-09-16T12:53:42.259Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -45,6 +45,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Hana-Awase|Yokohama, Japan|
 |[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Hana-Awase|Japan|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Hana-Awase|Disputed|
+|[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Hana-Awase|Korea|
 |[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi or Osaka Mushi|2 per round, max 4 per game|Fishing|Hana-Awase|Osaka, Japan|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Hana-Awase|Japan|
@@ -110,7 +111,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Mae-Dashi](/en/hanafuda/games/mae-dashi)|-|-|-|Japan|
 |[Matsu-Kiri-Bōzu](/en/hanafuda/games/matsu-kiri-bozu)|2|Fishing|Hana-Awase|Japan|
 |[Mekuri](/en/mekurifuda/games/mekuri)|3 per round, max 4 per game|Fishing|Mekuri-kei|Japan|
-|[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Hana-Awase|Korea|
 |[Musashino-Bana](/en/hanafuda/games/musashino-bana)|3-4|Fishing|Hana-Awase|Japan|
 |[Mushi-Kabu](/en/kabufuda/games/kyo-kabu#mushi-kabu-kyo-kabu-variant)|2-10|Banking|Kabu-kei|Osaka, Japan|
 |[Mutsu-Wari](/en/hanafuda/games/shoniban#mutsu-wari-batta-maki-variant)|2+|Showdown/Banking|Kabu-kei, Honbiki-kei|Hamamatsu City, Shizuoka Prefecture, Tōkai region, Japan|
