@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2025-09-17T02:47:00.347Z
+date: 2025-09-17T02:50:39.088Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -125,7 +125,6 @@ There is great variation in the possible sets of yaku in Koi-Koi. Some yaku may 
 The yaku given here are fairly typical of modern forms of the game, as seen in video games and Nintendo's current Koi-Koi rules leaflet. They are sorted into groups. All of the yaku within each group (except *Other Yaku*) are **mutually exclusive**; a player only scores for their most valuable yaku in each group.
 
 For example, if a player has all five Bright cards, they only earn points for *Five Brights*.  They do not earn points for *Four Brights*, *Rainy Four Brights*, or *Three Brights*. This goes for each grouping.
-
 
 ## Bright Yaku
 |Points|Yaku Name|Composition|
