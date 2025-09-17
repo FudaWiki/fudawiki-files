@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2023-08-10T03:43:03.521Z
+date: 2025-09-17T02:29:09.259Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -125,6 +125,9 @@ There is great variation in the possible sets of yaku in Koi-Koi. Some yaku may 
 The yaku given here are fairly typical of modern forms of the game, as seen in video games and Nintendo's current Koi-Koi rules leaflet. They are sorted into groups. All of the yaku within each group (except *Other Yaku*) are **mutually exclusive**; a player only scores for their most valuable yaku in each group.
 
 For example, if a player has all five Bright cards, they only earn points for *Five Brights*.  They do not earn points for *Four Brights*, *Rainy Four Brights*, or *Three Brights*. This goes for each grouping.
+
+<div style="page-break-after: always;"></div>
+
 |Points|Yaku Name|Composition|
 |:---:|:---:|:---|
 |<h2 align="center">Bright Yaku</h2>|||
@@ -148,6 +151,8 @@ For example, if a player has all five Bright cards, they only earn points for *F
 |5|**Moon Viewing Sake**<br>月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
 |4|**Cards of the Month**<br>月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |1|**Chaff**<br>カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of this yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
+
+<div style="page-break-after: always;"></div>
 
 # Variations
 As previously mentioned, Koi-Koi is utterly *abundant* with rules variations; every table has their own way of playing the game. There are most likely far more than we could ever hope to list here, although that isn't going to stop us from trying!
