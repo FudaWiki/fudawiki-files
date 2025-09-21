@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2025-02-26T16:50:52.200Z
+date: 2025-09-21T12:42:24.428Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:19.184Z
@@ -82,7 +82,7 @@ If the current round already has a multiplier that was carried over from some pr
 * Alternatively, some play with a simpler, higher-stakes rule in which **all field multipliers stack**. *So, in the example above, the field multiplier for the round will be a hefty `32`! (4 x 4 x 2)*
 
 # Teyaku
-Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. *These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.*
+Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. *These are hands that are in most cases considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.*
 
 Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its **exceptionally large repertoire of *teyaku***, which is understandably daunting to new players.
 
@@ -90,20 +90,20 @@ However, the basic teyaku fall into two categories, with all the others being si
 
 |Value (in *kan*)|Name|Description|
 |:---:|:---:|:---|
-|<h2 align="left">Group A: Set Teyaku</h2>|||
+|<h2 align="left">Group A: Set Teyaku</h2><br>Yaku for having sets of multiple cards of the same month. Except for Three Pairs, all require at least three of the same month.|||
 |2|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|3|**Standing Triplet**<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
+|3|**Standing Triplet**<br/>立三本 [たてさんぼん, *tatesanbon*]|Any three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), **OR** all three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.<br>**Note:** These triplets get extra compensation for being especially unuseful for capturing valueable cards and making dekiyaku.|
 |6|**Two Triplets**<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
 |7|**Triplet and Standing Triplet**<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
 |8|**Two Standing Triplets**<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
 |4|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
 |6|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
 |7|**Triplet and Two Pairs**<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet (or Standing Triplet) and two pairs.|
-|8|**One-Two-Four**<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
+|8|**One-Two-Four**<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton.<br>**Note**: When revealing this hand to claim points, all seven cards must be shown. |
 |20|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a Triplet (or Standing Triplet).|
 
-|<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
-|2|**Red**<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
+|<h2 align="left">Group B: Chaff Teyaku</h2><br>Yaku for having a lot of Chaff and/or Willow cards.<br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. (In particular, the Willow Ribbon is not considered a Ribbon so it must be shown in case of Red or One Ribbon).|||
+|2|**Red**<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand.<br>**Note**: Despite the name, all Ribbon cards count, including the blue ones.|
 |3|**One Ribbon**<br/>短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
 |3|**One Animal**<br/>十一 [といち, *toichi*]|One Animal card, six Chaff.|
 |4|**One Bright**<br/>光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
@@ -253,7 +253,7 @@ Hachi-Hachi is notably slim on *dekiyaku* compared to other *Hana-Awase* fishing
 
 *Five Brights* and *Four Brights* are mutually exclusive, but outside of that, all points earned from dekiyaku are cumulative.
 
-> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included.<br><br>If a player is one card short of possessing one of these dekiyaku, an opponent deliberately leaves the remaining card on the table to be captured, and the player captures it on their very next turn, then the discarding opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing for it.<br><br>This does not apply if the opponent plays that card during their very last turn (since they have no choice in the matter).
+> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included.<br><br>If a player is one card short of possessing one of these dekiyaku, an opponent plays the remaining card or one of the same month from their hand, and the first player uses that card to finish the dekiyaku on their very next turn, then the discarding opponent pays *double* what they otherwise would for that dekiyaku, while the other opponent does not have to pay anything.<br><br>This does not apply if the opponent plays that card during their very last turn (since they have no choice in the matter).
 {.is-info}
 
 |Value (in *kan*)|Name of Yaku|Composition|
