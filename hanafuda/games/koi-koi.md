@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2025-09-17T02:50:39.088Z
+date: 2025-09-23T01:39:34.083Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -235,6 +235,9 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
+
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=koikoi&tutorial=1211) on [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by Nekonyancer
 
 # Bibliography
 *(todo: pretty this up)*
