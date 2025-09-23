@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-07-15T12:56:14.594Z
+date: 2025-09-23T01:39:30.779Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -171,6 +171,11 @@ That said, a bird in the hand is worth two in the bush; rather than indiscrimina
 Being that Chaff cards are not worth any points, one should refrain from matching two Chaff together, and instead attempt to hold onto any Chaff in the hand until one of its matching point cards appear on the board. But, it is usually better to discard a Chaff or match it with another Chaff than to discard a more valuable card and risk allowing another player to claim it.
 
 Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku. Conversely, every single non-Chaff card in the other 10 suits does participate in one to two yaku.
+
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=sakura&tutorial=1255) at [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by Nekonyancer
+* “[How to Play Hanafuda Hawaii Style](https://www.youtube.com/watch?v=Y5_m6MY4td0),” a YouTube tutorial by Hanafuda Hawaii
+
 # Bibliography
 - "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* (Rules pamphlet included with cards sold around the 1960s. Photos: [front side](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images7/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg), [back side](https://web.archive.org/web/20250715103935/https://thumbs.worthpoint.com/zoom/images8/1/0523/25/1960s-nintendo-hanafuda-paradise_1_322290b9ca680830a9b0c0cb79dc12ec.jpg))
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. (written in 2004 according to website change logs)
