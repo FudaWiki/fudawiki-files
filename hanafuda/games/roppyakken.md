@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2025-05-24T13:58:02.048Z
+date: 2025-09-23T01:39:42.362Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-05T01:31:37.884Z
@@ -248,6 +248,9 @@ Flower Viewing Ribbons|100|200
 Moon Viewing Ribbons|100|200
 Hand Four|300|500
 Hand Four Irises|300|600
+
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=roppyakken&tutorial=961) at [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by Nekonyancer
 
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
