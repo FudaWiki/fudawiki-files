@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2025-09-21T12:42:24.428Z
+date: 2025-09-23T00:19:42.767Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:19.184Z
@@ -12,14 +12,21 @@ dateCreated: 2022-04-01T18:00:19.184Z
 
 It is among the most played hanafuda games in Japan, but enjoys little popularity in the rest of the world, where [Koi-Koi](/en/hanafuda/games/koi-koi) is perhaps the most well-known game. However, A New York Times article and a 'Book of American Hachi-ju-Hachi', both from the 1920s, nevertheless suggest it was a brief fad in the US. Hachi-Hachi play sets are available, generally containing two decks and several implements to aid in scorekeeping. It is likely that today's standard deck pattern, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), takes its name from this game.
 
-*Despite being historically unrelated, the game is vaguely reminiscient of mahjong; both feature intricate scoring systems designed with an eye to gambling, and both are sold in dedicated sets that include tokens and various items for tracking the state of the game. And while both have a reputation for complexity, they are fundamentally quite graspable games one you burrow down beneath the layer cake of scoring mechanisms.*
+> Hachi-Hachi is vaguely reminiscient of **mahjong**, despite being historically unrelated; both feature intricate scoring systems designed with an eye to gambling, and both are sold in dedicated sets that include tokens and various items for tracking the state of the game. And while both have a reputation for complexity, they are fundamentally quite graspable games one you burrow down beneath the layer cake of scoring mechanisms.
+{.is-info}
 
 # Preliminaries
 
 ## Equipment
-**Hachi-Hachi is, naturally, played with a standard hanafuda deck.** Typically, two decks are used—one red-backed, one black-backed—though this is not strictly necessary. While one deck is being played, the other can be shuffled by an inactive player in preparation for the next round. This saves time between rounds, and also means the back colour will alternate with each round, which aids in tracking the current month. *The old 'Hachi-ju-Hachi' book suggests using the red deck for odd-numbered months, and the black deck for even-numbered ones.*
+**Hachi-Hachi is, naturally, played with a standard hanafuda deck.** Typically, two decks are used—one red-backed, one black-backed—though this is not strictly necessary. While one deck is being played, the other can be shuffled by an inactive player in preparation for the next round. This saves time between rounds, and also means the back colour will alternate with each round, which aids in tracking the current month.
 
-A supply of poker chips, go stones, or other tokens—preferably in a large quantity, and with at least two denominations—will also be immensely helpful for keeping track of scores. Scores can be kept on paper if required, but can be trickier.
+> The old 'Hachi-ju-Hachi' book suggests using the red deck for odd-numbered months, and the black deck for even-numbered ones.
+{.is-info}
+
+A supply of poker chips, go stones, or other tokens—preferably in a large quantity, and with at least two denominations—will also be immensely helpful for keeping track of scores. Scores can be kept on paper if required, but this can be trickier.
+
+> Traditionally, go stones are used to keep score, with black stones being 1 point and white stones being 1 *kan* (10 or 12 points, depending on the ruleset).
+{.is-info}
 
 Hachi-Hachi sets will include additional tokens for tracking things such as the field multiplier and *[mizuten](#Mizuten)* markers, along with pots for holding payments. Again, none of these items are strictly necessary.
 
@@ -32,11 +39,11 @@ As with other hanafuda fishing games, Hachi-Hachi only supports having two or th
 * **See [7 players adaptation](#hachi-hachi-for-7-players)**
 
 ## A Note on Scoring
-**Hachi-Hachi, as a popular gambling game, employs a zero-sum scoring system.** Scores are measured in two units, *kan* [貫 - かん, *kan*] and points. Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points. Modern accounts prefer to use a more conventional decimal system, wherein 1 *kan* equals 10 points.
+**Hachi-Hachi, as a popular gambling game, employs a zero-sum scoring system.** Scores are typically measured in two units, *kan* [貫 - かん] and points (called *mon* [文 - もん] in Japanese). Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points. A lot of modern rulesets prefer to use a decimal system, where 1 *kan* equals 10 points, which makes point calculations a bit easier. (In some local variants, 1 *kan* may equal a different amount of points, such as 6, but this is rare.)
 
-Since points are almost always scored in whole numbers of *kan*, the choice of system does not matter for most purposes. However, there are a few circumstances which call for scores to be halved, which can produce values involving half a *kan*. In dozenal, half a *kan* will be 6 points, whereas in decimal it will be 5 points.
+Most payments in the game are in *kan*, except at the end of a round when scoring captured cards, which are scored in points instead (and are typically paid in both kan and points).
 
-Since the value of individual cards is also measured in points, this can likewise affect how card points are converted into scores. For example, a single Bright card is worth 20 points, which is 2 *kan* in the decimal system and 1 *kan* 8 points in the dozenal.
+Because of this, the *kan* to point conversion ratio influences the value of individual cards compared to all other payments to some degree. For example, a single Bright card is worth 20 points, which is 2 *kan* in the decimal system and only 1 *kan* 8 points (or 1 and 2/3 kan) in the dozenal. In effect, individual cards are worth 20% more in the decimal system than in the dozenal system, or conversely, yaku and dropout fees are 20% more expensive in the dozenal system than in the decimal system.
 
 > For uniformity, this page gives all scores in *kan*. Pick whichever system of scoring you prefer, then multiply these *kan* values by either 12 or 10 to obtain their equivalent in points.
 {.is-warning}
