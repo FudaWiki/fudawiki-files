@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2025-09-23T00:19:42.767Z
+date: 2025-09-23T00:34:38.949Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:19.184Z
@@ -402,6 +402,10 @@ The player with the highest total score at any point is known as *ginmi* [吟味
 The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot. (in the event of a tie, this pot can be split.)
 
 Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
+
+# External resources
+
+* [Hachi-Hachi For beginners](https://drive.google.com/file/d/1JFroOGVg9unvIvVkbsgE22nXVJct2Oqb/view) - a beginner-friendly simplified ruleset, where more advanced rules can be introduced over time
 
 # Bibliography
 *(todo: rework this)*
