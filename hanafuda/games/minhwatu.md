@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2025-02-14T11:15:30.797Z
+date: 2025-09-23T01:39:36.775Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:52.656Z
@@ -115,6 +115,9 @@ The following *yaku* are not always used, and should be agreed upon prior to the
  |50|**Boar, Deer, Butterflies**|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
  
   \* *please note that points may only be earned for one of the two "views" yaku.*
+
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=minhwatu&tutorial=965) on [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by GoldenSky8N
 
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 49-52. 
