@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-09-23T02:04:44.843Z
+date: 2025-09-23T14:25:04.753Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -124,17 +124,29 @@ Thus, a complete deck contains 240 points.
 # Yaku
 There are 8 yaku in Sakura, each consisting of 3 cards. Each is worth 50 points, but unlike in most other fishing games, the points are subtracted from each opponent's score rather than being added to one's own.
 
-The yaku in this game also seem to lack specific names; instead, each is typically assigned one of the first 8 syllables of the [Iroha poem](https://en.wikipedia.org/wiki/Iroha). In the Paradise Factors rule leaflet, they are instead simply numbered from 1 to 8, following the same order.
-|Name of Yaku|Composition|Description|
-|:---:|:---:|:---|
-|**I** - い|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|A.k.a **'Drinking'**</br>(Nomi)|
-|**Ro** - ろ|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|The Bright or Animal</br>of each month </br>used in the '**Ha**' yaku.</br>A.k.a **'Spring'**</br>(Omote Sugawara)|
-|**Ha** - は|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|**Three Red</br>Poetry Ribbons.**</br>(Akatan)|
-|**Ni** - に|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|**Three Blue</br>Ribbons.**</br>(Aotan)|
-|**Ho** - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|The Animal</br>of each month</br>used in the '**Ni**' yaku.|
-|**He** - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|Three Red Ribbons</br>without writing,</br>excluding Willow ribbon.</br>A.k.a. '**Grass Ribbons**'</br>(Kusatan)|
-|**To** - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|The Animal</br>of each month</br>used in the '**He**' yaku.|
-|**Chi** - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|A.k.a **'Boar-Deer-Geese'**</br>(Inoshikagan/Ganbo)|
+The yaku in this game lack specific names in most sources; instead, each is typically numbered in some way. In the Paradise Factors rule leaflet, they are simply numbered from 1 to 8, ordered by card type (Brights, then Ribbons, then Animals). Hanafuda Hawaii uses almost the same order but with numbers 5 and 6 reversed, and for more cultural flair, hiragana are used in the old alphabetical order (following the [iroha poem](https://en.wikipedia.org/wiki/Iroha)) instead of numbers.
+
+> In the tables below, these these yaku numberings are marked with PF for Paradise Factors and HH for Hanafuda Hawaii.
+{.is-info}
+
+## Bright Yaku
+(each consisting of 2 Bright cards and 1 Animal card)
+|PF|HH|Composition|Description|
+|:---:|:---:|:---:|:---|
+|#1|**I** - い|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|A.k.a **'Drinking'**</br>(Nomi)|
+|#2|**Ro** - ろ|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|The Bright or Animal</br>of each month </br>used in the '**Three Red</br>Poetry Ribbons**' yaku.</br>A.k.a **'Spring'**</br>(Omote Sugawara)|
+## Ribbon Yaku
+|PF|HH|Composition|Description|
+|:---:|:---:|:---:|:---|
+|#3|**Ha** - は|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|**Three Red</br>Poetry Ribbons.**</br>(Akatan)|
+|#4|**Ni** - に|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|**Three Blue</br>Ribbons.**</br>(Aotan)|
+|#5|**He** - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|Three Red Ribbons</br>without writing,</br>excluding Willow ribbon.</br>A.k.a. '**Grass Ribbons**'</br>(Kusatan)|
+## Animal Yaku
+|PF|HH|Composition|Description|
+|:---:|:---:|:---:|:---|
+|#6|**Ho** - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|The Animal of each</br>month used in the</br>'**Three Blue Ribbons**' yaku.|
+|#7|**To** - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|The Animal of each</br>month used in the</br>'**Grass Ribbons**' yaku.|
+|#8|**Chiri** - 散|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|A.k.a **'Boar-Deer-Geese'**</br>(Inoshikagan/Ganbo)</br>or **'Crop Pests'** (Noarashi)|
 
 # Notable Variations
 ## Victory Scoring
