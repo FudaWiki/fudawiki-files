@@ -2,7 +2,7 @@
 title: Nylon-ppong
 description: A Korean traditional Hwatu rummy game.
 published: true
-date: 2025-06-10T17:13:13.796Z
+date: 2025-09-23T01:39:39.960Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-06T10:05:21.239Z
@@ -130,6 +130,9 @@ Otherwise, the positions are decided as follows:
 4. Rest of the undecided positions are decided by hand score order, with **lower score taking the higher position**. Ties are broken by turn order, starting from the starting player.
 
 For case 2 and 3, payments from last place to 1st place are **doubled**.
+
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=nylonppong&tutorial=1199) at [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by Nekonyancer
 
 # Bibliography
 
