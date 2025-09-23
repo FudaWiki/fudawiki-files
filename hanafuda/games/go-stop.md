@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2025-01-18T22:57:42.076Z
+date: 2025-09-23T01:39:24.916Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -369,9 +369,8 @@ The following different scheme for *go* bonuses is sometimes used:
 - The three 2-Chaff cards - [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) - are a yaku worth 3 points. However, these 3 points do not count towards the *stop minimum*.
 - All four [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)April](/en/hanafuda/suits/wisteria) and all four [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)July](/en/hanafuda/suits/bush-clover) cards together are a yaku, worth 8 points. However, these 8 points do not count towards the *stop minimum*.
 
-
-
-
+# External resources
+* [Interactive tutorial](https://boardgamearena.com/tutorial?game=gostop&tutorial=1537) at [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) by Nekonyancer
 
 # Bibliography
 *(todo: make pretty!)*
