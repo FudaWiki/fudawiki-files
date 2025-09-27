@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2025-06-02T23:10:47.377Z
+date: 2025-09-27T17:15:36.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -137,10 +137,10 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 ### Teyaku in Sequence games
 |Name|Writing|English Name|Composition|Additional Information|
 |:---:|:---:|:---:|:---|:---|
-|Bake Sanmai|化三枚 |Three Pieces Ghosts|Three Bake-fuda.|Used in Poka.|
+|Bake Sanmai|化三枚 |Wild Triplet|Three wild cards (Bake-fuda).|Used in Poka.|
 |Buttakuri|ブッタクリ|Four-of-a-kind|Four cards of the same month.|Used in Poka.|
-|Mitsu Kuttsuki|三双|Three Sticky|Three pairs, a pair being two cards of the same month.|Used in Poka.|
-|Pin Sanmai|ピン三枚|Three Pieces One|Three 1's.|Used in Poka.|
+|Mitsu Kuttsuki|三双|Triple Sticky|Three pairs, a pair being two cards of the same month.|Used in Poka.|
+|Pin Sanmai|ピン三枚|January Triplet|Three January cards.|Used in Poka.|
 
 
 ## List of Dekiyaku Names
