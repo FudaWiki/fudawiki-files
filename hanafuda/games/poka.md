@@ -2,7 +2,7 @@
 title: Poka
 description: A hanafuda game for 2 players. Get rid of all your cards in hand to win the round!
 published: true
-date: 2022-07-13T14:29:04.291Z
+date: 2025-09-27T17:15:30.986Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-13T13:20:34.885Z
@@ -52,7 +52,7 @@ If nobody has a Teyaku, then play continues as normal.
 |Value (in points)|Name|Description|
 |:---:|:---:|:---|
 |2|**January Triplet**<br/>ピン三枚 [ぴんさんまい, *pin-sanmai*]|Three January ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x) cards.|
-|2|**Ghost Triplet**<br/>化三枚 [ばけさんまい, *bake-sanmai*]|Three [Ghost Cards](#ghost_cards).|
+|2|**Wild Triplet**<br/>化三枚 [ばけさんまい, *bake-sanmai*]|Three [wild cards](#wild-cards).|
 |2|**Triple Sticky**<br/>三双 [みつくっつき, *mitsu-kuttsuki*]|Three pairs of cards- a pair being two cards from the same month.|
 |5|**Four of a Kind**<br/>ブッタクリ [ぶったくり, *buttakuri*]|Four cards of the same month. **You win the game immediately.**|
 
@@ -75,7 +75,7 @@ Player discards the **July** card, then the **August** card, then the **Septembe
 
 If a player **doesn't have a card of the next month** in his/her hand, he/she **passes** his/her turn to the other player.
 
-If **both players pass their turn without discarding**, draw one card from the **draw pile** and put it on the discard pile.
+If **both players pass their turn without discarding**, the first player who passed draws one card from the **draw pile** and puts it on the discard pile at the start of his/her turn.
 
 > If the draw pile runs out of cards, form a new deck by taking all cards from the discard pile except for the top card. Shuffle the deck and put it back on the table face down.
 {.is-info}
@@ -86,13 +86,11 @@ If the card on the discard pile is **January** ![Icon for month 1](/hanafuda/ico
 ## Rule Variant (Optional)
 If the card on the discard pile is either January or February, you can discard all cards of the same month as the card on the discard pile at the same time.
 
-# Ghost Cards
-In Poka, there are **3 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered wild cards in the game. 
-
-The 3 Ghost Cards are: The **Crane**, the **January Ribbon**, and the **Bush Warbler**.
+# Wild Cards
+In Poka, there are **3 wild cards** (化札 [ばけふだ, *bake-fuda*], lit. "shapeshifting cards").<!-- Previously erroneously translated as "Ghost Cards". In Japanese "bake" *can* mean ghost, but in this case it means "shapeshift" or "disguise". It's called that because these cards can transform into other types of cards. --> They are: the **Crane**, the **January Ribbon**, and the **Bush Warbler**.
 [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)
 
-A Ghost Card can **follow a card of any month** on the discard pile, and **any card can be discarded on top of it**, including other Ghost Cards.
+A wild card can **follow a card of any month** on the discard pile, and **any card can be discarded on top of it**, including other wild cards.
 
 # Winning the Round
 During each round, the goal is to **get rid of all the cards in your hand before the other player does**. If you do, you earn **1 point**, and become the dealer for the next round.
@@ -106,5 +104,7 @@ If you manage to discard all of your cards on your first turn, it is called **Al
 Some people play with only 3 points instead of 5. The game is then called **San-mon Shobu** (三文勝負 [さんもんしょうぶ], "3-point game")
 
 # Bibliography
-- https://tanoshiikoto.com/hanafuda-poka/
+- Takeshi Ichinose, "[新しい花札入門](https://www5d.biglobe.ne.jp/~sak/kotengame/atarasii_hanafuda_nyuumon_7.pdf#page=104)"
+- Tanoshii Koto!, "[ポカの遊び方とルール](https://web.archive.org/web/20221208193907/https://tanoshiikoto.com/hanafuda-poka/)"
 - 渡部小童 著 - 『花札を初めてやる人の本』（土屋書店） 改訂版(2004):ISBN 4806907189 (オリジナル)(1987):ISBN 480690418X
+- Japanese Wikipedia, "[ポカ (花札)](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%AB_(%E8%8A%B1%E6%9C%AD))"
