@@ -2,7 +2,7 @@
 title: Hiyoko (using Ise deck)
 description: Rules for Hiyoko using Ise deck.
 published: true
-date: 2023-08-12T15:28:34.962Z
+date: 2025-09-27T17:18:36.715Z
 tags: mekurifuda games, yomi-kei
 editor: markdown
 dateCreated: 2022-10-08T16:09:39.359Z
@@ -38,7 +38,7 @@ A variant of this game exists, called [Isuri](#isuri-hiyoko-variant).
 | **12</br>(King)**  | Ao giri</br>(Blue King) | Aka giri</br>(Red King) | Gasu giri</br>(Junk King) | Gasu giri</br>(Junk King) |
 
 # Setup
-The game uses **45 cards** from an **Ise** deck. Remove the **6 of swords, 6 of cups, 6 of coins**, and the extra **bakefuda (ghost card)** from the deck before playing.
+The game uses **45 cards** from an **Ise** deck. Remove the **6 of swords, 6 of cups, 6 of coins**, and the extra **bakefuda (monster/shapeshifting card)** from the deck before playing.
 
 Players determine first who is the dealer. The dealer then shuffles the cards and deals **6** cards to each player, and **1** card on the table face up (this becomes the **discard pile**). The remaining cards are put on the table face down as the **draw pile**.
 
@@ -78,12 +78,12 @@ In all cases, the player who drew a card and put it on the discard pile must dis
 # One-Two Combo
 If the card on the discard pile is a 1 (dragon) card, and you have both a 1 (dragon) card and a 2 card in your hand, instead of just discarding the 2 card, **you can discard the 1 (dragon) card first before discarding the 2 card**.
 
-# Ghost Cards
-In Hiyoko, there are **10 Ghost Cards** (化札 [ばけふだ, *bake-fuda*]). These are considered special cards in the game.
+# Shapeshifting Cards
+In Hiyoko, there are **10 Shapeshifting Cards** (化札 [ばけふだ, *bake-fuda*]).<!-- Previously erroneously translated as "Ghost Cards". In Japanese "bake" *can* mean ghost, but in this case it means "shapeshift" or "disguise". It's called that because these cards can transform into other types of cards. --> These are considered special cards in the game.
 
-The first five cards in the list can be **counted as a Ghost Card either in the hand or on the discard pile**. They can be discarded if the top card on the discard pile is a number before any of the numbers assigned to the Ghost Card. Also, if they are on the discard pile, They can be followed with a card of the next number from any of the numbers assigned to the Ghost Card.
+The first five cards in the list can be **counted as a Shapeshifting Card either in the hand or on the discard pile**. They can be discarded if the top card on the discard pile is a number before any of the numbers assigned to the Shapeshifting Card. Also, if they are on the discard pile, They can be followed with a card of the next number from any of the numbers assigned to the Shapeshifting Card.
 
-|Ghost Card|Description|
+|Shapeshifting Card|Description|
 |:---:|:---:|
 |1 (dragon) of clubs|Counts as 1 to 10.|
 |1 (dragon) of swords|Counts as 1 to 10.|
@@ -91,9 +91,9 @@ The first five cards in the list can be **counted as a Ghost Card either in the 
 |2 of swords|Counts as 2 to 11.|
 |3 of swords|Counts as all numbers.|
 
-The next five cards in the list can **only be counted as a Ghost card when drawn from the draw pile**. If it's in your hand or if it's discarded from a player's hand, only the actual number of the card is counted.
+The next five cards in the list can **only be counted as a Shapeshifting Card when drawn from the draw pile**. If it's in your hand or if it's discarded from a player's hand, only the actual number of the card is counted.
 
-|Ghost Card|Description|
+|Shapeshifting Card|Description|
 |:---:|:---:|
 |6 of clubs|Counts as 1 only.|
 |12 (king) of swords|Counts as 1 only.|
@@ -111,11 +111,11 @@ Isuri [いすり] is a [Hiyoko](/en/mekurifuda/games/hiyoko) variant for 2 playe
 
 The rules are identical to Hiyoko, with some exceptions:
 - **46 cards** from an Ise deck is used. Remove only the 6 of cups and 6 of coins, and the extra "bakefuda" card. **The 6 of swords is treated as the same as the 6 of clubs.**
-- The scoring system in Hiyoko, which is based on players discarding all of their cards, is replaced with a dynamic scoring system: **A player gets paid immediately for each card they discard.** *(See **Card Values**)*
+- The scoring system in Hiyoko, which is based on players discarding all of their cards, is replaced with a dynamic scoring system: **A player gets paid immediately for each card they discard.** *(See **Card Values** below)*
 - If you **pass** the turn, you must place **1 point** on the table as a *Passing Penalty*. The player who gets rid of all the cards in their hand takes all points from the Passing Penalty.
 - **You may discard 3 to 6 cards of the same month at once!** You get paid for each of the cards discarded this way.
 - If you manage to **discard all 6 cards in your hand in one turn** [総出し - そうだし, *sou-dashi*], you get **10 bonus points**.
 
-## Card Points
+## Card Values
 1 (Dragon) = 10 pts.
 Other numbers = same points as the number
