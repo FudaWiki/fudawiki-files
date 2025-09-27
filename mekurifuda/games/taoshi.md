@@ -2,7 +2,7 @@
 title: Taoshi
 description: A mekurifuda game that is a predecessor to Sudaoshi.
 published: true
-date: 2022-10-18T12:46:18.023Z
+date: 2025-09-27T17:22:05.040Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T09:01:27.001Z
@@ -29,8 +29,8 @@ There exists a related game called [Sudaoshi](/en/hanafuda/games/sudaoshi), whic
 
 The deck has a total of **234 points**.
 
-## Bakefuda (Ghost Cards)
-The **1 (Dragon) of Clubs** is considered a "bakefuda", and is called "pinbake" [ピン化け].
+## Bakefuda (Shapeshifting Cards)
+The **1 (Dragon) of Clubs** is considered a "bakefuda" [化札], and is called "pinbake" [ピン化け].
 Likewise, the **12 (King) of Clubs** is also considered "bakefuda", and is called "kiribake" [キリ化け].
 
 Bakefuda are not described in the rules as cards of any suit during the matching phase of the game, however, **they can be used as cards of any suit in three of the Teyaku in this game (Triplet, Four-of-a-kind, and Five-of-a-kind).**
