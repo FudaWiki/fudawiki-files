@@ -2,20 +2,30 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2024-04-06T10:13:52.469Z
+date: 2025-12-01T05:13:34.347Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
 ---
 
-The following rules are based on the rulesheet included in the set of Kwa-Dō, a card game with cards of the same material and construction as western playing cards, but is functionally a hanafuda/hwatu deck hybrid, with patterns drawn by Virginia Seeger. It was published by K.K. Corner and R. Whitbeck in 1959 for the American market.
+Kwa-Dō is a card game published by K.K. Corner and R. Whitbeck in 1959 for the American market, and was distributed by several different companies around the United States, including Renroc Inc. in Washington, and U.S. Games Systems, Inc. in Connecticut.
+
+It includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean hwatu designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*".
+
+The packaging and rules of the game have been revised twice: in 1982 and 1985. It is not known when production of this game was discontinued, but it could be around late 1980's to early 1990's.
+
+# Rules
+The following rules are based on the rulesheet included in the 1985 version of Kwa-Dō.
 
 The game is designed to be played by 2 to 6 players (team-playing is also allowed) , and is largely based on [Sakura](/en/hanafuda/games/sakura), with elements from other hanafuda games mixed in.
 
-# Goal
+>The 1982 release mentions the maximum limit of players as "4 players", however, the 1985 release increases this limit to "6 players".
+{.is-info}
+
+## Goal
 The goal of a player/team is to **reach a total score of 200 points** before another player/team does the same.
 
-# Setup
+## Setup
 First, determine how many are to play and who will make up each team. 
 
 For 2, 3, or 5 players, each participant plays on their own. 
@@ -34,7 +44,7 @@ Next, determine who will be the first dealer. As per the rulebook, **any player 
 > There are no rules described in the rulebook regarding who will become the dealer on the next round. Traditionally, the player with most points becomes the dealer for the next round, but you may try other options, such as having the player to the dealer's left become the dealer of the next round regardless of scores. House rules prevail.
 {.is-warning}
 
-## The Deal
+### The Deal
 Once the cards have been shuffled and cut, the dealer passes out cards face down to each player and face up to the field according to the following chart.
 
 |Number of Players||Cards to each Player|Cards to the Field|
@@ -50,12 +60,12 @@ Any remaining cards form the draw pile for the round and are to be placed in a s
 >It is not stated in the rulebook what to do when four cards of the same suit have been dealt to the table. Usually it is considered a misdeal, although there are also other ways of dealing with this situation. House rules prevail.
 {.is-warning}
 
-# Gameplay
+## Gameplay
 The player to the **left of the dealer** takes the first turn, followed by each player around the table in **clockwise order**.
 
 When playing with teams, each team shares a common score pile. 
 
-## Turns
+### Turns
 > The core gameplay is the same as in [Hana-awase](/en/hanafuda/games/hana-awase), albeit not fully explained in the rulebook.
 {.is-warning}
 
@@ -74,14 +84,14 @@ On their turn, a player chooses a single card from their hand and plays it to th
 
 
 
-# End of Round
+## End of Round
 The round ends once **all players run out of cards**. Afterward, the round is scored.
 
 
-# Scoring
+## Scoring
 The rulebook provides two methods of dealing with scoring in the game. Players must agree first which method to be used before playing the game.
 
-## Method A: Floor Method
+### Method A: Floor Method
 Each player/team counts the total value of their captured cards.
 
 Then, the **"floor"** (par score) is subtracted to each player's/team's captured card score to obtain the **net scores**.
@@ -107,7 +117,7 @@ A player/team with a **positive** net score **adds** that score to their total s
 > **Negative** net scores are treated as **0 points**.
 {.is-warning}
 
-## Method B: Easy Method
+### Method B: Easy Method
 Each player/team counts the total value of their captured cards.
 
 Then each player/team adds that score to their total score in the game. 
@@ -115,14 +125,14 @@ Then each player/team adds that score to their total score in the game.
 `Player's/Team's Total Score = Sum of captured card scores obtained in every round`
 
 
-# End of Game
+## End of Game
 Regardless of which method of scoring is used, the goal remains the same: to obtain a total score of **200 points**. 
 
 As soon as a player/team reaches that goal, the game ends, and that player/team is declared the **winner** of the game.
 
 If the goal is not reached, play continues for another round.
 
-# Card Values
+## Card Values
 Card values are standard except that **Chaff are worth 0 points**.
 
 |Card Type|Value|Number in Deck|
@@ -137,11 +147,11 @@ The total card points in the deck is 240 points.
 > The rulebook suggests that a player must declare "Kwa-Dō!" everytime they capture a Bright card, just for fun.
 {.is-info}
 
-# Yaku (Optional Rule)
+## Yaku (Optional Rule)
 > Decide first which of these Yaku are to be used before playing the game.
 {.is-warning}
 
-## Months Yaku
+### Months Yaku
 Worth **30 points** each.
 
 |Month|Composition|
@@ -150,15 +160,15 @@ Worth **30 points** each.
 |October|Four Maple ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x) cards:</br>[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Maple Chaff 2](/sheldonchen-cards/103.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)|
 |December*|Four Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards:</br>[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)</br> * The cards follow the Korean month sequence.|
 
-## Five Brights
+### Five Brights
 Worth **100 points**.
 [![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 
-## "Dragon" Bonus
+### "Dragon" Bonus
 The Phoenix card (Bright of Paulownia ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)), which is erroneously refered to as a "Dragon" in the rulebook, is worth **25 bonus points** in addition to its card value of 20 points.
 [![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 
-## Sakura Yaku
+### Sakura Yaku
 The 8 Yaku from the game Sakura were also borrowed for this game.
 
 Each Sakura Yaku is worth **30 points**.
@@ -177,7 +187,7 @@ Each Sakura Yaku is worth **30 points**.
 |Set #7|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |Set #8|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 
-# Gaji (Optional Rule)
+## Gaji (Optional Rule)
 
 The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. 
 
