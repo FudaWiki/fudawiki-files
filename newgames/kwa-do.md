@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2025-12-01T11:32:06.872Z
+date: 2025-12-01T11:38:41.228Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -12,7 +12,7 @@ Kwa-Dō is a card game published by K.K. Corner and R. Whitbeck in 1959 for the 
 
 A set of Kwa-Dō includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean hwatu designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*". Besides the cards themselves, it also includes a rulebook and a scoring pad, making the set resemble a contemporary Deluxe UNO set.
 
-The packaging and rules of the game have been revised twice: in 1982 and 1985. It is not known when production of this game was discontinued, but it could be around late 1980's to early 1990's.
+The rules of the game have been revised twice: in 1982 and 1985. It is not known when production of this game was discontinued, but judging from the fact that some sets using the 1985 rulebook have a barcode while others don't, it could be around late 1980's to early 1990's.
 
 # Rules
 The following rules are based on the rulesheet included in the 1985 version of Kwa-Dō.
