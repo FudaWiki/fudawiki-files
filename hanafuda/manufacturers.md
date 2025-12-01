@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-12-01T03:52:53.949Z
+date: 2025-12-01T05:20:14.269Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -73,8 +73,9 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 # Other Hanafuda Manufacturers Around the World
 |Manufacturer|Location|Founded in|Status|Notes|
 |:---|:---:|:---:|:---:|:---:|
-| Hanafuda Hawaii|Hawaii, USA|2009|Active|Founded by Helen Nakano in order to promote and preserve the local game of [Sakura](/en/hanafuda/games/sakura) in the island of Hawaii. Currently sells Hanafuda Hawaii Style, Hanafuda Na Pua Hawaii, and Hanafuda Pilina. Their cards are manufactured in China.|
+| Hanafuda Hawaii|Hawaii, USA|2009|Active|Founded by Helen Nakano in order to promote and preserve the local game of [Sakura](/en/hanafuda/games/sakura) in the island of Hawaii. Currently sells **Hanafuda Hawaii Style**, **Hanafuda Na Pua Hawaii**, and **Hanafuda Pilina**. Their cards are manufactured in China.|
 | IndianWolf Studios|Pittsburgh, Pennsylvania, USA.|Kickstarter account created in 2012|Active|A two-person studio founded by Jason and Antonietta Johnson that published several card games and board games. They also published several hanafuda-related products using western cardstock and plastic. Their cards are manufactured in China.|
+| K.K. Corner and R. Whitbeck|USA|Produced hanafuda in 1959|Closed|Published Kwa-Dō, hanafuda/hwatu hybrid cards using western cardstock. Their cards are manufactured in the USA.|
 | United States Playing Card Company|Cincinnati, Ohio, USA.<br>Erlanger, Kentucky, USA.|1867 (as Russell & Morgan Printing Company)|Active|While not mainly a producer of hanafuda, it also produced custom-made playing cards with hanafuda designs that can be played as a hanafuda deck, such as Ryan Sartor's **Junior Hanafuda** and PCD's **Bicycle Sparrow Hanafuda**.|
 
 # Bibliography
