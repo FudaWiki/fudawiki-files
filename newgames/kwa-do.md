@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2025-12-01T05:17:49.685Z
+date: 2025-12-01T11:32:06.872Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -20,7 +20,7 @@ The following rules are based on the rulesheet included in the 1985 version of K
 The game is designed to be played by 2 to 6 players (team-playing is also allowed) , and is largely based on [Sakura](/en/hanafuda/games/sakura), with elements from other hanafuda games mixed in.
 
 >The 1982 release mentions the maximum limit of players as "4 players", however, the 1985 release increases this limit to "6 players".
-{.is-info}
+{.is-warning}
 
 ## Goal
 The goal of a player/team is to **reach a total score of 200 points** before another player/team does the same.
@@ -169,11 +169,11 @@ The Phoenix card (Bright of Paulownia ![Icon for month 12](/hanafuda/icons/month
 [![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 
 ### Sakura Yaku
-The 8 Yaku from the game Sakura were also borrowed for this game.
+The 8 Yaku from the game Sakura were also borrowed for this game. The 1985 rulebook refers to them as "Yakus", and curiously, they are the only group of yaku in the game to be refered to as "yaku", while other yaku are only refered to as "bonus awards".
 
 Each Sakura Yaku is worth **30 points**.
 
->The rulebook states that you must declare to be "building a yaku", then place any one of the three cards in a yaku into the field, before trying to capture all cards in the yaku during that round.
+>The 1985 rulebook states that you must first declare to be "building a yaku", before placing any one of the three cards of a yaku into the field, and then you must try to capture all remaining cards of the yaku within that round to avail its points.
 {.is-info}
 
 |Sakura Yaku|Composition|
@@ -186,6 +186,9 @@ Each Sakura Yaku is worth **30 points**.
 |Set #6|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |Set #7|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |Set #8|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+
+>The 1982 rulebook only counts **Set #8 (Red poetry ribbons)** as a "bonus award", and didn't include the rest of the Sakura yaku, nor did it include the "declaring the yaku" rule.
+{.is-warning}
 
 ## Gaji (Optional Rule)
 
