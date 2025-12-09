@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-09-16T12:53:42.259Z
+date: 2025-12-09T16:12:43.878Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -176,8 +176,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Hanafuda Hawaii LLC
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Hanafuda Solitaire 1](http://www.hanafudahawaii.com/gsolitaire1.html)|1-4|Patience|
-|[Hanafuda Solitaire 2](http://www.hanafudahawaii.com/gsolitaire2.html)|1|Patience|
+|[Hanafuda Solitaire Novice Version](https://hanafudahawaii.com/2024/03/06/hanafuda-solitaire-novice-version/)|1-4|Patience|
+|[Hanafuda Solitaire Advanced Version](https://hanafudahawaii.com/2025/02/27/hanafuda-solitaire-advanced-version/)|1|Patience|
 ## IndianWolf Studios
 **The rules for these games can be found on the book, [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).**
 |Game|Players|Family|
@@ -226,7 +226,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|Draw and Discard|
 |[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
-|[Korobeiniki](https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
+|[Korobeiniki](https://web.archive.org/web/20220125093314/https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
 |[Rubicon](https://cdn.discordapp.com/attachments/550677413193842688/913101251300958248/RUBICON.pdf)|2|Showdown|
 ## Nintendo
 |Game|Players|Family|
