@@ -2,7 +2,7 @@
 title: Taipa Shijō-shugi Hanafuda
 description: A fast-paced beginner-friendly modern take on hanafuda
 published: true
-date: 2025-09-04T23:29:14.353Z
+date: 2025-12-09T15:10:29.789Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2025-09-04T23:13:48.676Z
@@ -18,7 +18,7 @@ The game is for 2 players, and it uses a custom deck with only 6 suits and many 
 The individual cards are essentially the same as in traditional hanafuda, so the game is technically possible to play with standard hanafuda cards, but you would need to combine 4 standard decks and remove 75% of the cards.
 {.is-warning}
 
-The Taipa Hanafuda deck uses only 6 suits (out of the standard 12), and each suit has 8 cards (instead of 4), for a total of 48 cards. In most cases, each suit has 4 (identical) bright or animal cards, 2 ribbon cards, and 2 chaff cards. The susuki grass suit has 4 chaffs instead of 2 and no ribbons.
+The Taipa Hanafuda deck uses only 6 suits (out of the standard 12), and each suit has 8 cards (instead of 4), for a total of 48 cards. In most cases, each suit has 4 (identical) bright or animal cards, 2 ribbon cards, and 2 chaff cards. The only exception is the susuki grass suit, which has 4 chaffs instead of 2, and has no ribbons.
 
 |Suit|Brights|Animals|Ribbons|Chaff|
 |:---:|:---:|:---:|:---:|:---:|
@@ -95,7 +95,7 @@ The player with the lowest score gets to play first in the next round.
 The game ends after three rounds, or when a player lost all of their points. The player with the greater score is declared the winner.
 
 # Yaku
-This game has only four simple yaku, one for each card rank. Each yaku requires 3 cards. The same yaku can be earned multiple times, and each individual card can only be used in one yaku.
+This game has only four simple yaku, one for each card rank. Each yaku requires 3 cards. Unlike most hanafuda games, the same yaku can be earned multiple times, and each individual card can only be used in one yaku.
 
 |Points|Yaku Name|Composition|
 |:---:|:---:|:---|
