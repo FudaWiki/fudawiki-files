@@ -2,7 +2,7 @@
 title: History of Playing Karuta in Japan
 description: 
 published: true
-date: 2025-09-11T11:53:14.837Z
+date: 2025-12-11T02:59:16.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-25T16:19:42.672Z
@@ -109,7 +109,7 @@ While the copy of the deck exists today , the original Dutch-made cards were now
 
 Due to the ban on Christianity, local karuta manufacturers became wary of the designs on the cards, which featured foreign imagery that could be mistaken for Christian iconography, especially the suit of cups which looked like the Holy Grail. A person owning a Karuta deck could be accused of being Christian and executed. There was even a humorous account of this in a collection of Japanese stories in 1749, where Shigeemon of Hatchobori, Edo, discovered a piece of karuta in the Buddhist altar of his tenant Rokubei, and caused a big commotion by quickly assuming that Rokubei was a Christian. The story later goes on to describe how Shigeemon was punished for committing a crude offense because he did not know about karuta.
 
-Considering this, it seemed that karuta manufacturers tried to cover up or change the iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes, likely as a way to reduce costs.
+Considering this, it appears that karuta manufacturers tried to cover up or change the foreign iconography of Karuta. They replaced the courts with illustrations suitable for Japanese tastes, such as images of Samurai or Buddhist iconography. Eventually, manufacturers heavily overprinted them with color or transformed them into abstract shapes or strokes which sometimes resemble Japanese characters, likely as a way to speed up the production process and to reduce costs.
 
 Also, the cards were made to be smaller than the Portuguese cards they were based on. It was initially thought to be an adaptation of a practice by the Portuguese traders to cut the edges of the cards and wrap them with backing paper once the edges started to wear out, but this is untrue. Nowadays, it is thought that the change in dimensions was likely to make the cards easier to be carried and held by Japanese hands.
 
@@ -143,7 +143,7 @@ It is not exactly known when the 400-card sets transformed into the current 48-c
 
 It was theorized that during this time, 48 cards featuring 12 flowers were taken from the 400-card set, and were used to play a gambling game. Because these 48 cards wore faster than the other cards and they had to be replaced, manufacturers eventually sold sets featuring only those 48 cards.
 
-Eventually, these reduced hana-awase sets would be manufactured using woodblock printing and stencils, instead of being meticulously painted. Surviving examples of these decks were refered to as "*Musashino*" (武蔵野), which was what was written on the lid of the storage box. They were believed to be made as early as the Meiwa era (1764-1772).
+Eventually, to speed up production and reduce costs, these reduced hana-awase sets would be manufactured using woodblock printing and stencils, instead of being meticulously painted stroke after stroke. Surviving examples of these decks were refered to as "*Musashino*" (武蔵野), which was what was written on the lid of the storage box. They were believed to be made as early as the Meiwa era (1764-1772).
 
 ![echigo_cards.jpg](/suryongfiles/echigo_cards.jpg =500x)
 *Echigo-bana, a regional hanafuda variant from Echigo province (now Niigata Prefecture), retained the characteristics of the old Musashino designs.*
