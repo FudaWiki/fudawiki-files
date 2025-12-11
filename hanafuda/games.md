@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-12-11T04:49:19.973Z
+date: 2025-12-11T06:07:01.027Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -47,7 +47,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Hana-Awase|Disputed|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Fishing|Hana-Awase|Korea|
 |[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi or Osaka Mushi|2 per round, max 4 per game|Fishing|Hana-Awase|Osaka, Japan|
-|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
+|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kabu, Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Hana-Awase|Japan|
 |[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana, Kumamoto-Bana, or Hawaiian Hanafuda|2-7|Fishing|Hana-Awase|Higo Province, Japan|
 |[Seotda](/en/hanafuda/games/seotda), a.k.a. Sutda|2-20|Showdown|Kabu-kei|Korea|
@@ -93,7 +93,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant), a.k.a. Yusuri|2|Sequence|Yomi-kei|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Hana-Awase|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Hana-Awase|Japan|
-|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei|Shikoku Island, Japan|
+|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei, Honbiki-kei|Shikoku Island, Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Kabu-kei|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Hana-Awase|Kaga Province, Hokuriku region, Japan|
