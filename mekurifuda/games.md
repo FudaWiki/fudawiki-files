@@ -2,7 +2,7 @@
 title: Mekurifuda Games
 description: Games played with Mekurifuda.
 published: true
-date: 2025-07-30T14:44:34.844Z
+date: 2025-12-11T04:42:36.855Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T08:50:52.670Z
@@ -65,6 +65,7 @@ For games using [Kabufuda](/en/kabufuda), see [Kabufuda Games](/en/kabufuda/game
 |[Bō-Pin](/en/hanafuda/games/hiki-kabu#bō-pin-hiki-kabu-variant)|2-10|Banking|Kabu-kei|Japan|Kinseizan|
 |[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Kabu-kei|Japan|Komaru|
 |[Dosari](/en/kabufuda/games/dosari)|-|-|Kingo-kei|Japan|Kinseizan|
+|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei|Shikoku Island, Japan|Mefuda|
 |[Kabu](/en/kabufuda/games/kabu-irinokichi)|-|-|Kabu-kei|Japan|Irinokichi|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|Daini|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|Tensho Karuta or Kingofuda|
