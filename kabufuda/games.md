@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2025-12-11T04:48:30.551Z
+date: 2025-12-11T06:07:27.778Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -31,7 +31,7 @@ Also, some of these games were originally played using different one-suited [Mek
 |[Dare](/en/kabufuda/games/dare)|2-4|Showdown|Kabu-kei|Japan|
 |[Gomai-Kabu](/en/kabufuda/games/gomai-kabu)|2-8|Showdown|Kabu-kei|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu), a.k.a Uchi-Kabu|2-10|Showdown|Kabu-kei|Japan|
-|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei|Shikoku Island, Japan|
+|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei, Honbiki-kei|Shikoku Island, Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|2-10|Showdown|Kabu-kei|Japan|
 |[Kazu-Tori](/en/kabufuda/games/kazu-tori)|4|Slapjack|unconventional|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown/Banking|Kingo-kei|-|
