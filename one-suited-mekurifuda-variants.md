@@ -2,7 +2,7 @@
 title: One-suited Mekurifuda Variants
 description: Japanese one-suited cards.
 published: true
-date: 2025-12-11T04:45:50.458Z
+date: 2025-12-11T06:11:04.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T07:09:54.192Z
@@ -48,8 +48,8 @@ The name refers to the round shape of the pips on the cards,which resemble beans
 ## Kinds of Mame Karuta
 |Pattern|Played in|Number of Cards|Description|
 |:---:|:---:|:---:|:---|
-|**Daini** or **Daiji**|Chikuzen, Chikugo, Buzen, Bungo, Hizen, Higo, Hyuga, Osumi, Shimonoseki (Japan)</br> Some areas in Korea|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.|
-|**Komaru**|Tanba, Tango, Tajima, Bizen, Bicchu, Bingo, Aki, Suo, Nagato, Awa, Awaji, Iyo, Sanuki, Hokkaido|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.|
+|**Daini** or **Daiji**|Chikuzen, Chikugo, Buzen, Bungo, Hizen, Higo, Hyuga, Osumi, Shimonoseki (Japan)</br> Some areas in Korea|40|Consists of 4 copies of the numbers 1 to 10, with a special overprinted 1, 3, and 4. Also, the normal 3 and 4 are overprinted.</br>Comes with a red Onifuda. May or may not come with a Jizofuda.</br>Despite there being a special 3 card, it has not been attested to be treated as a special card in games.</br>A mekuri-style game called [Kujuroku](/en/kabufuda/games/kujuroku) is played using this pattern.|
+|**Komaru**|Tanba, Tango, Tajima, Bizen, Bicchu, Bingo, Aki, Suo, Nagato, Awa, Awaji, Iyo, Sanuki, Hokkaido|40|Structurally identical to Daini but the pips are smaller and the lines are thinner. Also the normal 4 are not overprinted.</br>Comes with a red Onifuda.</br> Kabu-style games such as [Dare](/en/kabufuda/games/dare) and [Yoshi](/en/hanafuda/games/yoshi) were know to have been played using this pattern.|
 |**Mefuda**|Sanuki, Awa, Shikoku|40|Structurally similar to Daini but the pips look like black teardrops, the 10 are horses, and the 4, 7, 8, and 9 cards have what appears to be eyebrows or eyelashes. Special 1 and 2, 3, and 4 cards have "金銭不用" (money not used) printed on them.</br>Comes with a red Onifuda.</br> Jumai Kabu is known to have been played using this pattern.|
 |**Kudoyama** or **Kudosan**|Hoki, Izumo, Inaba, Oki|48|Design-wise looks like an elaborately drawn Mekurifuda deck. Consists of 12 numbers; each number has 1 special overprinted card and 3 normal plain cards.</br>The woodblock prints of 12 (King) and 10 (Maid) are switched.</br>Comes with a red Onifuda.|
 |**Mame-ichiroku**|Kinki, Chugoku, Wakayama, Fukui|48|The name may be a double entendre; the cards are small, and the pips look like beans.</br>8 copies of the numbers 1 to 6.</br>Used by the banker in the betting game [Tehonbiki](/en/tehonbiki).|
