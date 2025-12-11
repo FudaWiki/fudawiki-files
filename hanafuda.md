@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2025-05-05T01:36:48.158Z
+date: 2025-12-11T02:36:17.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -22,6 +22,9 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 >For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
 {.is-info}
+
+# History
+*See [The Origins of Hanafuda](/en/mekurifuda/history#the-origins-of-hanafuda)*
 
 # Composition
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
