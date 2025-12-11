@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2025-12-09T16:12:43.878Z
+date: 2025-12-11T04:49:19.973Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -93,6 +93,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Isuri](/en/hanafuda/games/hiyoko#isuri-hiyoko-variant), a.k.a. Yusuri|2|Sequence|Yomi-kei|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Hana-Awase|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Hana-Awase|Japan|
+|[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei|Shikoku Island, Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Kabu-kei|Japan|
 |[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Hana-Awase|Kaga Province, Hokuriku region, Japan|
