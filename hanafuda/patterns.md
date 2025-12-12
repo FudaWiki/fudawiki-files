@@ -2,7 +2,7 @@
 title: Hanafuda variations
 description: A list of known traditional card patterns and other variations in the forms of hanafuda.
 published: true
-date: 2025-05-11T10:41:40.885Z
+date: 2025-12-12T04:03:46.499Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:25.676Z
@@ -29,9 +29,10 @@ For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 |**Bizen-Bana** |Bizen, Okayama prefecture| Described as an Echigo-bana variant without poems. Not much else is known about this deck.|
 |**Echigo-Bana** |Naoetsu, Shinyu, Nagaoka, Takada, Echigo Province, Uozu, Toyama, Etchu Province, Bizen| Copies the design of old woodblock-printed hanafuda. Characterized by very crude-looking drawings, striped skies, poems on the Chaff, and a liberal use of silver and gold paint on all cards. Rainman is depicted as braving a storm inside a closed umbrella, while the Chaff of Willow does not depict a Thunderstorm. Includes a red Onifuda card.|
 |**Echigo-Ko-Bana** |-| An Echigo-bana variant but usually with no Waka poems. The Rainman has a raccoon tail, the yellow paulownia chaff has a small ribbon on it, and it sometimes comes with multiple Onifuda cards. The cards are smaller than Echigo-bana.|
-|**Hanamaki-Bana** |Hanamaki and possibly other nearby areas| The design resembles Echigo-bana, but with slightly better looking but still crude woodblock design, and an even cruder coloring method which seems as if there was no attempt to align them with the drawings.|
+|**Hanamaki-Bana** |Hanamaki and possibly other nearby areas| The design resembles Echigo-bana, but with slightly better looking but still crude woodblock design (which may or may not have any poems included), and an even cruder coloring method which seems as if there was no attempt to align them with the drawings. This may be because they were originally quickly hand-colored without stencils, and this appearance was carried over when they switched to using newer printing methods.|
 |**Hokkai-Bana** |Hokkaido east and west coasts, and other nearby areas| Speculated to have the same or similar coloring pattern as Echigo-bana, but with a better designed woodblock pattern.|
 |**Kanto-Bana** |Kanto region?| Not much is known about this deck, except that it did not have any poems on them.
+|**Kyo-Bana**|Hanamaki| Shortening of "Kyoto Hanafuda". It is an exact copy of the standard Hachi-Hachi-Bana that was manufactured by Tsurutaya in Hanamaki.|
 |[**Mushi-Bana**](/en/hanafuda/patterns/mushibana) |Kyoto, Osaka, Kobe, Fushimi, Yamashiro, and other nearby areas| Same design as Hachi-hachi-Bana except all Peony and Bush Clover cards are removed, making it technically a format variant. Designed specifically for playing the game of [Mushi](/en/hanafuda/games/mushi). Usually the style of drawings on the cards are in the style of Hachi-hachi-bana made in Osaka, to acknowledge the origin of the game.|
 |**Nanbu-Bana** |-|-|
 |**Yamagata-Bana** or **Oshu-Bana**|Uzen, Ugo, Iwaki, Iwashiro, Oshu Region| A variant of Hanamaki-Bana, where the yellow Paulownia junk has a small Ribbon on it, and in each month, there is one Chaff that is marked with a black dot, to differentiate it from the other chaff. Most likely used as a way to play mekuri-type or yomi-type games that required four distinct suits.|
