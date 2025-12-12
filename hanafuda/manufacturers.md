@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2025-12-12T03:28:54.953Z
+date: 2025-12-12T03:59:01.485Z
 tags: lists, hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T17:56:17.897Z
@@ -52,7 +52,7 @@ This is a list of known producers of hanafuda in Japan, arranged alphabetically,
 | Tamura Shōgundō (田村将軍堂)|Arrow Wheel</br>Circle "田" (マル田 *maruta*)|Kyoto|1921|**Active**|Produces hanafuda and other [karuta](/en/karuta/) using traditional manual methods including coating the paper with a starch finish, and backpasting each card by hand.|
 | Tanaka Gyokusuidō (田中玉水堂)|Roof "田" (ヤマ田 *yamata*)|Kyoto|1864, Registered in 1893|Closed in the 1960's|After closing, its brands were taken over by Iwata Honten.|
 | Tsuchida Tenguya (土田天狗屋)|Lying-down Tengu Mask with Three Cards "天狗屋"</br>Square "天" (カク天 *kakuten*)|Osaka|1885 (as Osaka Tenguya)|Closed|Operated as a maker of wooden combs.|
-| Tsurutaya (鶴田屋)|Roof "十" (ヤマ十 *yamato*)</br>Crane with open wings in a circle|Yamagata|late 19th century (as "Tsuruta Hisataro" (鶴田久太郎))</br>1925 (as "Tsurutaya")|Closed in 1977|Founded By Hisataro Tsuruda. Manufactured "Teasobi Karuta" brand of hanafuda for Nintendo. Became "Dai Nippon Kankodo" (大日本観光堂) in 1946.|
+| Tsurutaya (鶴田屋)|Roof "十" (ヤマ十 *yamato*)</br>Crane with open wings in a circle|Yamagata|late 19th century (as "Tsuruta Hisataro" (鶴田久太郎))</br>1925 (as "Tsurutaya")|Closed in 1977|Founded By Hisataro Tsuruda. Produced 3 patterns: Hanamaki-bana, Kurofuda, and ["Kyo-fuda"](/en/hanafuda/patterns/hachihachibana). Manufactured "Teasobi Karuta" brand of hanafuda for Nintendo. Became "Dai Nippon Kankodo" (大日本観光堂) in 1946.|
 | Universal (ユニバーサル, *yunibāsaru*)|Drawstring purse "金"|Osaka|1914 (as Inoue Nanyo Bracelet Factory), 1918 (as Universal)|Closed in 1972|Initially started as a bracelet factory, but eventually ventured into the western playing card business. They also manufactured hanafuda and hana-trump. Nowadays their most widely known hanafuda product is *Gomuhana*, a cut-out hanafuda deck that was coated with rubber to make the cards slippery.|
 | Usui Nichigetsudo (臼井日月堂)|Angle "ヱ" (カネヱ *kanee*)|Kyoto|1853|Closed in 1927|Operated as a manufacturer of perfume oils and face powder. Manufactured "Kyoto Karuta" in 1920.|
 | Yamashiro Shōten (山城商店), a.k.a. Yamayo (山與)|Circle "十" (マル十 *maruto*)|Kyoto|Registered in 1901|Closed in 1989|"Yamayo" is a shortening of the founder's name, Yamashiro Yosaburō (山城與三郎).|
