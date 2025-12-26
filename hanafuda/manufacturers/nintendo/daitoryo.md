@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2023-07-12T05:43:10.884Z
+date: 2025-12-26T13:34:13.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -20,7 +20,7 @@ It features a portrait of Napoleon Bonaparte, who, despite the brand name, was a
 
 It is believed to be the first brand of hanafuda cards Nintendo has ever released since its founding in 1889, though there is no concrete evidence supporting it. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1901, one year after [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), and [Masamune](/en/hanafuda/manufacturers/nintendo/masamune) were registered.
 
-![daitoryo_0_1900's_sketch_japan_patent.png](/suryong_nintendo_labels/daitoryo/daitoryo_0_1900's_sketch_japan_patent.png =100x)
+![diatoryo_hq.png](/suryong_nintendo_labels/2025_new_ones/diatoryo_hq.png =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1901.*</span>
 
 In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, followed by [Taisho](/en/hanafuda/manufacturers/nintendo/taisho).
