@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2025-09-23T14:25:04.753Z
+date: 2026-01-01T12:02:55.991Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:46.511Z
@@ -124,9 +124,11 @@ Thus, a complete deck contains 240 points.
 # Yaku
 There are 8 yaku in Sakura, each consisting of 3 cards. Each is worth 50 points, but unlike in most other fishing games, the points are subtracted from each opponent's score rather than being added to one's own.
 
-The yaku in this game lack specific names in most sources; instead, each is typically numbered in some way. In the Paradise Factors rule leaflet, they are simply numbered from 1 to 8, ordered by card type (Brights, then Ribbons, then Animals). Hanafuda Hawaii uses almost the same order but with numbers 5 and 6 reversed, and for more cultural flair, hiragana are used in the old alphabetical order (following the [iroha poem](https://en.wikipedia.org/wiki/Iroha)) instead of numbers.
+The yaku in this game lack specific names in most sources; instead, each is typically numbered in some way.
 
-> In the tables below, these these yaku numberings are marked with PF for Paradise Factors and HH for Hanafuda Hawaii.
+> In the Paradise Factors rule leaflet, the yaku are simply numbered from 1 to 8, ordered by card type (Brights, then Ribbons, then Animals). Hanafuda Hawaii uses almost the same order but with numbers 5 and 6 reversed, and for more cultural flair, hiragana are used in the old alphabetical order (following the [iroha poem](https://en.wikipedia.org/wiki/Iroha)) instead of numbers.
+> 
+> In the tables below, these yaku numberings are marked with PF for Paradise Factors and HH for Hanafuda Hawaii.
 {.is-info}
 
 ## Bright Yaku
