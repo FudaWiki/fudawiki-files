@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2022-04-10T15:17:58.155Z
+date: 2026-01-04T17:45:37.353Z
 tags: faqs
 editor: markdown
 dateCreated: 2022-04-01T17:55:56.200Z
@@ -22,11 +22,11 @@ This sample card may take the form of any card in the deck, but is very frequent
 
 In a pinch, a sample card in good condition may be used to fill the role of a joker or the white card for gameplay.
 ## 3. What do the Poetry Ribbons say?
-For the standard [Hachihachibana](/en/hanafuda/patterns/hachihachibana) design, the [Pine](/en/hanafuda/suits/pine#poetry-ribbon) and [Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon) cards read あかよろし *akayoroshi*, which is one of many names for the yaku consisting of the three Poetry Ribbons that appears in many games. The literal translation is akin to "Red is good."
+For the standard [Hachihachibana](/en/hanafuda/patterns/hachihachibana) design, the [Pine](/en/hanafuda/suits/pine#poetry-ribbon) and [Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon) cards read あかよろし *akayoroshi*, which is one of many names for the yaku consisting of the three Poetry Ribbons that appears in many games. It means something like "truly wonderful." (The phrase is in a historical dialect, and it is sometimes misinterpreted to mean "red is good" by speakers of modern Japanese.)
 
 The [Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon) card instead reads みよしの *miyoshino* in reference to Mt. Yoshino in the Nara Prefecture of Japan, which is renowned for its bountiful Cherry Blossom trees.
 
-Those are the standard inscriptions, but note that some (especially older) decks use different text for the Ribbons, and may not limit the text to the three cards we now think of as Poetry Ribbons! For instance, decks made by [Tanaka Gyokusuido](/en/hanafuda/manufacturers/tanaka-gyokusuido) feature an alternate name for the aforementioned yaku on each of the three relevant cards - うらす *urasu*, よろし *yoroshi*, and すがわら *sugawara* - and also have the name of another yaku, たてさん *tatesan* on the [Wisteria](/en/hanafuda/suits/wisteria), [Iris](/en/hanafuda/suits/iris), and [Bush Clover](/en/hanafuda/suits/bush-clover) Ribbons. 
+Those are the standard inscriptions, but note that some (especially older) decks use different text for the Ribbons, and may not limit the text to the three cards we now think of as Poetry Ribbons! For instance, decks made by [Tanaka Gyokusuido](/en/hanafuda/manufacturers/tanaka-gyokusuido) feature an alternate name for the aforementioned yaku on each of the three relevant cards - うらす *urasu*, よろし *yoroshi*, and すがわら *sugawara* - and also have the name of another yaku, たてさん *tatesan* on the [Wisteria](/en/hanafuda/suits/wisteria), [Iris](/en/hanafuda/suits/iris), and [Bush Clover](/en/hanafuda/suits/bush-clover) Ribbons. Early decks (from around the late 19th century) also often featured the name of the month on each ribbon card.
 ## 4. What are the differences between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s different hanafuda decks?
 Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same [artwork](/en/hanafuda/patterns/hachihachibana), but may be considered to be of differing levels of "quality". The biggest differences seem to be in the weight of the cards and the protective coating that is applied to them. From "best" to "worst", these are:
 1. President [大統領 - だいとうりょう, *daitōryō*] which features a portrait of Napoleon on the box and wrapper.
