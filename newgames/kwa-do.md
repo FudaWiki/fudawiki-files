@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2025-12-01T11:38:41.228Z
+date: 2026-01-10T17:16:21.773Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -202,4 +202,4 @@ Once captured, keep the Gaji with the card it was paired with. At the end of the
 
 
 # Bibliography
-- "Kwa-Dō Rules", K.K. Corner and R. Whitbeck
+- "Kwa-Dō Rules", K.K. Corner and R. Whitbeck ([link](https://boardgamegeek.com/filepage/5083/kwa-do-mainpdf) - [archive](https://web.archive.org/web/20260110171338/https://s3.amazonaws.com/geekdo-files.com/bgg5083?response-content-disposition=inline%3B%20filename%3D%22kwa-do_main.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T171333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=bf5eeabcc5bd1e2fac0d0fc06b8df18f3ca7f2d6cfcbf70598a765fd34600fd7))
