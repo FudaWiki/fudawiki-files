@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2026-01-11T17:37:20.354Z
+date: 2026-01-11T22:12:38.505Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -10,9 +10,12 @@ dateCreated: 2022-08-15T16:33:25.892Z
 
 Kwa-Dō is a card game published by K.K. Corner and R. Whitbeck in 1959 for the American market, and was distributed by several different companies around the United States, including Renroc Inc. in Washington, and U.S. Games Systems, Inc. in Connecticut.
 
-A set of Kwa-Dō includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean hwatu designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*" (from the Korean term 광 [光, *gwang*]). Besides the cards themselves, it also includes a rulebook and a scoring pad, making the set resemble a contemporary Deluxe UNO set.
+A set of Kwa-Dō includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean [hwatu](/en/hanafuda/hwatu) designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*", from the Korean term 광 [光, *gwang*]. Besides the cards themselves, it also includes a rulebook and a scoring pad, making the set resemble a contemporary Deluxe UNO set.
 
 The rules of the game have been revised twice: in 1982 and 1985. It is not known when production of this game was discontinued, but judging from the fact that some sets using the 1985 rulebook have a barcode while others don't, it could be around late 1980's to early 1990's.
+
+> Historical note: while Kwa-Dō has a lot of Korean influences, its first edition predates the spread of plastic hwatu in Korea, as well as the invention of the popular game of [Go-Stop](/en/hanafuda/games/go-stop).
+{.is-info}
 
 # Rules
 The following rules are based on the rulesheet included in the 1985 version of Kwa-Dō.
@@ -23,7 +26,7 @@ The game is designed to be played by 2 to 6 players (team-playing is also allowe
 {.is-warning}
 
 ## Goal
-The goal of a player/team is to **reach a total score of 200 points** before another player/team does the same.
+The goal of a player/team is to **reach the target score** before another player/team does the same.
 
 ## Setup
 First, determine how many are to play and who will make up each team. 
@@ -37,7 +40,7 @@ A 6-player game can likewise be played individually, in 3 teams of 2 players, or
 >If playing in teams of 2, teammates should sit opposite one another; for teams of 3, players from each team should be seated alternately around the table.
 {.is-info}
 
-It is also a good idea to establish house rules and come to an agreement over [scoring](/#scoring) and whether to include the Yaku rules and Gaji rules in the game.
+It is also a good idea to establish house rules and come to an agreement over [scoring](/en/newgames/kwa-do#scoring) and whether to include the Yaku rules and Gaji rules in the game.
 
 Next, determine who will be the first dealer. As per the rulebook, **any player may deal first**, but any method of determining the dealer may be used.
 
@@ -57,7 +60,9 @@ Once the cards have been shuffled and cut, the dealer passes out cards face down
 
 Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
 
->It is not stated in the rulebook what to do when four cards of the same suit have been dealt to the table. Usually it is considered a misdeal, although there are also other ways of dealing with this situation. House rules prevail.
+>It is not stated in the rulebook what to do when four cards of the same suit have been dealt to the table. Strict adherance to the Kwa-Dō rulebook would result in these cards remaining uncaptured on the playing area for the rest of the round.
+> 
+> In traditional hanafuda games this is commonly considered a misdeal, though there are also other ways of dealing with this situation. House rules prevail.
 {.is-warning}
 
 ## Gameplay
@@ -66,20 +71,22 @@ The player to the **left of the dealer** takes the first turn, followed by each 
 When playing with teams, each team shares a common score pile. 
 
 ### Turns
-> The core gameplay is the same as in [Hana-awase](/en/hanafuda/games/hana-awase) and [Min-Hwatu](/en/hanafuda/games/minhwatu), albeit not fully explained in the rulebook.
-{.is-warning}
 
 On their turn, a player chooses a single card from their hand and plays it to the field.
 
 * **If it belongs to the same month as another card on the field**, then the cards *match*, and this matching pair is moved to the player's score pile.
-* **If the played card matches with two cards on the field**, then the player may choose which one they capture.
-* **If the played card matches *three* cards on the field**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the field are often collected into a small pile at the beginning of the round.
+* **If the played card matches with multiple cards on the field**, then the player may choose which one they capture.
 * **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
 
-> If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+> In traditional hanafuda games, when 3 cards of the same suit are dealt to the playing area at the start of a round, all three cards can be captured with the fourth card of the same suit.
+> 
+> The Kwa-Dō rulebook does not mention this at all, so according to a strict reading of its rules, in this case the player would have to choose one of the three card to capture, leaving two cards unable to be captured by any player for the rest of the round. Some players may prefer to prevent this by introducing a house rule in line with traditional games.
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type to make detecting yaku easier.<br><br>However, since Chaff are worth 0 points and play no role in any yaku, it is practical to **discard all Chaff cards** to a common junk pile. 
+> If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is traditionally no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table. (The Kwa-Dō rulebook is ambiguous about this case.)
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type to make detecting yaku easier.
 {.is-warning}
 
 
@@ -126,7 +133,7 @@ Then each player/team adds that score to their total score in the game.
 
 
 ## End of Game
-Regardless of which method of scoring is used, the goal remains the same: to obtain a total score of **200 points**. 
+When scoring method A is used, the goal is to obtain a total score of **200 points**. With scoring method B, players decide among themselves how many points are required to win.
 
 As soon as a player/team reaches that goal, the game ends, and that player/team is declared the **winner** of the game.
 
@@ -149,6 +156,8 @@ The total card points in the deck is 240 points.
 
 ## Yaku (Optional Rule)
 > Decide first which of these Yaku are to be used before playing the game.
+> 
+> The rulebook suggests that beginners start with no yaku, then add month yaku, followed by ribbon yaku (#6-8 of Sakura yaku).
 {.is-warning}
 
 ### Month Yaku
@@ -192,36 +201,45 @@ Each Sakura Yaku is worth **30 points**.
 
 ## Gaji (Optional Rule)
 
-The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. 
+The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and it can act as a wild card. 
 
 [![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)
 
-When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
+When played from the hand or from the top of the deck, it may pair with any card on the field, and thus capture it. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
-Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
+At the end of the round, the remaining Willow card is automatically captured by the player who used the Gaji.
+
+> The rulebook does not state what happens at the end of a round with the remaining card of the same suit as the card that was captured with the Gaji. Supposedly it would remain uncaptured by any player.
+> 
+> This is notably different from how the Gaji typically works in the game of Sakura.
+{.is-warning}
 
 # Comparison to Traditional Games
 
-Almost all rules correspond with either the Korean game of [Min-Hwatu](/en/hanafuda/games/minhwatu) or the Hawaiian game of [Sakura](/en/hanafuda/games/sakura), with the most similarities to Min-Hwatu. The core gameplay is the same as in all Hana-Awase-style fishing games.
+Almost all rules of Kwa-Dō correspond with either the Korean game of [Min-Hwatu](/en/hanafuda/games/minhwatu) or the Hawaiian game of [Sakura](/en/hanafuda/games/sakura), with the most similarities to Min-Hwatu. The core gameplay is essentially the same as in all Hana-Awase-style fishing games.
 
 ### Similarities with Min-Hwatu:
 
-- The card values are the same as in standard Min-Hwatu rules.
-- All core yaku from Min-Hwatu are included, and most notably the month yaku. (Min-Hwatu is the only other game on this wiki that includes all three of the same month yaku, not counting games that use all 12 months as yaku.) The Five Brights yaku is also present in multiple variants of Min-Hwatu.
+- The card values are the same as in standard Min-Hwatu rules.<br/>(Chaff cards being 0 points instead of 1 is notably different from the most common variants of Hana-Awase. Sakura has values for Animal and Ribbon cards reversed, as well as a few other exceptions.)
+- All core yaku from Min-Hwatu are included, most notably the month yaku. (Min-Hwatu is the only other game on this wiki that includes all three of the same month yaku, not counting games that use all 12 months as yaku.)<br/>The Five Brights yaku is also present in multiple variants of Min-Hwatu.
 - The game rules allow more than 3 active players at the same time (also true for Sakura). In 2-player games, players receive 10 hand cards rather than 8 (not typical for Sakura).
-- Kwa-Dō being based largely on Min-Hwatu explains various Korean influences, such as calling bright cards "*kwang*", marking bright cards with an encircled "光", and a Korean month order with the Paulownia suit as November and Willow as December.
+
+Kwa-Dō being based largely on Min-Hwatu also explains various Korean influences. For example:
+  - Bright cards are called "*kwang*", and are marked with an encircled "光" [광, *gwang*] on their faces.
+  - A Korean [month order](/en/hanafuda/suits#arrangement-of-suits) is used, with the Paulownia suit as November and Willow as December.
+  - In the rulebook, the April suit is called "bush clover" instead of wisteria, and July suit is called "colored bush clover." The April/wisteria chaff and ribbon cards are displayed upside down compared to the traditional Japanese orientation.
 
 ### Similarities with Sakura:
 
 - An option for team play is included (2 vs 2, 3 vs 3, and 2 vs 2 vs 2), which is rare in traditional hanafuda games.
-- All yaku from Sakura are borrowed without change.
-- The optional wild card rule is borrowed, including its unique "Gaji" name.
+- All yaku from Sakura are included without change (including yaku that are unique to Sakura).
+- The optional wild card rule is borrowed, including its unique "Gaji" name.<br/>However, a Gaji cannot by blocked with a "Hiki", and what happens with uncaptured cards at the end of a round is slightly different from what is typically described in Sakura rule sheets.
 
 ### Differences with both:
 
+- The Kwa-Dō rulebook does not strictly allow capturing 3 cards of the same suit with the fourth card of that suit.
 - The "Dragon" bonus seems to be unique to Kwa-Dō, although it may have been based on the November/Paulownia month yaku used in some variants of Min-Hwatu.
-- The par score system is more typical of Japanese games (such as [Hana-Awase](/en/hanafuda/games/hana-awase)) than Min-Hwatu and Sakura.
-- The goal score of 200 points and negative scores being treated as 0 points may have been original inventions.
+- Using a par score system (in the "Floor Method") is more typical of Japanese games, such as [Hana-Awase](/en/hanafuda/games/hana-awase), than of Korean and Hawaiian games. However, the target score of 200 points and negative net scores being treated as 0 points are not common in hanafuda, and may have been original inventions.<br/>The other scoring method (the "Easy Method") is more in line with typical rules for Min-Hwatu and Sakura.
 
 # Bibliography
 - "Kwa-Dō Rules", K.K. Corner and R. Whitbeck ([link](https://boardgamegeek.com/filepage/5083/kwa-do-mainpdf) - [archive](https://web.archive.org/web/20260110171338/https://s3.amazonaws.com/geekdo-files.com/bgg5083?response-content-disposition=inline%3B%20filename%3D%22kwa-do_main.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T171333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=bf5eeabcc5bd1e2fac0d0fc06b8df18f3ca7f2d6cfcbf70598a765fd34600fd7))
