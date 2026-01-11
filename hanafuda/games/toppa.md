@@ -2,7 +2,7 @@
 title: Toppa
 description: A hanafuda game from Hokkaido region in Japan. ...Well, several games actually.
 published: true
-date: 2025-04-13T15:00:02.244Z
+date: 2026-01-11T15:40:37.538Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-04T11:04:59.329Z
@@ -16,7 +16,7 @@ Another possible explanation is that the word "Toppa" is used in Kansai and Chuu
 
 In all Toppa games, a **standard hanafuda deck of 48 cards** is used, and all Yaku values are measured in **"yaku"**, which can be equated to points or cash.
 
-## List of attested Toppa Hanafuda games
+# List of attested Toppa Hanafuda games
 - Toppa (for 2 players) - This is the most widely attested Toppa hanafuda game.
 - [Baka](/en/hanafuda/games/toppa/#baka) - Same game as Toppa but adjusted for 3 players.
 - [Ishikari Toppa](/en/hanafuda/games/ishikari-toppa) - Bakappana but with Teyaku.
@@ -76,9 +76,9 @@ Exposing a teyaku to the other player **doesn't stop the round**; Play continues
 
 |Value (in points)|Name|Description|
 |:---:|:---:|:---|
-|<h2 align="left">Group A: Set Teyaku</h2>|||
+|<h3 align="left">Group A: Set Teyaku</h3>|||
 |20|**Triplet/Three of a Kind**<br/>三本ざらし [さんぼんざらし, *sanbonzarashi*]|Any three cards of the same month.<br>Expose only the triplet.|
-|<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, each [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card is treated according to its card type; Willow cards are not automatically treated as Chaff cards.|||
+|<h3 align="left">Group B: Chaff Teyaku</h3><br>**Note**: For the purposes of these teyaku, each [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card is treated according to its card type; Willow cards are not automatically treated as Chaff cards.|||
 |20|**One Ribbon**<br/>短一 [他のさらし, *tan'ichi*]|One Ribbon card, nine Chaff.<br>Expose your entire hand.|
 |20|**One Animal**<br/>十一 [他のさらし, *toichi*]|One Animal card, nine Chaff.<br>Expose your entire hand.|
 |20|**One Bright**<br/>光一 [他のさらし, *pikaichi*]|One Bright card, nine Chaff.<br>Expose your entire hand.|
@@ -162,23 +162,23 @@ All Dekiyaku **stack** except for Dekiyaku in the Bright Yaku group (only the hi
 Also, note that **Willow** ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards are considered **strong cards** in the game; they all count as Ribbons (some players also treat them as Chaff as well).
 |Points|Yaku Name|Composition|
 |:---:|:---:|:---|
-|<h2 align="center">Bright Yaku</h2>|||
+|<h3 align="center">Bright Yaku</h3>|||
 |60 or 40|**Five Brights**<br>五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |40 or 30|**Four Brights (Dry 4)**<br>本四 [ほんし, *honshi*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |20|**Rainy Four Brights**<br>雨四光 [あめしこう, *ameshikō*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) plus 3 of:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|<h2 align="center">Animal Yaku</h2>|||
+|<h3 align="center">Animal Yaku</h3>|||
 |Points|Yaku Name|Composition|
 |20|**Boar-Deer-Butterfly***<br>猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>* *This yaku is optional; Some people do not use this Yaku.*|
-|<h2 align="center">Ribbon and Willow Yaku</h2>|||
+|<h3 align="center">Ribbon and Willow Yaku</h3>|||
 |Points|Yaku Name|Composition|
 |20|**Poetry Ribbons**<br>菅原 [すがわら, *sugawara*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |20|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |40 or 30|**Real Seven Ribbons**<br>しょう七 [しょうなな, *shōnana*]|Any 7 Ribbon cards.<br>This yaku is worth 10 extra points for each additional Ribbon or Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card.|
 |20|**Seven Ribbons**<br>短 [たん, *tan*]|Any 7 cards consisting of Ribbon cards and/or Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards.<br>This yaku is worth 10 extra points for each additional Ribbon or Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) card. If there are at least 7 Ribbons, it is counted as **Real Seven Ribbons**|
-|<h2 align="center">Chaff Yaku</h2>|||
+|<h3 align="center">Chaff Yaku</h3>|||
 |Points|Yaku Name|Composition|
 |20|**Chaff**<br>カラ [から, *kara*]|Any 12 Chaff cards*.<br>This yaku is worth 10 extra points for each additional Chaff card.<br>* *Some people play such that Willow ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x) cards count as Chaff, after determining if they have **Real Seven Ribbons** or **Seven Ribbons**. (Optional)*|
-|<h2 align="center">Four of a Kind Yaku</h2>|||
+|<h3 align="center">Four of a Kind Yaku</h3>|||
 |Points|Yaku Name|Composition|
 |20|**Wisteria Row**<br>ふじ [*fuji*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |20|**Iris Row**<br>かんこ [*kanko*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)|
