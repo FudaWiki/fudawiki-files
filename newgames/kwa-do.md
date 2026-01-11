@@ -2,7 +2,7 @@
 title: Kwa-Dō
 description: Hanafuda Asian Fusion.
 published: true
-date: 2026-01-10T17:16:21.773Z
+date: 2026-01-11T17:37:20.354Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-08-15T16:33:25.892Z
@@ -10,14 +10,14 @@ dateCreated: 2022-08-15T16:33:25.892Z
 
 Kwa-Dō is a card game published by K.K. Corner and R. Whitbeck in 1959 for the American market, and was distributed by several different companies around the United States, including Renroc Inc. in Washington, and U.S. Games Systems, Inc. in Connecticut.
 
-A set of Kwa-Dō includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean hwatu designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*". Besides the cards themselves, it also includes a rulebook and a scoring pad, making the set resemble a contemporary Deluxe UNO set.
+A set of Kwa-Dō includes cards of the same material and construction as western playing cards, but features a [hanafuda](/en/hanafuda) design with illustrations drawn by Virginia Seeger, based on both Japanese hanafuda and Korean hwatu designs, as evident by the presence of both Japanese writings on the poetry ribbons and encircled "光" on all bright cards, which the game refers to as "*kwang*" (from the Korean term 광 [光, *gwang*]). Besides the cards themselves, it also includes a rulebook and a scoring pad, making the set resemble a contemporary Deluxe UNO set.
 
 The rules of the game have been revised twice: in 1982 and 1985. It is not known when production of this game was discontinued, but judging from the fact that some sets using the 1985 rulebook have a barcode while others don't, it could be around late 1980's to early 1990's.
 
 # Rules
 The following rules are based on the rulesheet included in the 1985 version of Kwa-Dō.
 
-The game is designed to be played by 2 to 6 players (team-playing is also allowed) , and is largely based on [Sakura](/en/hanafuda/games/sakura), with elements from other hanafuda games mixed in.
+The game is designed to be played by 2 to 6 players (team-playing is also allowed), and is largely based on [Min-Hwatu](/en/hanafuda/games/minhwatu) (a Korean variant of [Hana-Awase](/en/hanafuda/games/hana-awase)) with significant additions from [Sakura](/en/hanafuda/games/sakura).
 
 >The 1982 release mentions the maximum limit of players as "4 players", however, the 1985 release increases this limit to "6 players".
 {.is-warning}
@@ -49,7 +49,7 @@ Once the cards have been shuffled and cut, the dealer passes out cards face down
 
 |Number of Players||Cards to each Player|Cards to the Field|
 |---:|:---|:---:|:---:|
-|**2**|🧍🧍‍|8|8|
+|**2**|🧍🧍‍|10|8|
 |**3**|🧍‍♂️🧍‍♂️🧍‍♂️|7|6|
 |**4**|🧍‍🧍‍🧍‍🧍‍|5|8|
 |**5**|🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️|4|8|
@@ -66,7 +66,7 @@ The player to the **left of the dealer** takes the first turn, followed by each 
 When playing with teams, each team shares a common score pile. 
 
 ### Turns
-> The core gameplay is the same as in [Hana-awase](/en/hanafuda/games/hana-awase), albeit not fully explained in the rulebook.
+> The core gameplay is the same as in [Hana-awase](/en/hanafuda/games/hana-awase) and [Min-Hwatu](/en/hanafuda/games/minhwatu), albeit not fully explained in the rulebook.
 {.is-warning}
 
 On their turn, a player chooses a single card from their hand and plays it to the field.
@@ -139,7 +139,7 @@ Card values are standard except that **Chaff are worth 0 points**.
 |:---:|:---:|:---:|
 |Brights ("Kwang")|20|5|
 |Animals|10|9|
-|Ribbons|5|10|
+|Ribbons ("Scrolls")|5|10|
 |Chaff|0|24|
 
 The total card points in the deck is 240 points.
@@ -151,7 +151,7 @@ The total card points in the deck is 240 points.
 > Decide first which of these Yaku are to be used before playing the game.
 {.is-warning}
 
-### Months Yaku
+### Month Yaku
 Worth **30 points** each.
 
 |Month|Composition|
@@ -200,6 +200,28 @@ When played from the hand, it may pair with and thus capture any card on the fie
 
 Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
 
+# Comparison to Traditional Games
+
+Almost all rules correspond with either the Korean game of [Min-Hwatu](/en/hanafuda/games/minhwatu) or the Hawaiian game of [Sakura](/en/hanafuda/games/sakura), with the most similarities to Min-Hwatu. The core gameplay is the same as in all Hana-Awase-style fishing games.
+
+### Similarities with Min-Hwatu:
+
+- The card values are the same as in standard Min-Hwatu rules.
+- All core yaku from Min-Hwatu are included, and most notably the month yaku. (Min-Hwatu is the only other game on this wiki that includes all three of the same month yaku, not counting games that use all 12 months as yaku.) The Five Brights yaku is also present in multiple variants of Min-Hwatu.
+- The game rules allow more than 3 active players at the same time (also true for Sakura). In 2-player games, players receive 10 hand cards rather than 8 (not typical for Sakura).
+- Kwa-Dō being based largely on Min-Hwatu explains various Korean influences, such as calling bright cards "*kwang*", marking bright cards with an encircled "光", and a Korean month order with the Paulownia suit as November and Willow as December.
+
+### Similarities with Sakura:
+
+- An option for team play is included (2 vs 2, 3 vs 3, and 2 vs 2 vs 2), which is rare in traditional hanafuda games.
+- All yaku from Sakura are borrowed without change.
+- The optional wild card rule is borrowed, including its unique "Gaji" name.
+
+### Differences with both:
+
+- The "Dragon" bonus seems to be unique to Kwa-Dō, although it may have been based on the November/Paulownia month yaku used in some variants of Min-Hwatu.
+- The par score system is more typical of Japanese games (such as [Hana-Awase](/en/hanafuda/games/hana-awase)) than Min-Hwatu and Sakura.
+- The goal score of 200 points and negative scores being treated as 0 points may have been original inventions.
 
 # Bibliography
 - "Kwa-Dō Rules", K.K. Corner and R. Whitbeck ([link](https://boardgamegeek.com/filepage/5083/kwa-do-mainpdf) - [archive](https://web.archive.org/web/20260110171338/https://s3.amazonaws.com/geekdo-files.com/bgg5083?response-content-disposition=inline%3B%20filename%3D%22kwa-do_main.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T171333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=bf5eeabcc5bd1e2fac0d0fc06b8df18f3ca7f2d6cfcbf70598a765fd34600fd7))
