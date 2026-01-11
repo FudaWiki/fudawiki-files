@@ -2,7 +2,7 @@
 title: Kushiro Toppa
 description: A Koi-koi variant from Kushiro subprefecture in Hokkaido, Japan.
 published: true
-date: 2025-04-14T12:20:51.539Z
+date: 2026-01-11T15:31:04.518Z
 tags: hanafuda games, mekuri-kei
 editor: markdown
 dateCreated: 2022-08-09T02:26:28.629Z
@@ -16,6 +16,8 @@ This game is played by 2 to 4 people, although only 2 people participate in a ro
 
 A standard 48-card hanafuda deck is used. Also prepare chips for scoring, and all player must have equal number of chips at the beginning. 1 "yaku" = 1 chip. (If playing for money, decide first the exchange rate per "yaku".)
 
+# Setup
+
 ## Choosing the Dealer
 The attested method of selecting the first dealer is as follows: Shuffle the deck, and cut it into two piles face-down. Each player draws 1 card from either of the two piles. The player with a card of the earliest month becomes the dealer for the first round.
 
@@ -28,6 +30,8 @@ The method is similar to 2-player Toppa; **Ten (10)** cards are distributed to e
 
 > If four cards of the same month are dealt on a **player's hand**, then the player may place all four cards face down on the table. Another player then chooses one card and switches it with the top card of the deck. All four cards go back to the player's hand.
 {.is-info}
+
+# Teyaku and Drop-out Phase
 
 ## Checking for Teyaku
 After the cards are dealt, each player checks if they possess any sets in hand called *teyaku* [手役 - てやく].
@@ -65,15 +69,15 @@ Once two players have joined in, if either of the players has a Teyaku, they may
 {.is-warning}
 
 
-## Gameplay (Koi-koi mechanics)
+# Gameplay (Koi-koi mechanics)
 The gameplay is similar to Koi-koi in that as soon as a Dekiyaku is formed, the player who has formed the Dekiyaku has a choice whether to stop the round and claim the points, or continue the round in hopes of forming another Dekiyaku.
 
 Also, if a player continued the round, and the opponent then formed a dekiyaku and stopped the round, then the player's Dekiyaku is forfeited.
 
-To **continue** the round, declare **"Iku!"**.
-To **stop** the round, declare **"Yoroshii!"**.
+To **continue** the round, declare **"Iku!"** (行く, "go").
+To **stop** the round, declare **"Yoroshii!"** (よろしい, "good").
 
-## Dekiyaku
+# Dekiyaku
 All Dekiyaku **stack** except for Dekiyaku in the Bright Yaku group (only the highest scoring Bright Yaku is counted).
 |Value (in "yaku")|Yaku Name|Composition|
 |:---:|:---:|:---|
