@@ -2,7 +2,7 @@
 title: Taipa Shijō-shugi Hanafuda
 description: A fast-paced beginner-friendly modern take on hanafuda
 published: true
-date: 2025-12-09T15:10:29.789Z
+date: 2026-01-11T15:49:47.140Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2025-09-04T23:13:48.676Z
@@ -104,7 +104,7 @@ This game has only four simple yaku, one for each card rank. Each yaku requires 
 |1|**Ribbons**<br>タン [たん, *tan*]|**Any** 3 Ribbon cards.|
 |0|**Chaff**<br>カス [かす, *kasu*]|**Any** 3 Chaff cards.|
 
-> The Chaff yaku does not earn any base points, but completing it does give the player the opportunity to call *koi-koi* (which may double the total score) or end the round.
+> The Chaff yaku does not earn any base points, but completing it does give the player the opportunity to end the round or call *koi-koi* (which may double the total score).
 {.is-info}
 
 # Bibliography
