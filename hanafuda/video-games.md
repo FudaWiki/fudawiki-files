@@ -1,14 +1,16 @@
 ---
-title: List of Video Games
+title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2024-12-03T03:06:34.527Z
+date: 2026-01-18T02:20:51.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
 ---
 
 The following is a list of known hanafuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
+
+See also: [List of Kabufuda Video Games](/en/kabufuda/video-games)
 
 > This list forked from the [Hanafuda Video Games Spreadsheet](https://docs.google.com/spreadsheets/d/19UTxX3G0kO0_wbfBom0sDAaebcZr5VgvV0VZMdwExdY/edit?usp=sharing) which may still contain more information than is in this list, but at the same time may lag behind on new entries.
 
