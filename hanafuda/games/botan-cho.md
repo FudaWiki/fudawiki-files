@@ -2,13 +2,13 @@
 title: Botan-chō
 description: Mushi but with an extra card as its Onifuda.
 published: true
-date: 2025-06-01T15:55:51.611Z
+date: 2026-01-18T00:15:10.971Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2025-05-24T15:12:34.355Z
 ---
 
-**Botan-chō** [牡丹蝶 - ぼたんちょう] is a [Mushi](/en/hanafuda/games/mushi) variant for 2 players, played in the Kanto region in Japan. It is also known as **Kanto Mushi**.
+**Botan-chō** (牡丹蝶 - ぼたんちょう, lit. "peony-butterflies") is a [Mushi](/en/hanafuda/games/mushi) variant for 2 players, played in the Kanto region in Japan. It is also known as **Kanto Mushi**.
 
 The gameplay and **Yaku list** are **identical to Osaka Mushi**, but with the addition of the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)**Peony with Butterflies** card, which is used as a wild card [鬼札 - おにふだ, *onifuda*] instead of the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning card. This card is where the game got its name from.
 
