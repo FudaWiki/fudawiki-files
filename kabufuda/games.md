@@ -2,11 +2,14 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2025-12-11T06:07:27.778Z
+date: 2026-01-18T02:22:43.984Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
 ---
+
+> For the list of **video games** of or containing kabufuda games, see [**List of Kabufuda Video Games**](/en/kabufuda/video-games).
+{.is-info}
 
 This is a list of games known to be played using a [kabufuda](/en/kabufuda) deck, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
  
