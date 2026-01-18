@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2025-05-28T13:25:11.218Z
+date: 2026-01-18T02:20:57.603Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:02:03.883Z
@@ -111,6 +111,20 @@ There are no mutually exclusive yaku here; players score for **every yaku** they
 |10|**Four Paulownias**<br>桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.<br>[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 # Scoring Example
 If **Player A** captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while **Player B** captured the rest of the cards in the deck and made the "Four Wisterias" yaku, **Player A** would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). **Player B**'s score for the round would thus be 5, as **the sum of scores in a given round always equals 0.**
+
+# Mushi for 3-4 Players
+While Mushi is typically played with 2 players, up to 4 players can be accomodated by adding a drop-out phase at the beginning of each round, in a style similar to games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Go-Stop](/en/hanafuda/games/go-stop).
+
+> The following description is based on 4-player Mushi from the mobile app [Hanafuda Gēmu Dai Shūgō](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo).
+{.is-info}
+
+At the start of each round, cards are distributed as usual: eight cards to each player, and eight to the table. In 4-player games, there will be no cards left. In 3-player games, the remaining cards are placed in a stack face-down.
+
+Players look at the cards in their hand. Then, starting from the dealer and moving anti-clockwise, players announce whether they intend to stay in or drop out.  This process ends **as soon as there are two active players**, i.e. when two people have elected to stay, or when all but two players have dropped out. Once this happens, any players who have not yet had their turn to decide will be either forced to play, or forced not to play, as appropriate.
+ 
+Once the active players are determined, the hands of the non-active player(s) and any undealt cards are shuffled together, and are placed face-down to form the draw pile. Play then proceeds as in the 2-player version of the game. 
+
+At the end of the round, active players gain or lose points as usual. Non-active players do not gain or lose any points.
 
 # External resources
 > 📺 ["How to play Mushi"](https://youtu.be/Kws5lvlN-QQ), YouTube tutorial by **suryong**.
