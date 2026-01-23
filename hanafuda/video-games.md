@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-23T00:40:14.269Z
+date: 2026-01-23T00:46:47.256Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -139,7 +139,7 @@ A home video game console by Sega (1994-2000)
 * [Jang Jang Koi Shimashow: Lovely Pop 2 in 1 (<span lang='ja'>ラブリーポップ２ｉｎ１　雀じゃん恋しましょ</span>)](/en/hanafuda/video-games/sat/jang-jang-koi-shimashow-lovely-pop-2-in-1)
 * [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen)
 * [Sakura Taisen Teigeki Graph (<span lang='ja'>サクラ大戦 帝撃グラフ</span>)](/en/hanafuda/video-games/sat/sakura-taisen-teigeki-graph)
-## Super Famicom (SNES)
+## [Super Famicom (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 A home video game console by Nintendo (1990-2003), known as Super Nintendo Entertainment System (SNES) in Western countries.
 * [Gionbana (<span lang='ja'>祇園花</span>)](/en/hanafuda/video-games/snes/gionbana)
 * [Hanafuda Ou (<span lang='ja'>花札王</span>)](/en/hanafuda/video-games/snes/hanafuda-ou)
