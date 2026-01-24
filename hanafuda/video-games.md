@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-24T00:58:47.609Z
+date: 2026-01-24T22:44:03.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -180,7 +180,7 @@ A home video game console by Nintendo (1990-2003), known as Super Nintendo Enter
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
 ## [Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 A hybrid video game console by Nintendo (2017-present)
-* [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~--~ ~[Koi-Koi]~
+* [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>](/en/hanafuda/video-games/switch/51-worldwide-games), a.k.a. Clubhouse Games: 51 Worldwide Classics) ~[English]~ ~--~ ~[Koi-Koi]~
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
 * [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
 * [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
@@ -539,7 +539,10 @@ A series of home computers by Sharp Corporation (1987-1993)
 ## Android
 * [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
 * [Hanafuda Gēmu Dai Shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo) ~[free]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Bakappana]~ ~[Hachi-Hachi]~ ~[Sudaoshi]~ ~[Roppyakken]~ ~[Mushi]~
+* [Hanafuda Koi-Koi Collection (<span lang='ja'>花札こいこいコレクション</span>)](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection) ~[English]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
+* [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
+  * Multiplayer version of the same game: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
 ---
 * (no longer available) [Hanafuda Usagi 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
 * (no longer available) [Hanafuda Usagi Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
@@ -551,6 +554,9 @@ A series of PDAs by Casio
 
 ## iOS
 * [Hanafuda Gēmu Dai Shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo) ~[free]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Bakappana]~ ~[Hachi-Hachi]~ ~[Sudaoshi]~ ~[Roppyakken]~ ~[Mushi]~
+* [Hanafuda Koi-Koi Collection (<span lang='ja'>花札こいこいコレクション</span>)](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection) ~[English]~ ~[free]~ ~--~ ~[Koi-Koi]~
+* [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
+  * Multiplayer version of the same game: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Kiki's Koi-Koi](/en/hanafuda/video-games/ios/kikis-koi-koi) ~[English]~ ~[pass-and-play]~ ~--~ ~[Koi-Koi]~
 ---
 * (no longer available) [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
