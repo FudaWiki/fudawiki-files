@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-24T22:44:03.273Z
+date: 2026-01-24T22:45:47.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -441,7 +441,6 @@ PC gaming platform
   * Yakuza 3 Remastered (<span lang='ja'>龍が如く3 リマスター版</span>)
   * Yakuza 4 Remastered (<span lang='ja'>龍が如く4 リマスター版</span>)
   * Yakuza 5 Remastered (<span lang='ja'>龍が如く5 リマスター版</span>)
-  * Yakuza 6: The Song of Life (<span lang='ja'>龍が如く6 命の詩</span>)
   * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
   * Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)
 ## TCD
