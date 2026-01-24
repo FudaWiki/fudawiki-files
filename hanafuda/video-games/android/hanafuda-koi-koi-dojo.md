@@ -2,7 +2,7 @@
 title: Hanafuda Koi-Koi Dojo
 description: 
 published: true
-date: 2026-01-24T20:30:28.821Z
+date: 2026-01-24T20:34:59.675Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T19:23:46.284Z
@@ -62,6 +62,15 @@ A comparison of in-game terminology in various languages and the terminology use
 | Bright | <span style="color:gray">*(same)*</span> | 光札 (*hikari fuda*) | carta brillante | carta de brilho | carte lumière | carta luminosa | parlak kart |
 | Rain Man | <span style="color:gray">*(same)*</span> | 小野道風<br/>(*Ono no Tōfū*) | el hombre bajo la lluvia | o Homem na Chuva | l'Homme au parapluie | Ono no Tōfū | Yağmur Adam |
 | Sake Cup | <span style="color:gray">*(same)*</span> | 盃 (*sakazuki*) | la copa de sake | o Copo de Saquê | la Coupe de saké | il Sake | Sake Kupası |
+
+## Translators
+* Japanese: Uwaaaa, Mar
+* Brazilian Portuguese: Antonio Pedro Marconi
+* French: Masuku
+* Italian: Ivan
+* Turkish: Kaan
+
+Spanish translations are by the developer himself.
 
 # External Links
 * [Google Play store](https://play.google.com/store/apps/details?id=com.Noge.HanafudaKoikoi)
