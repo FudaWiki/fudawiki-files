@@ -2,7 +2,7 @@
 title: Yakuza/Like a Dragon series
 description: Video game series
 published: true
-date: 2026-01-23T17:41:51.331Z
+date: 2026-01-24T01:11:14.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T17:41:51.331Z
