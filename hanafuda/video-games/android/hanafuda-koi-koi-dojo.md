@@ -2,7 +2,7 @@
 title: Hanafuda Koi-Koi Dojo
 description: 
 published: true
-date: 2026-01-24T20:34:59.675Z
+date: 2026-01-24T22:36:29.296Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T19:23:46.284Z
@@ -32,7 +32,7 @@ During play, card ranks (Brights, Animals, Ribbons, Chaffs) are distinguished by
 * Blue Ribbons, Poetry Ribbons, and Boar-Deer-Butterflies are each worth a fixed 6 points, and are not exclusive with regular Animals and Ribbons yaku.
 * Bright yaku values are on the high side, at 6, 8, 9 and 12 points for 3 Brights, Rainy 4 Brights, 4 Brights, and 5 Brights respectively.
 
-# Monetization
+# Ads and In-game Purchases
 Playing games and watching ads earns in-game coins, which can be used to buy avatars. A one-time purchase of €9.99 can be made to remove ads and earn a lot of coins.
 
 # Terminology
