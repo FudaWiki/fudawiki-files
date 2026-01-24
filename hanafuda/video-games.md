@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-23T18:33:44.921Z
+date: 2026-01-24T00:58:47.609Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -14,7 +14,7 @@ See also: [List of Kabufuda Video Games](/en/kabufuda/video-games)
 
 > This list forked from the [Hanafuda Video Games Spreadsheet](https://docs.google.com/spreadsheets/d/19UTxX3G0kO0_wbfBom0sDAaebcZr5VgvV0VZMdwExdY/edit?usp=sharing) which may still contain more information than is in this list, but at the same time may lag behind on new entries.
 
-## Modern Devices
+# Modern Devices
 
 For games on modern devices, see the following categories:
 
@@ -25,31 +25,62 @@ For games on modern devices, see the following categories:
 * [Xbox Series X/S](#xbox-series-xs)
 
 **Personal Computer**
+* [Linux](#Linux)
 * [Mac OS X](#mac-os-x)
 * [Steam](#steam)
 * [Web Browser](#web-browser)
-* [Windows](#windows)
+* [Windows](#windows) (lists mostly outdated games, see Steam)
 
 **Mobile**
 * [Android](#android)
-* [Android/iOS](#androidios)
 * [iOS](#ios)
+* [Web Browser](#web-browser)
+
+# Tags
+Many games are marked with the following tags. You can copy-paste them and do a text search to find specific game features and hanafuda games on this page.
+
+### Game features
+
+* `[free]` - Free to play. Likely has ads or in-app purchases.
+* `[English]` - English interface is available.
+* `[multilingual]` - Interface is available in multiple/many languages other than English and Japanese.
+* `[multiplayer]` - Online multiplayer is available (and as far as we know, the servers are still online).
+* `[pass-and-play]` - Pass-and-play mode is available for offline multiplayer.
+* `[minigame]` - Hanafuda is included as a minigame, usually played against non-player characters in a larger game
+
+### Playable hanafuda games
+* `[Bakappana]` (main article [here](/en/hanafuda/games/bakappana))
+* `[Go-Stop]` (main article [here](/en/hanafuda/games/go-stop))
+* `[Hachi]` (main article [here](/en/hanafuda/games/hachi))
+* `[Hachi-Hachi]` (main article [here](/en/hanafuda/games/hachi-hachi))
+* `[Hana-Awase]` (main article [here](/en/hanafuda/games/hana-awase))
+* `[Koi-Koi]` (main article [here](/en/hanafuda/games/koi-koi))
+* `[Kyo-Kabu]` (main article [here](/en/kabufuda/games/kyo-kabu))
+* `[Min-Hwatu]` (main article [here](/en/hanafuda/games/minhwatu))
+* `[Mushi]` (main article [here](/en/hanafuda/games/mushi))
+* `[Nylon-Ppong]` (main article [here](/en/hanafuda/games/nylon-ppong))
+* `[Oicho-Kabu]` (main article [here](/en/hanafuda/games/oicho-kabu))
+* `[Roppyakken]` (main article [here](/en/hanafuda/games/roppyakken))
+* `[Sakura]` (a.k.a. Hawaiian Hanafuda; main article [here](/en/hanafuda/games/sakura))
+* `[Seotda]` (main article [here](/en/hanafuda/games/seotda))
+* `[Sudaoshi]` (main article [here](/en/hanafuda/games/sudaoshi))
+* `[Original]` - Original hanafuda game
 
 # Home Video Game Console
 ## [Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)
 A home video game console by Sega (1998-2001)
-* [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2) - Koi-Koi
-* [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda) - Koi-Koi, Hana-Awase, Oicho-Kabu
-* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen) - Koi-Koi
-* [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online) - Koi-Koi
-* [Shin Honkaku Hanafuda (<span lang='ja'>真 本格花札</span>)](/en/hanafuda/video-games/dc/shin-honkaku-hanafuda) - Koi-Koi, Hana-Awase, Hachi-Hachi, Oicho-Kabu
+* [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2) ~[Koi-Koi]~
+* [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
+* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen) ~[Koi-Koi]~
+* [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online) ~[minigame]~ ~--~ ~[Koi-Koi]~
+* [Shin Honkaku Hanafuda (<span lang='ja'>真 本格花札</span>)](/en/hanafuda/video-games/dc/shin-honkaku-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Oicho-Kabu]~
 ## [Famicom (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 A home video game console by Nintendo (1983-2003), known as Nintendo Entertainment System (NES) in Western countries.
 * [AV Hanafuda Club (<span lang='ja'>AV花札倶楽部</span>)](/en/hanafuda/video-games/fc/av-hanafuda-club)
 * [Hanafuda Yuukyou Den: Nagarebana Oryuu (<span lang='ja'>花札遊侠伝 流れ花 お竜</span>)](/en/hanafuda/video-games/fc/hanafuda-yuukyou-den-nagarebana-oryuu)
 ### Famicom Disk System
-* [Bishoujo Hanafuda Club Vol. 1: Oicho-Kabu-hen (<span lang='ja'>美少女花札倶楽部 VOL.1 おいちょかぶ編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-1-oicho-kabu-hen) - Oicho-Kabu
-* [Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen (<span lang='ja'>美少女花札倶楽部 VOL.2 こいこいばかっ花編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen) - Koi-Koi, Bakappana
+* [Bishoujo Hanafuda Club Vol. 1: Oicho-Kabu-hen (<span lang='ja'>美少女花札倶楽部 VOL.1 おいちょかぶ編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-1-oicho-kabu-hen) ~[Oicho-Kabu]~
+* [Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen (<span lang='ja'>美少女花札倶楽部 VOL.2 こいこいばかっ花編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen) ~[Koi-Koi]~ ~[Bakappana]~
 ## [MyVision](https://en.wikipedia.org/wiki/My_Vision)
 A home video game console by Nichibutsu (1983)
 * [Hanafuda (<span lang='ja'>ハナフダ</span>)](/en/hanafuda/video-games/nmv/hanafuda)
@@ -83,15 +114,15 @@ A home video game console by Sony (1994-2006)
 * [Youkai Hana Asobi (<span lang='ja'>妖怪花あそび</span>)](/en/hanafuda/video-games/ps/youkai-hana-asobi)
 ## [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2)
 A home video game console by Sony (2000-2013)
-* [Game Select 5 Wu (<span lang='ja'>ゲームセレクト5 和</span>)](/en/hanafuda/video-games/ps2/game-select-5-wu)
-* [Gintama Gin-San to Issho! Boku no Kabuki Machi Nikki (<span lang='ja'>銀魂 銀さんと一緒!ボクのかぶき町日記</span>)](/en/hanafuda/video-games/ps2/gintama-gin-san-to-issho-boku-no-kabuki-machi-nikki)
-* [Hanafuda (SuperLite 2000 Vol 19 Table Game) (<span lang='ja'>SuperLite 2000 Vol. 19 テーブルゲーム 花札</span>)](/en/hanafuda/video-games/ps2/hanafuda-superlite-2000-vol-19-table-game)
-* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/ps2/online-games-dai-guruguru-onsen)
-* [Sakura Wars: In Hot Blood (<span lang='ja'>サクラ大戦 熱き血潮に</span>)](/en/hanafuda/video-games/ps2/sakura-wars-in-hot-blood)
-* [Table Games (Simple 2000 Series Vol. 1) (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/ps2/table-games-simple-2000-series-vol-1)
+* [Game Select 5 Wu (<span lang='ja'>ゲームセレクト5 和</span>)](/en/hanafuda/video-games/ps2/game-select-5-wu) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
+* [Gintama Gin-San to Issho! Boku no Kabuki Machi Nikki (<span lang='ja'>銀魂 銀さんと一緒!ボクのかぶき町日記</span>)](/en/hanafuda/video-games/ps2/gintama-gin-san-to-issho-boku-no-kabuki-machi-nikki) ~[Koi-Koi]~
+* [Hanafuda (SuperLite 2000 Vol 19 Table Game) (<span lang='ja'>SuperLite 2000 Vol. 19 テーブルゲーム 花札</span>)](/en/hanafuda/video-games/ps2/hanafuda-superlite-2000-vol-19-table-game) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
+* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/ps2/online-games-dai-guruguru-onsen) ~[Koi-Koi]~
+* [Sakura Wars: In Hot Blood (<span lang='ja'>サクラ大戦 熱き血潮に</span>)](/en/hanafuda/video-games/ps2/sakura-wars-in-hot-blood) ~[minigame]~ ~--~ ~[Koi-Koi]~
+* [Table Games (Simple 2000 Series Vol. 1) (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/ps2/table-games-simple-2000-series-vol-1) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 ## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 A home video game console by Sony (2006-2017)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Ryu Ga Gotoku Kenzan! (<span lang='ja'>龍が如く 見参!</span>)
   * Ryu Ga Gotoku Ishin! (<span lang='ja'>龍が如く 維新！</span>)
   * Yakuza 0 (<span lang='ja'>龍が如く0 誓いの場所</span>)
@@ -101,8 +132,8 @@ A home video game console by Sony (2006-2017)
   * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
 ## [PlayStation 4](https://en.wikipedia.org/wiki/PlayStation_4)
 A home video game console by Sony (2013-2024)
-* [Shin Sakura Taisen (<span lang='ja'>新サクラ大戦</span>)](/en/hanafuda/video-games/ps4/shin-sakura-taisen)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Sakura Wars (<span lang='ja'>新サクラ大戦</span>)](/en/hanafuda/video-games/ps4/shin-sakura-taisen) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -119,7 +150,7 @@ A home video game console by Sony (2013-2024)
   * Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)
 ## [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5)
 A home video game console by Sony (2020-present)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -137,8 +168,8 @@ A home video game console by Sega (1994-2000)
 * [Elf o Karu Monotachi: Hanafuda-Hen (<span lang='ja'>エルフを狩るモノたち -花札編-</span>)](/en/hanafuda/video-games/sat/elf-o-karu-monotachi-hanafuda-hen)
 * [Honkaku Hanafuda (<span lang='ja'>本格花札</span>)](/en/hanafuda/video-games/sat/honkaku-hanafuda)
 * [Jang Jang Koi Shimashow: Lovely Pop 2 in 1 (<span lang='ja'>ラブリーポップ２ｉｎ１　雀じゃん恋しましょ</span>)](/en/hanafuda/video-games/sat/jang-jang-koi-shimashow-lovely-pop-2-in-1)
-* [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen)
-* [Sakura Taisen Teigeki Graph (<span lang='ja'>サクラ大戦 帝撃グラフ</span>)](/en/hanafuda/video-games/sat/sakura-taisen-teigeki-graph)
+* [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen) ~[minigame]~ ~--~ ~[Koi-Koi]~
+* [Sakura Taisen Teigeki Graph (<span lang='ja'>サクラ大戦 帝撃グラフ</span>)](/en/hanafuda/video-games/sat/sakura-taisen-teigeki-graph) ~[minigame]~ ~--~ ~[Koi-Koi]~
 ## [Super Famicom (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 A home video game console by Nintendo (1990-2003), known as Super Nintendo Entertainment System (SNES) in Western countries.
 * [Gionbana (<span lang='ja'>祇園花</span>)](/en/hanafuda/video-games/snes/gionbana)
@@ -149,13 +180,13 @@ A home video game console by Nintendo (1990-2003), known as Super Nintendo Enter
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
 ## [Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 A hybrid video game console by Nintendo (2017-present)
-* [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games)
-* [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda)
-* [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack)
-* [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
+* [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
+* [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
 ## [Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)
 A hybrid video game console by Nintendo (2025-present)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Yakuza 0: Director's Cut (<span lang='ja'>龍が如く0 誓いの場所</span>)
   * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
   * Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)
@@ -164,12 +195,12 @@ A home video game console by Hudson Soft (1987-1994)
 * [Idol Hanafuda Fan Club (<span lang='ja'>アイドル花札ファンクラブ</span>)](/en/hanafuda/video-games/tg16/idol-hanafuda-fan-club)
 ## [Wii](https://en.wikipedia.org/wiki/Wii)
 A home video game console by Nintendo (2006-2013)
-* [Sakura Wars: So Long, My Love (<span lang='ja'>サクラ大戦V 〜さらば愛しき人よ〜</span>)](/en/hanafuda/video-games/wii/sakura-wars-so-long-my-love)
+* [Sakura Wars: So Long, My Love (<span lang='ja'>サクラ大戦V 〜さらば愛しき人よ〜</span>)](/en/hanafuda/video-games/wii/sakura-wars-so-long-my-love) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~
 * [Simple 2000 Series Wii Vol. 1: The Table Game (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/wii/simple-2000-series-wii-vol-1-the-table-game)
 * [Wi-Fi Taiou: Gensen Table Game Wii (<span lang='ja'>Wi-Fi対応 厳選テーブルゲームWii</span>)](/en/hanafuda/video-games/wii/wi-fi-taiou-gensen-table-game-wii)
 ## [Xbox One](https://en.wikipedia.org/wiki/Xbox_One)
 A home video game console by Microsoft (2013-2020)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
   * Like a Dragon: Pirate Yakuza in Hawaii (<span lang='ja'>龍が如く8外伝 Pirates in Hawaii</span>)
@@ -183,7 +214,7 @@ A home video game console by Microsoft (2013-2020)
   * Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)
 ## [Xbox Series X/S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 A home video game console by Microsoft (2020-present)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -235,7 +266,7 @@ A handheld game console by Nintendo (2004-2011)
 ## [PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 A handheld game console by Sony (2004-2014)
 * [Nichijou (Uchuujin) DX Hi-jitsuzai Hanafuda DLC (<span lang='ja'>日常（宇宙人）ＤＸ 非実在花札ＤＬＣ</span>)](/en/hanafuda/video-games/psp/nichijou-uchuujin-dx-hi-jitsuzai-hanafuda-dlc)
-* [Sakura Taisen 1 & 2 (<span lang='ja'>サクラ大戦１＆２</span>)](/en/hanafuda/video-games/psp/sakura-taisen-1-2)
+* [Sakura Taisen 1 & 2 (<span lang='ja'>サクラ大戦１＆２</span>)](/en/hanafuda/video-games/psp/sakura-taisen-1-2) ~[minigame]~ ~--~ ~[Koi-Koi]~
 * [Tobidase! Trouble Hanafuda Douchuuki (<span lang='ja'>とびだせ！トラぶる花札道中記</span>)](/en/hanafuda/video-games/psp/tobidase-trouble-hanafuda-douchuuki)
 * [Tobitate! Chojikuu Trouble Hanafuda Daisakusen (<span lang='ja'>とびたて！超時空トラぶる花札大作戦</span>)](/en/hanafuda/video-games/psp/tobitate-chojikuu-trouble-hanafuda-daisakusen)
 * [Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan (<span lang='ja'>東京鬼祓師 鴉乃杜學園奇譚</span>)](/en/hanafuda/video-games/psp/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan)
@@ -307,7 +338,11 @@ A series of home computers by Commodore (1985-1994)
 * [Hanafuda-kyou (<span lang='ja'>花札狂</span>)](/en/hanafuda/video-games/fm-77/hanafuda-kyou)
 ## FM-8
 * [Graphic Hanafuda (<span lang='ja'>グラフィック花札 こいこい</span>)](/en/hanafuda/video-games/fm-8/graphic-hanafuda)
+## Linux
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) ~[English]~ ~--~ ~[Koi-Koi]~
 ## Mac OS X
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
 * [Koi-Koi Komachi Pure International (<span lang='ja'>恋々小町Pure</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-pure-international)
 * [Koi-Koi Komachi X International (<span lang='ja'>恋々小町Ｘ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-x-international)
 * [Koi-Koi Komachi XI (<span lang='ja'>恋々小町ＸＩ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-xi)
@@ -386,9 +421,33 @@ A series of home computers by Commodore (1985-1994)
 * [Hanafuda 850 (<span lang='ja'>花札850</span>)](/en/hanafuda/video-games/pc-g/hanafuda-850)
 ## [RISC (Archimedes)](https://en.wikipedia.org/wiki/RISC_OS)
 * [Koi-Koi (<span lang='ja'>Koi-Koi</span>)](/en/hanafuda/video-games/risc/koi-koi)
+## [Steam](https://en.wikipedia.org/wiki/Steam_(service))
+PC gaming platform
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) ~[English]~ ~--~ ~[Koi-Koi]~
+* [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/steam/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Original]~ ~[Koi-Koi]~ ~[Hana-Awase]~
+* [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
+* [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr) ~[English]~ ~[multiplayer]~ ~--~ ~[Go-Stop]~
+* [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) ~[English]~ ~--~ ~[Original]~ - rogue-like card battler based on hanafuda
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+  * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
+  * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
+  * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
+  * Like a Dragon: Ishin! (<span lang='ja'>龍が如く0 誓いの場所</span>)
+  * Like a Dragon: Pirate Yakuza in Hawaii (<span lang='ja'>龍が如く8外伝 Pirates in Hawaii</span>)
+  * Lost Judgement (<span lang='ja'>LOST JUDGMENT：裁かれざる記憶</span>)
+  * Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)
+  * Yakuza 0 (<span lang='ja'>龍が如く0 誓いの場所</span>)
+  * Yakuza 3 Remastered (<span lang='ja'>龍が如く3 リマスター版</span>)
+  * Yakuza 4 Remastered (<span lang='ja'>龍が如く4 リマスター版</span>)
+  * Yakuza 5 Remastered (<span lang='ja'>龍が如く5 リマスター版</span>)
+  * Yakuza 6: The Song of Life (<span lang='ja'>龍が如く6 命の詩</span>)
+  * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
+  * Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)
 ## TCD
 * [CD Hanafuda Bishoujo Fan Club (<span lang='ja'>CD花札 美少女ファンクラブ</span>)](/en/hanafuda/video-games/tcd/cd-hanafuda-bishoujo-fan-club)
 ## Windows
+See also [Steam games](#Steam), which are all available on Windows.
 * [100-Bannin no Tameno Otoku Set: Othello - Hanafuda - Daifugou (<span lang='ja'>100万人のためのお得セット オセロ・花札・大富豪</span>)](/en/hanafuda/video-games/win/100-bannin-no-tameno-otoku-set-othello-hanafuda-daifugou)
 * [Animal Koi Koi -Hanafuda- 1.1 Edition (<span lang='ja'>アニマルこいこい ～花札～ 1.1版</span>)](/en/hanafuda/video-games/win/animal-koi-koi-hanafuda-11-edition)
 * [Bakappana (Stupid Flowers) (<span lang='ja'>馬鹿っ花</span>)](/en/hanafuda/video-games/win/bakappana-stupid-flowers)
@@ -478,23 +537,26 @@ A series of home computers by Sharp Corporation (1987-1993)
 
 # Mobile Devices
 ## Android
-Android-exclusive games
-* [Rabbit's Oichi (<span lang='ja'>おいちょうさぎ</span>)](/en/hanafuda/video-games/android/rabbits-oichi)
-* [Rabbit’s Hanafuda 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
-* [Rabbit’s Hanafuda Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
-* [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo)
-## Android/iOS
-Games available on both Android and iOS
-* [Hanafuda gēmu dai shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo)
-* [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
-* [Summer Wars (<span lang='ja'>サマーウォーズ</span>)](/en/hanafuda/video-games/android-ios/summer-wars)
+* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
+* [Hanafuda Gēmu Dai Shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo) ~[free]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Bakappana]~ ~[Hachi-Hachi]~ ~[Sudaoshi]~ ~[Roppyakken]~ ~[Mushi]~
+* [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
+---
+* (no longer available) [Hanafuda Usagi 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
+* (no longer available) [Hanafuda Usagi Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
+* (no longer available) [Oicho Usagi (<span lang='ja'>おいちょうさぎ</span>)](/en/hanafuda/video-games/android/rabbits-oichi)
+
 ## Casio Caleid
 A series of PDAs by Casio
 * [Hana-Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/caleid/hana-awase)
+
 ## iOS
-iOS-exclusive games
-* [Hana-shimai (<span lang='ja'>花姉妹</span>)](/en/hanafuda/video-games/ios/hana-shimai)
-* [Kiki's Koi-Koi (<span lang='ja'>n/a</span>)](/en/hanafuda/video-games/ios/kikis-koi-koi)
+* [Hanafuda Gēmu Dai Shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo) ~[free]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Bakappana]~ ~[Hachi-Hachi]~ ~[Sudaoshi]~ ~[Roppyakken]~ ~[Mushi]~
+* [Kiki's Koi-Koi](/en/hanafuda/video-games/ios/kikis-koi-koi) ~[English]~ ~[pass-and-play]~ ~--~ ~[Koi-Koi]~
+---
+* (no longer available) [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
+* (no longer available) [Hana-shimai (<span lang='ja'>花姉妹</span>)](/en/hanafuda/video-games/ios/hana-shimai)
+* (no longer available) [Summer Wars \~Hanafuda Koikoi\~ (<span lang='ja'> サマーウォーズ～花札KOIKOI～</span>)](/en/hanafuda/video-games/android-ios/summer-wars)
+
 ## Japanese Feature Phones
 Mobile software predating smart phones
 * [DX Hanafuda (<span lang='ja'>DX花札</span>)](/en/hanafuda/video-games/mobile/dx-hanafuda)
@@ -525,34 +587,13 @@ A series of PDAs by Sharp Corporation (1993-2007)
 * [Hanatori Fuzuki (<span lang='ja'>花鳥風月</span>)](/en/hanafuda/video-games/java/hanatori-fuzuki)
 ## [PICO-8](https://en.wikipedia.org/wiki/PICO-8)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
-## [Steam](https://en.wikipedia.org/wiki/Steam_(service))
-PC gaming platform
-* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda)
-* [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi)
-* [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/steam/hololive-holos-hanafuda) - Koi-Koi, Hana-Awase, original hanafuda game
-* [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan)
-* [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr)
-* [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) - rogue-like card battler based on hanafuda
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) - Koi-Koi, Oicho-Kabu
-  * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
-  * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
-  * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
-  * Like a Dragon: Ishin! (<span lang='ja'>龍が如く0 誓いの場所</span>)
-  * Like a Dragon: Pirate Yakuza in Hawaii (<span lang='ja'>龍が如く8外伝 Pirates in Hawaii</span>)
-  * Lost Judgement (<span lang='ja'>LOST JUDGMENT：裁かれざる記憶</span>)
-  * Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)
-  * Yakuza 0 (<span lang='ja'>龍が如く0 誓いの場所</span>)
-  * Yakuza 3 Remastered (<span lang='ja'>龍が如く3 リマスター版</span>)
-  * Yakuza 4 Remastered (<span lang='ja'>龍が如く4 リマスター版</span>)
-  * Yakuza 5 Remastered (<span lang='ja'>龍が如く5 リマスター版</span>)
-  * Yakuza 6: The Song of Life (<span lang='ja'>龍が如く6 命の詩</span>)
-  * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
-  * Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)
 ## Web Browser
-* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) - Online multiplayer - Koi-Koi, Hachi-Hachi, Roppyakken, Go-Stop, Min-Hwatu, Nylon-Ppong, Seotda, Sakura
-* [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) (no longer available)
-* [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi)
-* [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>)](/en/hanafuda/video-games/web/koi-koi) - Single player and online multiplayer - Koi-Koi
-* [Koi-Koi Hanafuda (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda)
-* [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle)
-* [Marguerite (<span lang='ja'>Marguerite</span>)](/en/hanafuda/video-games/web/marguerite) - Koi-Koi, Hana-Awase, Hachi-Hachi, Roppyakken, Sudaoshi, Mushi, Hachi, Oicho-Kabu, Kyo-Kabu
+All of these are [free].
+* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
+* [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi) ~[Koi-Koi]~
+* [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>)](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
+* [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
+* [Marguerite (<span lang='ja'>Marguerite</span>)](/en/hanafuda/video-games/web/marguerite) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
+---
+* (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) ~[English]~
+* (no longer available) [Koi-Koi Hanafuda (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda)
