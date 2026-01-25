@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2025-08-04T19:30:51.220Z
+date: 2026-01-25T22:10:49.447Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -20,15 +20,15 @@ Media in which Hanafuda plays a significant role.
 # Included as a minigame
 Video games (that are not collections of games) where hanafuda or a hanafuda-derived game is used as a minigame, often by playing it against other characters in the video game.
 
-* Many games in the [Yakuza](https://en.wikipedia.org/wiki/Yakuza_(franchise)) franchise have a [Koi-Koi](/en/hanafuda/games/koi-koi) minigame.
+* Most games in the [Yakuza franchise](/en/hanafuda/video-games/steam/yakuza-series) have minigames for [Koi-Koi](/en/hanafuda/games/koi-koi) and [Oicho-Kabu](/en/hanafuda/games/oicho-kabu).
 
-* Multiple games in the [Sakura Wars](https://en.wikipedia.org/wiki/Sakura_Wars) franchise have a [Koi-Koi](/en/hanafuda/games/koi-koi) minigame.
+* Multiple games in the [Sakura Wars franchise](/en/hanafuda/video-games/multiplatform/sakura-wars-series) have a [Koi-Koi](/en/hanafuda/games/koi-koi) minigame.
 
 * [Neopets Godori](http://www.neopets.com/games/godori/index.phtml)
   A simplified version of the Korean game [Go-Stop](/en/hanafuda/games/go-stop) is available to play. The deck has the same structure as standard hanafuda but features completely redone Neopets-themed artwork.
 
-* [Tales of Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria) "Character Cards" minigame
-	This installment in Namco's "Tales" series features a minigame that is a modified interpretation of [Koi-Koi](/en/hanafuda/games/koi-koi). It uses a modified deck structure of 8 suits of 6 cards each, with 7 different categories of cards. Each suit features character portraits from one installment in the video game series.
+* [Tales of Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria) "[Character Cards](https://aselia.fandom.com/wiki/Character_Cards)" minigame
+	This installment in Namco's "Tales" series features a minigame that is a modified interpretation of [Koi-Koi](/en/hanafuda/games/koi-koi). It uses a modified deck structure of 8 suits of 6 cards each, with 7 different categories of cards. Each card features a character portrait, and each suit represents one installment in the video game series.
 
 # References
 Media in which Hanafuda is made reference to
