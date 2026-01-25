@@ -1,8 +1,8 @@
 ---
-title: sakura-wars-so-long-my-love
-description: 
+title: Sakura Wars: So Long, My Love
+description:  video game for PlayStation 2 and Wii
 published: true
-date: 2026-01-25T21:15:06.929Z
+date: 2026-01-25T21:28:03.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:35:05.733Z
