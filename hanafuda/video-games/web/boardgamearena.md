@@ -1,19 +1,19 @@
 ---
 title: Board Game Arena
-description: 
+description: online multiplayer board game platform
 published: true
-date: 2026-01-25T23:16:56.849Z
+date: 2026-01-25T23:26:43.741Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T03:01:32.470Z
 ---
 
-_Board Game Arena_ is an online multiplayer tabletop game platform that also hosts a lot of hanafuda games. Most of them inlude an interactive tutorial.
+_Board Game Arena_ is a webbrowser-based platform for online multiplayer tabletop gaming, which also hosts a lot of hanafuda games.
 
-The web service is usable on both PC and mobile devices. Android also has a dedicated app. The interface includes crowdsourced translations in dozens of languages, making it one of the most international places to play hanafuda games online.
+The web service is usable on both PC and mobile devices. Android also has a dedicated app. It is one of the most international places to play hanafuda games online, with crowdsourced translations in dozens of languages, and active players from North America, Europe and Asia.
 
 ## List of hanafuda games
-Links to the game pages of each hanafuda game on the site:
+Links to the game pages of each hanafuda game on the site. Each includes an interactive tutorial.
 * [Go-Stop](https://boardgamearena.com/gamepanel?game=gostop), developed by ufm. (Fuda Wiki article: [Go-Stop](/en/hanafuda/games/go-stop))
 * [Hachihachi](https://boardgamearena.com/gamepanel?game=eightyeight), developed by konnok3. (Fuda Wiki article: [Hachi-Hachi](/en/hanafuda/games/hachi-hachi))
 * [Hawaiian Hanafuda](https://boardgamearena.com/gamepanel?game=sakura) (a.k.a. Sakura), developed by ufm. (Fuda Wiki article: [Sakura](/en/hanafuda/games/sakura))
