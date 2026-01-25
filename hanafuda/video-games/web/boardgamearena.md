@@ -2,7 +2,7 @@
 title: Board Game Arena
 description: online multiplayer board game platform
 published: true
-date: 2026-01-25T23:29:00.233Z
+date: 2026-01-25T23:32:29.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T03:01:32.470Z
@@ -24,7 +24,7 @@ Links to the game pages of each hanafuda game on the site.
 * [Roppyakken](https://boardgamearena.com/gamepanel?game=roppyakken), developed by ufm. (Fuda Wiki article: [Roppyakken](/en/hanafuda/games/roppyakken))
 * [Seotda](https://boardgamearena.com/gamepanel?game=seotda), developed by ufm. (Fuda Wiki article: [Seotda](/en/hanafuda/games/seotda))
 
-Each includes an interactive tutorial, which is also playable for non-members. An account is needed to play a game.
+Each includes an interactive tutorial, which is also playable for non-members. An account is needed to play a game. Both real-time and asynchronous ("turn-based") play are supported.
 
 ## Monetization
 The service has no ads. There are Premium subscriptions available that come with various perks. Some games have some restrictions for non-Premium members (always requiring at least one Premium member to take part in each match), but this is not the case for any hanafuda game.
