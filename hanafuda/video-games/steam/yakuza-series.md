@@ -2,7 +2,7 @@
 title: Yakuza/Like a Dragon series
 description: Video game series
 published: true
-date: 2026-01-24T01:11:14.953Z
+date: 2026-01-25T14:43:21.939Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T17:41:51.331Z
@@ -43,6 +43,7 @@ Yaku rule notes:
 Oicho-Kabu can be played either with kabufuda or hanafuda, depending on the game settings.
 
 # Terminology
+An overview and comparison of the hanafuda terminology used in the game.
 ## Koi-Koi
 
 | In-game Japanese       | In-game English       | Fuda Wiki term     |
