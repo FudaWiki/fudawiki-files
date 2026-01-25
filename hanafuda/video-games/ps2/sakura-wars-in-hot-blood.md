@@ -1,8 +1,8 @@
 ---
-title: sakura-wars-in-hot-blood
-description: 
+title: Sakura Wars: In Hot Blood
+description: video game for PlayStation 2
 published: true
-date: 2026-01-25T21:32:33.357Z
+date: 2026-01-25T21:34:06.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:33:32.852Z
