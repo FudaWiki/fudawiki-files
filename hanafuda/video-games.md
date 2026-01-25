@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-25T22:33:31.107Z
+date: 2026-01-25T22:34:06.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -22,7 +22,7 @@ For games on modern devices, see the following categories:
 * [PlayStation 5](#playstation-5)
 * [Switch](#switch)
 * [Switch 2](#switch-2)
-* [Xbox Series X/S](#xbox-series-x-and=series-s)
+* [Xbox Series X/S](#xbox-series-x-and-series-s)
 
 **Personal Computer**
 * [Linux](#linux)
