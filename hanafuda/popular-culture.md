@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2026-01-25T22:10:49.447Z
+date: 2026-01-25T22:17:36.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
@@ -31,11 +31,11 @@ Video games (that are not collections of games) where hanafuda or a hanafuda-der
 	This installment in Namco's "Tales" series features a minigame that is a modified interpretation of [Koi-Koi](/en/hanafuda/games/koi-koi). It uses a modified deck structure of 8 suits of 6 cards each, with 7 different categories of cards. Each card features a character portrait, and each suit represents one installment in the video game series.
 
 # References
-Media in which Hanafuda is made reference to
+Media in which hanafuda is shown or referenced.
 
 * [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, *Kimetsu no Yaiba*)  
   (A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.)
-  The protagonist's earrings are elongated hanafuda cards that resemble the [Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) card.
+  The protagonist's earrings are elongated hanafuda cards that resemble the [Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) card, but with a [rising sun](https://en.wikipedia.org/wiki/Rising_Sun_Flag) design.
   
 * [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball) (1986 animated series)
   The animated series has a filler episode called [The Rampage of InoShikaCho](https://dragonball.fandom.com/wiki/The_Rampage_of_InoShikaCho), featuring a monster called [InoShikaCho](https://dragonball.fandom.com/wiki/InoShikaCho) that looks like a purple boar with deer antlers and butterfly wings.
