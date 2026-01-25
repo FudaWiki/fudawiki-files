@@ -2,7 +2,7 @@
 title: Hanafuda Koi-Koi Collection
 description: Android/iOS video game
 published: true
-date: 2026-01-24T22:35:55.227Z
+date: 2026-01-25T14:43:41.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T22:35:55.227Z
@@ -64,6 +64,7 @@ The game shows ads before and after matches. At the end of a match, players can 
 There is no way to spend money to remove ads. The game can be played offline, so ads can be avoided by turning off the device's internet connection before opening the app.
 
 # Terminology
+An overview and comparison of the hanafuda terminology used in the game.
 
 | In-game Japanese         | In-game English       | Fuda Wiki term     |
 |--------------------------|-----------------------|--------------------|
