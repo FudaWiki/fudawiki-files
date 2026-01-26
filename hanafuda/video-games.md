@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-26T15:39:31.859Z
+date: 2026-01-26T15:51:57.836Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -185,7 +185,7 @@ A home video game console by Nintendo (1990-2003), known as Super Nintendo Enter
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
 ## [Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 A hybrid video game console by Nintendo (2017-present)
-* [Clubhouse Games: 51 Worldwide Classics (a.k.a. 51 Worldwide Games, <span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Clubhouse Games: 51 Worldwide Classics (a.k.a. 51 Worldwide Games, <span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
 * [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
@@ -255,7 +255,7 @@ A handheld game console by Nintendo (2011-2020)
 A handheld game console by Nintendo (2004-2011)
 * [1500DS Spirits Vol. 5: Hanafuda (<span lang='ja'>1500DS spirits Vol.5 花札</span>)](/en/hanafuda/video-games/ds/1500ds-spirits-vol-5-hanafuda)
 * [Card Game 9 (<span lang='ja'>カードゲーム９</span>)](/en/hanafuda/video-games/ds/card-game-9)
-* [Clubhouse Games (a.k.a. 42 All Time Classics, <span lang='ja'>だれでもアソビ大全</span>)](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Clubhouse Games (a.k.a. 42 All Time Classics, <span lang='ja'>だれでもアソビ大全</span>)](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Go Stop DS (<span lang='ja'>버들 맞고DS</span>)](/en/hanafuda/video-games/ds/go-stop-ds)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/ds/hanafuda-koi-koi)
 * [Ogwangui Darin DS (<span lang='ja'>오광의 달인 DS</span>)](/en/hanafuda/video-games/ds/ogwangui-darin-ds)
