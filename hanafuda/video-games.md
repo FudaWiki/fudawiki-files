@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-25T22:34:06.792Z
+date: 2026-01-26T15:39:31.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -185,7 +185,7 @@ A home video game console by Nintendo (1990-2003), known as Super Nintendo Enter
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
 ## [Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 A hybrid video game console by Nintendo (2017-present)
-* [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>](/en/hanafuda/video-games/switch/51-worldwide-games), a.k.a. Clubhouse Games: 51 Worldwide Classics) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Clubhouse Games: 51 Worldwide Classics (a.k.a. 51 Worldwide Games, <span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~--~ ~[Koi-Koi]~
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
 * [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
@@ -254,9 +254,8 @@ A handheld game console by Nintendo (2011-2020)
 ## [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS)
 A handheld game console by Nintendo (2004-2011)
 * [1500DS Spirits Vol. 5: Hanafuda (<span lang='ja'>1500DS spirits Vol.5 花札</span>)](/en/hanafuda/video-games/ds/1500ds-spirits-vol-5-hanafuda)
-* [42 All Time Classics (<span lang='ja'>42 All Time Classics</span>)](/en/hanafuda/video-games/ds/42-all-time-classics)
 * [Card Game 9 (<span lang='ja'>カードゲーム９</span>)](/en/hanafuda/video-games/ds/card-game-9)
-* [Daredemo Asobi Taizen (<span lang='ja'>だれでもアソビ大全</span>)](/en/hanafuda/video-games/ds/daredemo-asobi-taizen)
+* [Clubhouse Games (a.k.a. 42 All Time Classics, <span lang='ja'>だれでもアソビ大全</span>)](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) ~[English]~ ~--~ ~[Koi-Koi]~
 * [Go Stop DS (<span lang='ja'>버들 맞고DS</span>)](/en/hanafuda/video-games/ds/go-stop-ds)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/ds/hanafuda-koi-koi)
 * [Ogwangui Darin DS (<span lang='ja'>오광의 달인 DS</span>)](/en/hanafuda/video-games/ds/ogwangui-darin-ds)
@@ -430,9 +429,9 @@ A series of home computers by Commodore (1985-1994)
 ## [Steam](https://en.wikipedia.org/wiki/Steam_(service))
 PC gaming platform
 * [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) ~[English]~ ~--~ ~[Koi-Koi]~
-* [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) ~[English]~ ~--~ ~[Koi-Koi]~
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
+  * Spinoff: [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr) ~[English]~ ~[multiplayer]~ ~--~ ~[Go-Stop]~
 * [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) ~[English]~ ~--~ ~[original]~ - rogue-like card battler based on hanafuda
 * [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
@@ -547,7 +546,7 @@ A series of home computers by Sharp Corporation (1987-1993)
 * [Hanafuda Koi-Koi Collection (<span lang='ja'>花札こいこいコレクション</span>)](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection) ~[English]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
-  * Multiplayer version of the same game: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
+  * Multiplayer version: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
 ---
 * (no longer available) [Hanafuda Usagi 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
 * (no longer available) [Hanafuda Usagi Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
@@ -561,7 +560,7 @@ A series of PDAs by Casio
 * [Hanafuda Gēmu Dai Shūgō (<span lang='ja'>花札ゲーム大集合</span>)](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo) ~[free]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Bakappana]~ ~[Hachi-Hachi]~ ~[Sudaoshi]~ ~[Roppyakken]~ ~[Mushi]~
 * [Hanafuda Koi-Koi Collection (<span lang='ja'>花札こいこいコレクション</span>)](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection) ~[English]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
-  * Multiplayer version of the same game: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
+  * Multiplayer version: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Kiki's Koi-Koi](/en/hanafuda/video-games/ios/kikis-koi-koi) ~[English]~ ~[pass-and-play]~ ~--~ ~[Koi-Koi]~
 ---
 * (no longer available) [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
@@ -600,7 +599,7 @@ A series of PDAs by Sharp Corporation (1993-2007)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
 ## Web Browser
 All of these are [free].
-* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
+* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi) ~[Koi-Koi]~
 * [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>)](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
