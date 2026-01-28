@@ -2,7 +2,7 @@
 title: Koi-Koi Japan
 description: 
 published: true
-date: 2026-01-25T01:31:49.568Z
+date: 2026-01-28T00:09:43.399Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:58:31.176Z
@@ -14,16 +14,20 @@ The game includes both single player and online multiplayer modes. A DLC is avai
 
 # Gameplay and Rules
 
+> In-game terminology is provided between brackets after the corresponding Fuda Wiki term.
+{.is-info}
+
 ## Notes on Koi-Koi rules
 Most notable rules:
 * The Moon Viewing (*Tsukimizake*) and Flower Viewing (*Hanamizake*) yaku are worth only 1 point each. If you call Koi-Koi, their value is upgraded to 3 points each.
 * Calling Koi-Koi earns you additional points and multipliers, similar to in [Go-Stop](/en/hanafuda/games/go-stop). Calling Koi-Koi 1-3 times gives 1-3 bonus points respectively, and calling Koi-Koi 4-7 times will instead give a score multiplier of 2-5 times (increasing by one each time).
-* When the game ends in a draw, the non-dealer (*Ko*) pays 1 point to the dealer (*Oya*).
-* There are no score multipliers for having 7 or more points, or for winning after the opponent called Koi-Koi.
+* A Dealer Priviledge / Oyaken rule is used: when the game ends in a draw, the non-dealer (*Ko*) pays 1 point to the dealer (*Oya*).
+* There are no score multipliers for having 7 or more points, nor for winning after the opponent called Koi-Koi.
 
 Additional details:
 * Blue Ribbons (*Aotan*), Poetry Ribbons (*Akatan*), and Boar-Deer-Butterflies (*InoShikaCho*) are each worth a fixed 5 points, and can be combined with regular Animals and Ribbons yaku.
-* Red&Poetry Ribbons combines with the three other Ribbons yaku, effectively giving a 10 point bonus for having both Blue Ribbons and Poetry Ribbons.
+* The Blue & Poetry Ribbons yaku (*AkaAoGasane*) combines with the three other Ribbons yaku, effectively giving a 10 point bonus for having both Blue Ribbons and Poetry Ribbons.<!--video proof: https://www.youtube.com/watch?v=4cp_52bBkAk -->
+* The Bright yaku have Nintendo-style values (of 5, 7, 8 and 10 points for 3 Brights, Rainy 4 Brights, 4 Brights, and 5 Brights respectively).
 
 ## Notes on Hana-Awase rules
 The rules and yaku are very standard, with only minor differences from the [Hana-Awase](/en/hanafuda/games/hana-awase) article on Fuda Wiki.
