@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2026-01-25T14:40:51.524Z
+date: 2026-01-29T03:02:09.115Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -175,12 +175,15 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |[Oni](/newgames/oni_greyson), a.k.a. 270|2-8|Matching|
 ## Hanafuda Hawaii LLC
+[Hanafuda Hawaii](https://hanafudahawaii.com/) is a Hawaii-based playing card company focussed on hanafuda.
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Hanafuda Solitaire Novice Version](https://hanafudahawaii.com/2024/03/06/hanafuda-solitaire-novice-version/)|1-4|Patience|
-|[Hanafuda Solitaire Advanced Version](https://hanafudahawaii.com/2025/02/27/hanafuda-solitaire-advanced-version/)|1|Patience|
+|[Hanafuda Solitaire Novice Version](https://hanafudahawaii.com/2024/03/06/hanafuda-solitaire-novice-version/)|1-4|Solitaire|
+|[Hanafuda Solitaire Advanced Version](https://hanafudahawaii.com/2025/02/27/hanafuda-solitaire-advanced-version/)|1|Solitaire|
 ## IndianWolf Studios
-**The rules for these games can be found on the book, [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).**
+[IndianWolf Studios](https://indianwolfstudios.com/) is a two-person indie studio that creates board games, card games, playing cards, and digital games.
+
+The following are simplified versions of traditional games and fusion games based on Western card games, found in their book [Hanafuda Games: Sensu Edition](https://indianwolfstudios.com/product/hanafuda-games-sensu-edition/).
 |Game|Players|Family|
 |:---|:---:|---:|
 |Hachi (Simplified)|2|Fishing|
@@ -210,6 +213,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Tsuki-Ate|-|-|
 |Zei-kan|-|-|
 ## Junior
+Card games designed by Louie Mantia, Jr. for his playing card and game company [Junior](https://www.junior.cards/).
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Chotto! (Hey!)](https://www.junior.cards/chotto/)|2-4|Fishing|
@@ -217,6 +221,12 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[Kanpai (Cheers)](https://www.junior.cards/kanpai/)|2|Draw and Discard|
 |[Momiji (Maple)](https://www.junior.cards/momiji/)|2|Fishing|
 |[Para-Para (Pitter-patter)](https://www.junior.cards/para-para/)|2|Fishing|
+
+## Kiloline
+Independent Japanese mobile game developer
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Yaku-Narabe](/en/hanafuda/video-games/android-ios/hanafuda-yaku-narabe)|1|Solitaire|
 
 ## K.K. Corner and R. Whitbeck
 |Game|Players|Family|
@@ -233,12 +243,13 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Babanuki](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (old maid)|2+|Shedding|
-|[Shinkei Suijaku](/en/hanafuda/patterns/hana-cards#h-2-shinkei-suijaku-concentration) (concentration)|1+|Patience|
+|[Shinkei Suijaku](/en/hanafuda/patterns/hana-cards#h-2-shinkei-suijaku-concentration) (concentration)|1+|Solitaire|
 |[Doubt](/en/hanafuda/patterns/hana-cards#h-3-doubt) |2+|Shedding|
 |[Kazoku-awase](/en/hanafuda/patterns/hana-cards#h-4-kazoku-awase-happy-families) (happy families)|3+|Shedding|
 |[Unmei no Uranai](/en/hanafuda/patterns/hana-cards#h-5-unmei-no-uranai-destiny-fortune-telling) (fortune-telling)|1|Divination|
 
 ## Report Station
+Website for news and articles related to trains, tourism and leisure.
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Ino-Shika-Chō](/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
@@ -255,7 +266,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Koi-Fish|2-6|Quartet|
 |Po-Koi|2-5|Showdown|
 |[Quick Draw!](/newgames/quick_draw_v1.1.pdf)|2|Draw and Discard|
-|[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
+|[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Solitaire|
 ## Sem
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -275,11 +286,12 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Judge](/judge_v1.1.pdf)|2|War|
-|[Match-3 Solitaire](/match_3_solitaire.pdf)|1|Patience|
+|[Match-3 Solitaire](/match_3_solitaire.pdf)|1|Solitaire|
 |[Oh No!](/70_no_oh_no_v2.pdf)|2-6|Adding|
 |[Untitled 1](/this_is_some_game_that_i_made_up.pdf)|2-5|Matching|
 |[Untitled 2](/untitled_2.pdf)|2|Combat|
 ## Taipa Shijō-shugi
+Japanese tabletop game company specializing in fast-paced modern takes on classic games.
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Taipa Shijō-shugi Hanafuda](/newgames/taipa-hanafuda) (Time-efficient Hanafuda)|2|Fishing|
