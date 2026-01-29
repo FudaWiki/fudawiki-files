@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-29T03:04:55.479Z
+date: 2026-01-29T03:27:40.874Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -125,7 +125,7 @@ A home video game console by Sony (2000-2013)
 * [Table Games (Simple 2000 Series Vol. 1) (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/ps2/table-games-simple-2000-series-vol-1) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 ## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 A home video game console by Sony (2006-2017)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Ryu Ga Gotoku Kenzan! (<span lang='ja'>龍が如く 見参!</span>)
   * Ryu Ga Gotoku Ishin! (<span lang='ja'>龍が如く 維新！</span>)
   * Yakuza 0 (<span lang='ja'>龍が如く0 誓いの場所</span>)
@@ -137,7 +137,7 @@ A home video game console by Sony (2006-2017)
 A home video game console by Sony (2013-2024)
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Sakura Wars (<span lang='ja'>新サクラ大戦</span>)](/en/hanafuda/video-games/ps4/shin-sakura-taisen) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -155,7 +155,7 @@ A home video game console by Sony (2013-2024)
 ## [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5)
 A home video game console by Sony (2020-present)
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -189,10 +189,10 @@ A hybrid video game console by Nintendo (2017-present)
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
 * [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
-* [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
 ## [Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)
 A hybrid video game console by Nintendo (2025-present). All Switch 1 games listed right above are also compatible with Switch 2.
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Yakuza 0: Director's Cut (<span lang='ja'>龍が如く0 誓いの場所</span>)
   * Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)
   * Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)
@@ -206,7 +206,7 @@ A home video game console by Nintendo (2006-2013)
 * [Wi-Fi Taiou: Gensen Table Game Wii (<span lang='ja'>Wi-Fi対応 厳選テーブルゲームWii</span>)](/en/hanafuda/video-games/wii/wi-fi-taiou-gensen-table-game-wii)
 ## [Xbox One](https://en.wikipedia.org/wiki/Xbox_One)
 A home video game console by Microsoft (2013-2020)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
   * Like a Dragon: Pirate Yakuza in Hawaii (<span lang='ja'>龍が如く8外伝 Pirates in Hawaii</span>)
@@ -220,7 +220,7 @@ A home video game console by Microsoft (2013-2020)
   * Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)
 ## [Xbox Series X and Series S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 A line of home video game consoles by Microsoft (2020-present)
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
@@ -434,7 +434,7 @@ PC gaming platform
   * Spinoff: [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr) ~[English]~ ~[multiplayer]~ ~--~ ~[Go-Stop]~
 * [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) ~[English]~ ~--~ ~[original]~ - rogue-like card battler based on hanafuda
-* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
+* [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
   * Like a Dragon: Infinite Wealth (<span lang='ja'>龍が如く8</span>)
