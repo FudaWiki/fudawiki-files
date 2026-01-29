@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-26T15:51:57.836Z
+date: 2026-01-29T03:04:55.479Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -547,6 +547,7 @@ A series of home computers by Sharp Corporation (1987-1993)
 * [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
   * Multiplayer version: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
+* [Hanafuda Yaku-Narabe](/en/hanafuda/video-games/android-ios/hanafuda-yaku-narabe) ~[free]~ ~--~ ~[solitaire]~
 ---
 * (no longer available) [Hanafuda Usagi 2 (<span lang='ja'>花札 うさぎ ２</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-2)
 * (no longer available) [Hanafuda Usagi Koi-Koi (<span lang='ja'>花札うさぎ こいこい</span>)](/en/hanafuda/video-games/android/rabbits-hanafuda-koi-koi)
@@ -561,6 +562,7 @@ A series of PDAs by Casio
 * [Hanafuda Koi-Koi Collection (<span lang='ja'>花札こいこいコレクション</span>)](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection) ~[English]~ ~[free]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Miyabi (<span lang='ja'>花札MIYABI</span>)](/en/hanafuda/video-games/android-ios/hanafuda-miyabi) ~[free]~ ~--~ ~[Koi-Koi]~
   * Multiplayer version: [Hanafuda Online (<span lang='ja'>花札Online</span>)](/en/hanafuda/video-games/android-ios/hanafuda-online) ~[multiplayer]~ ~[free]~ ~--~ ~[Koi-Koi]~
+* [Hanafuda Yaku-Narabe](/en/hanafuda/video-games/android-ios/hanafuda-yaku-narabe) ~[free]~ ~--~ ~[solitaire]~
 * [Kiki's Koi-Koi](/en/hanafuda/video-games/ios/kikis-koi-koi) ~[English]~ ~[pass-and-play]~ ~--~ ~[Koi-Koi]~
 ---
 * (no longer available) [Hanafuda Japan (<span lang='ja'>愛本堂花札</span>)](/en/hanafuda/video-games/android-ios/hanafuda-japan)
