@@ -2,7 +2,7 @@
 title: Hanafuda Yaku-Narabe
 description: mobile solitaire video game
 published: true
-date: 2026-01-29T03:02:06.599Z
+date: 2026-01-29T03:34:09.177Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T03:02:06.599Z
@@ -19,13 +19,13 @@ Each turn, the player plays one card from their hand to a column of their choice
 
 At the end of a turn, if there is at least one card in each column, any yaku contained in the 5 cards in the top row are scored, and the top row of cards is removed. The cards right below them become the new top row.
 
-> When playing with real cards, it is probably easier to not remove completed rows, and score all rows at the end of the round. However, this would remove the memory skill element of the game.
+> When playing with real cards, it is easier to not remove completed rows, and score all rows at the end of the round. However, this would remove the memory skill element of the game.
 {.is-info}
 
 The round ends when all cards have been played to the playing area. Cards are resuffled and the next round begins. A game lasts 3, 6 or 12 rounds.
 
 ## Monthly bonus
-Cards of the month corresponding to the current round each give a score multiplier to the row they are in. Multiple montly bonus cards in the same row increase the multiplier. (For example, in the first round this would apply to all January (pine) cards, and in the second round to all February (plum blossom) cards. The in-game interface displays the current month in the top left corner.)
+Cards of the month corresponding to the current round each give a score multiplier to the row they are in. Multiple montly bonus cards in the same row increase the multiplier. (For example, in the first round this would apply to all January/pine cards, and in the second round to all February/plum blossom cards. The in-game interface displays the current month in the top left corner.)
 
 Multipliers:
 
@@ -33,6 +33,9 @@ Multipliers:
 * 2 bonus cards - yaku score ×3
 * 3 bonus cards - yaku score ×4
 * 4 bonus cards - yaku score ×5
+
+> All yaku in the same row as the monthly bonus card(s) get the multiplier, regardless of whether the bonus card contributes to the yaku or not.
+{.is-info}
 
 # Yaku
 The Bright-only yaku are mutually exclusive, but other than that, all yaku **stack**: the player scores for all the yaku in a completed row of cards.
