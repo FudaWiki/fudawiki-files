@@ -1,14 +1,14 @@
 ---
-title: isseki-hacchou-kore-1-pon-de-8-shurui
-description: 
+title: Isseki Hacchou: Kore 1-pon de 8 Shurui!
+description: video game for Game Boy Advance
 published: true
-date: 2026-01-30T01:26:41.753Z
+date: 2026-01-30T01:31:12.178Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:28:20.204Z
 ---
 
-_Isseki Hacchou: Kore 1-pon de 8 Shurui!_ (<span lang='ja'>一石八鳥 これ1本で8種類！</span>, "Eight birds with one stone: 8 types with this one title!") is a GBA game published in 2002 by Konami. It was developed by Konami Studio. The game features [Koi-Koi](/en/hanafuda/games/koi-koi) and [Hana-Awase](/en/hanafuda/games/hana-awase), alongside 2 mahjong games and 4 games with Western playing cards.
+_Isseki Hacchou: Kore 1-pon de 8 Shurui!_ (<span lang='ja'>一石八鳥 これ1本で8種類！</span>, "Eight birds with one stone: 8 types with this one title!") is a video game for the Nintendo Game Boy Advance, published in 2002 by Konami. It was developed by Konami Studio. The game features [Koi-Koi](/en/hanafuda/games/koi-koi) and [Hana-Awase](/en/hanafuda/games/hana-awase), alongside 2 mahjong games and 4 games with Western playing cards.
 
 # Gameplay and rules
 The game has both single-player and multiplayer modes. CPU opponents have 3 difficulty levels, and hanafuda games have game length options for 4, 8 or 12 rounds.
