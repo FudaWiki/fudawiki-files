@@ -2,7 +2,7 @@
 title: List of Kabufuda Video Games
 description: 
 published: true
-date: 2026-01-29T03:25:24.471Z
+date: 2026-01-30T12:16:13.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-18T02:20:46.587Z
@@ -25,6 +25,7 @@ Games are marked with the following tags. You can copy-paste them and do a text 
 
 ### Playable kabufuda games
 * `[Kachi-Kachi]` (main article [here](/en/kabufuda/games/kachi-kachi))
+* `[Kyo-Kabu]` (main article [here](/en/kabufuda/games/kyo-kabu))
 * `[Oicho-Kabu]` (main article [here](/en/kabufuda/games/oicho-kabu))
 # Home Video Game Console
 ## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
@@ -51,3 +52,6 @@ Games are marked with the following tags. You can copy-paste them and do a text 
 * [Mobairu Oicho-Kabu (モバイルおいちょかぶ)](/en/kabufuda/video-games/android-ios/mobairu-oicho-kabu) ~[Free]~ ~--~ ~[Oicho-Kabu]~ ~[Kachi-Kachi]~
 ## iOS
 * [Mobairu Oicho-Kabu (モバイルおいちょかぶ)](/en/kabufuda/video-games/android-ios/mobairu-oicho-kabu) ~[Free]~ ~--~ ~[Oicho-Kabu]~ ~[Kachi-Kachi]~
+
+# Web Browser
+* [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Free]~ ~--~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
