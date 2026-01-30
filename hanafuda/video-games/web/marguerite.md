@@ -2,7 +2,7 @@
 title: Shiragiku Hanafuda
 description: web game by Marguerite
 published: true
-date: 2026-01-30T10:56:30.098Z
+date: 2026-01-30T14:13:24.870Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:59:26.511Z
@@ -41,4 +41,4 @@ The game is a collection of 9 different hanafuda games, of which 5 have customiz
 # External links
 * [Mirror](https://marguerite.gingerbeardman.com/Games/Marguerite_Hanafuda/) of the game
 	* [Blogpost](https://blog.gingerbeardman.com/2023/06/23/preserving-the-marguerite-hanafuda-browser-game/) explaining the mirror
-* [Archive of documentation](https://marguerite.gingerbeardman.com/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/index.html) (in Japanese), with detailed explanations written by the developer
+* [Archive of documentation](https://web.archive.org/web/20220327090944/https://www.marguerite.jp/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/index.html) (in Japanese), with detailed explanations written by the developer
