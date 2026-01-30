@@ -2,7 +2,7 @@
 title: List of Kabufuda Video Games
 description: 
 published: true
-date: 2026-01-30T12:16:13.819Z
+date: 2026-01-30T12:17:25.395Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-18T02:20:46.587Z
@@ -53,5 +53,6 @@ Games are marked with the following tags. You can copy-paste them and do a text 
 ## iOS
 * [Mobairu Oicho-Kabu (モバイルおいちょかぶ)](/en/kabufuda/video-games/android-ios/mobairu-oicho-kabu) ~[Free]~ ~--~ ~[Oicho-Kabu]~ ~[Kachi-Kachi]~
 
-# Web Browser
+# Other
+## Web Browser
 * [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Free]~ ~--~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
