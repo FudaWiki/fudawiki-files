@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-29T03:27:40.874Z
+date: 2026-01-30T11:00:13.355Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -605,7 +605,7 @@ All of these are [free].
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi) ~[Koi-Koi]~
 * [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>)](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
-* [Marguerite (<span lang='ja'>Marguerite</span>)](/en/hanafuda/video-games/web/marguerite) ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
+* [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
 ---
 * (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) ~[English]~
 * (no longer available) [Koi-Koi Hanafuda (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda)
