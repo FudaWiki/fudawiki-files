@@ -1,8 +1,8 @@
 ---
-title: Marguerite
-description: 
+title: Shiragiku Hanafuda
+description: web game by Marguerite
 published: true
-date: 2026-01-30T10:55:52.127Z
+date: 2026-01-30T10:56:30.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:59:26.511Z
