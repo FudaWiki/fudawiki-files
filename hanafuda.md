@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2025-12-11T02:36:17.954Z
+date: 2026-01-31T02:58:54.523Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 ***Hanafuda*** [花札] or *Hana-karuta* [花かるた], lit. “flower cards,” are Japanese [karuta](/en/karuta) (playing cards) used to play a wide variety of games, similarly to the standard [Western playing card](/en/trump) [トランプ, 'trump'] format. Unlike **Western playing cards**, which consist of **4 suits of 13 cards each**, however, the standard **hanafuda** deck consists of **12 suits of 4 cards each**.
 
-**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year, is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
+**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year,[^1] is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
 
 >For a list of different hanafuda variations and how they differ from the standard pattern, see [Hanafuda Variations](/en/hanafuda/patterns). 
 {.is-info}
@@ -28,7 +28,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 # Composition
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
-|#|Month|Icon|Plant|Bright|Animal|Ribbon|Chaff|
+|#|Month[^1]|Icon|Plant|Bright|Animal|Ribbon|Chaff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|![10.svg](/sheldonchen-cards/10.svg#hanafuda-card =80x)|-|![11.svg](/sheldonchen-cards/11.svg#hanafuda-card =80x)|![12.svg](/sheldonchen-cards/12.svg#hanafuda-card =80x)![13.svg](/sheldonchen-cards/13.svg#hanafuda-card =80x)|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|-|![20.svg](/sheldonchen-cards/20.svg#hanafuda-card =80x)|![21.svg](/sheldonchen-cards/21.svg#hanafuda-card =80x)|![22.svg](/sheldonchen-cards/22.svg#hanafuda-card =80x)![23.svg](/sheldonchen-cards/23.svg#hanafuda-card =80x)|
@@ -61,7 +61,7 @@ Typically, there are 4 types of cards:
 
 - **Ribbons** [短冊, *tanzaku*] - Also known as Scrolls, Slips, Strips, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku** on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
 
-- **Animals** [たね, *tane*, possibly meaning 'subject'] - Also called Seeds or Tens [十, *tou*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
+- **Animals** [たね, *tane*, possibly meaning 'subject'] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
 
 - **Brights** [光, *hikari*] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The **Crane**, the **Curtain**, the **Full Moon**, the **Rainman**, and the **Phoenix**.
 
@@ -78,7 +78,7 @@ Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 c
 
 However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
 
-In addition, typically most modern hanafuda decks include a blank card called *shirofuda* [白札], which is used for many purposes, but can be used as a Wild Card in games that require one outside of the 48-card deck.
+In addition, typically most modern hanafuda decks include a blank card called *shirofuda* [白札], which is used for various purposes, but can be used as a Wild Card in games that require one outside of the 48-card deck.
 
 # Using Hanafuda as a Substitute for Other Decks
 
@@ -86,7 +86,7 @@ In addition, typically most modern hanafuda decks include a blank card called *s
 Since most [Kabufuda](/en/kabufuda) games use only the numbers on the cards, A hanafuda deck can be used to play Kabufuda games, since each flower represents a **month** of the year, which corresponds to a **number** in a kabufuda deck. In games where special cards are used, Bright cards are typically used as their substitute.
 
 ## As a Mekurifuda Substitute
-Hanafuda decks can and have been used to play Mekuri-kei fishing games. It is for this reason that theory that Hanafuda was used as a substitute for [Mekurifuda](/en/mekurifuda) after they have been banned by the government was created.
+Hanafuda decks can and have been used to play Mekuri-kei fishing games. This is why the theory was created that hanafuda were used as a substitute for [Mekurifuda](/en/mekurifuda) after they were banned by the government.
 
 > However, historical evidence suggests that games using Hanafuda and games using Mekurifuda decks coexisted in the Kamigata region of Japan. There is also another theory that Mekurifuda were used as a substitute for playing hanafuda games, not the other way around. 
 {.is-warning}
@@ -127,3 +127,6 @@ The **Rainman** corresponds to the **2 of Coins**.
 
 # Bibliography
 - https://japanplayingcardmuseum.com/3-4-1-3-anothertenshocarta-game-modernjapan/
+
+# Footnotes
+[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar](https://en.wikipedia.org/wiki/Japanese_calendar#Months), which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*)](https://en.wikipedia.org/wiki/Tsukimi). The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November, or even early December.
