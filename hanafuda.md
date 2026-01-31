@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-01-31T02:58:54.523Z
+date: 2026-01-31T03:00:26.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -129,4 +129,4 @@ The **Rainman** corresponds to the **2 of Coins**.
 - https://japanplayingcardmuseum.com/3-4-1-3-anothertenshocarta-game-modernjapan/
 
 # Footnotes
-[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar](https://en.wikipedia.org/wiki/Japanese_calendar#Months), which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*)](https://en.wikipedia.org/wiki/Tsukimi). The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November, or even early December.
+[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar,](https://en.wikipedia.org/wiki/Japanese_calendar#Months) which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*).](https://en.wikipedia.org/wiki/Tsukimi) The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November, or even early December.
