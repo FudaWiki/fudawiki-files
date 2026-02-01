@@ -2,7 +2,7 @@
 title: Hanafuda Yaku-Narabe
 description: mobile solitaire video game
 published: true
-date: 2026-01-31T02:54:47.169Z
+date: 2026-02-01T00:42:54.026Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T03:02:06.599Z
@@ -37,6 +37,14 @@ Multipliers:
 
 > All yaku in the same row as the monthly bonus card(s) get the multiplier, regardless of whether the bonus card contributes to the yaku or not.
 {.is-info}
+
+## Goal
+
+The goal is to get a score as high as possible, and improve your own high scores.
+
+There are also [achievements](#achievements) to aim for, which consist mostly of completing specific yaku a certain number of times over all games, or achieving an impressive score a certain number of times.
+
+Based on those achievements, getting a score of 300 points in a single round is considered impressive, as is getting an average of 200 points per round over an entire game (600 points total for 3 rounds, 1200 points total for 6 rounds, 2400 points total for 12 rounds).
 
 # Yaku
 The Bright-only yaku are mutually exclusive, but other than that, all yaku **stack**: the player scores for all the yaku in a completed row of cards.
@@ -97,7 +105,7 @@ The main menu looks as follows:
 |◀　3/6/12ヵ月　▶<br>3/6/12 months (game length)|||
 |初めから開始<br>[New game](#starting-a-new-game)|||
 |続きから開始<br>Continue game|||
-|遊び方<br>How to play|役一覧<br>Yaku overview|実績<br>Achievements<!--[Achievements](#achievements)-->|
+|遊び方<br>How to play|役一覧<br>Yaku overview|実績<br>[Achievements](#achievements)|
 
 If there is an on-going game saved, there is some text below the "Continue game" button showing the current game length setting, and whether an ad was watched for double achievement points (実績2倍**有り**) or not (実績2倍**無し**).
 
@@ -135,11 +143,81 @@ The options menu looks as follows:
 |背景色<br>Background<br>color|◀　緑/青/紺/黒/紫/赤/黄　▶<br>green/blue/navy/black<br>/purple/red/yellow||
 |場札<br>Field cards|◀　通常 / 小　▶<br>normal/small<br>(size of stacked cards)||
 |遊び方<br>How to play|役一覧<br>Yaku overview|素材元<br>Resource credits|
-|実績<br>Achievements|記録<br>Top scores|他のゲーム<br>Other games|
+|実績<br>[Achievements](#achievements)|記録<br>Top scores|他のゲーム<br>Other games|
 |ゲームを再開する<br>Continue playing|||
 |タイトル画面に戻る<br>Return to [main menu](#main-menu)|||
 
-<!--## Achievements-->
+## Achievements
+There are 131 achievements divided over 15 pages. At the top, 達成済実績 ("completed achievements") shows how many you have already completed. Uncompleted achievement show how many times you have already performed a certain action, and how many times you need to perform it to get the achievement. Completed achievements are shown in yellow text and have 達成済 ("completed") next to them.
+
+Tap the text at the very bottom to return to the previous screen.
+
+### List of all achievements
+
+Page 1
+* Complete "Five Brights" 5/50 times
+* Complete "Four Brights" 10/100 times
+* Complete "Rainy Four Brights" 10/100 times
+* Complete "Three Brights" 10/50/200 times
+
+Page 2
+* Complete "Flower Viewing" 10/100/300 times
+* Complete "Moon Viewing" 10/100/300 times
+* Complete "Boar-Deer-Butterflies" 10/50/200 times
+
+Page 3
+* Complete "Front Sugawara" 10/50/200 times
+* Complete "Flying Birds" 5/20/50 times
+* Complete "Field Flowers" 5/20/50 times
+
+Page 4
+* Complete "Grass Wind" 5/20/100 times
+* Complete "Poetry Ribbons" 10/50/200 times
+* Complete "Blue Ribbons" 10/50/200 times
+
+Page 5
+* Complete "Four Wisterias" 5/20/50 times
+* Complete "Four Rains" 5/20/50 times
+* Complete "Four Paulownias" 5/20/50 times
+
+Page 6
+* Complete "Pines Lined Up" 10/50/200 times
+* Complete "Plum Trees  Lined Up" 10/50/200 times
+* Complete "Cherry Trees Lined Up" 10/50/200 times
+
+Page 7
+* Complete "Wisterias Lined Up" 10/50/200 times
+* Complete "Irises  Lined Up" 10/50/200 times
+* Complete "Peonies Lined Up" 10/50/200 times
+
+Page 8
+* Complete "Bush Clovers Lined Up" 10/50/200 times
+* Complete "Susuki Grass  Lined Up" 10/50/200 times
+* Complete "Chrysanthemums Lined Up" 10/50/200 times
+
+Page 9
+* Complete "Maples Lined Up" 10/50/200 times
+* Complete "Wild Card" 10/50/200 times
+* Complete "Paulownias Lined Up" 10/50/200 times
+
+Page 10
+* Complete "Animals" 10/50/200 times
+* Complete "Ribbons" 10/50/200 times
+* Complete "Chaff" 50/200/800 times
+
+Page 11
+* Get over 300 points in a single round 1/5/10/20/50 times
+* Get more than 600 points total in a 3-round game 1/5/10/20 times
+
+Page 12
+* Get more than 1200 points total in a 6-round game 1/5/10/20 times
+* Get more than 2400 points total in a 12-round game 1/5/10/20 times
+
+Page 13: Finish a 3-round game 1/5/10/20/40/60/80/100 times
+
+Page 14: Finish a 6-round game 1/5/10/20/40/60/80/100 times
+
+Page 15: Finish a 12-round game 1/5/10/20/40/60/80/100 times
 
 # External links
 * [iOS App Store](https://apps.apple.com/us/app/%E8%8A%B1%E6%9C%AD%E5%BD%B9%E4%B8%A6%E3%81%B9/id6748336128)
