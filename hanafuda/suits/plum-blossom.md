@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-03T00:53:41.058Z
+date: 2026-02-03T14:26:58.091Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -32,11 +32,14 @@ In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warble
 # Cultural significance
 In East Asia, plum blossoms are among the very first flowers of the year, announcing the end of winter and the start of spring. Because they bloom despite the cold, they symbolize endurance in China. They are one of the most important flowers in Chinese culture, closely connected with art and literature, which in turn influenced Japanese and Korean art and literature.
 
-In Japan, bush warblers and plum blossoms are traditionally considered to fit together very well, to the point that "plum blossoms with bush warbler" [梅に鶯, *ume ni uguisu*] is a saying that means "a great combination". Making reference to "the season of plum blossoms and bush warblers" [梅鶯の候, *baiō no kō*] is a seasonal greeting to start a formal Japanese letter with in early spring, around February.
+In Japan, bush warblers are also associated with the coming of spring, being known as "bird that announces the arrival of spring" [春告鳥 - *harutsugedori*]. Bush warblers and plum blossoms are traditionally considered to fit together very well, to the point that "plum blossoms with bush warbler" [梅に鶯 - *ume ni uguisu*] is a saying that means "a great combination". Making reference to "the season of plum blossoms and bush warblers" [梅鶯の候 - *baiō no kō*] is a seasonal greeting to start a formal Japanese letter with in early spring, around February.
 
-Plum trees are also well known for their fruit, which are used to make [*umeboshi* (pickled plums)](https://en.wikipedia.org/wiki/Umeboshi), a sour and salty staple of Japanese breakfast and lunch.
+Plum trees are also well known for their fruit, which are used to make [*umeboshi* (pickled plums),](https://en.wikipedia.org/wiki/Umeboshi) a sour and salty staple of Japanese breakfast and lunch.
+
+In Japanese poetry, where [seasonal words [季語 - *kigo*]](https://en.wikipedia.org/wiki/Kigo) are commonly used to indicate in which time of year a poem takes place, plum and bush warbler are both words that indicate early spring.
 
 # Bibliography
 * Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102. 
 * Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
 * [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ！２月札『梅に鶯』](https://www.tengudo.jp/blog/flower-news/708.html),” blog post, August 2014.
+* [List of kigo](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) on Wikipedia
