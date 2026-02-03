@@ -2,7 +2,7 @@
 title: Cherry Blossom
 description: The third suit in hanafuda, representing March or the number 3
 published: true
-date: 2026-02-03T22:52:46.078Z
+date: 2026-02-03T22:56:40.782Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:05.030Z
@@ -22,7 +22,7 @@ In Six Hundred, when captured alongside the other cards of its suit, it forms "C
 ![32.svg](/sheldonchen-cards/32.svg#float-right,hanafuda-card =150x)![33.svg](/sheldonchen-cards/33.svg#float-right,hanafuda-card =150x)The two Chaff cards of this suit feature upward-branching cherry blossoms, usually pink and red in color. As with many other suits, these cards are often visually weighted in opposite directions from one another, one to the left and one to the right.
 
 # Cultural significance
-Cherry blossoms are the national flower of Japan, featuring prominently in art, literature, and decorative motifs. Because they bloom rather shortly and are easily blown away by strong wind or washed away by rain, they symbolize emphemeral beauty. It reminds that life is short, and to focus on the present.
+Cherry blossoms are the national flower of Japan, featuring prominently in art, literature, and decorative motifs. Because they bloom rather shortly and are easily blown away by strong wind or washed away by rain, they symbolize emphemeral beauty. It reminds that life is short, and to focus on the present. They tend to bloom in the third month of the old lunar calendar, which is actually in April in the modern calendar.
 
 Both the [Curtain card](#flower-viewing-curtain) and the common Flower Viewing yaku are references to the [flower viewing festival](https://en.wikipedia.org/wiki/Hanami) [花見 - *hanami*], which are open-air picknicks and parties that are commonly held under the blooming cherry (or sometimes plum) trees in spring. Historically, people would tie a rope between cherry trees to hang a curtain on it (or sometimes an ornate kimono), to mark it as the meeting place for a flower viewing party and shield it from the wind. This custom is said to originate from nobles of the Heian period (9th-12th centuries), but it spread to common people in the Edo period (17th-19th centuries), which in turn may have influenced early hanafuda. Nowadays these curtains are no longer used.
 
