@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-03T15:14:33.413Z
+date: 2026-02-03T22:25:31.426Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -42,5 +42,7 @@ Plum trees are also well known for their fruit, which are used to make [*umebosh
 * Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102. 
 * Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
 * [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ！２月札『梅に鶯』](https://www.tengudo.jp/blog/flower-news/708.html),” blog post, August 2014.
+* Hanafuda Hawaii, “[Symbols and Motifs in Hanafuda](https://hanafudahawaii.com/2025/03/10/symbols-and-motifs-in-hanafuda/),” March 2025.
+* Steve Phillips, “[Introduction to hanafuda cards](https://steve-p.org/cards/Hana.html),” 2020.
 * [List of *kigo*](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) (*Kigo* overview) on Wikipedia
 * [時候の挨拶一覧](https://ja.wikipedia.org/wiki/%E6%99%82%E5%80%99%E3%81%AE%E6%8C%A8%E6%8B%B6%E4%B8%80%E8%A6%A7) (Seasonal greetings overview) on Wikipedia
