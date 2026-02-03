@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-03T14:48:15.542Z
+date: 2026-02-03T14:51:40.966Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -36,11 +36,11 @@ In Japan, bush warblers are also associated with the coming of spring, being kno
 
 Plum trees are also well known for their fruit, which are used to make [*umeboshi* (pickled plums),](https://en.wikipedia.org/wiki/Umeboshi) a sour and salty staple of Japanese breakfast and lunch.
 
-In Japanese poetry, where [seasonal words [季語 - *kigo*]](https://en.wikipedia.org/wiki/Kigo) are commonly used to indicate in which time of year a poem takes place, plum and bush warbler are both words that indicate early spring. When writing a letter, traditional seasonal greetings for February include "the season of plum blossoms" [梅花の候 - *baika no kō*], "the season of plum and bush warblers" [梅鶯の候 - *baiō no kō*], and "the plum blossom buds will open any time now" [梅のつぼみもそろそろ膨らみ - *ume no tsubomi mo soro-soro fukurami*].
+In Japanese poetry, plum and bush warbler are both [seasonal words [季語 - *kigo*]](https://en.wikipedia.org/wiki/Kigo) that indicate that a poem takes place in early spring. When writing a letter, traditional seasonal greetings for February include "the season of plum blossoms" [梅花の候 - *baika no kō*], "the season of plum and bush warblers" [梅鶯の候 - *baiō no kō*], and "the plum blossom buds will open any time now" [梅のつぼみもそろそろ膨らみ - *ume no tsubomi mo soro-soro fukurami*].
 
 # Bibliography
 * Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102. 
 * Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
 * [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ！２月札『梅に鶯』](https://www.tengudo.jp/blog/flower-news/708.html),” blog post, August 2014.
-* [List of *kigo*](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) (*kigo* overview) on Wikipedia
-* [時候の挨拶一覧](https://ja.wikipedia.org/wiki/%E6%99%82%E5%80%99%E3%81%AE%E6%8C%A8%E6%8B%B6%E4%B8%80%E8%A6%A7) (seasonal greetings overview) on Wikipedia
+* [List of *kigo*](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) (*Kigo* overview) on Wikipedia
+* [時候の挨拶一覧](https://ja.wikipedia.org/wiki/%E6%99%82%E5%80%99%E3%81%AE%E6%8C%A8%E6%8B%B6%E4%B8%80%E8%A6%A7) (Seasonal greetings overview) on Wikipedia
