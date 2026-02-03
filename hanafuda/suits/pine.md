@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2026-02-03T15:23:32.107Z
+date: 2026-02-03T22:16:52.377Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:26.307Z
@@ -39,6 +39,8 @@ The pine tree and the crane are both East Asian symbols for long life and long-l
 
 While cranes and pines are rarely seen together in nature, they were commonly depicted together in Chinese paintings because of their overlapping symbolism -- a motif that also became popular among Japanese painters of the Edo period (17th-19th centuries), right when early precursors of hanafuda were first made. (See: [The Origins of Hanafuda](https://fudawiki.org/en/mekurifuda/history#the-origins-of-hanafuda))
 
+In Japanese poetry, crane is a [seasonal word [季語 - *kigo*]](https://en.wikipedia.org/wiki/Kigo) that indicates that a poem takes place in winter.
+
 <small>Depicted on the right: *Crane in pine tree at sunrise*, a painting by Utagawa Hiroshige, Japan, 1850s, public domain.</small>
 
 # Bibliography
@@ -47,3 +49,5 @@ While cranes and pines are rarely seen together in nature, they were commonly de
 * Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
 * Lee Geon-eom, “[알고나 치자, 국민놀이 ‘화투’](https://www.ftoday.co.kr/news/articleView.html?idxno=44015),” The Financial News, September 2015.
 * Park Myeong-seong, “[설날. 화투의 진실을 말한다...1월 송학. 학은 장수와 가족의 건강에 대한 염원을 기원의 의미](https://www.msnews.co.kr/news/articleView.html?idxno=15490),” Seoul City Administration Daily, June 2016.
+* Hanafuda Hawaii, [Symbols and Motifs in Hanafuda](https://hanafudahawaii.com/2025/03/10/symbols-and-motifs-in-hanafuda/)
+* [List of *kigo*](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) (*Kigo* overview) on Wikipedia
