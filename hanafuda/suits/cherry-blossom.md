@@ -2,7 +2,7 @@
 title: Cherry Blossom
 description: The third suit in hanafuda, representing March or the number 3
 published: true
-date: 2022-04-10T15:22:20.668Z
+date: 2026-02-03T01:34:03.816Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:05.030Z
@@ -21,3 +21,12 @@ In Six Hundred, when captured alongside the other cards of its suit, it forms "C
 # Chaff
 ![32.svg](/sheldonchen-cards/32.svg#float-right,hanafuda-card =150x)![33.svg](/sheldonchen-cards/33.svg#float-right,hanafuda-card =150x)The two Chaff cards of this suit feature upward-branching cherry blossoms, usually pink and red in color. As with many other suits, these cards are often visually weighted in opposite directions from one another, one to the left and one to the right.
 
+# Cultural significance
+Cherry blossoms are the national flower of Japan, featuring prominently in art, literature, and decorative motifs. Because they bloom rather shortly and are easily washed away by rain, they symbolize transient beauty.
+
+Both the [Curtain card](flower-viewing-curtain) and the common Flower Viewing yaku are references to the [flower viewing festival](https://en.wikipedia.org/wiki/Hanami) [花見 - *hanami*], which are open-air picknicks and parties that are commonly held under the blooming cherry (or sometimes plum) trees in spring. Historically, people would tie a rope between cherry trees to hang a curtain on it (or sometimes an ornate kimono), to mark it as the meeting place for a flower viewing party. This custom is said to originate from nobles of the Heian period (9th-12th centuries), but it spread to common people in the Edo period (17th-19th centuries), which in turn may have influenced early hanafuda.
+
+# Bibliography
+* [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ ！３月札『桜に幕』前篇](https://www.tengudo.jp/blog/karuta-news/779.html),” blog post, August 2014.
+* [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ ！３月札『桜に幕』後編](https://www.tengudo.jp/blog/flower-news/792.html),” blog post, December 2014.
+* Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
