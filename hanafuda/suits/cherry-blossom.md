@@ -2,7 +2,7 @@
 title: Cherry Blossom
 description: The third suit in hanafuda, representing March or the number 3
 published: true
-date: 2026-02-03T01:34:03.816Z
+date: 2026-02-03T01:36:14.993Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:05.030Z
@@ -24,7 +24,7 @@ In Six Hundred, when captured alongside the other cards of its suit, it forms "C
 # Cultural significance
 Cherry blossoms are the national flower of Japan, featuring prominently in art, literature, and decorative motifs. Because they bloom rather shortly and are easily washed away by rain, they symbolize transient beauty.
 
-Both the [Curtain card](flower-viewing-curtain) and the common Flower Viewing yaku are references to the [flower viewing festival](https://en.wikipedia.org/wiki/Hanami) [花見 - *hanami*], which are open-air picknicks and parties that are commonly held under the blooming cherry (or sometimes plum) trees in spring. Historically, people would tie a rope between cherry trees to hang a curtain on it (or sometimes an ornate kimono), to mark it as the meeting place for a flower viewing party. This custom is said to originate from nobles of the Heian period (9th-12th centuries), but it spread to common people in the Edo period (17th-19th centuries), which in turn may have influenced early hanafuda.
+Both the [Curtain card](#flower-viewing-curtain) and the common Flower Viewing yaku are references to the [flower viewing festival](https://en.wikipedia.org/wiki/Hanami) [花見 - *hanami*], which are open-air picknicks and parties that are commonly held under the blooming cherry (or sometimes plum) trees in spring. Historically, people would tie a rope between cherry trees to hang a curtain on it (or sometimes an ornate kimono), to mark it as the meeting place for a flower viewing party. This custom is said to originate from nobles of the Heian period (9th-12th centuries), but it spread to common people in the Edo period (17th-19th centuries), which in turn may have influenced early hanafuda.
 
 # Bibliography
 * [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ ！３月札『桜に幕』前篇](https://www.tengudo.jp/blog/karuta-news/779.html),” blog post, August 2014.
