@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2026-02-02T23:54:34.086Z
+date: 2026-02-03T15:23:32.107Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:26.307Z
@@ -35,7 +35,7 @@ In the [Echigo-Bana](/en/hanafuda/patterns/echigobana) pattern, each of these wi
 
 Pines, cranes and rising suns all commonly feature in Japanese New Year's decorations, making them very appropriate for the first month of hanafuda. For example, *kadomatsu* (門松, literally "gate pine", emoji: <big>🎍</big>) are traditional decorations with bamboo stalks and pine branches that are placed at the entrances of houses and buildings for good luck in the New Year. The red sun in the crane card's background is meant to be the first rising sun of the New Year.
 
-The pine tree and the crane are both East Asian symbols long life and long-lasting youth. Pines have that association because they keep looking healthy and green even in winter. Red-crowned cranes were ascribed spiritual meaning in China, traditionally being considered the most important bird after the phoenix in Chinese culture and mythology. It was said that cranes live a thousand years.
+The pine tree and the crane are both East Asian symbols for long life and long-lasting youth. Pines have that association because they keep looking healthy and green even in winter. Red-crowned cranes were ascribed spiritual meaning in China, traditionally being considered the most important bird after the phoenix in Chinese culture and mythology. It was said that cranes live a thousand years.
 
 While cranes and pines are rarely seen together in nature, they were commonly depicted together in Chinese paintings because of their overlapping symbolism -- a motif that also became popular among Japanese painters of the Edo period (17th-19th centuries), right when early precursors of hanafuda were first made. (See: [The Origins of Hanafuda](https://fudawiki.org/en/mekurifuda/history#the-origins-of-hanafuda))
 
