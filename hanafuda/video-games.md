@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-02-05T10:46:20.779Z
+date: 2026-02-05T12:13:19.341Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -605,13 +605,13 @@ All of these are [free].
 * [Hanafuda Flash](/en/hanafuda/video-games/web/hanafuda-flash) by GameDesign.jp ~[English]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi) ~[Koi-Koi]~
   * Different version: [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
+* [Hanafuda Legends](/en/hanafuda/video-games/web/hanafuda-legends) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda.Online](/en/hanafuda/video-games/web/hanafuda-online) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>) by MasunakaSoft](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Koi-Koi by Otakode](/en/hanafuda/video-games/web/otakode) ~[English]~ ~--~ ~[Koi-Koi]~
 * [NewHanafuda.art](/en/hanafuda/video-games/web/newhanafuda-art) ~[English]~ ~[multilingual]]~ ~--~ ~[Koi-Koi]~
   * Previous version: [Let's Play Koi-Koi](/en/hanafuda/video-games/web/lets-play-koi-koi) ~[English]~ ~--~ ~[Koi-Koi]~
 * [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
-* [Hanafuda Legends](https://www.hanafudalegends.com/) (花札レジェンズ) ~[English]~ ~[multiplayer]~ ~[Koi-Koi]~
 ---
 * (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) ~[English]~
 * (no longer available) [Koi-Koi Hanafuda (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda)
