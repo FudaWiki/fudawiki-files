@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-01-30T11:00:13.355Z
+date: 2026-02-05T01:23:32.846Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -601,10 +601,15 @@ A series of PDAs by Sharp Corporation (1993-2007)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
 ## Web Browser
 All of these are [free].
-* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~[free]~ ~[multilingual]]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
+* [Board Game Arena](/en/hanafuda/video-games/web/boardgamearena) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Go-Stop]~ ~[Min-Hwatu]~ ~[Nylon-Ppong]~ ~[Seotda]~ ~[Sakura]~
+* [Hanafuda Flash](/en/hanafuda/video-games/web/hanafuda-flash) by GameDesign.jp ~[English]~ ~--~ ~[Koi-Koi]~
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi) ~[Koi-Koi]~
-* [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>)](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
-* [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
+  * Different version: [Koi-Koi Hanafuda Battle (<span lang='ja'>こいこい花札バトル</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda-battle) ~[Koi-Koi]~
+* [Hanafuda.Online](/en/hanafuda/video-games/web/hanafuda-online) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~
+* [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>) by MasunakaSoft](/en/hanafuda/video-games/web/koi-koi) ~[multiplayer]~ ~--~ ~[Koi-Koi]~
+* [Koi-Koi by Otakode](/en/hanafuda/video-games/web/otakode) ~[English]~ ~--~ ~[Koi-Koi]~
+* [NewHanafuda.art](/en/hanafuda/video-games/web/newhanafuda-art) ~[English]~ ~[multilingual]]~ ~--~ ~[Koi-Koi]~
+  * Previous version: [Let's Play Koi-Koi](/en/hanafuda/video-games/web/lets-play-koi-koi) ~[English]~ ~--~ ~[Koi-Koi]~
 * [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
 ---
 * (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) ~[English]~
