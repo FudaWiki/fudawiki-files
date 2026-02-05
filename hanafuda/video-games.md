@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-02-05T01:23:32.846Z
+date: 2026-02-05T10:41:41.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -611,6 +611,7 @@ All of these are [free].
 * [NewHanafuda.art](/en/hanafuda/video-games/web/newhanafuda-art) ~[English]~ ~[multilingual]]~ ~--~ ~[Koi-Koi]~
   * Previous version: [Let's Play Koi-Koi](/en/hanafuda/video-games/web/lets-play-koi-koi) ~[English]~ ~--~ ~[Koi-Koi]~
 * [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Hachi-Hachi]~ ~[Roppyakken]~ ~[Sudaoshi]~ ~[Mushi]~ ~[Hachi]~ ~[Oicho-Kabu]~ ~[Kyo-Kabu]~
+* [Hanafuda Legends](/en/hanafuda/video-games/web/hanafuda-legends) (花札レジェンズ) ~[English]~ ~[multiplayer]~ ~[Koi-Koi]~
 ---
 * (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) ~[English]~
 * (no longer available) [Koi-Koi Hanafuda (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/web/koi-koi-hanafuda)
