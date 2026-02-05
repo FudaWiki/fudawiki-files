@@ -2,13 +2,15 @@
 title: Hanafuda Legends
 description: Free browser Koi-Koi with ranked multiplayer, private rooms, and vs-computer. Play at https://www.hanafudalegends.com/
 published: true
-date: 2026-02-05T12:15:39.786Z
+date: 2026-02-05T20:13:54.450Z
 tags: hanafuda video game, koi-koi, hanafuda games, multiplayer, english, hanafuda, browser, mobile
 editor: markdown
 dateCreated: 2026-02-05T12:15:39.786Z
 ---
 
-**Hanafuda Legends** is a free, browser-based **Koi-Koi** (Hanafuda) game with online multiplayer, vs-computer, and private rooms. Play in English at [www.hanafudalegends.com](https://www.hanafudalegends.com/).
+**Hanafuda Legends** is a free, browser-based [Koi-Koi](/en/hanafuda/games/koi-koi) game with online multiplayer, vs-computer, and private rooms. It is developed by Bator24 and published in 2026.
+
+Play in English at [www.hanafudalegends.com](https://www.hanafudalegends.com/).
 
 ---
 
