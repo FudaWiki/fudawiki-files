@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2025-07-18T09:41:21.739Z
+date: 2026-02-06T20:17:09.870Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2022-04-01T17:56:39.394Z
@@ -20,18 +20,18 @@ Some specialty decks, especially those made by Matsui Tengudo, included a 13th s
 
 |Icon|Name|A.K.A.|
 |:---:|:---:|:---:|
-|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|Korean: **Songhak** [송학, 'pine crane'], or less commonly  **Sol** [솔, 'pine']<br/>Palauan: **Mats** or **Sechou**|
-|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|Korean: **Maejo** [매조, 'plum bird'], or occasionally **Maehwa** [매화, 'plum blossom']<br/>Palauan: **Chume**|
-|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜/櫻, *sakura*]|Korean: **Beojkkot** [벚꽃, 'cherry blossom'], or less commonly **Sakura** [사쿠라]<br/>Palauan: **Sakura**|
-|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries']<br/>Korean: **Heukssari** [흑싸리, 'black bush clover']<br/>Palauan: **Mases**|
-|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris']<br/>Korean: **Nancho** [난초, 'orchid']<br/>Palauan: **Chudel**|
-|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|Korean: **Moran** [모란, 'peony']<br/>Palauan: **Bara**|
-|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)</br>[萩, *hagi*]|**Akamame** [赤豆, 'red beans'], **Akai-mi** [赤い実, 'red berries'], **Inoshishi** [猪, 'boar']<br/>Korean: **Hongssari** [홍싸리, 'red bush clover']<br/>Palauan: **Babii**|
-|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)</br>[芒/薄, *susuki*]|**Yama** [山, 'mountain'], **Tsuki** [月, 'moon'], **Bōzu** [坊主, 'monk'], **Daibōzu** [大坊主, 'great monk]<br/>Korean: **Gongsan** [공산, 'empty mountain']<br/>Palauan: **Buil**|
-|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)</br>[菊, *kiku*]|Korean: **Gukhwa** [국화 'chrysanthemum'], or less commonly **Gukjin** [국진]<br/>Palauan: *unknown*|
-|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)</br>[紅葉, *momiji*]|**Kaede** [楓, 'maple tree'], **Shika** [鹿, 'deer']<br/>Korean: **Danpung** [단풍, 'maple']<br/>Palauan: **Ska**|
-|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)</br>[柳, *yanagi*]|**Ame** [雨, 'rain']<br/>Korean: **Bi** [비, 'rain']<br/>Palauan: **Nisoro**|
-|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|Korean: **Odong** [오동, 'paulownia']<br/>Palauan: **Kiri**|
+|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[**Pine**](/en/hanafuda/suits/pine)</br>[松, *matsu*]|Korean: **Songhak** [송학, 松鶴, 'pine and crane'], or less commonly  **Sol** [솔, 'pine']<br/><br/>Palauan: **Mats**[^101] or **Sechou** ['heron, egret']|
+|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[**Plum Blossom**](/en/hanafuda/suits/plum-blossom)</br>[梅, *ume*]|Korean: **Maejo** [매조, 梅鳥, 'plum and bird'], or occasionally **Maehwa** [매화, 梅花, 'plum blossom']<br/><br/>Palauan: **Chume**[^102]|
+|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[**Cherry Blossom**](/en/hanafuda/suits/cherry-blossom)</br>[桜 or 櫻, *sakura*]|Korean: **Beojkkot** [벚꽃, 'cherry blossom'], or less commonly **Sakura** [사쿠라][^201]<br/><br/>Palauan: **Sakura**[^103]|
+|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[**Wisteria**](/en/hanafuda/suits/wisteria)</br>[藤, *fuji*]|**Kuromame** [黒豆, 'black beans'], **Kuroi-mi** [黒い実, 'black berries']<br/><br/>Korean: **Heukssari** [흑싸리, 'black bush clover'], or occasionally **Sa-heukssari** [사흑싸리, 'four -  black bush clover']<br/><br/>Palauan: **Mases** ['matches']|
+|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[**Iris**](/en/hanafuda/suits/iris)</br>[菖蒲, *ayame*/*shōbu*]|**Kakitsubata** [ 燕子花/杜若, 'japanese iris']<br/><br/>Korean: **Nancho** [난초, 蘭草, 'orchid']<br/><br/>Palauan: **Chudel** ['grass']|
+|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[**Peony**](/en/hanafuda/suits/peony)</br>[牡丹, *botan*]|Korean: **Moran** [모란, 牡丹, 'peony'], less commonly **Mokdan** [목단, 牧丹, 'peony'], or occasionally **Yuk-mokdan** [육목단, 六牧丹, 'six - peony']<br/><br/>Palauan: **Bara** ['rose'][^105]|
+|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[**Bush Clover**](/en/hanafuda/suits/bush-clover)</br>[萩, *hagi*]|**Akamame** [赤豆, 'red beans'], **Akai-mi** [赤い実, 'red berries'], **Inoshishi** [猪, 'boar']<br/><br/>Korean: **Hongssari** [홍싸리, 'red bush clover'], or occasionally **Chil-ssari** [칠싸리, 'seven - bush clover']<br/><br/>Palauan: **Babii** ['pig']|
+|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[**Susuki Grass**](/en/hanafuda/suits/susuki-grass)</br>[芒 or 薄, *susuki*]|**Yama** [山, 'mountain'], **Tsuki** [月, 'moon'], **Bōzu** [坊主, 'monk'], **Daibōzu** [大坊主, 'great monk]<br/><br/>Korean: **Gongsan-myeong'wol** [공산명월, 空山明月, 'empty mountain with bright moon'], or **Gongsan** [공산, 空山, 'empty mountain'], or occasionally **Pal-gongsan** [팔공산, 八空山, 'eight - empty mountain']<br/><br/>Palauan: **Buil** ['moon']|
+|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[**Chrysanthemum**](/en/hanafuda/suits/chrysanthemum)</br>[菊, *kiku*]|Korean: **Gukhwa** [국화, 菊花, 'chrysanthemum'], less commonly **Gukjun** [국준] or **Gukjin** [국진][^202], or occasionally **Gu-gukjin** [구국진, 'nine - chrysanthemum'] <br/><br/>Palauan: *unknown*|
+|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[**Maple**](/en/hanafuda/suits/maple)</br>[紅葉, *momiji*]|**Kaede** [楓, 'maple tree'], **Shika** [鹿, 'deer']<br/><br/>Korean: **Danpung** [단풍, 丹楓, 'maple'], less commonly **Pung** [풍, 楓, 'maple'], or rarely **Jang** [장]<br/><br/>Palauan: **Ska** ['deer'][^106]|
+|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[**Willow**](/en/hanafuda/suits/willow)</br>[柳, *yanagi*]|**Ame** [雨, 'rain']<br/><br/>Korean: **Bi** [비, 'rain']<br/><br/>Palauan: **Nisoro**<!-- Editor's note: this is the only Palauan hanafuda term we have that I couldn't match with a Japanese term, nor find in a Palauan dictionary. -->|
+|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[**Paulownia**](/en/hanafuda/suits/paulownia)</br>[桐, *kiri*]|Korean: **Odong** [오동, 梧桐, 'paulownia'], or less commonly Ttong [똥]<br/><br/>Palauan: **Kiri**[^104]|
 
 # Arrangement of Suits
 The following chart shows the ordering of the suits according to different schemes. 
@@ -70,3 +70,20 @@ A few specialty Hanafuda decks feature additional suits, the most famous of thes
 |13|Earth|[Bamboo](/en/hanafuda/suits/bamboo)|
 |14|Heaven|[Lotus](/en/hanafuda/suits/lotus)|
 
+# Bibliography
+* [국립국어원 표준국어대사전](https://stdict.korean.go.kr/main/main.do) (National Institute of Korean Language: Standard Korean Dictionary)
+* [Hanahuda: Me dou kat!](https://pages.cs.wisc.edu/~johnbent/hanahuda/), by John Bent
+* [Palauan Language Online: Palauan-English Dictionary](https://tekinged.com/)
+
+# Footnotes
+<!-- note: these numbers below are just index numbers, and do not match the footnote numbers used in the preview or the final webpage -->
+<!--Palauan 100 -->
+[^101]: Seemingly from Japanese hanafuda term *matsu* [松, 'pine']
+[^102]: Seemingly from Japanese hanafuda term *ume* [梅, 'plum tree, plum blossom']
+[^103]: Seemingly from Japanese hanafuda term *sakura* [桜, 'cherry tree, cherry blossom']
+[^104]: Seemingly from Japanese hanafuda term *kiri* [桐, 'paulownia']
+[^105]: The common word for 'rose' in Palauan, borrowed from Japanese *bara* [薔薇, 'rose']
+[^106]: The common word for 'deer' in Palauan, borrowed from Japanese *shika* [鹿, 'deer']
+<!--Korean 200 -->
+[^201]: In Korean, *Sakura* is an old-fashioned term used mostly among older players
+[^202]: The etymology of *Gukjun* and *Gukjin* is unknown. The first syllable is 菊 ('chrysanthemum'), but the second syllable is unclear.
