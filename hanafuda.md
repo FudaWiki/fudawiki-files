@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-01-31T03:00:26.987Z
+date: 2026-02-06T23:30:10.136Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 ***Hanafuda*** [花札] or *Hana-karuta* [花かるた], lit. “flower cards,” are Japanese [karuta](/en/karuta) (playing cards) used to play a wide variety of games, similarly to the standard [Western playing card](/en/trump) [トランプ, 'trump'] format. Unlike **Western playing cards**, which consist of **4 suits of 13 cards each**, however, the standard **hanafuda** deck consists of **12 suits of 4 cards each**.
 
-**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year,[^1] is themed around a particular plant, and has its own distribution of card [types](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across types and suits.
+**Each individual [suit](/en/hanafuda/suits), said to represent a month of the year,[^1] is themed around a particular plant, and has its own distribution of [card ranks](/en/hanafuda/types).** For instance, the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) suit has one Bright card, one Poetry Ribbon, and two Chaff, whereas the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) suit has one Bright, one Plain Ribbon, one Animal, and one Chaff. This asymmetrical suit structure is taken advantage of in many games, whose strategies revolve around capturing specific [*yaku*](/en/hanafuda/yaku) [役 - やく] of cards within and across ranks and suits.
 
 >For a list of different hanafuda variations and how they differ from the standard pattern, see [Hanafuda Variations](/en/hanafuda/patterns). 
 {.is-info}
@@ -50,16 +50,18 @@ These suits represent the 12 months of the year; more specifically, the 12 **mon
 
 Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
 
-## Types
-In addition to the suits, hanafuda decks are categorized by their [**types**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
+## Card ranks
+In addition to the suits, hanafuda decks are categorized by their [**ranks**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
 
-Typically, there are 4 types of cards:
+Typically, there are 4 card ranks:
 - **Chaff** [カス, *kasu*] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
 
 > An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, called the **Lightning** card, is used as a **wild card** in some games.
 {.is-info}
 
-- **Ribbons** [短冊, *tanzaku*] - Also known as Scrolls, Slips, Strips, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku** on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
+- **Ribbons** [短冊, *tanzaku*] - Also known as Scrolls, Slips, Strips, Poetry Slips, Poetry Ribbons, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku**[^2] on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
+
+[^2]: Historically, *tanzaku* [短冊] were small slips of paper that people used to write short notes or poetry on. Nowadays it almost exclusively refers to slips of paper on which people write their wishes to hang in bamboo branches during the [Tanabata festival](https://en.wikipedia.org/wiki/Tanabata).
 
 - **Animals** [たね, *tane*, possibly meaning 'subject'] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
 
@@ -93,7 +95,7 @@ Hanafuda decks can and have been used to play Mekuri-kei fishing games. This is 
 
 Each flower represents a **month** of the year, which **corresponds to a number** in a mekurifuda deck.
 
-The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where the type of cards rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
+The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where card ranks rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
 
 |Mekurifuda</br>Number|Hanafuda</br>Month|Flower</br>Icon|Flower</br>Name|
 |:---:|:---:|:---:|:---:|
@@ -129,4 +131,4 @@ The **Rainman** corresponds to the **2 of Coins**.
 - https://japanplayingcardmuseum.com/3-4-1-3-anothertenshocarta-game-modernjapan/
 
 # Footnotes
-[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar,](https://en.wikipedia.org/wiki/Japanese_calendar#Months) which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*).](https://en.wikipedia.org/wiki/Tsukimi) The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November, or even early December.
+[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar,](https://en.wikipedia.org/wiki/Japanese_calendar#Months) which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*).](https://en.wikipedia.org/wiki/Tsukimi) The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November.
