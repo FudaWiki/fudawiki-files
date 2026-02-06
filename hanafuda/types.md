@@ -2,7 +2,7 @@
 title: Card ranks
 description: A categorization scheme for cards within the hanafuda deck.
 published: true
-date: 2026-02-06T23:30:12.654Z
+date: 2026-02-06T23:34:05.492Z
 tags: card types
 editor: markdown
 dateCreated: 2022-04-01T17:56:49.473Z
@@ -18,14 +18,14 @@ There are generally considered to be 4 distinct card ranks for the purpose of mo
 ### Brights[^10]
 These cards are usually the most important cards in games, with the highest value. For instance, in Hachi-Hachi, they are each worth **20** points.
 
-Also known as **Lights**[^11] or **20-point cards**.[^12]
+Also known as **Lights**[^11] or **20-point cards**.[^19]
 
 Japanese: **光札** [*hikari-fuda*, ‘light cards’], **20点札** [*nijutten-fuda*,<!--Formally, "nijitten" is considered more correct, but I believe "nijutten" is probably more common.--> ‘20-point cards’]
 Korean: **광** [光, *gwang*, ‘light’]
 
 [^10]: The English term ‘bright’ <!--or ‘bright card’ -->is used in the video game [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo), and in the book *Hanafuda Games: Sensu Edition*
 [^11]: The English term ‘light’ or ‘light card’ is used in the video games [Clubhouse Games: 51 Worldwide Classics](/en/hanafuda/video-games/switch/51-worldwide-games) (Switch), [hololive Holo's Hanafuda](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda), [Koi-Koi Japan](/en/hanafuda/video-games/steam/koi-koi-japan), [Bishoujo Battle Hanafuda Koi-Koi](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi), [THE Table Game](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) (Switch), [Hanafuda Koi-Koi Collection](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection), and games from the [Sakura Wars series](/en/hanafuda/video-games/multiplatform/sakura-wars-series)
-[^12]: The English term ‘20-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), and games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
+[^19]: The English term ‘20-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), and games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
 
 |:---:|
 |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
@@ -34,17 +34,17 @@ Korean: **광** [光, *gwang*, ‘light’]
 ### Animals[^20]
 These cards are often the second most important cards in games, with the second highest value. In Hachi-Hachi, they are each worth **10** points.
 
-Also known as **10-point cards**,[^21] **Seeds**,[^22] **Tens**, **Variety**,[^24] or **Earth cards**[^25]
+Also known as **Seeds**,[^21] **Tens**,[^22] **Variety**,[^23] **Earth cards**[^24], or **10-point cards**[^29]
 
 Japanese: **種札** [*tane-fuda*, ‘seed cards’], **10点札** [*jutten-fuda*,<!--Formally, "jitten" is considered more correct, but I believe "jutten" is probably more common.--> ‘10-point cards’]
 Korean: **열끗** [*yeolkkeut*, ‘10 points’], **끗** [*kkeut*, clipping of *yeolkkeut*]
 
 [^20]: The English term ‘animal’ or ‘animal card’ is used in the video games [THE Table Game](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) (Switch), [Hanafuda Koi-Koi Collection](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection), and [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo)
-[^21]: The English term ‘10-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), and games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
-[^22]: The English term ‘seed’ or ‘seed card’ is used in the video games [Clubhouse Games: 51 Worldwide Classics](/en/hanafuda/video-games/switch/51-worldwide-games) (Switch), [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), [hololive Holo's Hanafuda](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda), [Koi-Koi Japan](/en/hanafuda/video-games/steam/koi-koi-japan), [Bishoujo Battle Hanafuda Koi-Koi](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi), and games from the [Sakura Wars series](/en/hanafuda/video-games/multiplatform/sakura-wars-series)
-[^23]: The English term ‘ten’ is used in the book *Hanafuda Games: Sensu Edition*
-[^24]: The English term ‘variety’ is used in the video games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
-[^25]: The English term ‘earth card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
+[^21]: The English term ‘seed’ or ‘seed card’ is used in the video games [Clubhouse Games: 51 Worldwide Classics](/en/hanafuda/video-games/switch/51-worldwide-games) (Switch), [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), [hololive Holo's Hanafuda](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda), [Koi-Koi Japan](/en/hanafuda/video-games/steam/koi-koi-japan), [Bishoujo Battle Hanafuda Koi-Koi](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi), and games from the [Sakura Wars series](/en/hanafuda/video-games/multiplatform/sakura-wars-series)
+[^22]: The English term ‘ten’ is used in the book *Hanafuda Games: Sensu Edition*
+[^23]: The English term ‘variety’ is used in the video games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
+[^24]: The English term ‘earth card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
+[^29]: The English term ‘10-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS), and games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
 
 |:---:|
 |[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)<br>[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
@@ -53,7 +53,7 @@ Korean: **열끗** [*yeolkkeut*, ‘10 points’], **끗** [*kkeut*, clipping of
 ### Ribbons[^30]
 These cards are usually the third most important cards in games. In Hachi-Hachi, they are each worth **5** points.
 
-Also known as **Slips**,[^31] **Scrolls**,[^32] **Poetry Slips**,[^33] **Poetry Ribbons**,[^34] or **5-point cards**[^35]
+Also known as **Slips**,[^31] **Scrolls**,[^32] **Poetry Slips**,[^33] **Poetry Ribbons**,[^34] or **5-point cards**[^39]
 
 Japanese: **短冊札** [*tanzaku-fuda*, ‘tanzaku cards’], **5点札** [*goten-fuda*, ‘5-point cards’]
 Korean: **띠** [*tti*, ‘band, strip’]
@@ -63,7 +63,7 @@ Korean: **띠** [*tti*, ‘band, strip’]
 [^32]: The English term ‘scroll’ is used in the video games [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS) and [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo)
 [^33]: The English term ‘poetry slip’ or ‘poetry slips card’ is used in the video games [Clubhouse Games: 51 Worldwide Classics](/en/hanafuda/video-games/switch/51-worldwide-games) (Switch) and [Hanafuda Koi-Koi Collection](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection)
 [^34]: The English term ‘poetry ribbon card’ is used in the video games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series).
-[^35]: The English term ‘5-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
+[^39]: The English term ‘5-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
 
 |:---:|
 |[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
@@ -72,14 +72,14 @@ Korean: **띠** [*tti*, ‘band, strip’]
 ### Chaff[^40]
 These cards are the least valuable cards in most games. In Hachi-Hachi, they are worth **1** point each.
 
-Also known as **Dregs**,[^41] **Plain cards**,[^42] **Junk cards**,[^43] **Basic cards**,[^44] or **1-point cards**[^45]
+Also known as **Dregs**,[^41] **Plain cards**,[^42] **Junk cards**,[^43] **Basic cards**,[^44] or **1-point cards**[^49]
 
 [^40]: The English term ‘chaff’ or ‘chaff card’ is used in the video games [Clubhouse Games: 51 Worldwide Classics](/en/hanafuda/video-games/switch/51-worldwide-games) (Switch), [hololive Holo's Hanafuda](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda), and [Hanafuda Koi-Koi Collection](/en/hanafuda/video-games/android-ios/hanafuda-koi-koi-collection), and in the book *Hanafuda Games: Sensu Edition*
 [^41]: The English term ‘dreg’ is used in the video game [THE Table Game](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) (Switch)
 [^42]: The English term ‘plain card’ is used in the video games [Koi-Koi Japan](/en/hanafuda/video-games/steam/koi-koi-japan), [Bishoujo Battle Hanafuda Koi-Koi](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi), and [Hanafuda Koi-Koi Dojo](/en/hanafuda/video-games/android/hanafuda-koi-koi-dojo)
 [^43]: The English term ‘junk’ or ‘junk card’ is used in the video games from the [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) and [Sakura Wars series](/en/hanafuda/video-games/multiplatform/sakura-wars-series)
 [^44]: The English term ‘basic card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
-[^45]: The English term ‘1-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
+[^49]: The English term ‘1-point card’ is used in the video game [Clubhouse Games](/en/hanafuda/video-games/ds/daredemo-asobi-taizen) (DS)
 
 Japanese: **カス札** [*kasu-fuda*, ‘dreg/junk card’], **素札** [*sufuda*, ‘plain/unadorned card’], **1点札** [*itten-fuda*, ‘1-point card’], **0点札** [*reiten-fuda*, ‘0-point card’]
 Korean: **피** [*pi*]
