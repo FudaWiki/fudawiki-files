@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-02-06T23:30:10.136Z
+date: 2026-02-06T23:44:36.535Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -54,18 +54,18 @@ Depending on the type of game used, and the region the game was played in, the [
 In addition to the suits, hanafuda decks are categorized by their [**ranks**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
 
 Typically, there are 4 card ranks:
-- **Chaff** [カス, *kasu*] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
+- **Chaff** [カス, *kasu*, lit. ‘dregs, junk’] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
 
-> An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, called the **Lightning** card, is used as a **wild card** in some games.
+> An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, commonly called the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Lightning**](/en/hanafuda/suits/willow#lightning) card in English, is used as a **wild card** in some games.
 {.is-info}
 
-- **Ribbons** [短冊, *tanzaku*] - Also known as Scrolls, Slips, Strips, Poetry Slips, Poetry Ribbons, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku**[^2] on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
+- **Ribbons** [短冊, *tanzaku*, ‘paper slips’] - Also known as Scrolls, Slips, Strips, Poetry Slips, Poetry Ribbons, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku**[^2] on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
 
 [^2]: Historically, *tanzaku* [短冊] were small slips of paper that people used to write short notes or poetry on. Nowadays it almost exclusively refers to slips of paper on which people write their wishes to hang in bamboo branches during the [Tanabata festival](https://en.wikipedia.org/wiki/Tanabata).
 
-- **Animals** [たね, *tane*, possibly meaning 'subject'] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
+- **Animals** [たね, *tane*, lit. ‘seeds’] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
 
-- **Brights** [光, *hikari*] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The **Crane**, the **Curtain**, the **Full Moon**, the **Rainman**, and the **Phoenix**.
+- **Brights** [光, *hikari*, lit. ‘lights’] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Crane**](/en/hanafuda/suits/pine#crane-with-sun), the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Curtain**](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), the ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Full Moon**](/en/hanafuda/suits/susuki-grass#full-moon), the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Rainman**](/en/hanafuda/suits/willow#rain-man), and the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Phoenix**](/en/hanafuda/suits/paulownia#phoenix).
 
 ## Poems [古歌, *waka*]
 In old Hanafuda decks and some regional Hanafuda patterns, some of the Chaff cards contain poems written on them. These poems are only decorative, and have no purpose in any traditional game played with hanafuda known to date. 
