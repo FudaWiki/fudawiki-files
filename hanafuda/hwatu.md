@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2026-02-06T20:58:11.572Z
+date: 2026-02-06T21:03:18.277Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -32,14 +32,14 @@ Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditio
 It is also interesting to note that there were times when Korean-made *Hwatu* was exported to Japan, and also times when Japanese companies outsourced their hanafuda to Korean manufacturers. In the 2010's, Daiso, a budget store in Japan, sold plastic hanafuda. While these hanafuda contained designs resembling the Japanese hanafuda rather than Korean *Hwatu*, they were made in South Korea.
 
 # Material
-Originally, *Hwatu* are made of paper, just like Japanese hanafuda, but the material has since been replaced with plastic.
+Originally, *Hwatu* are made of paper, just like Japanese hanafuda, but the material has been replaced with plastic around the 1970s.
 
 ![hwatu_edge.jpg](/hwatu_edge.jpg =250x)
 
 Typically, modern *Hwatu* are made of **3 layers of plastic laminated together** and cut into card-size pieces.
 - The front layer is very thin and contains the print design for the cards.
 - The core layer makes up the majority of the bulk of each *Hwatu* card. The plastic material of this layer is usually mixed with stone powder, which gives the cards weight.
-- The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While people say the texture prevents the cards from slipping, its actual effect is to prevent cards from sticking to each other.
+- The back layer is also thin and is usually in one color (usually red). It also contains dimples or some kind of texture on it. While some people say the texture is for extra grip in your hand, its actual purpose is to prevent cards from sticking to each other.
 
 ![hwatu_back.jpg](/hwatu_back.jpg =150x)
 
