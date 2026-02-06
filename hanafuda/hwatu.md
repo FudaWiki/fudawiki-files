@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2026-02-06T21:03:18.277Z
+date: 2026-02-06T21:05:44.003Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-01T17:56:12.690Z
 
 ***Hwatu*** (Hanja: 花鬪, Hangul: 화투, lit. "flower battle") is the Korean version of [hanafuda](/en/hanafuda). 
 
-The *Hwatu* deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled *Hikari/Gwang* symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement.
+The *Hwatu* deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled *Hikari/Gwang* symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement. Hwatu decks also typically come with around 6 jokers.
 
 # History of Hwatu
 In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Korea to Japanese Trade.
@@ -131,7 +131,7 @@ Also, because of this, most **Wisteria** cards are typically positioned **upside
 ## Jokers
 Aside from the basic 48 cards, there are usually additional Joker cards included in the deck (around 6 or less). They contain different prints and have different names and rules for them, depending on the manufacturer.
 
-These cards are optional, and are typically used sparingly in fishing games such as Go-Stop.
+These cards are optional, and are typically used sparingly in fishing games such as [Go-Stop](/en/hanafuda/games/go-stop).
 
 ### Examples of Joker Names and Rules
 
