@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2025-07-23T09:58:29.845Z
+date: 2026-02-06T20:58:11.572Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -109,9 +109,9 @@ All *Hwatu* games use the [**Korean month sequence**](/en/hanafuda/suits#arrange
 
 It is not known how and when the **Wisteria** and **Iris** suits started to be identified by the Koreans as **Black Bush Clover** and **Orchid** respectively, but folk songs based on *Hwatu* during the period of Japanese rule mention Black Bush Clover and Orchid, so it must have happened sometime during or before the Japanese colonial period. 
 
-Also, because of this, every **Wisteria** card in a new Hwatu deck are positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers from the ground.
+Also, because of this, most **Wisteria** cards are typically positioned **upside down**, to further cement the impression that they are not hanging Wisteria flowers but Black Bush Clovers growing up from the ground. (In a new Hwatu deck *all* Wisteria cards are typically positioned upside down, but Korean people usually orient the Cuckoo card -- and only the Cuckoo card -- rightside up.)
 
-![hwatu_april_tane.png](/suryongfiles/hwatu_april_tane.png =80x)![hwatu_april_tanzaku.png](/suryongfiles/hwatu_april_tanzaku.png =80x)![hwatu_april_kasu.png](/suryongfiles/hwatu_april_kasu_1.png =80x)![hwatu_april_kasu_2.png](/suryongfiles/hwatu_april_kasu_2.png =80x)
+![hwatu_april_tane_corrected.png](/suryongfiles/hwatu_april_tane_corrected.png =80x)![hwatu_april_tanzaku.png](/suryongfiles/hwatu_april_tanzaku.png =80x)![hwatu_april_kasu.png](/suryongfiles/hwatu_april_kasu_1.png =80x)![hwatu_april_kasu_2.png](/suryongfiles/hwatu_april_kasu_2.png =80x)
 
 |Number/Month|Icon|English Name|Korean names|
 |:---|:---:|:---:|:---|
