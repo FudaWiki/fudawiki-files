@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-02-05T12:48:49.894Z
+date: 2026-02-07T01:25:27.617Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -187,6 +187,7 @@ A home video game console by Nintendo (1990-2003), known as Super Nintendo Enter
 A hybrid video game console by Nintendo (2017-present)
 * [Clubhouse Games: 51 Worldwide Classics (a.k.a. 51 Worldwide Games, <span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
+* [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/switch/koi-koi-japan) ~[English]~ ~[multiplayer]~ ~--~ ~[Koi-Koi]~
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda) ~[Koi-Koi]~ ~[Hana-Awase]~
 * [The Table Game Deluxe Pack (<span lang='ja'>THE テーブルゲームDeluxe Pack</span>)](/en/hanafuda/video-games/switch/the-table-game-deluxe-pack) ~[English]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
 * [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
