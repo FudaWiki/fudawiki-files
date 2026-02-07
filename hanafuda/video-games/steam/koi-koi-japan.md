@@ -2,7 +2,7 @@
 title: Koi-Koi Japan
 description: 
 published: true
-date: 2026-01-28T00:09:43.399Z
+date: 2026-02-07T01:11:38.129Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:58:31.176Z
@@ -26,8 +26,10 @@ Most notable rules:
 
 Additional details:
 * Blue Ribbons (*Aotan*), Poetry Ribbons (*Akatan*), and Boar-Deer-Butterflies (*InoShikaCho*) are each worth a fixed 5 points, and can be combined with regular Animals and Ribbons yaku.
-* The Blue & Poetry Ribbons yaku (*AkaAoGasane*) combines with the three other Ribbons yaku, effectively giving a 10 point bonus for having both Blue Ribbons and Poetry Ribbons.<!--video proof: https://www.youtube.com/watch?v=4cp_52bBkAk -->
+* The Blue & Poetry Ribbons yaku (*AkaAoGasane*) combines with the three other Ribbons yaku, effectively giving a 10 point bonus for having both Blue Ribbons and Poetry Ribbons.[^1]
 * The Bright yaku have Nintendo-style values (of 5, 7, 8 and 10 points for 3 Brights, Rainy 4 Brights, 4 Brights, and 5 Brights respectively).
+
+[^1]: [Here](https://www.youtube.com/watch?v=4cp_52bBkAk) is a YouTube video of someone achieving Blue & Poetry Ribbons in this game, showing how it works in end-of-round scoring.<!-- in case the video ever goes down, here is an archived screenshot, anonimized: https://web.archive.org/web/20260207010832/https://i.snipboard.io/QgLOcd.jpg -->
 
 ## Notes on Hana-Awase rules
 The rules and yaku are very standard, with only minor differences from the [Hana-Awase](/en/hanafuda/games/hana-awase) article on Fuda Wiki.
@@ -50,3 +52,4 @@ The following DLCs (downloadable content) are available for Koi-Koi Japan.
 * [Official website](https://game.zoo.jp/steam-koikoijapan/)
 * [Steam Store page](https://store.steampowered.com/app/364930/KoiKoi_Japan_Hanafuda_playing_cards/)
 
+# Footnotes
