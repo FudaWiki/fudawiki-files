@@ -2,7 +2,7 @@
 title: Hanafuda Koi-Koi Collection
 description: Android/iOS video game
 published: true
-date: 2026-02-07T00:50:40.146Z
+date: 2026-02-07T00:51:50.217Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T22:35:55.227Z
@@ -51,7 +51,7 @@ The game closely follows rules from Nintendo's Japanese Koi-Koi pamphlet. This m
 * The Bright yaku are worth 5, 7, 8 and 10 points for 3&nbsp;Brights, Rainy 4&nbsp;Brights, 4&nbsp;Brights, and 5&nbsp;Brights respectively.
 * Lucky Hands (*teyaku*) are included, earning 6 points each.
 
-Additionally, Blue Ribbons and Poetry Ribbons stack normally with Ribbons yaku, and likewise, Boar-Deer-Butterflies stacks with the regular Animals yaku. The Blue and Poetry Ribbons yaku replaces the Blue Ribbons yaku and the Poetry Ribbons yaku, but still stacks with the regular Ribbons yaku.[^1] (This is all just like in Nintendo's [Clubhouse Games](/en/hanafuda/video-games/nintendo-switch/51-worldwide-games).)
+Additionally, Blue Ribbons and Poetry Ribbons stack normally with Ribbons yaku, and likewise, Boar-Deer-Butterflies stacks with the regular Animals yaku. The Blue and Poetry Ribbons yaku replaces the Blue Ribbons yaku and the Poetry Ribbons yaku, but still stacks with the regular Ribbons yaku.[^1] (This is all just like in Nintendo's [Clubhouse Games](/en/hanafuda/video-games/switch/51-worldwide-games).)
 
 [^1]: [Here](https://web.archive.org/web/20260207002842/https://i.snipboard.io/VJCqYL.jpg) is a screenshot showing how the Blue and Poetry Ribbons yaku behaves in end-of-round scoring.
 
