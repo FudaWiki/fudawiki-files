@@ -2,13 +2,13 @@
 title: Koi-Koi Japan
 description: 
 published: true
-date: 2026-02-07T01:11:38.129Z
+date: 2026-02-07T01:40:36.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:58:31.176Z
 ---
 
-_Koi-Koi Japan: Hanafuda playing cards_ (<span lang='ja'>こいこい花札</span>) is a Windows game for playing [Koi-Koi](/en/hanafuda/games/koi-koi), published in 2015 on Steam. It was developed and published by Zoo Corporation, a game company from Japan.
+_Koi-Koi Japan: Hanafuda playing cards_ (<span lang='ja'>こいこい花札</span>) is a Windows game for playing [Koi-Koi](/en/hanafuda/games/koi-koi), published in 2015 on Steam. It was developed and published by Zoo Corporation, a game company from Japan. In 2024, a version of [Koi-Koi Japan for Nintendo Switch](/en/hanafuda/video-games/switch/koi-koi-japan) was released.
 
 The game includes both single player and online multiplayer modes. A DLC is available to add a gamemode for [Hana-Awase](/en/hanafuda/games/hana-awase). The game supports several languages: English, Japanese, German, Spanish (Latin America), Portuguese (Brazil), Simplified Chinese. and Traditional Chinese.
 
@@ -47,6 +47,7 @@ The following DLCs (downloadable content) are available for Koi-Koi Japan.
 
 # Related Games
 * [Bishoujo Battle Hanafuda Koi-Koi](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi), a later (2020) hanafuda video game by the same developer. It is almost exactly the same game, but with different theming (pretty anime girls in the military) and no DLC for extra campaigns or Hana-Awase.
+* [Koi-Koi Japan for Nintendo Switch](/en/hanafuda/video-games/switch/koi-koi-japan)
 
 # External Links
 * [Official website](https://game.zoo.jp/steam-koikoijapan/)
