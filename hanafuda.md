@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-02-06T23:44:36.535Z
+date: 2026-02-07T00:01:26.192Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -28,7 +28,7 @@ dateCreated: 2022-04-01T17:55:22.099Z
 
 # Composition
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
-|#|Month[^1]|Icon|Plant|Bright|Animal|Ribbon|Chaff|
+|#|Month[^1]|Icon|Plant|Bright|Animal[^3]|Ribbon|Chaff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pine](/en/hanafuda/suits/pine)|![10.svg](/sheldonchen-cards/10.svg#hanafuda-card =80x)|-|![11.svg](/sheldonchen-cards/11.svg#hanafuda-card =80x)|![12.svg](/sheldonchen-cards/12.svg#hanafuda-card =80x)![13.svg](/sheldonchen-cards/13.svg#hanafuda-card =80x)|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|-|![20.svg](/sheldonchen-cards/20.svg#hanafuda-card =80x)|![21.svg](/sheldonchen-cards/21.svg#hanafuda-card =80x)|![22.svg](/sheldonchen-cards/22.svg#hanafuda-card =80x)![23.svg](/sheldonchen-cards/23.svg#hanafuda-card =80x)|
@@ -132,3 +132,4 @@ The **Rainman** corresponds to the **2 of Coins**.
 
 # Footnotes
 [^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar,](https://en.wikipedia.org/wiki/Japanese_calendar#Months) which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*).](https://en.wikipedia.org/wiki/Tsukimi) The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November.
+[^3]: ‘Animals’ seems to originally be an English term. The common Japanese term *tane* [種] literally translates to ‘seeds’.<br/>When pronounced differently, the character 種 can also mean ‘kinds, types, classes, variety’ (which is where the [Yakuza series](/en/hanafuda/video-games/steam/yakuza-series) got its rather unique translation ‘variety’ from).<!--Previously "subject" was mentioned as a possible meaning in this article, but that seems rather unlikely to be the origin. "Tane" only means subject as in the subject of a conversation, material for an article, etc, and in that case the word's true meaning is closer to "the materials or ingredients from which something is made".-->
