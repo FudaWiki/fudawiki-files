@@ -2,7 +2,7 @@
 title: Maple
 description: The tenth suit in hanafuda, representing October or the number 10
 published: true
-date: 2022-04-10T15:22:30.390Z
+date: 2026-02-12T01:12:27.657Z
 tags: hanafuda suits, animals, blue ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:51.350Z
@@ -16,3 +16,7 @@ dateCreated: 2022-04-01T18:06:51.350Z
 ![101.svg](/sheldonchen-cards/101.svg#float-right,hanafuda-card =150x)
 # Chaff
 ![102.svg](/sheldonchen-cards/102.svg#float-right,hanafuda-card =150x)![103.svg](/sheldonchen-cards/103.svg#float-right,hanafuda-card =150x)
+
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Deer and maples in art of Japan](https://commons.wikimedia.org/wiki/Category:Deer_and_maples_in_art_of_Japan)
