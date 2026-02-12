@@ -2,7 +2,7 @@
 title: Shichi-shichi-bana
 description: A 14-month hanafuda game.
 published: true
-date: 2026-02-12T15:49:35.291Z
+date: 2026-02-12T18:05:25.816Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-28T04:07:07.556Z
@@ -41,18 +41,20 @@ Deal 6 cards to each player's hand, and 8 cards face-up on the field, and the re
 > **NOTE: Points are not specified with the leaflet of the game; players are expected to assign their own points for these Yaku.**
 {.is-warning}
 
+> Included below are all kanji and katakana spellings of yaku names used on the leaflet. 
+(Note: ベエ *bē* might actually be ペエ *pē*, it's hard to make out.)
+{.is-info}
+
 ## Teyaku (Sets in hand)
-Including kanji and katakana spellings used on the leaflet. (Note: ベエ *bee* might actually be ペエ *pee*, it's hard to make out.) 
 - One Bright [光 - ヒカリ, *hikari*] - One Bright card, the rest are Chaff.
-- One Animal [十一 - トウベエ, *tōbee*] - One Animal card, the rest are Chaff.
-- One Ribbon [短一 - タンベエ, *tanbee*] - One Ribbon card, the rest are Chaff.
+- One Animal [十一 - トウベエ, *tōbē*] - One Animal card, the rest are Chaff.
+- One Ribbon [短一 - タンベエ, *tanbē*] - One Ribbon card, the rest are Chaff.
 - Empty Hand [空素 - カラス, *karasu*] - All Chaff cards.
 - Sticky [喰付 - クッツキ, *kuttsuki*] - Three pairs; a pair being two cards of the same month.
 - Four-of-a-kind [手四 - テシ, *teshi*] - Four cards of the same month.
 - Two-four [二四 - ニシ, *ni-shi*] - A pair and a four-of-a-kind.
 
 ## Dekiyaku (Captured sets)
-Including kanji spellings used on the leaflet.
 - Five Brights [五光, *gokō*] - Any 5 Bright cards.
 - Six Ribbons [六短, *rokutan*] - Any 6 Ribbon cards.
 - Poetry Ribbons [赤短, *akatan*] - The 3 Poetry Ribbon cards.
@@ -65,4 +67,15 @@ Including kanji spellings used on the leaflet.
 
 # Bibliography
 - Shichi-shichi-bana leaflet - Tezuka Karuta Kōbō / Matsui Tengudō
-(Photos of the leaflet can be found [here](https://rowel.phanlye.world/item-ect0dognr0.html).)
+(Photos of the leaflet can be found [here](https://rowel.phanlye.world/item-ect0dognr0.html) and [here.](https://ccnwrq.uxyven.click/index.php?main_page=product_info&products_id=114291))<!--
+archive urls
+===
+Source 1:
+https://web.archive.org/web/20260212154320/https://vkap.pluxor.click/index.php?main_page=product_info&products_id=85333
+https://web.archive.org/web/20260212154322im_/https://static.mercdn.net/item/detail/orig/photos/m16782039068_9.jpg
+https://web.archive.org/web/20260212154322im_/https://static.mercdn.net/item/detail/orig/photos/m16782039068_10.jpg
+===
+Source 2:
+https://web.archive.org/web/20260212161449/https://ccnwrq.uxyven.click/index.php?main_page=product_info&products_id=114291
+https://web.archive.org/web/20260212161454im_/https://static.mercdn.net/item/detail/orig/photos/m42046472064_10.jpg
+-->
