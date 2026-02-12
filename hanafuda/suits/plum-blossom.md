@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-12T01:07:47.806Z
+date: 2026-02-12T01:11:34.319Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -44,6 +44,10 @@ In Japan, bush warblers are also associated with the coming of spring, being kno
 In Japanese poetry, plum and bush warbler are both [seasonal words [季語, *kigo*]](https://en.wikipedia.org/wiki/Kigo) that indicate that a poem takes place in early spring. When writing a letter, traditional seasonal greetings for February include "in this season of plum blossoms" [梅花の候, *baika no kō*], "in this season of plum and bush warblers" [梅鶯の候, *baiō no kō*], and "as the plum blossom buds expand any time now" [梅のつぼみもそろそろ膨らみ, *ume no tsubomi mo soro-soro fukurami*].
 
 Plum trees are also well known for their fruit, which are used to make [*umeboshi* (pickled plums),](https://en.wikipedia.org/wiki/Umeboshi) a sour and salty staple of Japanese breakfast and lunch.
+
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Plum blossoms and bush warbler in art of Japan](https://commons.wikimedia.org/wiki/Category:Plum_blossoms_and_bush_warbler_in_art_of_Japan)
 
 # Bibliography
 * Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102. 
