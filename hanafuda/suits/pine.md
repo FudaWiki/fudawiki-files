@@ -2,13 +2,13 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2026-02-12T01:05:41.855Z
+date: 2026-02-12T01:08:11.276Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:26.307Z
 ---
 
-![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)Pine [松, *matsu*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the first suit, representing the month of January [1月, *ichigatsu*] or the numeral 1. In Korean, this suit is commonly known as ‘Pine and Crane’ [송학, 松鶴, *songhak*] instead. 
+![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)**Pine** [松, *matsu*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the first suit, representing the month of January [1月, *ichigatsu*] or the numeral 1. In Korean, this suit is commonly known as ‘Pine and Crane’ [송학, 松鶴, *songhak*] instead. 
 
 The cards in this suit all feature pine trees. There are two Chaff cards, one Poetry Ribbon, and one Bright. The Bright card of the Pine suit features a red-crowned crane [丹頂鶴, *tanchōzuru*] among the pines as well as a red sun in the top corner of the card. 
 
