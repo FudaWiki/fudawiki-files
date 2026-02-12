@@ -2,26 +2,27 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-12T00:43:04.200Z
+date: 2026-02-12T01:07:47.806Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
 ---
 
-![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)Plum Blossom [梅, *ume*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the second suit, representing the month of February [2月, *nigatsu*] or the numeral 2. In Korean, this suit is commonly known as ‘Plum and Bird’ [매조, 梅鳥, *maejo*].
+![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)**Plum Blossom** [梅, *ume*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the second suit, representing the month of February [2月, *nigatsu*] or the numeral 2. In Korean, this suit is commonly known as ‘Plum and Bird’ [매조, 梅鳥, *maejo*] instead.
 
 The cards in this suit all feature plum blossom trees with red blooms and buds. There are two Chaff cards, one Poetry Ribbon, and one Animal. The Animal card of the Plum Blossom suit features a Japanese bush warbler [鴬, *uguisu*] perched on the branch of a plum blossom tree.
 
 In a few games, including Tensho, an alternate month ordering is used, with the Plum Blossom suit representing December or the number 12 instead.
 
 # Bush Warbler
-![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x)"Plum Blossoms with Bush Warbler" [梅に鶯, *ume ni uguisu*] is the Animal card of the Plum Blossom suit. It is also known as the "Nightingale" in some English sources, after the Japanese bush warbler's alternative name of "Japanese nightingale."
+![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x) **Plum Blossoms with Bush Warbler** [梅に鶯, *ume ni uguisu*], or **Bush Warbler** for short, is the Animal card of the Plum Blossom suit. It is also known as the **Nightingale** in some English sources, after the Japanese bush warbler's alternative name of "Japanese nightingale."
 
 In [Koi-Koi](/en/hanafuda/games/koi-koi) it contributes to the generic "Animals" yaku, but in other games it may take on a more specific role. In [Go-Stop](/en/hanafuda/games/go-stop), for instance, it combines with the [Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to make the valuable "Five Birds" yaku.
 
 In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warbler is a de-facto Bright card, being worth more points than the other Animals, and forming the "Big Three" yaku when combined with the [Crane](/en/hanafuda/suits/pine#crane-with-sun) and [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). The same combination of cards is also used in other games, including [Mushi](/en/hanafuda/games/mushi) where the yaku is called "Three Brights."
+
 # Poetry Ribbon
-"Plum Blossoms with Red Tanzaku" [梅に赤短, *ume ni akatan*] is the Ribbon card of the Plum Blossom suit.
+**Plum Blossoms with Poetry Ribbon** [梅に赤短, *ume ni akatan*] is the Ribbon card of the Plum Blossom suit, and one of the three Poetry Ribbons.
 
 ![A tanzaku ribbon in a plum blossom tree; it reads "あ𛀙よろし"](/sheldonchen-cards/21.svg#float-right,hanafuda-card =150x) Like the [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), the Ribbon on this card usually features the text *aka-yoroshi* in hiragana. This phrase is one name of the "Poetry Ribbons" yaku that consists of this card, the aforementioned Pine Ribbon, and the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon). This yaku shows up in a large number of games, including Koi-Koi, Go-Stop, Six Hundred, and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), and may also go by "Red Ribbons," "Little Three," or other names.
 # Chaff
