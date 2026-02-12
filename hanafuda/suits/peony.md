@@ -2,7 +2,7 @@
 title: Peony
 description: The sixth suit in hanafuda, usually representing June or the number 6
 published: true
-date: 2022-04-10T15:22:35.108Z
+date: 2026-02-12T01:14:13.060Z
 tags: hanafuda suits, animals, blue ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:12.841Z
@@ -26,7 +26,8 @@ This card often contributes to Ribbons *yaku* in games.
 ## Chaff
 ![62.svg](/sheldonchen-cards/62.svg#float-right,hanafuda-card =150x)![63.svg](/sheldonchen-cards/63.svg#float-right,hanafuda-card =150x)
 
-# Trivia
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Peonies with butterflies in art of Japan](https://commons.wikimedia.org/wiki/Category:Peonies_with_butterflies_in_art_of_Japan)
 
-![Peony flower picture on wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PaeoniaSuffruticosa7.jpg/220px-PaeoniaSuffruticosa7.jpg)
-*A peony flower.*
+<!-- # Bibliography -->
