@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2026-02-12T00:28:13.438Z
+date: 2026-02-12T00:29:23.039Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:26.307Z
@@ -18,7 +18,7 @@ The cards in this suit all feature pine trees. There are two Chaff cards, one Po
 In [Koi-Koi](/en/hanafuda/games/koi-koi), the Crane plays a role in the series of Bright yaku. In [Mushi](/en/hanafuda/games/mushi), it is necessary for making the two most valuable yaku: with the other 4 Brights it can form "5 Brights," and when combined with the [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) and [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) it forms "3 Brights." In [Six Hundred](/en/hanafuda/games/roppyakken) it can be used to make "Four Brights" (which is an instant win), "Pine, Paulownia, Baldy," (which combines the card with the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) and [Moon](/en/hanafuda/suits/susuki-grass#full-moon) cards) and "3 Brights" (in the same combination used in Mushi).
 
 # Poetry Ribbon
-![A tanzaku ribbon among pine trees; it reads "あ𛀙よろし"](/sheldonchen-cards/11.svg#float-right,hanafuda-card =150x)"Pine with Red Ribbon" [松に赤短, *matsu ni akatan*] is the Ribbon card of the Pine suit. 
+![A tanzaku ribbon among pine trees; it reads "あ𛀙よろし"](/sheldonchen-cards/11.svg#float-right,hanafuda-card =150x)"Pine with Red Tanzaku" [松に赤短, *matsu ni akatan*] is the Ribbon card of the Pine suit. 
 
 In the [standard hanafuda design](/en/hanafuda/patterns/hachihachibana), the Ribbon on this card features the phrase *aka-yoroshi* written in hiragana, using a hentaigana character in place of the standard "ka." This refers to one name of the yaku known more commonly today as *aka-tan,* or "Red Ribbons," which includes this card as well as the Ribbons of the [Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon) and [Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon) suits, and is featured in a large number of games.
 
