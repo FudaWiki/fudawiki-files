@@ -2,17 +2,25 @@
 title: Chrysanthemum
 description: The ninth suit in hanafuda, representing September or the number 9
 published: true
-date: 2024-09-25T07:10:45.284Z
+date: 2026-02-12T03:33:14.188Z
 tags: hanafuda suits, animals, blue ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:19.686Z
 ---
 
-![Icon for month 9](/hanafuda/icons/monthicon_9.png =25x)Chrysanthemum [菊 - きく, *kiku*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the ninth suit, representing the month of September [九月	- くがつ *kugatsu*] or the numeral 9. The cards in this suit all feature variegated yellow and red or orange chrysanthemum blossoms. There are two Chaff cards, one Blue Ribbon, and one Animal. The Animal card of the Chrysanthemum suit features a red Sake Cup [盃 - さかずき, *sakezuki*] inscribed with a character meaning "longevity" [寿 - ことぶき, *kotobuki*].
+![Icon for month 9](/hanafuda/icons/monthicon_9.png =25x)**Chrysanthemum** [菊, *kiku*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the ninth suit, representing the month of September [9月, *kugatsu*] or the number 9.
 
-# Sake Cup
+The cards in this suit all feature variegated yellow and red or orange chrysanthemum blossoms. There are two Chaff cards, one Blue Ribbon, and one Animal. The Animal card of the Chrysanthemum suit features a red Sake Cup [盃, *sakazuki*] inscribed with a character meaning "longevity" [寿, *kotobuki*].
+
+# Cards
+## Sake Cup
 ![90.svg](/sheldonchen-cards/90.svg#float-right,hanafuda-card =150x)
-# Blue Ribbon
+## Blue Ribbon
 ![91.svg](/sheldonchen-cards/91.svg#float-right,hanafuda-card =150x)
-# Chaff
+## Chaff
 ![92.svg](/sheldonchen-cards/92.svg#float-right,hanafuda-card =150x)![93.svg](/sheldonchen-cards/93.svg#float-right,hanafuda-card =150x)
+
+# Bibliography
+* [Ōishi Tengudō](/en/hanafuda/manufacturers/oishitengudo), “[花札の謎シリーズ ！９月札『菊に盃』](https://www.tengudo.jp/blog/flower-news/362.html),” blog post, September 2013.
+* Rin & Char, “[各月に描かれた絵柄の意味](https://rinchar.site/japancalture-hanahudawisdom/),” りんとちゃーの花しらべ, blog post, September 2019.
+* Hanafuda Hawaii, “[Symbols and Motifs in Hanafuda](https://hanafudahawaii.com/2025/03/10/symbols-and-motifs-in-hanafuda/),” March 2025.
