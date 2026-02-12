@@ -2,7 +2,7 @@
 title: Paulownia
 description: The twelfth suit in hanafuda, usually representing December or the number 12
 published: true
-date: 2022-04-10T15:22:32.826Z
+date: 2026-02-12T01:17:02.106Z
 tags: hanafuda suits, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:01.432Z
@@ -19,3 +19,7 @@ In a few games, including Tensho, an alternate month ordering is used, with the 
 ![121.svg](/sheldonchen-cards/121.svg#float-right,hanafuda-card =150x)
 # Other Chaff
 ![122.svg](/sheldonchen-cards/122.svg#float-right,hanafuda-card =150x)![123.svg](/sheldonchen-cards/123.svg#float-right,hanafuda-card =150x)
+
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Phoenix and paulownia in art of Japan](https://commons.wikimedia.org/wiki/Category:Phoenix_and_paulownia_in_art_of_Japan)
