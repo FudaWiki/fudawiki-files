@@ -2,7 +2,7 @@
 title: Iris
 description: The fifth suit in hanafuda, representing May or the number 5
 published: true
-date: 2026-02-04T03:12:15.941Z
+date: 2026-02-12T01:20:00.903Z
 tags: hanafuda suits, animals, plain ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:30.139Z
@@ -43,6 +43,10 @@ Eight-plank bridges are a style of bridge that can be found in Japanese gardens.
 *Kakitsubata* irises bloom in May and June.
 
 <small>Depicted on the right: an eight-plank bridge in Kōrakuen, a famous Japanese garden in Okayama City, Japan. Picture by Daderot, 2011, public domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)).</small>
+
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Yatsu-hashi bridges with irises in art](https://commons.wikimedia.org/wiki/Category:Yatsu-hashi_bridges_with_irises_in_art)
 
 # Bibliography
 * Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102.
