@@ -2,13 +2,13 @@
 title: Shichi-shichi-bana
 description: A 14-month hanafuda game.
 published: true
-date: 2022-12-28T06:13:54.290Z
+date: 2026-02-12T15:49:35.291Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-12-28T04:07:07.556Z
 ---
 
-**Shichi-shichi-bana** [七七花, lit. '77 flowers'], is thought to be an adaptation of the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) or [Hana-awase](/en/hanafuda/games/hana-awase), using an expanded **14-month hanafuda deck**, produced by Tezuka Karuta Kobo and manufactured by [Matsui Tengudo](/en/hanafuda/manufacturers/matsuitengudo). It is intended to be played by **4 active players** at the same time.
+**Shichi-shichi-bana** [七七花, lit. '77 flowers'], is thought to be an adaptation of the game [Hachi-hachi](/en/hanafuda/games/hachi-hachi) or [Hana-awase](/en/hanafuda/games/hana-awase), using an expanded **14-month hanafuda deck**, produced by Tezuka Karuta Kōbō and manufactured by [Matsui Tengudō](/en/hanafuda/manufacturers/matsuitengudo). It is intended to be played by **4 active players** at the same time.
 
 The game is named after the par score of 77 points.
 
@@ -20,10 +20,10 @@ The rulesheet supplied with the 14-month deck does not give a detailed explanati
 # The 13th and 14th Month
 |Number|Name of Month|Name of Flower|Composition|
 |:---:|:---:|:---:|:---:|
-|13|**Heaven**</br>[天, '*ten*']|**Lotus**</br>[蓮, '*hasu*']|1 Bright card - Dragon</br>1 red** Ribbon card</br>2 Chaff cards|
-|14|**Earth**</br>[地, '*ji*']|**Bamboo**</br>[竹, '*take*']|1 Animal card - Tiger</br>1 red** Ribbon card</br>2 Chaff cards|
+|13|**Heaven**</br>[天, *ten*]|**Lotus**</br>[ハス, *hasu*]<!--official leaflet spells this in katakana-->|1 Bright card - Dragon</br>1 red** Ribbon card</br>2 Chaff cards|
+|14|**Earth**</br>[地, *chi*]|**Bamboo**</br>[竹, *take*]|1 Animal card - Tiger</br>1 red** Ribbon card</br>2 Chaff cards|
 
-> ※ Card points are standard; the same used in Hachi-hachi.
+> ※ Card points are standard: 20 for Brights, 10 for Animals, 5 for Ribbons, and 1 for Chaff.
 {.is-info}
 
 > ※※ If a Junior Dragon or Tiger hanafuda deck is used, the **Lotus Ribbon** card would be **blue** instead of red, and the **Bamboo Ribbon** card would be a **Poetry** ribbon instead of plain red.
@@ -42,24 +42,27 @@ Deal 6 cards to each player's hand, and 8 cards face-up on the field, and the re
 {.is-warning}
 
 ## Teyaku (Sets in hand)
-- One Bright ('*Hikari*') - One Bright card, the rest are Chaff.
-- One Animal ('*To-ichi*') - One Animal card, the rest are Chaff.
-- One Ribbon ('*Tan-ichi*') - One Ribbon card, the rest are Chaff.
-- Empty Hand ('*Karasu*') - All Chaff cards.
-- Sticky ('*Kuttsuki*') - Three pairs; a pair being two cards of the same month.
-- Four-of-a-kind ('*Teshi*') - Four cards of the same month.
-- Two-four ('*Ni-shi*') - A pair and a four-of-a-kind.
+Including kanji and katakana spellings used on the leaflet. (Note: ベエ *bee* might actually be ペエ *pee*, it's hard to make out.) 
+- One Bright [光 - ヒカリ, *hikari*] - One Bright card, the rest are Chaff.
+- One Animal [十一 - トウベエ, *tōbee*] - One Animal card, the rest are Chaff.
+- One Ribbon [短一 - タンベエ, *tanbee*] - One Ribbon card, the rest are Chaff.
+- Empty Hand [空素 - カラス, *karasu*] - All Chaff cards.
+- Sticky [喰付 - クッツキ, *kuttsuki*] - Three pairs; a pair being two cards of the same month.
+- Four-of-a-kind [手四 - テシ, *teshi*] - Four cards of the same month.
+- Two-four [二四 - ニシ, *ni-shi*] - A pair and a four-of-a-kind.
 
 ## Dekiyaku (Captured sets)
-- Five Brights ('*Goko*') - Any 5 Bright cards.
-- Six Ribbons ('*Rokutan*') - Any 6 Ribbon cards.
-- Poetry Ribbons ('*Akatan*') - The 3 Poetry Ribbon cards.
-- Blue Ribbons ('*Aotan*') - The 3 Blue Ribbon cards.
-- Spring ('*Omote Sugawara*') - Crane, Bush Warbler, Curtain.
-- Boar-Deer-Butterflies ('*Inoshikacho*') - Boar, Deer, Butterflies.
-- Flower-viewing ('*Hanami de Ippai*') - Curtain and Sake Cup.
-- Moon-viewing ('*Tsukimi de Ippai*') - Full Moon and Sake Cup.
-- Three Friends of Winter ('*Shochikubai*') - Crane, Tiger, Bush Warbler.
+Including kanji spellings used on the leaflet.
+- Five Brights [五光, *gokō*] - Any 5 Bright cards.
+- Six Ribbons [六短, *rokutan*] - Any 6 Ribbon cards.
+- Poetry Ribbons [赤短, *akatan*] - The 3 Poetry Ribbon cards.
+- Blue Ribbons [青短, *aotan*] - The 3 Blue Ribbon cards.
+- Spring [表菅原, *omote sugawara*] - Crane, Bush Warbler, Curtain.
+- Boar-Deer-Butterflies [猪鹿蝶, *ino-shika-chō*] - Boar, Deer, Butterflies.
+- Flower-viewing [花見で一杯, *hanami de ippai*] - Curtain and Sake Cup.
+- Moon-viewing [月見で一杯, *tsukimi de ippai*] - Full Moon and Sake Cup.
+- Three Friends of Winter [松竹梅, *shōchikubai*] - Crane, Tiger, Bush Warbler.
 
 # Bibliography
-- Shichi-shichi-bana leaflet - Tezuka Karuta Kobo / Matsui Tengudo
+- Shichi-shichi-bana leaflet - Tezuka Karuta Kōbō / Matsui Tengudō
+(Photos of the leaflet can be found [here](https://rowel.phanlye.world/item-ect0dognr0.html).)
