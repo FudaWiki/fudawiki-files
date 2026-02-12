@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-02-07T00:01:26.192Z
+date: 2026-02-12T03:33:18.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -65,7 +65,9 @@ Typically, there are 4 card ranks:
 
 - **Animals** [たね, *tane*, lit. ‘seeds’] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
 
-- **Brights** [光, *hikari*, lit. ‘lights’] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Crane**](/en/hanafuda/suits/pine#crane-with-sun), the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Curtain**](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), the ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Full Moon**](/en/hanafuda/suits/susuki-grass#full-moon), the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Rainman**](/en/hanafuda/suits/willow#rain-man), and the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Phoenix**](/en/hanafuda/suits/paulownia#phoenix).
+- **Brights** [光, *hikari*, lit. ‘lights’] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Crane**](/en/hanafuda/suits/pine#crane), the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Curtain**](/en/hanafuda/suits/cherry-blossom#curtain), the ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Full Moon**](/en/hanafuda/suits/susuki-grass#moon), the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Rainman**](/en/hanafuda/suits/willow#rain-man), and the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Phoenix**](/en/hanafuda/suits/paulownia#phoenix).[^4]
+
+[^4]: According to a few Japanese sources, the five Bright cards represent five types of light. The Crane card represents sunlight [日光, *nikkō*], the Moon card represents moonlight [月光, *gekkō*], the Phoenix card represents starlight [星光, *seikō*], the Rain Man card represents lighting [雷光, *raikō*], and the Curtain card represents springtime light [春光, *shunkō*] (from a Chinese phrase meaning "radiance of springtime" or "spring scenery", in Japanese also "spring sunlight").
 
 ## Poems [古歌, *waka*]
 In old Hanafuda decks and some regional Hanafuda patterns, some of the Chaff cards contain poems written on them. These poems are only decorative, and have no purpose in any traditional game played with hanafuda known to date. 
