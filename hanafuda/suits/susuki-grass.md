@@ -2,7 +2,7 @@
 title: Susuki Grass
 description: The eight suit in hanafuda, representing August or the number 8
 published: true
-date: 2022-04-10T15:22:42.400Z
+date: 2026-02-12T01:18:49.530Z
 tags: hanafuda suits, animals, brights
 editor: markdown
 dateCreated: 2022-04-01T18:07:41.381Z
@@ -16,3 +16,7 @@ dateCreated: 2022-04-01T18:07:41.381Z
 ![81.svg](/sheldonchen-cards/81.svg#float-right,hanafuda-card =150x)
 # Chaff
 ![82.svg](/sheldonchen-cards/82.svg#float-right,hanafuda-card =150x)![83.svg](/sheldonchen-cards/83.svg#float-right,hanafuda-card =150x)
+
+# External links
+For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
+* [Susuki grass and moon in art of Japan](https://commons.wikimedia.org/wiki/Category:Susuki_grass_and_moon_in_art_of_Japan)
