@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2026-02-12T03:33:04.953Z
+date: 2026-02-16T03:23:11.757Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:26.307Z
@@ -16,7 +16,7 @@ The cards in this suit all feature pine trees. There are two Chaff cards, one Po
 ## <span id="crane-with-sun">Crane</span>
 <!--The span tag is to make sure that old links to this section still work after changing the section title-->
 
-![A crane standing among pine trees, facing a red sun](/sheldonchen-cards/10.svg#float-right,hanafuda-card =150x) **Pine with Crane** [松に鶴, *matsu ni tsuru*], or **Crane** for short, is the Bright card of the Pine suit.
+![A crane standing among pine trees, facing a red sun](/sheldonchen-cards/10.svg#float-right,hanafuda-card =150x) **Pine with Crane** [松に鶴, *matsu ni tsuru*], or simply **Crane**, is the Bright card of the Pine suit.
 
 The Crane, being one of the only 5 Bright cards in the standard deck, is important for making high-scoring yaku in many games, as well as being desirable in its own right in many games that assign point values to individual cards.
 
