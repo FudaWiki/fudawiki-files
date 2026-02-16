@@ -2,7 +2,7 @@
 title: Peony
 description: The sixth suit in hanafuda, usually representing June or the number 6
 published: true
-date: 2026-02-12T03:33:11.385Z
+date: 2026-02-16T03:23:17.309Z
 tags: hanafuda suits, animals, blue ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:12.841Z
@@ -16,13 +16,17 @@ The cards in this suit all feature **red [peony](https://en.wikipedia.org/wiki/P
 
 # Cards
 ## Butterflies
-![60.svg](/sheldonchen-cards/60.svg#float-right,hanafuda-card =150x)
-This card is part of the famous "Boar-Dear-Butterflies" [猪鹿蝶, inoshikachō] yaku in various Japanese hanafuda games, including [Koi-koi](/en/hanafuda/games/koi-koi) and [Roppyakken](/en/hanafuda/games/roppyakken) games.
+![60.svg](/sheldonchen-cards/60.svg#float-right,hanafuda-card =150x)  **Peony with Butterflies** [牡丹に蝶, *botan ni chō*], or simply **Butterflies**, is the Animal card of the Peony suit.
+
+This card is part of the famous "Boar-Dear-Butterflies" [猪鹿蝶, inoshikachō] yaku in many hanafuda games from Japan<!--as opposed to Korean and Hawaiian games-->, including [Koi-koi](/en/hanafuda/games/koi-koi), [Hana-Awase](/en/hanafuda/games/hana-awase) and [Roppyakken](/en/hanafuda/games/roppyakken).
+
 ## Blue Ribbon
-![61.svg](/sheldonchen-cards/61.svg#float-right,hanafuda-card =150x)
-This card often contributes to Ribbons *yaku* in games. 
+![61.svg](/sheldonchen-cards/61.svg#float-right,hanafuda-card =150x) **Peony with Blue Ribbon** [牡丹に青短, *botan ni aotan*] is the Ribbon card of the Peony suit, and one of the three Blue Ribbons.
+
+The Peony Ribbon combines with the [Chrysanthemum Ribbon](/en/hanafuda/suits/chrysanthemum#blue-ribbon) and [Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon) in a large number of games to form the yaku called "Blue Ribbons."
+
 ## Chaff
-![62.svg](/sheldonchen-cards/62.svg#float-right,hanafuda-card =150x)![63.svg](/sheldonchen-cards/63.svg#float-right,hanafuda-card =150x)
+![62.svg](/sheldonchen-cards/62.svg#float-right,hanafuda-card =150x)![63.svg](/sheldonchen-cards/63.svg#float-right,hanafuda-card =150x) The Peony suit, like most, has two Chaff cards.
 
 # External links
 For examples of traditional art with the same motifs as this suit of hanafuda, see also the following category on Wikimedia Commons:
