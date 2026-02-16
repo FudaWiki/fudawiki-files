@@ -2,7 +2,7 @@
 title: Wisteria
 description: The fourth suit in hanafuda, representing April or the number 4
 published: true
-date: 2026-02-16T03:23:15.293Z
+date: 2026-02-16T13:46:17.716Z
 tags: hanafuda suits, animals, plain ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:53.337Z
@@ -20,7 +20,7 @@ Due to its somewhat ambiguous appearance, this suit is also known by various alt
 
 ![40.svg](/sheldonchen-cards/40.svg#float-right,hanafuda-card =150x) **Wisteria with Cuckoo** [藤に不如帰, *fuji ni hototogisu*],[^1] or simply **Cuckoo**, is the animal card of the Wisteria suit.
 
-[^1]: *Hototogisu* has many different spellings. In hanafuda, 不如帰 and 時鳥 are most common. Other kanji spellings include 杜鵑, 子規, and 郭公.
+[^1]: *Hototogisu* has many different spellings. In hanafuda, 不如帰 and 時鳥 are most common, but it may also be spelled in kana (ホトトギス or ほととぎす) or with various other kanji spellings, which include 杜鵑, 子規, and 郭公.
 
 In several Korean games such as [Go-Stop](/en/hanafuda/games/go-stop), this card combines with the [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to form the valuable "Five Birds" yaku. When captured alongside the other three Wisteria cards, it forms the "Wisteria Stripe" yaku in [Hana-Awase](/en/hanafuda/games/hana-awase), [Mushi](/en/hanafuda/games/mushi) and in common variants of [Roppyakken](/en/hanafuda/games/roppyakken). In many other games, this card plays no particular role other than for making generic Animal yaku.
 
@@ -58,3 +58,5 @@ Several Japanese sources claim that the moon on the cuckoo card is a reference t
 * Hanafuda Hawaii, “[Symbols and Motifs in Hanafuda](https://hanafudahawaii.com/2025/03/10/symbols-and-motifs-in-hanafuda/),” March 2025.
 * Duarcain, [The Twelve Suits of Hanafuda](https://duarcain.blogspot.com/2013/09/the-twelve-suits-of-hanafuda.html), blog post, September 2013.
 * [List of *kigo*](https://en.wikipedia.org/wiki/List_of_kigo) and [季語一覧](https://ja.wikipedia.org/wiki/%E5%AD%A3%E8%AA%9E%E4%B8%80%E8%A6%A7) (*Kigo* overview) on Wikipedia
+
+# Footnotes
