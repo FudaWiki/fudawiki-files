@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2026-02-12T03:33:06.483Z
+date: 2026-02-16T03:23:13.479Z
 tags: hanafuda suits, animals, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:35.136Z
@@ -16,7 +16,7 @@ In a few games, including Tensho, an alternate month ordering is used, with the 
 
 # Cards
 ## Bush Warbler
-![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x) **Plum Blossoms with Bush Warbler** [梅に鶯, *ume ni uguisu*], or **Bush Warbler** for short, is the Animal card of the Plum Blossom suit. It is also known as the **Nightingale** in some English sources, after the Japanese bush warbler's alternative name of "Japanese nightingale."
+![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x) **Plum Blossoms with Bush Warbler** [梅に鶯, *ume ni uguisu*], or simply **Bush Warbler**, is the Animal card of the Plum Blossom suit. It is also known as the **Nightingale** in some English sources, after the Japanese bush warbler's alternative name of "Japanese nightingale."
 
 In [Koi-Koi](/en/hanafuda/games/koi-koi) it contributes to the generic "Animals" yaku, but in other games it may take on a more specific role. In [Go-Stop](/en/hanafuda/games/go-stop), for instance, it combines with the [Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to make the valuable "Five Birds" yaku.
 
