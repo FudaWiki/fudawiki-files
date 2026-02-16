@@ -2,7 +2,7 @@
 title: Wisteria
 description: The fourth suit in hanafuda, representing April or the number 4
 published: true
-date: 2026-02-12T03:33:09.081Z
+date: 2026-02-16T03:23:15.293Z
 tags: hanafuda suits, animals, plain ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:07:53.337Z
@@ -12,18 +12,29 @@ dateCreated: 2022-04-01T18:07:53.337Z
 
 The cards in this suit all feature hanging wisteria vines with clusters of purplish flowers. There are two Chaff cards, one Plain Ribbon, and one Animal. The Animal card of the Wisteria suit features a Cuckoo [不如帰, *hototogisu*] in front of a red (usually crescent) moon.
 
+Due to its somewhat ambiguous appearance, this suit is also known by various alternative names in Japanese, including ‘Black Beans’ [黒豆, *kuromame*], ‘Blue Beans’ [青豆, *aomame*], and ‘Black Fruit’ [黒実, *kuromi*].
+
 # Cards
 ## <span id="cuckoo-with-crescent-moon">Cuckoo</span>
 <!--The span tag is to make sure that old links to this section still work after changing the section title-->
 
-![40.svg](/sheldonchen-cards/40.svg#float-right,hanafuda-card =150x) This card combines with the [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) and [Geese](/en/hanafuda/suits/susuki-grass#geese) in [Go-Stop](/en/hanafuda/games/go-stop) to form the valuable "Five Birds" yaku. When captured alongside the other three Wisteria cards, it forms the "Wisteria Stripe" yaku in [Mushi](/en/hanafuda/games/mushi) and in some versions of [Six Hundred](/en/hanafuda/games/roppyakken). In many other games, this card plays no particular role other than for making generic Animal yaku.
+![40.svg](/sheldonchen-cards/40.svg#float-right,hanafuda-card =150x) **Wisteria with Cuckoo** [藤に不如帰, *fuji ni hototogisu*],[^1] or simply **Cuckoo**, is the animal card of the Wisteria suit.
 
-The crescent moon is a relatively recent addition. Edo-period cuckoo cards did not have a background at all, and in the early Meiji era red clouds were added, which turned into a moon when the [Hachi-Hachi-Bana](/en/hanafuda/patterns/hachihachibana) pattern established itself.
+[^1]: *Hototogisu* has many different spellings. In hanafuda, 不如帰 and 時鳥 are most common. Other kanji spellings include 杜鵑, 子規, and 郭公.
+
+In several Korean games such as [Go-Stop](/en/hanafuda/games/go-stop), this card combines with the [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to form the valuable "Five Birds" yaku. When captured alongside the other three Wisteria cards, it forms the "Wisteria Stripe" yaku in [Hana-Awase](/en/hanafuda/games/hana-awase), [Mushi](/en/hanafuda/games/mushi) and in common variants of [Roppyakken](/en/hanafuda/games/roppyakken). In many other games, this card plays no particular role other than for making generic Animal yaku.
+
+The red crescent moon is a relatively recent addition. Edo-period cuckoo cards did not have a background at all, and in the early Meiji era red clouds were added, which turned into a moon when the [Hachi-Hachi-Bana](/en/hanafuda/patterns/hachihachibana) pattern established itself.
 
 ## Plain Ribbon
-![41.svg](/sheldonchen-cards/41.svg#float-right,hanafuda-card =150x)This card combines with the [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon) and [Bush Clover Ribbon](/en/hanafuda/suits/bush-clover#plain-ribbon) in some games such as Go-Stop to form the "Grass Ribbons" yaku. In many other games such as [Koi-Koi](/en/hanafuda/games/koi-koi) and Six Hundred it merely contributes to generic Ribbon yaku.
+![41.svg](/sheldonchen-cards/41.svg#float-right,hanafuda-card =150x) **Wisteria with Ribbon** [藤に短冊, *fuji ni tanzaku*] is the Ribbon card of the Wisteria suit.
+
+This card combines with the [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon) and [Bush Clover Ribbon](/en/hanafuda/suits/bush-clover#plain-ribbon) to form the "Grass Ribbons" yaku in many games, including [Hana-Awase](/en/hanafuda/games/hana-awase), [Roppyakken](/en/hanafuda/games/roppyakken), and [Go-Stop](/en/hanafuda/video-games/ds/go-stop-ds). In other games such as [Koi-Koi](/en/hanafuda/games/koi-koi) and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) it merely contributes to generic Ribbon yaku.
+
 ## Chaff
-![42.svg](/sheldonchen-cards/42.svg#float-right,hanafuda-card =150x)![43.svg](/sheldonchen-cards/43.svg#float-right,hanafuda-card =150x)This suit, like most, has two Chaff cards. In some older [patterns](/en/hanafuda/patterns) such as [echigobana](/en/hanafuda/patterns/echigobana) each of these will feature half of the following *waka* poem, of dubious authorship.
+![42.svg](/sheldonchen-cards/42.svg#float-right,hanafuda-card =150x)![43.svg](/sheldonchen-cards/43.svg#float-right,hanafuda-card =150x)The Wisteria suit, like most, has two Chaff cards.
+
+In some older [patterns](/en/hanafuda/patterns) such as [echigobana](/en/hanafuda/patterns/echigobana) each of these will feature half of the following *waka* poem, of dubious authorship.
 |Japanese|Rōmaji|English|
 |:---|:---:|---:|
 |-|Waga yado no|The waves of wisteria by the pond|
