@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-02-12T03:33:18.468Z
+date: 2026-02-16T13:35:29.217Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -21,6 +21,9 @@ dateCreated: 2022-04-01T17:55:22.099Z
 {.is-info}
 
 >For a list of games that may be played using hanafuda, see [Hanafuda Games](/en/hanafuda/games).
+{.is-info}
+
+>For a list of yaku used in hanafuda games, see [Yaku](/en/hanafuda/yaku).
 {.is-info}
 
 # History
