@@ -2,7 +2,7 @@
 title: Iris
 description: The fifth suit in hanafuda, representing May or the number 5
 published: true
-date: 2026-02-12T03:33:10.168Z
+date: 2026-02-16T03:23:16.180Z
 tags: hanafuda suits, animals, plain ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:30.139Z
@@ -17,10 +17,14 @@ The suit is usually called *ayame* [菖蒲] in Japanese, which refers to the the
 
 # Cards
 ## Eight-Plank Bridge
-![50.svg](/sheldonchen-cards/50.svg#float-right,hanafuda-card =150x) The Bridge card does not feature prominently in the most popular Japanese hanafuda games, but in the Korean game of [Min-Hwatu](/en/hanafuda/games/minhwatu) it forms a yaku together with all the other iris cards, and in the Hawaiian game of [Sakura](/en/hanafuda/games/sakura) it features in the Animal counterpart of the Grass Ribbons yaku with [Wisteria's Cuckoo card](https://fudawiki.org/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Bush Clover's Boar card](/en/hanafuda/suits/bush-clover#boar).
+![50.svg](/sheldonchen-cards/50.svg#float-right,hanafuda-card =150x) **Iris with Eight-Plank Bridge** [菖蒲に八橋, *ayame ni yatsuhashi*], or simply **Bridge**, is the animal card of the Wisteria suit.
+
+The Bridge card does not feature prominently in the most popular Japanese hanafuda games, but in the Korean game of [Min-Hwatu](/en/hanafuda/games/minhwatu) it forms a yaku together with the three other iris cards, and in the Hawaiian game of [Sakura](/en/hanafuda/games/sakura) it features in the Animal counterpart of the Grass Ribbons yaku with [Wisteria's Cuckoo card](https://fudawiki.org/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Bush Clover's Boar card](/en/hanafuda/suits/bush-clover#boar).
 
 ## Plain Ribbon
-![51.svg](/sheldonchen-cards/51.svg#float-right,hanafuda-card =150x)The Iris Ribbon combines with the [Wisteria Ribbon](/en/hanafuda/suits/wisteria#plain-ribbon) and [Bush Clover Ribbon](/en/hanafuda/suits/bush-clover#plain-ribbon) in [Go-Stop](/en/hanafuda/games/go-stop) to form the "Grass Ribbons" yaku. In many other games it plays no special role other than contributing to generic Ribbon yaku.
+![51.svg](/sheldonchen-cards/51.svg#float-right,hanafuda-card =150x) **Iris with Ribbon** [菖蒲に短冊, *ayame ni tanzaku*] is the Ribbon card of the Iris suit.
+
+This card combines with the [Wisteria Ribbon](/en/hanafuda/suits/wisteria#plain-ribbon) and [Bush Clover Ribbon](/en/hanafuda/suits/bush-clover#plain-ribbon) to form the "Grass Ribbons" yaku in many games, including [Hana-Awase](/en/hanafuda/games/hana-awase), [Roppyakken](/en/hanafuda/games/roppyakken), and [Go-Stop](/en/hanafuda/video-games/ds/go-stop-ds). In other games such as [Koi-Koi](/en/hanafuda/games/koi-koi) and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) it merely contributes to generic Ribbon yaku.
 
 ## Chaff
 ![52.svg](/sheldonchen-cards/52.svg#float-right,hanafuda-card =150x)![53.svg](/sheldonchen-cards/53.svg#float-right,hanafuda-card =150x) The Iris suit, like most, contains two Chaff cards.
