@@ -2,7 +2,7 @@
 title: Cherry Blossom
 description: The third suit in hanafuda, representing March or the number 3
 published: true
-date: 2026-02-12T03:33:07.807Z
+date: 2026-02-16T03:23:14.438Z
 tags: hanafuda suits, brights, poetry ribbons
 editor: markdown
 dateCreated: 2022-04-01T18:06:05.030Z
@@ -16,9 +16,9 @@ The cards in this suit all feature red and pink cherry blossoms. There are two C
 ## <span id="flower-viewing-curtain">Curtain</span>
 <!--The span tag is to make sure that old links to this section still work after changing the section title-->
 
-![30.svg](/sheldonchen-cards/30.svg#float-right,hanafuda-card =150x) **Cherry Blossoms with Curtain** [桜に幕, *sakura ni maku*],[^1] or **Curtain** for short, is the Bright card of the Cherry Blossom suit. 
+![30.svg](/sheldonchen-cards/30.svg#float-right,hanafuda-card =150x) **Cherry Blossoms with Curtain** [桜に幕, *sakura ni maku*],[^1] or simply **Curtain**, is the Bright card of the Cherry Blossom suit.
 
-[^1]: The Japanese name of the Curtain card is less commonly also *sakura ni manmaku* [桜に幔幕, ‘Cherry Blossoms with Curtain’] or *mankai no sakura ni manmaku* [満開の桜に幔幕, ‘Cherry Blossoms in Full Bloom with Curtain’]
+[^1]: In Japanese, the Curtain card is less commonly also called *sakura ni manmaku* [桜に幔幕, ‘Cherry Blossoms with Curtain’] or *mankai no sakura ni manmaku* [満開の桜に幔幕, ‘Cherry Blossoms in Full Bloom with Curtain’].
 
 The Curtain is of great value in [Koi-Koi](/en/hanafuda/games/koi-koi), as it can be used in conjunction with the [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) for a quick victory, as well as being useful to make the valuable series of Bright yaku. It is also particularly useful in a wide array of other games due to its high point value and the variety of yaku that it forms.
 
