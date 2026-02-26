@@ -2,7 +2,7 @@
 title: Touhou Hanafuda: Koi-Koi Yuugi
 description: 
 published: true
-date: 2026-02-26T15:05:09.596Z
+date: 2026-02-26T15:21:40.977Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T23:04:42.669Z
@@ -14,3 +14,6 @@ It is a strip Koi-koi game featuring Touhou characters. It uses an original [cha
 
 ## External links
 * [Official online manual](http://himawari.saiin.net/toho_hanafuda_web/)
+
+## See also
+* [The Touhou Datsui Hanafuda](https://fudawiki.org/en/hanafuda/video-games/win/the-touhou-datsui-hanafuda), another Touhou strip hanafuda game
