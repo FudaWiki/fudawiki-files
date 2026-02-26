@@ -1,14 +1,14 @@
 ---
-title: Touhou Hanafuda: Koi Koi Yuugi
+title: Touhou Hanafuda: Koi-Koi Yuugi
 description: 
 published: true
-date: 2026-02-26T15:04:40.215Z
+date: 2026-02-26T15:05:09.596Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T23:04:42.669Z
 ---
 
-_Touhou Hanafuda: Koi Koi Yūgi_ (<span lang='ja'>東方花札　～恋々遊戯～</span>) is a [doujin game](https://en.wikipedia.org/wiki/Doujin_soft) for Windows published in 2014 by Studio Himawari.
+_Touhou Hanafuda: Koi-Koi Yūgi_ (<span lang='ja'>東方花札　～恋々遊戯～</span>) is a [doujin game](https://en.wikipedia.org/wiki/Doujin_soft) for Windows published in 2014 by Studio Himawari.
 
 It is a strip Koi-koi game featuring Touhou characters. It uses an original [character hanafuda](https://fudawiki.org/en/hanafuda/character) deck where Animal and Bright cards are marked with a yellow background.
 
