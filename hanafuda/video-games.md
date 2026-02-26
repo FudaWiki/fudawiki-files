@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-02-07T01:25:27.617Z
+date: 2026-02-26T02:10:58.626Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -37,6 +37,7 @@ For games on modern devices, see the following categories:
 * [Web Browser](#web-browser)
 
 # Tags
+<!-- Note for editors: feature tags and game tags are separated with a dash -->
 Many games are marked with the following tags. You can copy-paste them and do a text search to find specific game features and hanafuda games on this page.
 
 ### Game features
@@ -64,6 +65,7 @@ Many games are marked with the following tags. You can copy-paste them and do a 
 * `[Sakura]` (a.k.a. Hawaiian Hanafuda; main article [here](/en/hanafuda/games/sakura))
 * `[Seotda]` (main article [here](/en/hanafuda/games/seotda))
 * `[Sudaoshi]` (main article [here](/en/hanafuda/games/sudaoshi))
+* `[deckbuilding]` - A roguelike deckbuilder video game based on hanafuda
 * `[solitaire]` - Hanafuda solitaire game
 * `[original]` - Original hanafuda game
 
@@ -430,11 +432,13 @@ A series of home computers by Commodore (1985-1994)
 ## [Steam](https://en.wikipedia.org/wiki/Steam_(service))
 PC gaming platform
 * [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) ~[English]~ ~--~ ~[Koi-Koi]~
+* [Hanafuda no Tora (<span lang='ja'>花札の虎</span>)](/en/hanafuda/video-games/multiplatform/hanafuda-no-tora) ~[deckbuilding]~
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[original]~ ~[Koi-Koi]~ ~[Hana-Awase]~ ~[Oicho-Kabu]~
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Hana-Awase]~
   * Spinoff: [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) ~[English]~ ~[multiplayer]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~
 * [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr) ~[English]~ ~[multiplayer]~ ~--~ ~[Go-Stop]~
-* [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) ~[English]~ ~--~ ~[original]~ - rogue-like card battler based on hanafuda
+* [RogueHanafuda](/en/hanafuda/video-games/steam/roguehanafuda) ~[English]~ ~--~ ~[deckbuilding]~
+* [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) ~[English]~ ~--~ ~[deckbuilding]~
 * [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) ~[English]~ ~[minigame]~ ~[multilingual]~ ~--~ ~[Koi-Koi]~ ~[Oicho-Kabu]~
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
   * Like a Dragon Gaiden: The Man Who Erased His Name (<span lang='ja'>龍が如く 7 外伝 名を消した男</span>)
