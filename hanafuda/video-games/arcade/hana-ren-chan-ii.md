@@ -1,14 +1,14 @@
 ---
-title: Hana Ren-Chan II
+title: Hana Renchan II
 description: 
 published: true
-date: 2022-04-10T15:24:53.525Z
+date: 2026-02-26T15:21:27.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T18:12:28.922Z
 ---
 
-_Hana Ren-Chan II_ (<span lang='ja'>花れんちゃん II</span>) is an Arcade game published in ???? by NAS Co., Ltd?
+_Hana Renchan II_ (<span lang='ja'>花れんちゃん II</span>)<!-- Not "Ren-chan" because it doesn't refer to a girl named Ren. It's a term for "win streak". --> is an Arcade game published in ???? by NAS Co., Ltd?
 
 ## PCB Manual
 
