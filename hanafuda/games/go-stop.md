@@ -2,17 +2,19 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2025-09-23T01:39:24.916Z
+date: 2026-02-28T06:46:21.350Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
 ---
 
-**Go-Stop** (고스톱) is the most popular hanafuda game in the Korean-speaking world, most often played using plastic hanafuda known as *hwatu*. **It is named for its characteristic gameplay mechanic** that allows a player to stop the round after collecting a yaku, or to continue the round to attempt to increase their score further, at the risk of their opponent scoring in their stead. It is usually played with 2-3 players, and may involve gambling for small sums of money. **Go-stop is also known as Godori, meaning “5 birds,”** which is the name of a yaku used in this and some other games.
+**Go-Stop** (고스톱) is the most popular hanafuda game in the Korean-speaking world, most often played using plastic hanafuda known as [*hwatu*](/en/hanafuda/hwatu). It is usually played with 2-3 players, and may involve gambling for small sums of money.
+
+Go-Stop is named for its characteristic gameplay mechanic that allows a player to stop the round after collecting a yaku, or to continue the round to attempt to increase their score further, at the risk of their opponent scoring in their stead. Go-stop is also known as **Godori** (고도리, from Japanese 五鳥, “5 birds”), which is the name of one of the best yaku in this game. The two-player variant is also known as **Matgo** (맞고, lit. “face-to-face Go-Stop”).
 
 In many ways, Go-Stop resembles a more complex version of [Koi-Koi](/en/hanafuda/games/koi-koi), and undoubtedly both games are related, although the precise nature of this relationship is a topic of some debate.
 
-This page describes the common 2-3 player version of the game first; the variation for 4-6 players is given [further down](/en/hanafuda/games/go-stop#go-stop-for-4-6-players).
+This page describes the common 2-3 player version of the game first; the variations for [4-6 players](#go-stop-for-4-6-players) and [7 players](#go-stop-for-7-players) are given further down.
 
 # Setup
 Game setup involves choosing a dealer - '선' *[seon]* or 親 [おや, *oya*], shuffling the deck, and distributing the initial cards.
