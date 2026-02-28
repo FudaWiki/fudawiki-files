@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2026-02-28T06:46:21.350Z
+date: 2026-02-28T06:48:09.911Z
 tags: hanafuda games, hwatu, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:07.794Z
@@ -14,7 +14,7 @@ Go-Stop is named for its characteristic gameplay mechanic that allows a player t
 
 In many ways, Go-Stop resembles a more complex version of [Koi-Koi](/en/hanafuda/games/koi-koi), and undoubtedly both games are related, although the precise nature of this relationship is a topic of some debate.
 
-This page describes the common 2-3 player version of the game first; the variations for [4-6 players](#go-stop-for-4-6-players) and [7 players](#go-stop-for-7-players) are given further down.
+This page describes the common 2-3 player version of the game first; the variations for 4-6 and 7 players are given [further down](#go-stop-for-4-6-players).
 
 # Setup
 Game setup involves choosing a dealer - '선' *[seon]* or 親 [おや, *oya*], shuffling the deck, and distributing the initial cards.
