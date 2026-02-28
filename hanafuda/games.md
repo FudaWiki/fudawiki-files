@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2026-01-29T03:02:09.115Z
+date: 2026-02-28T06:31:45.282Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -41,7 +41,7 @@ Also, in a Hana-Awase style game, if only 2 players are participating in a match
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Style|Origin|
 |:---|:---:|:---:|:---:|---:|
-|[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori|2-3 per round, max 7 per game|Fishing|Hana-Awase|Korea|
+|[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori or Matgo|2-3 per round, max 7 per game|Fishing|Hana-Awase|Korea|
 |[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Hana-Awase|Yokohama, Japan|
 |[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Fishing|Hana-Awase|Japan|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Hana-Awase|Disputed|
@@ -95,7 +95,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Jū-Mai](/en/hanafuda/games/jumai)|2|Fishing|Hana-Awase|Japan|
 |[Jumai Kabu](/en/kabufuda/games/jumai-kabu) a.k.a. Sumotori Kabu|2+|Banking|Kabu-kei, Honbiki-kei|Shikoku Island, Japan|
 |[Kabu-Tsukuri](/en/hanafuda/games/kabu-tsukuri)|2-5|Showdown|Kabu-kei|Japan|
-|[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Junjun, Dondon, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
+|[Kachi-Kachi](/en/kabufuda/games/kachi-kachi), a.k.a Jun-Jun, Don-Don, Totto, or Setta|2-8|Showdown|Kabu-kei|Japan|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Hana-Awase|Kaga Province, Hokuriku region, Japan|
 |[Kakkuri](/en/mekurifuda/games/kakkuri)|7-8|Sequence|Yomi-kei|Yafune Town, Echizen City,  Fukui Prefecture, Japan|
 |[Karafuto Kabu](/en/kabufuda/games/karafuto-kabu)|2+|Banking|Honbiki-kei|Karafuto Prefecture (Now South Sakhalin)|
