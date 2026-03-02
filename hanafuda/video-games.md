@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-02T06:27:20.759Z
+date: 2026-03-02T07:08:28.566Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -242,14 +242,14 @@ A line of home video game consoles by Microsoft (2020-present)
 # Portable Game Consoles
 ## [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 A handheld game console by Nintendo (2001-2010)
-* [Hanafuda Trump Mahjong: Depachika Wayōnaka (<span lang='ja'>花札トランプ麻雀 デパチカ 和洋中</span>)](/en/hanafuda/video-games/gba/hanafuda-trump-mahjong-depachika-wayounaka)
-* [Isseki Hacchō: Kore Ippon de Hasshurui! (<span lang='ja'>一石八鳥 これ1本で8種類！</span>)](/en/hanafuda/video-games/gba/isseki-hacchou-kore-1-pon-de-8-shurui)
-* [Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection (<span lang='ja'>THE テーブルゲームコレクション～麻雀・将棋・花札・リバーシ～</span>)](/en/hanafuda/video-games/gba/simple-2960-tomodachi-series-vol-1-the-table-game-collection)
+* [Hanafuda Trump Mahjong: Depachika Wayōchū (<span lang='ja'>花札トランプ麻雀 デパチカ 和洋中</span>)](/en/hanafuda/video-games/gba/hanafuda-trump-mahjong-depachika-wayounaka) <sub>[Koi-Koi] [Hana-Awase]</sub>
+* [Isseki Hacchō: Kore Ippon de Hasshurui! (<span lang='ja'>一石八鳥 これ1本で8種類！</span>)](/en/hanafuda/video-games/gba/isseki-hacchou-kore-1-pon-de-8-shurui) <sub>[multiplayer] -- [Koi-Koi] [Hana-Awase]</sub>
+* [Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection (<span lang='ja'>SIMPLE<ruby>2960<rt>つくろう</rt></ruby>ともだちシリーズ Vol.1 THE テーブルゲームコレクション</span>)](/en/hanafuda/video-games/gba/simple-2960-tomodachi-series-vol-1-the-table-game-collection) <sub>[multiplayer] -- [Koi-Koi] [Hana-Awase]<!--called bakappana in-game, but it's hana-awase--></sub>
 ## [Game Boy Color](https://en.wikipedia.org/wiki/Game_Boy_Color)
 A handheld game console by Nintendo (1998-2003)
-* [Honkaku Hanafuda GB (<span lang='ja'>本格花札GB</span>)](/en/hanafuda/video-games/gbc/honkaku-hanafuda-gb)
-* [Karan Koron Gakuen: Hanafuda - Mahjong (<span lang='ja'>華蘭虎龍学園 ～花札・麻雀～</span>)](/en/hanafuda/video-games/gbc/karan-koron-gakuen-hanafuda-mahjong)
-* [Pocket Hanafuda (<span lang='ja'>ポケット花札</span>)](/en/hanafuda/video-games/gbc/pocket-hanafuda)
+* [Honkaku Hanafuda GB (<span lang='ja'>本格花札GB</span>)](/en/hanafuda/video-games/gbc/honkaku-hanafuda-gb) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
+* [Karan Koron Gakuen: Hanafuda - Mahjong (<span lang='ja'>華蘭虎龍学園 ～花札・麻雀～</span>)](/en/hanafuda/video-games/gbc/karan-koron-gakuen-hanafuda-mahjong) <sub>[Koi-Koi]</sub>
+* [Pocket Hanafuda (<span lang='ja'>ポケット花札</span>)](/en/hanafuda/video-games/gbc/pocket-hanafuda) <sub>[Koi-Koi] [Hana-Awase]</sub>
 ## [Neo Geo Pocket Color](https://en.wikipedia.org/wiki/Neo_Geo_Pocket)
 A handheld game console by SNK (1998-2001)
 * [Koi-Koi Mahjong (<span lang='ja'>コイコイ麻雀</span>)](/en/hanafuda/video-games/ngpc/koi-koi-mahjong)
