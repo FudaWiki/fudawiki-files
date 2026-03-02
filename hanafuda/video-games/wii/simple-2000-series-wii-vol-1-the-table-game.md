@@ -1,8 +1,8 @@
 ---
-title: Simple 2000 Series Wii Vol. 1: The Table Game
+title: Simple 2000 Series Vol. 1: The Table Game
 description: Wii game
 published: true
-date: 2026-03-02T06:04:13.364Z
+date: 2026-03-02T06:04:24.598Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:35:09.680Z
