@@ -2,7 +2,7 @@
 title: Koi-Koi Japan
 description: 
 published: true
-date: 2026-02-07T01:40:36.358Z
+date: 2026-03-03T15:52:16.765Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T22:58:31.176Z
@@ -21,7 +21,7 @@ The game includes both single player and online multiplayer modes. A DLC is avai
 Most notable rules:
 * The Moon Viewing (*Tsukimizake*) and Flower Viewing (*Hanamizake*) yaku are worth only 1 point each. If you call Koi-Koi, their value is upgraded to 3 points each.
 * Calling Koi-Koi earns you additional points and multipliers, similar to in [Go-Stop](/en/hanafuda/games/go-stop). Calling Koi-Koi 1-3 times gives 1-3 bonus points respectively, and calling Koi-Koi 4-7 times will instead give a score multiplier of 2-5 times (increasing by one each time).
-* A Dealer Priviledge / Oyaken rule is used: when the game ends in a draw, the non-dealer (*Ko*) pays 1 point to the dealer (*Oya*).
+* A Dealer Privilege / Oyaken rule is used: when the game ends in a draw, the non-dealer (*Ko*) pays 1 point to the dealer (*Oya*).
 * There are no score multipliers for having 7 or more points, nor for winning after the opponent called Koi-Koi.
 
 Additional details:
