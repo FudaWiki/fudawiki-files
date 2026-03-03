@@ -2,7 +2,7 @@
 title: Isseki Hacchou: Kore 1-pon de 8 Shurui!
 description: video game for Game Boy Advance
 published: true
-date: 2026-01-30T01:31:12.178Z
+date: 2026-03-03T15:52:08.910Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-10T14:28:20.204Z
@@ -20,7 +20,7 @@ General notes:
 
 * The Sake Cup counts only as an Animal card, never as a Chaff card.
 * There aren't any score multiplier rules
-* By default, there is a Dealer's Priviledge rule (*oyaken*), where the dealer wins 3 points in case of a tie. There is an option to turn it off.
+* By default, there is a Dealer's Privilege rule (*oyaken*), where the dealer wins 3 points in case of a tie. There is an option to turn it off.
 * There are game options for turning off Viewing yaku and Rainy 4 Brights.
 * The game uses cumulative scoring (not zero-sum)
 
