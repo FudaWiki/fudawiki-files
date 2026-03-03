@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-02T07:08:28.566Z
+date: 2026-03-03T03:09:45.707Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -47,6 +47,7 @@ Many games are marked with the following tags. You can copy-paste them and do a 
 * `[multilingual]` - Interface is available in multiple/many languages other than English and Japanese.
 * `[multiplayer]` - Online multiplayer is available (and as far as we know, the servers are still online).
 * `[pass-and-play]` - Pass-and-play mode is available for offline multiplayer.
+* `[teams]` - Has a game mode for team play, e.g. 2 vs 2.
 * `[minigame]` - Hanafuda is included as a minigame, usually played against non-player characters in a larger game
 * `[medal]` - [Medal games](https://en.wikipedia.org/wiki/Medal_game) are arcade games that involve simulated gambling, where players place bets using tokens that cannot be exchanged back into money
 
@@ -75,7 +76,7 @@ Many games are marked with the following tags. You can copy-paste them and do a 
 A home video game console by Sega (1998-2001)
 * [Bakumatsu Rōman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2) <sub>[Koi-Koi]</sub>
 * [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
-* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen) <sub>[Koi-Koi]</sub>
+* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen) <sub>[teams] -- [Koi-Koi]</sub>
 * [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen) <sub>[minigame] -- [Koi-Koi]</sub>
 * [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online) <sub>[minigame] -- [Koi-Koi]</sub>
 * [Shin Honkaku Hanafuda (<span lang='ja'>真 本格花札</span>)](/en/hanafuda/video-games/dc/shin-honkaku-hanafuda) <sub>[Koi-Koi] [Hana-Awase] [Hachi-Hachi] [Oicho-Kabu]</sub>
