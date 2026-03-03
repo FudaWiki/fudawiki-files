@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-03T03:09:45.707Z
+date: 2026-03-03T15:12:50.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -270,7 +270,7 @@ A handheld game console by Nintendo (2004-2011)
 * [Table Game Spirits 2 (<span lang='ja'>テーブルゲームスピリッツ2</span>)](/en/hanafuda/video-games/ds/table-game-spirits-2) <sub>[multiplayer] -- [Koi-Koi]</sub>
 * [Table Game Spirits Victory (<span lang='ja'>テーブルゲーム <ruby>Spirits V<rt>スピリッツ ビクトリー</rt></ruby></span>)](/en/hanafuda/video-games/ds/table-game-spirits-victory) <sub>[multiplayer] -- [Koi-Koi]</sub>
 * [The Table Game (Simple DS Series Vol. 30) (<span lang='ja'>SIMPLE DSシリーズ Vol.30 THE テーブルゲーム</span>)](/en/hanafuda/video-games/ds/the-table-game-simple-ds-series-vol-30) <sub>[multiplayer] -- [Koi-Koi] [Hana-Awase]</sub>
-* [Wi-Fi Taiō: Gensen Table Games DS (<span lang='ja'>Wi-Fi対応 厳選 テーブルゲームＤＳ</span>)](/en/hanafuda/video-games/ds/wi-fi-taiou-gensen-table-game-ds) <sub>[multiplayer] -- [Hana-Awase]</sub>
+* [Wi-Fi Taiō: Gensen Table Game DS (<span lang='ja'>Wi-Fi対応 厳選 テーブルゲームＤＳ</span>)](/en/hanafuda/video-games/ds/wi-fi-taiou-gensen-table-game-ds) <sub>[multiplayer] -- [Hana-Awase]</sub>
 ### DSiWare
 * [at Enta! Taisen Hanafuda: Koi-Koi Kassen (<span lang='ja'>at エンタ！対戦花札 こいこい合戦</span>)](/en/hanafuda/video-games/dsiware/at-enta-taisen-hanafuda-koi-koi-kassen)
 * [Chotto Asobi Taizen: Onajimi Table (<span lang='ja'>ちょっとアソビ大全 おなじみテーブル</span>)](/en/hanafuda/video-games/dsiware/chotto-asobi-taizen-onajimi-table)
