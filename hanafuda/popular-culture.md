@@ -2,13 +2,16 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2026-01-25T22:17:36.502Z
+date: 2026-03-05T14:50:49.366Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:34.399Z
 ---
 
-A list of popular media that contains Hanafuda. Intentionally excluded from this list are video games where playing a Hanafuda game is the primary purpose (e.g. Koi-Koi Japan) and video games that are presented as a collection of games where one of the games is a Hanafuda game (e.g. 51 Worldwide Games). For more information on such video games, please view the [Hanafuda Video Game list](/en/hanafuda/video-games).
+A list of popular media that involve hanafuda or make reference to it.
+
+> Intentionally excluded from this list are video games where playing a Hanafuda game is the primary purpose (e.g. [Koi-Koi Japan](/en/hanafuda/video-games/steam/koi-koi-japan)) and video games that are presented as a collection of games where at least one of the games is a Hanafuda game (e.g. [Clubhouse Games, a.k.a. 51 Worldwide Games](/en/hanafuda/video-games/switch/51-worldwide-games)). For more information on such video games, please view the [Hanafuda Video Game list](/en/hanafuda/video-games).
+{.is-info}
 
 # Significant Role
 Media in which Hanafuda plays a significant role.
@@ -34,11 +37,12 @@ Video games (that are not collections of games) where hanafuda or a hanafuda-der
 Media in which hanafuda is shown or referenced.
 
 * [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, *Kimetsu no Yaiba*)  
-  (A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.)
-  The protagonist's earrings are elongated hanafuda cards that resemble the [Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) card, but with a [rising sun](https://en.wikipedia.org/wiki/Rising_Sun_Flag) design.
+  (A 2016-2020 Manga, 2019 animated television and film series.)
+  The protagonist's earrings are elongated hanafuda cards that resemble the [Moon](/en/hanafuda/suits/susuki-grass#moon) card, but with a [rising sun](https://en.wikipedia.org/wiki/Rising_Sun_Flag#Art) design instead of a full moon -- the sun having some significance in the story.
+  The earrings' rising sun design was found to be controversial in some Asian countries, and in response the animation studio made a version for Chinese and South Korean releases of the anime where the earrings' sunrays were replaced with gray horizontal lines.
   
 * [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball) (1986 animated series)
-  The animated series has a filler episode called [The Rampage of InoShikaCho](https://dragonball.fandom.com/wiki/The_Rampage_of_InoShikaCho), featuring a monster called [InoShikaCho](https://dragonball.fandom.com/wiki/InoShikaCho) that looks like a purple boar with deer antlers and butterfly wings.
+  The animated series has a filler episode called [The Rampage of InoShikaCho](https://dragonball.fandom.com/wiki/The_Rampage_of_InoShikaCho), featuring a monster called [InoShikaCho](https://dragonball.fandom.com/wiki/InoShikaCho) ("BoarDeerButterfly") that looks like a purple boar with deer antlers and butterfly wings.
 
 * James Bond - [Trigger Mortis](https://en.wikipedia.org/wiki/Trigger_Mortis) (2015 novel)
   The main antagonist is from South Korea, and uses hanafuda cards to decide how to execute his victims. See [here](https://jamesbond.fandom.com/wiki/Hanafuda) on the James Bond wiki for more info.
@@ -46,7 +50,7 @@ Media in which hanafuda is shown or referenced.
 * [Naruto](https://en.wikipedia.org/wiki/Naruto) and [Boruto](https://en.wikipedia.org/wiki/Boruto)
   (manga and anime series)
   The original series introduces a [trio of secondary characters](https://naruto.fandom.com/wiki/Team_10_(Asuma)) named Ino, Shikamaru, and Chōji, whose families are later revealed to have a long history of working in tandem. The given names within each of their families tend to start with "Ino," "Shika," and "Chō," a reference to the hanafuda yaku consisting of the Boar, Deer, and Butterflies. Their families' special combo moves are called [Formation Ino-Shika-Chō](https://naruto.fandom.com/wiki/Formation_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D).
-  Their fathers - Shikaku, Inoichi and Chōza - were [the previous generation's Ino-Shika-Chō team](https://naruto.fandom.com/wiki/Ino%E2%80%93Shika%E2%80%93Ch%C5%8D_(15th)). In the Boruto series, their children Inojin, Shikadai and Chōchō are [the next generation of Ino-Shika-Cho](https://naruto.fandom.com/wiki/Team_10_(Moegi)).
+  Their fathers - Shikaku, Inoichi and Chōza - were [the previous generation's Ino-Shika-Chō team](https://naruto.fandom.com/wiki/Ino%E2%80%93Shika%E2%80%93Ch%C5%8D_(15th)). In the Boruto series, their children Inojin, Shikadai and Chōchō are [the next generation of Ino-Shika-Chō](https://naruto.fandom.com/wiki/Team_10_(Moegi)).
   
 * [Nisemonogatari](https://bakemonogatari.fandom.com/wiki/Nisemonogatari) (偽物語)
   (novel and anime in the [Monogatari series](https://en.wikipedia.org/wiki/Monogatari_(series)))
