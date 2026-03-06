@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-03T15:12:50.065Z
+date: 2026-03-06T04:06:20.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -76,7 +76,7 @@ Many games are marked with the following tags. You can copy-paste them and do a 
 A home video game console by Sega (1998-2001)
 * [Bakumatsu Rōman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2) <sub>[Koi-Koi]</sub>
 * [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
-* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen) <sub>[teams] -- [Koi-Koi]</sub>
+* [Guru-Guru Onsen 3 (<span lang='ja'>ぐるぐる温泉3</span>)](/en/hanafuda/video-games/dc/guruguru-onsen-3) <sub>[teams] -- [Koi-Koi]</sub>
 * [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen) <sub>[minigame] -- [Koi-Koi]</sub>
 * [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online) <sub>[minigame] -- [Koi-Koi]</sub>
 * [Shin Honkaku Hanafuda (<span lang='ja'>真 本格花札</span>)](/en/hanafuda/video-games/dc/shin-honkaku-hanafuda) <sub>[Koi-Koi] [Hana-Awase] [Hachi-Hachi] [Oicho-Kabu]</sub>
@@ -123,7 +123,7 @@ A home video game console by Sony (2000-2013)
 * [Game Select 5 Wa (<span lang='ja'>ゲームセレクト5 和</span>)](/en/hanafuda/video-games/ps2/game-select-5-wu) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
 * [Gintama Gin-San to Issho! Boku no Kabuki Machi Nikki (<span lang='ja'>銀魂 銀さんと一緒!ボクのかぶき町日記</span>)](/en/hanafuda/video-games/ps2/gintama-gin-san-to-issho-boku-no-kabuki-machi-nikki) <sub>[Koi-Koi]</sub>
 * [Hanafuda (SuperLite 2000 Vol 19 Table Game) (<span lang='ja'>SuperLite 2000 Vol. 19 テーブルゲーム 花札</span>)](/en/hanafuda/video-games/ps2/hanafuda-superlite-2000-vol-19-table-game) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
-* [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/ps2/online-games-dai-guruguru-onsen) <sub>[Koi-Koi]</sub>
+* [Online Games: Dai Guru-Guru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/ps2/online-games-dai-guruguru-onsen) <sub>[teams] -- [Koi-Koi]</sub>
 * [Sakura Wars: In Hot Blood (<span lang='ja'>サクラ大戦 熱き血潮に</span>)](/en/hanafuda/video-games/ps2/sakura-wars-in-hot-blood) <sub>[minigame] -- [Koi-Koi]</sub>
 * [Sakura Wars: So Long, My Love (<span lang='ja'>サクラ大戦V 〜さらば愛しき人よ〜</span>)](/en/hanafuda/video-games/wii/sakura-wars-so-long-my-love) <sub>[English] [minigame] -- [Koi-Koi]</sub>
 * [Table Games (Simple 2000 Series Vol. 1) (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/ps2/table-games-simple-2000-series-vol-1) <sub>[Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
