@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-06T04:06:20.911Z
+date: 2026-03-08T00:45:22.798Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -356,9 +356,9 @@ A series of home computers by Commodore (1985-1994)
 ## FM-8
 * [Graphic Hanafuda (<span lang='ja'>グラフィック花札 こいこい</span>)](/en/hanafuda/video-games/fm-8/graphic-hanafuda)
 ## Linux
-* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] -- [Koi-Koi]</sub>
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] [multiplayer] -- [Koi-Koi]</sub>
 ## Mac OS X
-* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] -- [Koi-Koi]</sub>
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] [multiplayer] -- [Koi-Koi]</sub>
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) <sub>[English] [multiplayer] -- [Koi-Koi] [Hana-Awase]</sub>
 * [Koi-Koi Komachi Pure International (<span lang='ja'>恋々小町Pure</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-pure-international)
 * [Koi-Koi Komachi X International (<span lang='ja'>恋々小町Ｘ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-x-international)
@@ -440,7 +440,7 @@ A series of home computers by Commodore (1985-1994)
 * [Koi-Koi (<span lang='ja'>Koi-Koi</span>)](/en/hanafuda/video-games/risc/koi-koi)
 ## [Steam](https://en.wikipedia.org/wiki/Steam_(service))
 PC gaming platform
-* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] -- [Koi-Koi]</sub>
+* [Battle Hanafuda](/en/hanafuda/video-games/steam/battle-hanafuda) <sub>[English] [multiplayer] -- [Koi-Koi]</sub>
 * [Hanafuda no Tora (<span lang='ja'>花札の虎</span>)](/en/hanafuda/video-games/multiplatform/hanafuda-no-tora) <sub>[deckbuilding]</sub>
 * [hololive Holo's Hanafuda (<span lang='ja'>ホロの花札</span>)](/en/hanafuda/video-games/multiplatform/hololive-holos-hanafuda) <sub>[English] [multiplayer] [multilingual] -- [original] [Koi-Koi] [Hana-Awase] [Oicho-Kabu]</sub>
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) <sub>[English] [multiplayer] [multilingual] -- [Koi-Koi] [Hana-Awase]</sub>
