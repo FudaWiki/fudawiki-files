@@ -2,15 +2,15 @@
 title: List of Kabufuda Video Games
 description: 
 published: true
-date: 2026-01-30T12:17:25.395Z
+date: 2026-03-13T15:50:15.212Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-18T02:20:46.587Z
 ---
 
-The following is a list of known hanafuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
+The following is a list of known kabufuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
 
-See also: [List of Hanafuda Video Games](/en/hanafuda/video-games)
+This page only lists video games where you can play with kabufuda cards. So for example, it does not include the many Oicho-Kabu video games that only allow players to play with hanafuda cards. Refer to [List of Hanafuda Video Games](/en/hanafuda/video-games) for those.
 
 # Tags
 Games are marked with the following tags. You can copy-paste them and do a text search to find specific game features and hanafuda games on this page.
