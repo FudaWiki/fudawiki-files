@@ -2,7 +2,7 @@
 title: Kabufuda Games
 description: Popular and Traditional games played with Kabufuda
 published: true
-date: 2026-01-18T02:22:43.984Z
+date: 2026-03-14T15:00:29.836Z
 tags: kabufuda
 editor: markdown
 dateCreated: 2022-04-01T17:57:10.313Z
@@ -42,6 +42,7 @@ Also, some of these games were originally played using different one-suited [Mek
 |[Kyo-Kabu](/en/kabufuda/games/kyo-kabu)|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Otoroku](/en/hanafuda/games/oto-roku)|5-6|Banking|Kabu-kei|Tōkai region, Japan|
+|[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Kabu-kei|Japan|
 |[Shippin](/en/kabufuda/games/shippin)|2-5|Banking|Kabu-kei, Honbiki-kei|Japan|
 |[Yoshi](/en/hanafuda/games/yoshi)|2-13|Banking|Kabu-kei|Shikoku Island, Japan|
 
