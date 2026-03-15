@@ -2,13 +2,13 @@
 title: Nihon no Asobi Series: Kabufuda
 description: video game for Windows
 published: true
-date: 2026-03-15T18:25:15.291Z
+date: 2026-03-15T18:27:13.505Z
 tags: kabufuda video game
 editor: markdown
 dateCreated: 2026-03-15T18:25:15.291Z
 ---
 
-_Nihon no Asobi Series: Kabufuda_ (<span lang='ja'>日本の遊びシリーズ 株札</span>, "Games of Japan Series: Kabufuda") is a video game for Windows published in 2001, developed by FEEL-GOOD. The latest update was version 10.0 in 2013.
+_Nihon no Asobi Series: Kabufuda_ (<span lang='ja'>日本の遊びシリーズ 株札</span>, "Games of Japan Series: Kabufuda") is a video game for Windows published in 2002, developed by FEEL-GOOD. The latest update was version 10.0 in 2013.
 
 The game supports [Kingo](/en/hanafuda/games/kingo), [Oicho-Kabu](/en/kabufuda/games/oicho-kabu) and [Sashikomi](/en/hanafuda/games/sashikomi).
 
