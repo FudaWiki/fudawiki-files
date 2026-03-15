@@ -2,7 +2,7 @@
 title: Ogura Hyakunin Isshu
 description: One Hundred Poets
 published: true
-date: 2022-12-12T07:39:12.988Z
+date: 2026-03-15T21:31:38.977Z
 tags: uta-garuta, draft
 editor: markdown
 dateCreated: 2022-04-28T13:36:45.173Z
@@ -49,7 +49,8 @@ As the reader reads a poem on the Yomifuda, the player(s) must search on the flo
 The objective is to grab as many Torifuda in the game as possible.
 
 # Methods of Playing
-## Scatter and Pick up (散らし取り - *Chirashi-Dori*)
+## <span id="scatter-and-pick-up">Scatter and Pick up (散らし取り - *Chirashi-Dori*)</span><!-- section ID used in /en/karuta/video-games/win/nihon-no-asobi-series -->
+
 ![utagaruta_gameplay.png](/suryongfiles/utagaruta_gameplay.png =300x)
 
 This is one of the traditional ways of playing the game, and can be played by any number of players.
@@ -74,13 +75,15 @@ The game goes as follows:
 - Players count the Torifuda they have taken. The player with the most Torifuda wins the game.
 
 ## Reversed Karuta (逆さまかるた - *Sakasama Karuta*)
+
 The gameplay and number of players are identical to "Scatter and Pick Up", except that the **Yomifuda are used as Torifuda, and the Torifuda are used as Yomifuda**.
 
 The reader only reads the latter half of the poems, and players must grab the cards on the floor, based on the corresponding first half of the poem. However, since the cards on the floor are written in kana mixed with kanji (chinese characters), the game is characterized by optical illusions that make it easy to grab the wrong card.
 
 It seems the original purpose of this game is for practice purposes, by familiarizing with the first half of the poems by listening only to the latter half of the poems being read.
 
-## Genpei War (源平合戦 - *Genpei-Gassen*)
+## <span id="genpei-war">Genpei War (源平合戦 - *Genpei-Gassen*)</span><!-- section ID used in /en/karuta/video-games/win/nihon-no-asobi-series -->
+
 It is a competition between two teams of one or more players per team.
 The two teams are called Genji (源氏) and Heiji (平氏).
 
@@ -101,7 +104,8 @@ It is a variant of Genpei War where:
 - Turnover of players of both teams occur every 10 poems read.
 - If an opponent took a Torifuda from a player's side, the player passes their turn to their next teammate.
 
-## Competitive Karuta (競技かるた - *Kyōgi Karuta*)
+## <span id="competitive-karuta">Competitive Karuta (競技かるた - *Kyōgi Karuta*)</span><!-- section ID used in /en/karuta/video-games/win/nihon-no-asobi-series -->
+
 [Competitive Karuta](/en/uta-garuta/ogura-hyakunin-isshu/competitive-karuta) is a full-fledged competition held under the rules set by the All Japan Karuta Association. 
 
 It is a one-on-one game characterized by using **only 50 Torifuda**, which is half of what is used in "Scatter and Pick up". However, all 100 Yomifuda are read by the reader.
@@ -109,8 +113,8 @@ It is a one-on-one game characterized by using **only 50 Torifuda**, which is ha
 Playing at a competitive level requires a high level of dexterity, agility, and memory, and is considered as a kind of sport in Japan.
 
 ## Mubeyama Karuta (むべ山かるた)
-[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
 
+[Mubeyama Karuta](/en/uta-garuta/ogura-hyakunin-isshu/mubeyama-karuta) is a bingo-style gambling game that was very popular from the mid-Edo period to the Meiji period.
 
 The torifuda are divided equally between a preset number of players, who then arrange them neatly in rows. The reader reads the Yomifuda, and the player must then check their cards if they have the corresponding Torifuda. If they do, they flip it face-down. A player is paid points for either completing a row of Torifuda, or flipping a Torifuda of special "yaku" poems, which contain certain words.
 
@@ -124,6 +128,7 @@ The game is named after a "yaku" poem in the game, which is written by Fun'ya no
 
 
 ## Shimonoku Karuta (下の句かるた)
+
 Shimonoku Karuta is a unique [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) Karuta game played in the Hokkaido region of Japan.
 
 The card sets are slightly different than typical Hyakunin Isshu Karuta sets.
@@ -176,7 +181,8 @@ If you grabbed the wrong Torifuda (the situation of which is hereafter refered t
 
 There are other games played using Hyakunin Isshu Karuta which do not utilize the poems on the cards, and therefore do not require any memorization of the poems to play the game.
 
-## Bōzu Mekuri (坊主めくり, "flip the baldies")
+## <span id="bozu-mekuri">Bōzu Mekuri (坊主めくり, "flip the baldies")</span><!-- section ID used in /en/karuta/video-games/win/nihon-no-asobi-series -->
+
 Bōzu-mekuri seems to have been devised as a game that even children who have not memorized the poems can play, but it is not clear when and where it originated or who invented it.
 
 Only the 100 Yomifuda of a [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set are used. They are placed in **a face-down stack on the table**.
