@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-08T00:45:22.798Z
+date: 2026-03-15T18:25:17.410Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -479,7 +479,7 @@ See also [Steam games](#Steam), which are all available on Windows.
 * [Family Hanafuda · Hyakunin Isshu 2 (<span lang='ja'>ファミリー花札・百人一首2</span>)](/en/hanafuda/video-games/win/family-hanafuda-hyakunin-isshu-2)
 * [Family Hanafuda · Hyakunin Isshu 3 (<span lang='ja'>ファミリー花札・百人一首3</span>)](/en/hanafuda/video-games/win/family-hanafuda-hyakunin-isshu-3)
 * [Fate / hollow ataraxia (<span lang='ja'>フェイト/ホロウアタラクシア</span>)](/en/hanafuda/video-games/win/fate-hollow-ataraxia)
-* [FEEL-GOOD Japanese play series Hanafuda (<span lang='ja'>FEEL-GOOD 日本の遊びシリーズ 花札</span>)](/en/hanafuda/video-games/win/feel-good-japanese-play-series-hanafuda)
+* [Nihon no Asobi series: Hanafuda (<span lang='ja'>日本の遊びシリーズ 花札</span>)](/en/hanafuda/video-games/win/feel-good-japanese-play-series-hanafuda)
 * [Gakuen Hanafuda Gōka Kenran(<span lang='ja'>学園花札 豪華絢爛</span>)](/en/hanafuda/video-games/win/gakuen-hanafuda-gouka-kenran-kouhen)
 * [GAME FAN 1200 Vol.6 Hanafuda (<span lang='ja'>ゲームファン1200 Vol.6 花札・バックギャモン・スピナーの逆襲</span>)](/en/hanafuda/video-games/win/game-fan-1200-vol6-hanafuda)
 * [GAME FAN 1980 Shogi, Fishing II, Hanafuda II, Hyakunin Isshu (<span lang='ja'>GAME FAN 1980 将棋・釣りII・花札II・百人一</span>)](/en/hanafuda/video-games/win/game-fan-1980-shogi-fishing-ii-hanafuda-ii-hyakunin-isshu)
