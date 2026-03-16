@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-15T18:25:17.410Z
+date: 2026-03-16T02:13:20.941Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -446,7 +446,7 @@ PC gaming platform
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan) <sub>[English] [multiplayer] [multilingual] -- [Koi-Koi] [Hana-Awase]</sub>
   * Spinoff: <!-- Official English title, do not convert to Hepburn -->[Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi) <sub>[English] [multiplayer] [multilingual] -- [Koi-Koi]</sub>
 * [Real-Gostop VR](/en/hanafuda/video-games/steam/real-gostop-vr) <sub>[English] [multiplayer] -- [Go-Stop]</sub>
-* [RogueHanafuda](/en/hanafuda/video-games/steam/roguehanafuda) <sub>[English] -- [deckbuilding]</sub>
+* [RogueHanafuda](/en/hanafuda/video-games/steam/roguehanafuda) <sub>[English] [multilingual] -- [deckbuilding]</sub>
 * [Yaku Slap](/en/hanafuda/video-games/steam/yaku-slap) <sub>[English] -- [deckbuilding]</sub>
 * [Yakuza/Like a Dragon series](/en/hanafuda/video-games/steam/yakuza-series) <sub>[English] [minigame] [multilingual] -- [Koi-Koi] [Oicho-Kabu]</sub>
   * Judgement (<span lang='ja'>JUDGE EYES：死神の遺言</span>)
@@ -623,7 +623,6 @@ All of these are [free].
 * [Koi-Koi (<span lang='ja'>こいこい \~koikoi\~</span>) by MasunakaSoft](/en/hanafuda/video-games/web/koi-koi) <sub>[multiplayer] -- [Koi-Koi]</sub>
 * [Koi-Koi by Otakode](/en/hanafuda/video-games/web/otakode) <sub>[English] -- [Koi-Koi]</sub>
 * [NewHanafuda.art](/en/hanafuda/video-games/web/newhanafuda-art) <sub>[English] [multilingual] -- [Koi-Koi]</sub>
-  * Previous version: [Let's Play Koi-Koi](/en/hanafuda/video-games/web/lets-play-koi-koi) <sub>[English] -- [Koi-Koi]</sub>
 * [Shiragiku Hanafuda (<span lang='ja'>しらぎく花札</span>)](/en/hanafuda/video-games/web/marguerite) by Marguerite <sub>[Koi-Koi] [Hana-Awase] [Hachi-Hachi] [Roppyakken] [Sudaoshi] [Mushi] [Hachi] [Oicho-Kabu] [Kyo-Kabu]</sub>
 ---
 * (no longer available) [Coded Dragon](/en/hanafuda/video-games/web/coded-dragon) <sub>[English]</sub>
