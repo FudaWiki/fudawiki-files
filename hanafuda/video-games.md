@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-16T02:35:52.649Z
+date: 2026-03-16T02:38:04.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
@@ -612,7 +612,8 @@ A series of PDAs by Sharp Corporation, 1993-2007. ([Wikipedia](https://en.wikipe
 ## JAVA
 * [Gyakuten Hanafuda (<span lang='ja'>逆転花札</span>)](/en/hanafuda/video-games/java/gyakuten-hanafuda)
 * [Hanatori Fuzuki (<span lang='ja'>花鳥風月</span>)](/en/hanafuda/video-games/java/hanatori-fuzuki)
-## [PICO-8](https://en.wikipedia.org/wiki/PICO-8)
+## PICO-8
+([Wikipedia](https://en.wikipedia.org/wiki/PICO-8))
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
 ## Web Browser
 All of these are [free].
