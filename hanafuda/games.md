@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2026-02-28T06:31:45.282Z
+date: 2026-03-16T22:00:13.628Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -242,6 +242,8 @@ Independent Japanese mobile game developer
 ## Nintendo
 |Game|Players|Family|
 |:---|:---:|---:|
+|[Chotto, Hana-Awase](/en/newgames/chotto-hana-awase) (simplified Hana-Awase lvl 1)|2-4|Fishing|
+|[Chotto, Hana-Awase: Ōyōhen](/en/newgames/chotto-hana-awase) (simplified Hana-Awase lvl 2)|2-5|Fishing|
 |[Babanuki](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (old maid)|2+|Shedding|
 |[Shinkei Suijaku](/en/hanafuda/patterns/hana-cards#h-2-shinkei-suijaku-concentration) (concentration)|1+|Solitaire|
 |[Doubt](/en/hanafuda/patterns/hana-cards#h-3-doubt) |2+|Shedding|
@@ -252,7 +254,7 @@ Independent Japanese mobile game developer
 Website for news and articles related to trains, tourism and leisure.
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Ino-Shika-Chō](/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
+|[Ino-Shika-Chō](/en/newgames/inoshikacho-for-kids) (Hana-awase that even kids can play)|3|Fishing|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -276,7 +278,7 @@ Website for news and articles related to trains, tourism and leisure.
 |:---|:---:|---:|
 |Mekuri-Kabu (Turning Up Nine)|2-10|Showdown|
 |Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
-|[Tsuki-Narabe (Month Arrangement)](/newgames/tsuki-narabe)|3-4|Draw and Discard|
+|[Tsuki-Narabe (Month Arrangement)](/en/newgames/tsuki-narabe)|3-4|Draw and Discard|
 |Yon-San (Four-Three)|3|Commerce|
 ## Sumo-No-Z
 |Game|Players|Family|
@@ -294,15 +296,15 @@ Website for news and articles related to trains, tourism and leisure.
 Japanese tabletop game company specializing in fast-paced modern takes on classic games.
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Taipa Shijō-shugi Hanafuda](/newgames/taipa-hanafuda) (Time-efficient Hanafuda)|2|Fishing|
+|[Taipa Shijō-shugi Hanafuda](/en/newgames/taipa-hanafuda) (Time-efficient Hanafuda)|2|Fishing|
 ## Tezuka Karuta Kobo/Matsui Tengudo
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Shichi-shichi-bana (77 flowers)](/newgames/shichi-shichi-bana)|4 per round|Fishing|
+|[Shichi-shichi-bana (77 flowers)](/en/newgames/shichi-shichi-bana)|4 per round|Fishing|
 ## Ume Channel
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Ume Botan](/newgames/ume-botan)|3-4|Fishing|
+|[Ume Botan](/en/newgames/ume-botan)|3-4|Fishing|
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
