@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2026-03-16T22:00:13.628Z
+date: 2026-03-21T02:20:40.120Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -240,10 +240,17 @@ Independent Japanese mobile game developer
 |[Korobeiniki](https://web.archive.org/web/20220125093314/https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
 |[Rubicon](https://cdn.discordapp.com/attachments/550677413193842688/913101251300958248/RUBICON.pdf)|2|Showdown|
 ## Nintendo
+The following games are Nintendo-original games available on their Japanese website. They were developed for the Nintendo Museum which opened in 2024.
+
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Chotto, Hana-Awase](/en/newgames/chotto-hana-awase) (simplified Hana-Awase lvl 1)|2-4|Fishing|
-|[Chotto, Hana-Awase: Ōyōhen](/en/newgames/chotto-hana-awase) (simplified Hana-Awase lvl 2)|2-5|Fishing|
+|[Chotto, Hana-Awase](/en/newgames/chotto-hana-awase)<br>(simplified Hana-Awase, for beginners)|2-4|Fishing|
+|[Chotto, Hana-Awase: Ōyōhen](/en/newgames/chotto-hana-awase)<br>(simplified Hana-Awase, intermediate)|2-5|Fishing|
+
+The following games were included with decks of [Hana Cards](/en/hanafuda/patterns/hana-cards), produced by Nintendo in the 1950s and 60s. Most are games for other kinds of cards that were adapted to hanafuda.
+
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Babanuki](/en/hanafuda/patterns/hana-cards#h-1-babanuki-old-maid) (old maid)|2+|Shedding|
 |[Shinkei Suijaku](/en/hanafuda/patterns/hana-cards#h-2-shinkei-suijaku-concentration) (concentration)|1+|Solitaire|
 |[Doubt](/en/hanafuda/patterns/hana-cards#h-3-doubt) |2+|Shedding|
