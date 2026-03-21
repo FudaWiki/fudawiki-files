@@ -2,7 +2,7 @@
 title: Chotto, Hana-Awase
 description: A Nintendo-original version of Hana-Awase for total beginners
 published: true
-date: 2026-03-21T02:05:00.890Z
+date: 2026-03-21T02:05:45.960Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2026-03-21T02:05:00.890Z
@@ -12,7 +12,7 @@ dateCreated: 2026-03-21T02:05:00.890Z
 
 The game is designed to be quick and easy to learn for complete beginners of hanafuda, featuring a reduced deck, simplified scoring, and only a few yaku. Nintendo's Japanese website also features **Chotto, Hana-Awase: Ōyōhen** [ちょっと、花合わせ 応用編], an intermediate version of the game for 2 to 5 players that introduces more elements of the full game of Hana-Awase. Both versions of the game were published in 2024, the year when the museum first opened.
 
-This article will first introduce the beginner version of Chotto, Hana-Awase, and will explain the intermediate version [further below](#chotto-hana-awase-oyohen), as well as differences with the full game.
+This article will first introduce the beginner version of Chotto, Hana-Awase, and will explain the intermediate version [further below](#chotto-hana-awase-ōyōhen), as well as differences with the full game.
 
 # Setup
 Game setup involves preparing and shuffling the deck, distributing the initial cards, and choosing the first player.
