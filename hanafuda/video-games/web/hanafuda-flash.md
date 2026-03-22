@@ -2,8 +2,8 @@
 title: Hanafuda Flash
 description: web game
 published: true
-date: 2026-03-16T02:08:54.507Z
-tags: hanafuda video game, video game - web
+date: 2026-03-22T02:23:54.556Z
+tags: hanafuda video games, video game - web
 editor: markdown
 dateCreated: 2026-03-16T00:18:30.205Z
 ---
