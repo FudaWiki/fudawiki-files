@@ -2,8 +2,8 @@
 title: Koi-Koi by Otakode
 description: web and PC game
 published: true
-date: 2026-03-16T14:35:38.746Z
-tags: hanafuda video game, video game - windows, video game - web
+date: 2026-03-22T02:25:34.261Z
+tags: hanafuda video games, video game - windows, video game - web
 editor: markdown
 dateCreated: 2026-03-16T14:35:38.746Z
 ---
