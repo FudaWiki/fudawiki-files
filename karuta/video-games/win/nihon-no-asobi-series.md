@@ -2,8 +2,8 @@
 title: Nihon no Asobi Series
 description: series of video games for Windows
 published: true
-date: 2026-03-15T21:32:18.472Z
-tags: ogura hyakunin isshu video game, iroha karuta video game
+date: 2026-03-22T02:34:33.764Z
+tags: video game series, ogura hyakunin isshu video games, iroha karuta video games
 editor: markdown
 dateCreated: 2026-03-15T21:32:18.472Z
 ---
