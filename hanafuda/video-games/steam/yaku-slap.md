@@ -2,8 +2,8 @@
 title: Yaku Slap
 description: hanafuda video game on Steam
 published: true
-date: 2026-03-15T22:32:14.428Z
-tags: hanafuda video game, video game - steam
+date: 2026-03-22T02:27:16.900Z
+tags: hanafuda video games, video game - steam
 editor: markdown
 dateCreated: 2026-03-15T22:32:14.428Z
 ---
