@@ -2,8 +2,8 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2025-09-27T17:15:36.715Z
-tags: 
+date: 2026-03-22T02:45:54.519Z
+tags: lists
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
 ---
