@@ -2,8 +2,8 @@
 title: Sakura Wars series
 description: series of video games
 published: true
-date: 2026-01-25T21:34:43.793Z
-tags: 
+date: 2026-03-22T02:58:00.681Z
+tags: hanafuda video games, video game series
 editor: markdown
 dateCreated: 2026-01-25T16:11:40.323Z
 ---
