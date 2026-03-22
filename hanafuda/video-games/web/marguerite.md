@@ -2,8 +2,8 @@
 title: Shiragiku Hanafuda
 description: web game by Marguerite
 published: true
-date: 2026-01-30T14:13:24.870Z
-tags: 
+date: 2026-03-22T02:41:34.505Z
+tags: hanafuda video games, video game - web, kabufuda video games
 editor: markdown
 dateCreated: 2022-04-01T22:59:26.511Z
 ---
@@ -31,7 +31,8 @@ The game is a collection of 9 different hanafuda games, of which 5 have customiz
 * [Sudaoshi](/en/hanafuda/games/sudaoshi)
 * 3-player [Roppyakken](/en/hanafuda/games/roppyakken)
 
-#### Kabu-style games
+#### Kabu-kei games
+(These games can be played with either hanafuda or kabufuda, depending on the game options.)
 
 * [Oicho-Kabu](/en/hanafuda/games/oicho-kabu)
 * [Kyo-Kabu](/en/kabufuda/games/kyo-kabu)
