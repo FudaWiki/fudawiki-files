@@ -2,8 +2,8 @@
 title: Battle Hanafuda
 description: hanafuda video game on Steam
 published: true
-date: 2026-03-15T22:10:22.683Z
-tags: hanafuda video game, video game - steam, video game - windows, video game - macintosh, video game - linux
+date: 2026-03-22T02:23:16.138Z
+tags: hanafuda video games, video game - steam, video game - windows, video game - macintosh, video game - linux
 editor: markdown
 dateCreated: 2026-03-15T22:10:22.683Z
 ---
