@@ -2,7 +2,7 @@
 title: List of Hanafuda Video Games
 description: 
 published: true
-date: 2026-03-16T13:45:45.600Z
+date: 2026-03-22T00:25:19.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:56:54.442Z
