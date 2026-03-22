@@ -2,7 +2,7 @@
 title: Dai Guruguru Onsen
 description: video game for PlayStation 2
 published: true
-date: 2026-03-22T02:18:01.247Z
+date: 2026-03-22T02:18:39.270Z
 tags: hanafuda video games, video game - ps2
 editor: markdown
 dateCreated: 2022-04-10T14:33:29.425Z
