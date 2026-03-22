@@ -2,8 +2,8 @@
 title: NewHanafuda.art
 description: hanafuda web game
 published: true
-date: 2026-03-16T02:08:48.506Z
-tags: hanafuda video game, video game - web
+date: 2026-03-22T02:26:01.038Z
+tags: hanafuda video games, video game - web
 editor: markdown
 dateCreated: 2026-03-16T02:08:48.506Z
 ---
