@@ -2,8 +2,8 @@
 title: RogueHanafuda
 description: hanafuda video game on Steam
 published: true
-date: 2026-03-15T22:28:04.729Z
-tags: hanafuda video game, video game - steam, video game - windows
+date: 2026-03-22T02:26:51.339Z
+tags: hanafuda video games, video game - steam, video game - windows
 editor: markdown
 dateCreated: 2026-03-15T22:28:04.729Z
 ---
