@@ -2,8 +2,8 @@
 title: List of Kabufuda Video Games
 description: 
 published: true
-date: 2026-03-15T18:25:18.974Z
-tags: 
+date: 2026-03-22T02:42:16.311Z
+tags: lists, kabufuda video games
 editor: markdown
 dateCreated: 2026-01-18T02:20:46.587Z
 ---
