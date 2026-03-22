@@ -2,8 +2,8 @@
 title: Nihon no Asobi Series: Kabufuda
 description: video game for Windows
 published: true
-date: 2026-03-22T02:28:05.724Z
-tags: kabufuda video games
+date: 2026-03-22T02:35:26.688Z
+tags: video game - windows, kabufuda video games
 editor: markdown
 dateCreated: 2026-03-15T18:25:15.291Z
 ---
