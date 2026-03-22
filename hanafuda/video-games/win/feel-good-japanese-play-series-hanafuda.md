@@ -2,8 +2,8 @@
 title: Nihon no Asobi Series: Hanafuda
 description: video game for Windows
 published: true
-date: 2026-03-15T21:38:17.161Z
-tags: hanafuda video game
+date: 2026-03-22T02:26:23.975Z
+tags: hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T23:00:24.135Z
 ---
