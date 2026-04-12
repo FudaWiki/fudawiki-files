@@ -2,8 +2,8 @@
 title: Iroha Karuta
 description: Alphabet cards.
 published: true
-date: 2022-12-19T06:58:16.409Z
-tags: 
+date: 2026-04-12T10:34:44.638Z
+tags: uta-garuta, games for young children
 editor: markdown
 dateCreated: 2022-10-27T10:45:50.940Z
 ---
