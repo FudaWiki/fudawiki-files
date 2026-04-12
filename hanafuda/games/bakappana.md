@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2023-06-24T10:39:00.760Z
+date: 2026-04-12T10:40:13.856Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:00:01.267Z
@@ -136,7 +136,7 @@ However, later on, this name was applied to games featuring yaku, making the ter
 
 See [Hana-Awase](/en/hanafuda/games/hana-awase) for a game extremely similar to Bakappana, but involving yaku.
 # Bibliography
-- *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
+- *[Hanafuda Geemu Dai Shūgō](/en/hanafuda/video-games/android-ios/hanafuda-gemu-dai-shugo).* iOS version, MocoGame, 2019.
 - Mitsufuji, Naoto. *Tobakuhan Kenkyo yōsetsu.* Keisatsu Jihōsha, 1948, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1439111.
 - Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
