@@ -1,9 +1,9 @@
 ---
-title: Ino-Shika-Chō (Hana-awase that even kids can play)
+title: Ino-Shika-Chō (Hana-Awase that even kids can play)
 description: Report Station's attempt to make Hanafuda accessible to children.
 published: true
-date: 2025-02-04T08:17:12.186Z
-tags: hanafuda games
+date: 2026-04-12T10:30:28.391Z
+tags: hanafuda games, fishing games, modern games, games for young children
 editor: markdown
 dateCreated: 2022-08-24T03:45:35.885Z
 ---
@@ -182,9 +182,10 @@ Points from multiple yaku **stack**; players get points for each yaku they make!
 |10|**Full Wisteria**<br>藤いっぱい [ふじいっぱい, *fuji ippai*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |10|**Full Paulownia**<br>桐いっぱい [きりいっぱい, *kiri ippai*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)
 
-# External Resources
-> 📺 ["子供向け花札ルール「花合わせ」いのしかちょう（猪・鹿・蝶）で遊んでみた"](https://youtu.be/ds30XtPS2FQ), YouTube tutorial by **くだらない動画** (in Japanese, linked on the original rules page)
+# External links
 
-# Bibliography
-- Original rules webpage: https://dsstation.sakura.ne.jp/report/hanafuda/index.html
+- [Original rules webpage](https://dsstation.sakura.ne.jp/report/hanafuda/index.html) (in Japanese)
+  - 📺 ["子供向け花札ルール「花合わせ」いのしかちょう（猪・鹿・蝶）で遊んでみた"](https://youtu.be/ds30XtPS2FQ), original YouTube tutorial by **くだらない動画** (in Japanese)
 
+# See also
+* [Chotto, Hana-Awase](/en/newgames/chotto-hana-awase), another simplified variant of Hana-Awase, designed to be fast to learn for total beginners
