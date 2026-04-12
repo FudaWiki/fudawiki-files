@@ -2,8 +2,8 @@
 title: Chotto, Hana-Awase
 description: A Nintendo-original version of Hana-Awase for total beginners
 published: true
-date: 2026-03-21T02:05:45.960Z
-tags: hanafuda games
+date: 2026-04-12T10:31:04.481Z
+tags: hanafuda games, fishing games, modern games, games for young children
 editor: markdown
 dateCreated: 2026-03-21T02:05:00.890Z
 ---
@@ -118,3 +118,6 @@ Once players are comfortable with the Ōyōhen rules, they are encouraged to sta
   * [Chotto, Hana-Awase](https://www.nintendo.com/jp/others/hanafuda_kabufuda/howtoplay/chotto_hanaawase/index.html)
   * [Chotto, Hana-Awase: Ōyōhen](https://www.nintendo.com/jp/others/hanafuda_kabufuda/howtoplay/chotto_hanaawase_ouyouhen/index.html)
   * [Hana-Awase](https://www.nintendo.com/jp/others/hanafuda_kabufuda/howtoplay/hanaawase/index.html) (Nintendo's rules for the full traditional version of the game)
+  
+# See also
+* [Ino-Shika-Chō](/en/newgames/inoshikacho-for-kids), another simplified variant of Hana-Awase, designed for young children to play with an adult
