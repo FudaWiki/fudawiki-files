@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T19:55:42.417Z
+date: 2026-05-22T19:56:15.852Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -177,16 +177,6 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 |7.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.33|
 |8.|[**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)|1.87|
 |8.|[**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)|1.72|
-
-1. Daitoryo
-2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
-3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
-4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
-5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
-6. [**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)
-7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
-8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
-9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
 
 # Brand Line Up (1928 Catalog)
 ## Hanafuda
