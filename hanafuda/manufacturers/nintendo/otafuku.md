@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2026-05-22T19:35:00.093Z
+date: 2026-05-22T19:36:37.935Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -61,7 +61,7 @@ It was also one of Nintendo's four oldest registered trademarks in the Japan Pat
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
 |2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
-|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/otafuku)|350|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
 |4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
 |5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
 |6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
