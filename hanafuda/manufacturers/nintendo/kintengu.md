@@ -2,7 +2,7 @@
 title: Kintengu (Nintendo)
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2026-05-22T19:35:33.086Z
+date: 2026-05-22T19:36:11.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T04:40:19.860Z
@@ -41,7 +41,7 @@ The name "Kintengu" was used by a handful of hanafuda manufacturers during the 2
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
 |2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
-|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/otafuku)|350|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
 |4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
 |5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
 |6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
