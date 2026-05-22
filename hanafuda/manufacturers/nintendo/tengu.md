@@ -2,7 +2,7 @@
 title: Tengu
 description: Nintendo's middle-class hanafuda brand.
 published: true
-date: 2023-06-19T13:19:25.310Z
+date: 2026-05-22T18:48:58.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T04:01:23.087Z
@@ -29,8 +29,17 @@ Brand names aside, this brand is treated as almost the same brand as Kintengu an
 |![tengu_nintendo.jpg](/suryong_nintendo_labels/tengu/tengu_nintendo.jpg =100x)|"Nintendo Tengu". A slight modification of the earlier label design used since around early 1970's, and is still in use today. The 'Nihonichi Marufuku Karuta' slogan was replaced with the word 'Nintendo' written in its Japanese logo font.|
 |![tengu_twodeck_box.jpg](/suryong_nintendo_labels/tengu/tengu_twodeck_box.jpg =100x)|Used in two-deck carton boxes from 1960's to 1970's.|
 
-# Brand Line Up (Current)
-## Hanafuda
-1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
-2. Tengu
-3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana), [**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)
+# Brand Line Up (1990's to Present)
+## Hanafuda (25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|open price|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|open price|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|open price|
+
+## Hanafuda (1990's to 25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|2000 + consumption tax|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1500 + consumption tax|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana),<br>[**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)|1000 + consumption tax|
