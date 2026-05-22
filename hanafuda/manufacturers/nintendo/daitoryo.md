@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T19:36:59.247Z
+date: 2026-05-22T19:55:42.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -149,7 +149,35 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 |17.|[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|1.67|
 |18.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|1.57|
 
+## Kabufuda
+| Grade | Brand Name | Price in JPY<br> (per deck) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1.78|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|1.73|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|1.68|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|1.63|
+|5.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|1.43|
+|6.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu),<br>[**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)|1.37|
+|7.|[**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)|1.32|
+|8.|[**Masayuki**](/en/hanafuda/manufacturers/nintendo/masayuki)|1.22|
+|9.|[**Daioh**](/en/hanafuda/manufacturers/nintendo/daioh)|1.07|
+|10.|[**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)|0.96|
+|11.|[**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)|0.86|
+|12.|[**Fuji**](/en/hanafuda/manufacturers/nintendo/fuji)|0.79|
+
 ## [Mushibana](/en/hanafuda/patterns/mushibana)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|3.55|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|3.45|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|3.30|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|3.25|
+|5.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|2.78|
+|6.|[**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)|2.68|
+|7.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.33|
+|8.|[**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)|1.87|
+|8.|[**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)|1.72|
+
 1. Daitoryo
 2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
 3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
