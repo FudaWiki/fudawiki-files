@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T19:34:23.008Z
+date: 2026-05-22T19:36:59.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -106,7 +106,7 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
 |2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
-|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/otafuku)|350|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
 |4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
 |5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
 |6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
