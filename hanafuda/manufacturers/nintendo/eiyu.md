@@ -2,7 +2,7 @@
 title: Eiyu
 description: One of Nintendo's middle-class kabufuda decks.
 published: true
-date: 2023-07-21T12:11:08.123Z
+date: 2026-05-22T19:58:06.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T15:06:08.641Z
@@ -24,12 +24,14 @@ It was known to be used until as late as 1944-1946 before it was discontinued. H
 
 # Brand Line Up (1930's Catalog)
 ## [Mushibana](/en/hanafuda/patterns/mushibana)
-1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
-2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
-3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
-4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
-5. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
-6. Eiyu
-7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
-8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
-9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|3.55|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|3.45|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|3.30|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|3.25|
+|5.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|2.78|
+|6.|[**Eiyu**](/en/hanafuda/manufacturers/nintendo/eiyu)|2.68|
+|7.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.33|
+|8.|[**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)|1.87|
+|8.|[**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)|1.72|
