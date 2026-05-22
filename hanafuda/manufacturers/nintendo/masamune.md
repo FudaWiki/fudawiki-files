@@ -2,7 +2,7 @@
 title: Masamune
 description: Originally Nintendo's 4th premier hanafuda brand.
 published: true
-date: 2026-05-22T13:53:39.566Z
+date: 2026-05-22T17:31:44.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T01:51:23.709Z
@@ -54,6 +54,28 @@ The brand was known to be used until as late as the 1930's before it was discont
 7. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
 8. [**Daikoku**](/en/hanafuda/manufacturers/nintendo/daikoku)
 9. [**Daifuku**](/en/hanafuda/manufacturers/nintendo/daifuku)
+
+# Brand Line Up (1928 Catalog)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|3.50|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|3.40|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|3.25|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|3.20|
+|5.|[**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)|3.15|
+|6.|[**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)|3.00|
+|7.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|2.75|
+|8.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura),<br>[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|2.65|
+|9.|[**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)|2.60|
+|10.|[**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura),<br>[**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui),<br>[**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)|2.55|
+|11.|[**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)|2.35|
+|12.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.30|
+|13.|[**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)|2.20|
+|14.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)|2.15|
+|15.|[**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)|1.85|
+|16.|[**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)|1.75|
+|17.|[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|1.65|
 
 # Bibliography
 - https://dl.ndl.go.jp/pid/845526 Tokyo Shoin (1905)
