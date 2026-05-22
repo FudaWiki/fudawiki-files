@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2023-07-12T05:48:41.530Z
+date: 2026-05-22T13:54:55.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -16,7 +16,7 @@ The brand is named after Otafuku, a Japanese folk character depicted as a rotund
 
 It was the 3rd highest-ranking brand in Nintendo's hanafuda lineup, behind [Taisho](/en/hanafuda/manufacturers/nintendo/taisho) and followed by [Masamune](/en/hanafuda/manufacturers/nintendo/masamune) until those brands were discontinued. Since then, it became the 2nd highest-ranking brand alongside [Sanbazuru](/en/hanafuda/manufacturers/nintendo/sanbazuru). The brand continued to be used until as late as 1990.
 
-It was also one of Nintendo's oldest registered trademarks for hanafuda decks. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1900, a year before even [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo) was registered. 
+It was also one of Nintendo's four oldest registered trademarks in the Japan Patent Office, registered in 1900. The other trademarks registered were [Marufuku](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi), [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), and [Masamune](/en/hanafuda/manufacturers/nintendo/masamune).
 
 ![otafuku_patent.jpg](/suryong_nintendo_labels/otafuku/otafuku_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900.*</span>
