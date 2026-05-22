@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T19:06:18.235Z
+date: 2026-05-22T19:22:40.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -78,6 +78,27 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 | Grade | Brand Name | Price in JPY<br> (per pair of decks) |
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
+
+# Brand Line Up (1971 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|700|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|600|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|500|
+|4.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|300|
+
+## Kabufuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1000|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|600|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|500|
+
+## Mushibana
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1000|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
