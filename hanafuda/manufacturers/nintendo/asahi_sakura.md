@@ -2,7 +2,7 @@
 title: Asahi Sakura
 description: One of Nintendo's middle-class hanafuda decks.
 published: true
-date: 2026-05-22T18:18:47.464Z
+date: 2026-05-22T19:03:31.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T08:30:26.272Z
@@ -34,6 +34,16 @@ In this form, it was considered a lower middle-class hanafuda brand, ranking abo
 |![asahi_sakura_nintendo.jpg](/suryong_nintendo_labels/asahisakura/asahi_sakura_nintendo.jpg =100x)|Later version of the 1970's label. The Japanese Nintendo logo written vertically is added below the Marufuku logo.|
 |![asahi_sakura_old_box.jpg](/suryong_nintendo_labels/asahisakura/asahi_sakura_old_box.jpg =100x)|Pre-war label used in two-deck boxes.|
 |![asahi_sakura_box.jpg](/suryong_nintendo_labels/asahisakura/asahi_sakura_box.jpg =100x)|Post-war label used in two-deck boxes.|
+
+# Brand Line Up (1983 Catalog)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
+|4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
+|5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
