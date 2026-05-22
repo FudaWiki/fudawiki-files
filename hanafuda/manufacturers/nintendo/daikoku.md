@@ -1,8 +1,8 @@
 ---
 title: Daikoku
-description: One of Nintendo's budget kabufuda brands.
+description: One of Nintendo's budget hanafuda and kabufuda brands.
 published: true
-date: 2023-07-12T05:45:18.930Z
+date: 2026-05-22T07:40:06.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T16:54:55.302Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-06T16:54:55.302Z
 
 ![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =100x)
 
-**Daikoku** (大黒) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [kabufuda](/en/kabufuda), [mushibana](/en/hanafuda/patterns/mushibana), and regional karuta decks.
+**Daikoku** (大黒) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [hanafuda](/en/hanafuda), [kabufuda](/en/kabufuda), [mushibana](/en/hanafuda/patterns/mushibana), and regional karuta decks.
 
 It is named after Daikokuten (大黒天), one of the Seven Lucky Gods. He is depicted on the label.
 
@@ -23,6 +23,7 @@ As a mushibana brand, it ranks above [Daifuku](/en/hanafuda/manufacturers/ninten
 It was known to be used during the 1920's and 1930's.
 
 # Brand Line Up (1930's Catalog)
+Despite being used as a hanafuda brand, Daikoku does not appear in the Hachi-hachi-bana price list.
 ## [Mushibana](/en/hanafuda/patterns/mushibana)
 1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
 2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
