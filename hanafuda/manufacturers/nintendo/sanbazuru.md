@@ -2,7 +2,7 @@
 title: Sanbazuru
 description: One of Nintendo's premier hanafuda brands.
 published: true
-date: 2026-05-22T19:05:32.338Z
+date: 2026-05-22T19:24:04.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T00:14:40.079Z
@@ -34,6 +34,15 @@ In both the 1971 Nintendo price list and 1983 Nintendo card catalogue, the brand
 |3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
 |4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
 |5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
+
+# Brand Line Up (1971 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|700|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|600|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|500|
+|4.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|300|
 
 # Bibliography
 - The Playing Card Journal of the International Playing Card Society, Vol. X, No. 2. November 1981
