@@ -2,7 +2,7 @@
 title: Kintengu (Nintendo)
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2026-05-22T17:40:04.612Z
+date: 2026-05-22T17:41:04.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T04:40:19.860Z
@@ -77,10 +77,3 @@ The name "Kintengu" was used by a handful of hanafuda manufacturers during the 2
 |15.|[**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)|1.85|
 |16.|[**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)|1.75|
 |17.|[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|1.65|
-
-## Small-size Hanafuda
-| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
-| --- | --- | --- |
-|1.|[**Yoroshii**](/en/hanafuda/manufacturers/nintendo/yoroshii)|3.00|
-|2.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|2.65|
-|3.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)|2.15|
