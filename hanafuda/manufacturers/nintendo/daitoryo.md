@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T18:16:11.236Z
+date: 2026-05-22T18:48:36.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -39,14 +39,30 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 |![daitoryo_6_fat_napoleon.jpg](/suryong_nintendo_labels/daitoryo/daitoryo_6_fat_napoleon.jpg =100x)|"Smirking Napoleon". Known to be used in two-deck wooden box sets from 1977-1978. The label is completely redesigned, and the brand is now written left-to-right instead of right-to-left.|
 |![daitoryo_11_one_ream_box_better_quality.png](/suryong_nintendo_labels/daitoryo/daitoryo_11_one_ream_box_better_quality.png =100x)|Used in five-deck ream boxes from the 1960's and 1970's.|
 
-# Brand Line Up (Current)
-## Hanafuda
-1. Daitoryo
-2. [**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)
-3. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana), [**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)
+# Brand Line Up (1990's to Present)
+## Hanafuda (25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|open price|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|open price|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|open price|
 
-## Kabufuda
-1. Daitoryo
+## Hanafuda (1990's to 25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|2000 + consumption tax|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1500 + consumption tax|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana),<br>[**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)|1000 + consumption tax|
+
+## Kabufuda (25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|open price|
+
+## Kabufuda (1990's to 25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|2000 + consumption tax|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
