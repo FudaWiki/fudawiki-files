@@ -2,7 +2,7 @@
 title: Miyako No Hana
 description: Nintendo's budget hanafuda brand.
 published: true
-date: 2023-06-19T13:16:26.764Z
+date: 2026-05-22T18:45:49.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T08:14:06.517Z
@@ -25,29 +25,40 @@ During the 1930's, it was the 18th highest-ranking brand in Nintendo’s hanafud
 |![new.jpg](/suryong_nintendo_labels/miyakonohana/new.jpg =100x)|Known to be used in decks from early 1970's to present. The label design is unchanged except the Marufuku and Nintendo logos are relocated from the bottom right to the bottom left, and uses the modern Nintendo logo font.|
 |![box.jpg](/suryong_nintendo_labels/miyakonohana/box.jpg =100x)|Used in two-deck carton boxes from 1960’s to 1970’s.|
 
-# Brand Line Up (Current)
-## Hanafuda
-1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
-2. [**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)
-3. Miyako No Hana, [**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)
+# Brand Line Up (1990's to Present)
+## Hanafuda (25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|open price|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|open price|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|open price|
+
+## Hanafuda (1990's to 25th of May 2026)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|2000 + consumption tax|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1500 + consumption tax|
+|3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana),<br>[**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)|1000 + consumption tax|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
-1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
-2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
-3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
-4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
-5. [**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)
-6. [**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)
-7. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
-8. [**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura), [**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)
-9. [**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)
-10. [**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura), [**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui), [**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)
-11. [**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)
-12. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
-13. [**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)
-14. [**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)
-15. [**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)
-16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
-17. [**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)
-18. Miyako No Hana
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|3.55|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|3.45|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|3.30|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|3.25|
+|5.|[**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)|3.20|
+|6.|[**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)|3.05|
+|7.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|2.78|
+|8.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura),<br>[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|2.68|
+|9.|[**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)|2.63|
+|10.|[**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura),<br>[**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui),<br>[**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)|2.58|
+|11.|[**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)|2.38|
+|12.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.33|
+|13.|[**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)|2.23|
+|14.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)|2.18|
+|15.|[**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)|1.87|
+|16.|[**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)|1.77|
+|17.|[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|1.67|
+|18.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|1.57|
