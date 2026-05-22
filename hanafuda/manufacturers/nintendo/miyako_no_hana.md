@@ -2,7 +2,7 @@
 title: Miyako No Hana
 description: Nintendo's budget hanafuda brand.
 published: true
-date: 2026-05-22T18:45:49.316Z
+date: 2026-05-22T19:04:25.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T08:14:06.517Z
@@ -39,6 +39,16 @@ During the 1930's, it was the 18th highest-ranking brand in Nintendo’s hanafud
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|2000 + consumption tax|
 |2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1500 + consumption tax|
 |3.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana),<br>[**Chiyozakura**](/en/hanafuda/manufacturers/nintendo/chiyozakura)|1000 + consumption tax|
+
+# Brand Line Up (1983 Catalog)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
+|4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
+|5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
