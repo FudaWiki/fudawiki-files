@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2026-05-22T19:00:02.156Z
+date: 2026-05-22T19:06:18.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -69,8 +69,8 @@ In the past, it was the highest-ranking brand in Nintendo’s hanafuda lineup, f
 | Grade | Brand Name | Price in JPY<br> (per pair of decks) |
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
-|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
-|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
 |4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
 |5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
 
