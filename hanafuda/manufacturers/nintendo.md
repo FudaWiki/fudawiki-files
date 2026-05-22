@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2025-12-29T16:58:52.080Z
+date: 2026-05-22T07:41:04.598Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -54,7 +54,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Banzai**  <br>(萬歳, Live Ten Thousand Years) |![banzai_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/banzai_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
 | **[Chujo](/en/hanafuda/manufacturers/nintendo/chujo)**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
 | **[Daifuku](/en/hanafuda/manufacturers/nintendo/daifuku)**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
-| **[Daikoku](/en/hanafuda/manufacturers/nintendo/daikoku)**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★★<br>Unique | Depicts Daikokuten, one of the Seven Lucky Gods.|
+| **[Daikoku](/en/hanafuda/manufacturers/nintendo/daikoku)**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★<br>Very Rare | Depicts Daikokuten, one of the Seven Lucky Gods.|
 | **[Daioh jirushi](/en/hanafuda/manufacturers/nintendo/daioh_jirushi)**  <br>(大王印, Great King mark) |![daioh.png](/suryong_nintendo_labels/daioh.png =150x)| ★★★★★<br>**Unique** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Shares the same label design with **Oedo**. |
 | **[Daitengu](/en/hanafuda/manufacturers/nintendo/daitengu)**  <br>(大天狗, Great Tengu) |![daitengu.jpg](/suryong_nintendo_labels/daitengu.jpg =150x)| ★★<br>Uncommon | Introduced in 1977 as a brand ranking above **Tengu**, produced until as late as 1983. The label features a floating Tengu head among the clouds, in a silver background. |
 | **[Eiyu](/en/hanafuda/manufacturers/nintendo/eiyu)**  <br>(英雄, Hero) |![eiyu.jpg](/suryong_nintendo_labels/eiyu.jpg =150x)| ★★★★<br>Very rare | Trademark first registered in Japan Pat. Off. in 1906. </br>Features a portrait of Saigo Takamori (西郷隆盛) |
