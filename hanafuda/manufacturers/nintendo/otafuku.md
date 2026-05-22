@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2026-05-22T19:23:12.000Z
+date: 2026-05-22T19:35:00.093Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -54,6 +54,32 @@ It was also one of Nintendo's four oldest registered trademarks in the Japan Pat
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1000|
 |2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|600|
 |3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|500|
+
+# Brand Line Up (1958 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/otafuku)|350|
+|4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
+|5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
+|6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
+|7.|[**Hakubai**](/en/hanafuda/manufacturers/nintendo/hakubai),<br>[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|265|
+
+## Kabufuda
+| Grade | Brand Name | Price in JPY<br> (per deck) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|260|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|140|
+|3.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|100|
+
+## Mushibana
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|520|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
