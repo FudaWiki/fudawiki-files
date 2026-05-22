@@ -2,7 +2,7 @@
 title: Hana no Yama
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2026-05-22T17:48:10.860Z
+date: 2026-05-22T18:22:32.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T16:44:34.443Z
@@ -29,24 +29,26 @@ It was known to be used during late 1920's to the early 1960's before being disc
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
-1. [**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)
-2. [**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)
-3. [**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)
-4. [**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)
-5. [**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)
-6. [**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)
-7. [**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)
-8. [**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura), [**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)
-9. [**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)
-10. [**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura), [**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui), [**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)
-11. [**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)
-12. [**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)
-13. [**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)
-14. [**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)
-15. [**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)
-16. [**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)
-17. Hana No Yama
-18. [**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|3.55|
+|2.|[**Taisho**](/en/hanafuda/manufacturers/nintendo/taisho)|3.45|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|3.30|
+|4.|[**Masamune**](/en/hanafuda/manufacturers/nintendo/masamune)|3.25|
+|5.|[**Shiko jirushi**](/en/hanafuda/manufacturers/nintendo/shiko)|3.20|
+|6.|[**Ginsekai**](/en/hanafuda/manufacturers/nintendo/ginsekai)|3.05|
+|7.|[**Chujo**](/en/hanafuda/manufacturers/nintendo/chujo)|2.78|
+|8.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura),<br>[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|2.68|
+|9.|[**Marufuku jirushi**](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi)|2.63|
+|10.|[**Yaezakura**](/en/hanafuda/manufacturers/nintendo/yaezakura),<br>[**Kikusui**](/en/hanafuda/manufacturers/nintendo/kikusui),<br>[**Gintengu**](/en/hanafuda/manufacturers/nintendo/gintengu)|2.58|
+|11.|[**Konishiki jirushi**](/en/hanafuda/manufacturers/nintendo/konishiki)|2.38|
+|12.|[**Kikumaku**](/en/hanafuda/manufacturers/nintendo/kikumaku)|2.33|
+|13.|[**Tokiwa**](/en/hanafuda/manufacturers/nintendo/tokiwa)|2.23|
+|14.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura)|2.18|
+|15.|[**Hyaku-en**](/en/hanafuda/manufacturers/nintendo/hyaku-en)|1.87|
+|16.|[**Hi No De**](/en/hanafuda/manufacturers/nintendo/hi_no_de)|1.77|
+|17.|[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|1.67|
+|18.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|1.57|
 
 # Brand Line Up (1928 Catalog)
 ## Hanafuda
