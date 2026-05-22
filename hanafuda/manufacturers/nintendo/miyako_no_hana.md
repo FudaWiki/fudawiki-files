@@ -2,7 +2,7 @@
 title: Miyako No Hana
 description: Nintendo's budget hanafuda brand.
 published: true
-date: 2026-05-22T19:24:26.422Z
+date: 2026-05-22T19:43:21.058Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T08:14:06.517Z
@@ -15,7 +15,9 @@ The label features pink [cherry blossoms](/en/hanafuda/suits/cherry-blossom) and
 
 The brand became a registered trademark in the Japan Patent Office in the year 1930. Since then, it can be seen in various Nintendo card catalogues as the lowest priced hanafuda brand in their line-up.
 
-During the 1930's, it was the 18th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Hana no Yama](/en/hanafuda/manufacturers/nintendo/hana_no_yama). It also shared the same price range as [Fuji](/en/hanafuda/manufacturers/nintendo/fuji), which was Nintendo's budget [kabufuda](/en/kabufuda) brand.
+During the 1930's, it was the 18th highest-ranking brand (lowest ranking brand) in Nintendo’s hanafuda lineup, behind [Hana no Yama](/en/hanafuda/manufacturers/nintendo/hana_no_yama). It also shared the same price range as [Fuji](/en/hanafuda/manufacturers/nintendo/fuji), which was Nintendo's budget [kabufuda](/en/kabufuda) brand.
+
+For a short time in 1958, it became only the second lowest-priced hanafuda brand along with  [Hatsuzakura](/en/hanafuda/manufacturers/nintendo/hatsuzakura), while Hana no Yama and Hakubai became the lowest-priced brands.
 
 # Gallery
 | Label | Description |
@@ -58,6 +60,18 @@ During the 1930's, it was the 18th highest-ranking brand in Nintendo’s hanafud
 |2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|600|
 |3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|500|
 |4.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|300|
+
+# Brand Line Up (1958 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
+|4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
+|5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
+|6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
+|7.|[**Hakubai**](/en/hanafuda/manufacturers/nintendo/hakubai),<br>[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|265|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
