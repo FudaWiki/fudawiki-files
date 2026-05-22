@@ -2,7 +2,7 @@
 title: Daitoryo
 description: Nintendo's premier hanafuda brand.
 published: true
-date: 2025-12-26T13:34:13.088Z
+date: 2026-05-22T13:46:29.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T08:20:21.725Z
@@ -18,7 +18,7 @@ It is one of the most famous hanafuda brands, and is subject to parody in variou
 
 It features a portrait of Napoleon Bonaparte, who, despite the brand name, was an Emperor, not a President. The portrait and name of Napoleon would also be used in Nintendo's early [western playing cards](/en/trump).
 
-It is believed to be the first brand of hanafuda cards Nintendo has ever released since its founding in 1889, though there is no concrete evidence supporting it. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1901, one year after [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), and [Masamune](/en/hanafuda/manufacturers/nintendo/masamune) were registered.
+It is believed to be the first brand of hanafuda cards Nintendo has ever released since its founding in 1889, though there is no concrete evidence supporting it. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1901, one year after [Marufuku](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi), [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku), and [Masamune](/en/hanafuda/manufacturers/nintendo/masamune) were registered.
 
 ![diatoryo_hq.png](/suryong_nintendo_labels/2025_new_ones/diatoryo_hq.png =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1901.*</span>
