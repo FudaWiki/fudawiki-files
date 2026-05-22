@@ -2,7 +2,7 @@
 title: Masamune
 description: Originally Nintendo's 4th premier hanafuda brand.
 published: true
-date: 2023-07-12T05:47:50.966Z
+date: 2026-05-22T13:53:39.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T01:51:23.709Z
@@ -16,7 +16,7 @@ The brand is named after a Japanese Swordsmith, Goro Nyudo Masamune (五郎入�
 
 It was the 4th highest-ranking brand in Nintendo's hanafuda lineup, behind [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku) and followed by [Shiko jirushi](/en/hanafuda/manufacturers/nintendo/shiko).
 
-It was also one of Nintendo's oldest registered trademarks for hanafuda decks. The oldest surviving reference to the brand was in the Japan Patent Office Records, where the trademark was registered in 1900, a year before even [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo) was registered. 
+It was also one of Nintendo's four oldest registered trademarks in the Japan Patent Office, registered in 1900. The other trademarks registered were [Marufuku](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi), [Taisho](/en/hanafuda/manufacturers/nintendo/taisho), and [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku).
 
 ![masamune_patent.jpg](/suryong_nintendo_labels/masamune/masamune_patent.jpg =100x)
 <span style="font-size:small;">*Illustration of the label from the trademark submission in 1900.*</span>
