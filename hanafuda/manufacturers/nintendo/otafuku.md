@@ -2,7 +2,7 @@
 title: Otafuku
 description: Originally Nintendo's 3rd premier hanafuda brand.
 published: true
-date: 2026-05-22T18:17:03.206Z
+date: 2026-05-22T19:01:14.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T08:53:48.759Z
@@ -28,6 +28,16 @@ It was also one of Nintendo's four oldest registered trademarks in the Japan Pat
 |![otafuku_standard.jpg](/suryong_nintendo_labels/otafuku/otafuku_standard.jpg =100x)|"LTR Otafuku". Used from early 1960's until 1990. Text adjusted so that it's written left-to-right.|
 |![otafuku_newest.png](/suryong_nintendo_labels/otafuku/otafuku_newest.png =100x)|"Vertical Otafuku". Used in wrapper labels in some decks in the 1980's. Text adjusted so that it's written vertically. Marufuku symbol is moved to bottom left, and added the word "Nintendo" below it, written in Japanese Nintendo logo font.|
 |![otafuku_box.png](/suryong_nintendo_labels/otafuku/otafuku_box.png =100x)|Known to be used in a giant box for 2 individually wooden-boxed decks carton box from around 1948-1951.|
+
+# Brand Line Up (1983 Catalog)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
+|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
+|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
+|5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
