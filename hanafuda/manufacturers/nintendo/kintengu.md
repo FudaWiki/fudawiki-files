@@ -2,7 +2,7 @@
 title: Kintengu (Nintendo)
 description: One of Nintendo's middle-class hanafuda brands.
 published: true
-date: 2026-05-22T18:19:05.504Z
+date: 2026-05-22T19:35:33.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T04:40:19.860Z
@@ -34,6 +34,32 @@ The name "Kintengu" was used by a handful of hanafuda manufacturers during the 2
 |![kintengu_ltr.jpg](/suryong_nintendo_labels/kintengu/kintengu_ltr.jpg =100x)|"LTR Kintengu". Known to be used in decks from 1960 to 1967. Same label as Standard Kintengu but all text orientation was changed from right-to-left to left-to-right.|
 |![kintengu_old_box.jpg](/suryong_nintendo_labels/kintengu/kintengu_old_box.jpg =100x)|Used in 2-deck boxes around 1945-1946.|
 |![kintengu_new_box.jpg](/suryong_nintendo_labels/kintengu/kintengu_new_box.jpg =100x)|Used in 2-deck boxes from 1946 to the 1950's.|
+
+# Brand Line Up (1958 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/otafuku)|350|
+|4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
+|5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
+|6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
+|7.|[**Hakubai**](/en/hanafuda/manufacturers/nintendo/hakubai),<br>[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|265|
+
+## Kabufuda
+| Grade | Brand Name | Price in JPY<br> (per deck) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|260|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|140|
+|3.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|100|
+
+## Mushibana
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|520|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
