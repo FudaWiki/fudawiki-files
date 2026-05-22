@@ -2,7 +2,7 @@
 title: Hatsuzakura
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2026-05-22T18:21:43.345Z
+date: 2026-05-22T19:40:03.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-05T15:41:42.815Z
@@ -12,7 +12,9 @@ dateCreated: 2023-05-05T15:41:42.815Z
  
 **Hatsuzakura** (初櫻, First Cherry Blossom) was one of [Nintendo's](/en/hanafuda/manufacturers/nintendo) budget brands of [hanafuda](/en/hanafuda) decks.
 
-It was the 14th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Tokiwa](/en/hanafuda/manufacturers/nintendo/tokiwa) and followed by [Hyaku-en](/en/hanafuda/manufacturers/nintendo/hyaku-en).
+It was once the 14th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Tokiwa](/en/hanafuda/manufacturers/nintendo/tokiwa) and followed by [Hyaku-en](/en/hanafuda/manufacturers/nintendo/hyaku-en).
+
+By 1958, it became the 2nd lowest-priced hanafuda brand, alongside [Miyako No Hana](/en/hanafuda/manufacturers/nintendo/miyako_no_hana).
 
 It is known to be used from the 1920's through the late 1950's before being discontinued.
 
@@ -24,6 +26,18 @@ It is known to be used from the 1920's through the late 1950's before being disc
 |![hatsuzakura_old_1941-1944.jpg](/suryong_nintendo_labels/hatsuzakura/hatsuzakura_old_1941-1944.jpg =100x)|Wrapper label from a 1941-1944 deck. Less detailed, and the cherry blossom petals are solid gold colored instead of being just gold outlines.|
 |![hatsuzakura_new_1957-1959.png](/suryong_nintendo_labels/hatsuzakura/hatsuzakura_new_1957-1959.png =100x)|Wrapper label from a 1957-1959 deck. A more colorful version of the same label design, with blue shape with gold outline, gold lettering,and numerous pink cherry blossoms.|
 |![hatsuzakura_box.jpg](/suryong_nintendo_labels/hatsuzakura/hatsuzakura_box.jpg =150x)|Label from a two-deck wooden box.|
+
+# Brand Line Up (1958 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
+|4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
+|5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
+|6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
+|7.|[**Hakubai**](/en/hanafuda/manufacturers/nintendo/hakubai),<br>[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|265|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
