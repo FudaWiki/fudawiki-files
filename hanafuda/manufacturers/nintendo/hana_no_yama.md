@@ -2,7 +2,7 @@
 title: Hana no Yama
 description: One of Nintendo's budget hanafuda brands.
 published: true
-date: 2026-05-22T18:22:32.281Z
+date: 2026-05-22T19:45:52.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T16:44:34.443Z
@@ -16,6 +16,8 @@ It features, on a silver background, a bunch of mountains with some [cherry blos
 
 It was the 17th highest-ranking brand in Nintendo’s hanafuda lineup, behind [Hi no De](/en/hanafuda/manufacturers/nintendo/hi_no_de) and followed by [Miyako no Hana](/en/hanafuda/manufacturers/nintendo/miyako_no_hana).
 
+By 1958, it became the lowest-priced brand alongside Hakubai, behind Miyako no Hana and [Hatsuzakura](/en/hanafuda/manufacturers/nintendo/hatsuzakura).
+
 It was known to be used during late 1920's to the early 1960's before being discontinued. 
 
 # Gallery
@@ -26,6 +28,18 @@ It was known to be used during late 1920's to the early 1960's before being disc
 |![hananoyama_1st.jpg](/suryong_nintendo_labels/hananoyama/hananoyama_1st.jpg =100x)|Same as the first version but '花' is no longer written in a cursive form.|
 |![hana_no_yama1.png](/suryong_nintendo_labels/hana_no_yama1.png =100x)|Same as above but text reads left-to-right. Label from a 1960-1963 deck.|
 |![hananoyama_box.png](/suryong_nintendo_labels/hananoyama/hananoyama_box.png =150x)|Label from 2-deck box.|
+
+# Brand Line Up (1958 Price List)
+## Hanafuda
+| Grade | Brand Name | Price in JPY<br> (per pair of decks) |
+| --- | --- | --- |
+|1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|500|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku)|390|
+|3.|[**Heian**](/en/hanafuda/manufacturers/nintendo/heian)|350|
+|4.|[**Kintengu**](/en/hanafuda/manufacturers/nintendo/kintengu)|335|
+|5.|[**Tancho**](/en/hanafuda/manufacturers/nintendo/tancho)|310|
+|6.|[**Hatsuzakura**](/en/hanafuda/manufacturers/nintendo/hatsuzakura),<br>[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|280|
+|7.|[**Hakubai**](/en/hanafuda/manufacturers/nintendo/hakubai),<br>[**Hana No Yama**](/en/hanafuda/manufacturers/nintendo/hana_no_yama)|265|
 
 # Brand Line Up (1930's Catalog)
 ## Hanafuda
