@@ -2,7 +2,7 @@
 title: Tengu
 description: Nintendo's middle-class hanafuda brand.
 published: true
-date: 2026-05-22T19:00:53.270Z
+date: 2026-05-22T19:04:52.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T04:01:23.087Z
@@ -49,7 +49,7 @@ Brand names aside, this brand is treated as almost the same brand as Kintengu an
 | Grade | Brand Name | Price in JPY<br> (per pair of decks) |
 | --- | --- | --- |
 |1.|[**Daitoryo**](/en/hanafuda/manufacturers/nintendo/daitoryo)|1500|
-|2.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
-|3.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|2.|[**Otafuku**](/en/hanafuda/manufacturers/nintendo/otafuku),<br>[**Sanbazuru**](/en/hanafuda/manufacturers/nintendo/sanbazuru)|1200|
+|3.|[**Tengu**](/en/hanafuda/manufacturers/nintendo/tengu)|1000|
 |4.|[**Asahi Sakura**](/en/hanafuda/manufacturers/nintendo/asahi_sakura)|800|
 |5.|[**Miyako No Hana**](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)|600|
