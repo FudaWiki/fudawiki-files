@@ -2,7 +2,7 @@
 title: Taisho
 description: Originally Nintendo's 2nd premier hanafuda brand.
 published: true
-date: 2026-05-22T13:50:52.073Z
+date: 2026-05-22T13:51:21.361Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T15:01:57.228Z
@@ -14,7 +14,7 @@ dateCreated: 2023-04-28T15:01:57.228Z
 
 It was the 2nd highest-ranking brand in Nintendo's hanafuda lineup, only behind [Daitoryo](/en/hanafuda/manufacturers/nintendo/daitoryo) and followed by [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku). 
 
-It was also one of Nintendo's four oldest registered trademarks in the Japan Patent Office. The other trademarks registered were [Marufuku](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi), [Masamune](/en/hanafuda/manufacturers/nintendo/masamune), and [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku).
+It was also one of Nintendo's four oldest registered trademarks in the Japan Patent Office, registered in 1900. The other trademarks registered were [Marufuku](/en/hanafuda/manufacturers/nintendo/marufuku_jirushi), [Masamune](/en/hanafuda/manufacturers/nintendo/masamune), and [Otafuku](/en/hanafuda/manufacturers/nintendo/otafuku).
 
 It originally depicted a portrait of Prince Iwao Oyama (大山 巌, 12 November 1842 – 10 December 1916), who became a Field Marshal of the Imperial Japanese Army in January 1898, 2 years before the Taisho trademark was registered.
 
