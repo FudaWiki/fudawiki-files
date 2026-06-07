@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2026-05-22T07:41:04.598Z
+date: 2026-06-07T13:37:34.339Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -30,7 +30,7 @@ Currently, Nintendo produces the standard Hanafuda pattern in 3 main brands, whi
 | **[Tengu](/en/hanafuda/manufacturers/nintendo/tengu)**  <br>(天狗) |![2._tengu_1_late_showa.jpg](/suryong_nintendo_labels/2._tengu_1_late_showa.jpg =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Faint clear-coat on the front; Glossy on the back | Trademark first registered in Japan Pat. Off. in 1912. |
 | **[Miyako no Hana](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)**  <br>(都の花, flowers of the capital) |![3._miyako_no_hana.jpg](/suryong_nintendo_labels/3._miyako_no_hana.jpg =150x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back | Trademark first registered in Japan Pat. Off. in 1930. |
 
-Nintendo also uses a different brand called “Chiyozakura”, which was first released sometime in the 1990's (possibly 1994) for sale in convenience stores. It has the same price as a Miyako no Hana deck, and the quality is the same.
+Also, Nintendo used to have a different brand called “Chiyozakura”, which was first released sometime in the 1990's (possibly 1994) for sale in convenience stores. It has the same price as a Miyako no Hana deck, and the quality is the same. It seems to have been quietly discontinued.
 
 | Brand | Label | Packaging | Card texture | Other Notes |
 | --- | --- | --- | --- | --- |
