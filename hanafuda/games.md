@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2026-03-21T02:20:40.120Z
+date: 2026-06-09T06:36:52.402Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2022-04-01T17:56:06.104Z
@@ -239,7 +239,7 @@ Independent Japanese mobile game developer
 |[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
 |[Korobeiniki](https://web.archive.org/web/20220125093314/https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
 |[Rubicon](https://cdn.discordapp.com/attachments/550677413193842688/913101251300958248/RUBICON.pdf)|2|Showdown|
-## Nintendo
+## [Nintendo](/en/hanafuda/manufacturers/nintendo)
 The following games are Nintendo-original games available on their Japanese website. They were developed for the Nintendo Museum which opened in 2024.
 
 |Game|Players|Family|
