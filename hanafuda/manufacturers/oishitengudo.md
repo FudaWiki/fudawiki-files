@@ -2,7 +2,7 @@
 title: Ōishi Tengudō
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2026-06-09T07:53:58.291Z
+date: 2026-06-09T07:58:16.036Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:51.839Z
@@ -64,7 +64,7 @@ Although their main product is [Ogura Hyakunin Isshu](https://fudawiki.org/en/ut
 - **Ippatsu** (One Shot)
 - **Kokkou** (National Glory) - Trademark Registered in 1915.
 - **Matsushimajirushi** (Matsushima Brand) - Trademark Registered in 1921.
-- (Miyashima brand) - Trademark Registered in 1921.
+- **Miyajima** - Trademark Registered in 1921.
 - **Narikin** (Newly Rich) - Trademark Registered in 1921.
 - **Ōeyama** (Mt. Oe)
 - **Raifuku** - Trademark Registered in 1921.
