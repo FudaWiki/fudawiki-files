@@ -2,7 +2,7 @@
 title: Nintendo
 description: Major producer of video games and hanafuda
 published: true
-date: 2026-06-07T13:37:34.339Z
+date: 2026-06-09T07:36:35.470Z
 tags: hanafuda manufacturers, hanafuda video games
 editor: markdown
 dateCreated: 2022-04-01T18:04:34.222Z
@@ -30,17 +30,17 @@ Currently, Nintendo produces the standard Hanafuda pattern in 3 main brands, whi
 | **[Tengu](/en/hanafuda/manufacturers/nintendo/tengu)**  <br>(天狗) |![2._tengu_1_late_showa.jpg](/suryong_nintendo_labels/2._tengu_1_late_showa.jpg =150x)| Beige-colored plastic box with a black/red flap that closes on both ends of the box. | Faint clear-coat on the front; Glossy on the back | Trademark first registered in Japan Pat. Off. in 1912. |
 | **[Miyako no Hana](/en/hanafuda/manufacturers/nintendo/miyako_no_hana)**  <br>(都の花, flowers of the capital) |![3._miyako_no_hana.jpg](/suryong_nintendo_labels/3._miyako_no_hana.jpg =150x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back | Trademark first registered in Japan Pat. Off. in 1930. |
 
-Also, Nintendo used to have a different brand called “Chiyozakura”, which was first released sometime in the 1990's (possibly 1994) for sale in convenience stores. It has the same price as a Miyako no Hana deck, and the quality is the same. It seems to have been quietly discontinued.
-
-| Brand | Label | Packaging | Card texture | Other Notes |
-| --- | --- | --- | --- | --- |
-| **[Chiyozakura](/en/hanafuda/manufacturers/nintendo/chiyozakura)**  <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =100x)| Two-piece clear plastic box. | Uncoated front; Slightly matte back  <br>(Same as Miyako no Hana) | Trademark registration in Japan Pat. Off. transferred to Nintendo in 1998. (It used to be registered for Ryutendo) |
-
 In addition to the standard hanafuda decks, Nintendo currently produces Mario Hanafuda, which was first released in Japan on November 2015, and features characters from the Super Mario and Donkey Kong series on all of the cards. 
 
 | Brand | Label | Packaging | Card details |
 | --- | --- | --- | --- |
 | **Mario Hanafuda**  <br>(マリオ花札) |![5._mario_hana.jpg](/suryong_nintendo_labels/5._mario_hana.jpg =150x)| Two-piece clear plastic box.| Heavy clear-coat on the front; Glossy on the back (Same as Daitoryo).<br>The card pattern is standard Hanafuda but with Mario and Donkey Kong characters on all of the cards |
+
+Finally, with the opening of the Nintendo Museum in Uji, Kyoto Prefecture, Japan in 2024, Nintendo has also released a Museum-exclusive hanafuda deck under the "Ho-oh" brand. This brand was not exclusive to Hanafuda, as they have also released a Museum-exclusive [Hyakunin Isshu](/en/uta-garuta/ogura-hyakunin-isshu) set under this brand.
+
+| Brand | Label | Packaging | Card texture | Other Notes |
+| --- | --- | --- | --- | --- |
+|**Ho-oh** <br>(鳳凰, Phoenix)|![nintendo_museum_cover.jpg](/nintendo_museum_cover.jpg =150x)|Two-piece clear plastic box encased in an oversized two-piece cardboard box.|Heavy clear-coat on the front; Glossy on the back (Same as Daitoryo).<br>The card pattern is standard Hanafuda but all the outlines were hot-stamped in gold. |Only available for purchase inside the Nintendo Museum.|
 
 # Discontinued Brands
 
@@ -52,6 +52,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **[Asahi Sakura](/en/hanafuda/manufacturers/nintendo/asahi_sakura)**  <br>(朝日桜, Morning Sun Sakura) |![asahi_sakura_old.png](/suryong_nintendo_labels/asahi_sakura_old.png =150x)![asahi_sakura_new.png](/suryong_nintendo_labels/asahi_sakura_new.png =150x)| ★<br>Common | Trademark first registered in Japan Pat. Off. in 1906. </br>Came in two label designs. The first design was a diamond shape inside an oval, and shared the same label design with **Goshozakura**, **Hyakuman-en**, **Kumoizakura**, and **Yaezakura**. The second design looked similar to the label designs of **Marufuku Sakura** and **Heian**. |
 | **[Azuma Tengu](/en/hanafuda/manufacturers/nintendo/azuma_tengu)**  <br>(東天狗, Eastern Tengu) |![azuma_tengu_1.jpg](/suryong_nintendo_labels/azuma_tengu_1.jpg =150x)![azuma_tengu_2.jpg](/suryong_nintendo_labels/azuma_tengu_2.jpg =150x)| ★★<br>Uncommon | Trademark first registered in Japan Pat. Off. in 1958. </br>Same label design as **Tengu**, but with silver background instead of gold. Could be the replacement for the brand **Gintengu**. An example with a newer label design from 1999 had a gold background instead of silver, but the clothing of the Tengu was purple instead of green. |
 | **Banzai**  <br>(萬歳, Live Ten Thousand Years) |![banzai_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/banzai_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in the **Nintendo Company Guide 2019.**|
+| **[Chiyozakura](/en/hanafuda/manufacturers/nintendo/chiyozakura)** <br>(千代桜, Thousand-year Sakura) |![4._chiyozakura.png](/suryong_nintendo_labels/4._chiyozakura.png =100x)| ★<br>Common | Encased in a two-piece clear plastic box. Card finish has an uncoated front and slightly matte back (Same as Miyako no Hana). <br>Known to be made as late as 2019; Quietly discontinued. <br>Trademark registration in Japan Pat. Off. transferred to Nintendo in 1998. (It used to be registered for Ryutendo)|
 | **[Chujo](/en/hanafuda/manufacturers/nintendo/chujo)**  <br>(中将, Lieutenant General) |![chujo1.jpg](/suryong_nintendo_labels/chujo1.jpg =150x)![chujo2.jpg](/suryong_nintendo_labels/chujo2.jpg =150x)| ★★★<br>Rare | Also used for shirofuda decks. |
 | **[Daifuku](/en/hanafuda/manufacturers/nintendo/daifuku)**  <br>(大福, Great Fortune) |![daifuku.jpg](/suryong_nintendo_labels/daifuku.jpg =150x)| ★★★★<br>Very Rare | An unused wrapper with this label exists. Another example shows a paulownia box set of black and red decks. Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. |
 | **[Daikoku](/en/hanafuda/manufacturers/nintendo/daikoku)**  <br>(大黒, short for Daikokuten) |![daikoku.jpg](/suryong_nintendo_labels/daikoku.jpg =150x)| ★★★★<br>Very Rare | Depicts Daikokuten, one of the Seven Lucky Gods.|
@@ -73,7 +74,7 @@ In addition to the standard hanafuda decks, Nintendo currently produces Mario Ha
 | **Heian**  <br>(平安, Peace) |![heian_sakura.png](/suryong_nintendo_labels/heian_sakura.png =150x)![heian1.png](/suryong_nintendo_labels/heian1.png =150x)![heian_3_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/heian_3_lost.jpg =150x)![heian_4_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/heian_4_lost.jpg =150x)| ★★★<br>Rare | Four label designs are known to exist. The first design was a Sakura tree on a silver background, and shared the same label design with **Marufuku Sakura**. The second design was a woman in Japanese clothing, against a yellow background; This was a trademark registered in Japan Pat. Off. in 1955 and in U.S. Pat. Off. in 1957.  </br>The third and fourth designs appear in the **Nintendo Company Guide 2019**, but are partially obscured.|
 | **[Hi no De](/en/hanafuda/manufacturers/nintendo/hi_no_de)**  <br>(日の出, Sunrise) |![hinode1.png](/suryong_nintendo_labels/hinode1.png =150x)![hinode2.jpg](/suryong_nintendo_labels/hinode2.jpg =150x)| ★★<br>Uncommon | Came in two label designs. The first design was a red shield with a gold Marufuku logo on a dark blue background. The word ‘NINTENDO’ was printed in Romaji at the bottom part of the label. The second design was a sihouette of a pine tree on a mountain, with a red sun rising on a yellow background. |
 | **[Hiruko](/en/hanafuda/manufacturers/nintendo/hiruko)**  <br>(蛭子, another name of Ebisu) |![hiruko.jpg](/suryong_nintendo_labels/hiruko_better.png =150x)| ★★★★★<br>**Unique** | Appears in the **Nintendo Brands and Chihofuda Poster** from early Showa era. Depicts Ebisu, one of the Seven Lucky Gods.|
-| **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
+| **Ho-oh**  <br>(鳳凰, Phoenix) |![houou.png](/suryong_nintendo_labels/houou.png =150x)| ★★★★★★<br>**Lost** | Not to be confused with the Nintendo Museum-exclusive hanafuda of the same name. <br>Shares the same label design with **Kinpo**. Appears in the **Nintendo Company Guide 2019.** |
 | **[Hyaku-en](/en/hanafuda/manufacturers/nintendo/hyaku-en)**  <br>(百圓, 100 yen) |![hyakuen.jpg](/suryong_nintendo_labels/hyakuen.jpg =150x)| ★★★★<br>Very rare |     |
 | **Hyakuman-en**  <br>(百万圓, 1 million yen) |![hyakumanen_kamigataya.jpg](/suryong_nintendo_labels/kamigataya/hyakumanen_kamigataya.jpg =150x)| ★★★<br>Rare | Produced by Nintendo for Kamigataya. Shares the same label design with **Asahi Sakura**, **Goshozakura**, **Kumoizakura**, and **Yaezakura**. Usui Nikkagetsudo also carries this brand.|
 | **Kajo**  <br>(霞城, Kasumi Castle) |![kajo_lost.jpg](/suryong_nintendo_labels/nintendo_2019_lost/otherlost/kajo_lost.jpg =150x)| ★★★★★★<br>**Lost** | Appears in a photo by Yamauchi No. 10. |
