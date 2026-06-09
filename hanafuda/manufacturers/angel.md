@@ -2,7 +2,7 @@
 title: Angel
 description: Manufacturer of hanafuda and other karuta
 published: true
-date: 2022-12-15T00:17:39.963Z
+date: 2026-06-09T08:10:58.593Z
 tags: hanafuda manufacturers
 editor: markdown
 dateCreated: 2022-04-01T18:04:17.010Z
@@ -17,6 +17,7 @@ Angel (as Angel Shoji Kabushiki-Gaisha [エンゼル商事株式会社]) registe
 Despite being mainly focused as a western playing card manufacturer and supplier of equipment for casinos, they still manufacture hanafuda and [kabufuda](/en/kabufuda) to this day.
 
 # Current Brands
+These were Angel's line of Hanafuda brands since 1997
 - **Genroku** - Their high-end hanafuda brand. The front coating is very smooth. Does not come with a blank card.
 - **Chidori** - Their common hanafuda brand. The front coating is not as smooth as Genroku's. Does not come with a blank card.
 - **Hanafuda with 2 Shirofuda** - Same as Chidori but with 2 blank cards included.
