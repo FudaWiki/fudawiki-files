@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2026-03-22T02:45:54.519Z
+date: 2026-06-27T08:16:42.801Z
 tags: lists
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -285,7 +285,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |*Tti Ppai*</br>띠 빠이|-|Flower-viewing Ribbons|Cherry Blossom Ribbon, Chrysanthemum Ribbon.|Korean local rule.|
 |*Tti Ppai*</br>띠 빠이|-|Moon-viewing Ribbons|Geese, Chrysanthemum Ribbon.|Korean local rule.|
 |Ume Shima</br>梅島|**Ume Tsubo** [梅壷]|Four Plum Blossoms|Four Plum Blossom cards.|Has mekurifuda origins.|
-|Ura Bāsan</br>裏婆さん|-|Club 10-9-8 *or* Greater 10-9-8|Deer, Sake Cup, Full Moon|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
+|Ura Bāsan</br>裏婆さん|-|Club 10-9-8 *or* Lesser 10-9-8|Deer, Sake Cup, Full Moon|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Gorōjū</br>裏御老中|Omote Gorōjū [表御老中] (in Tensho)|Lesser Elder *or* Lesser 5-6-10|Iris Ribbon, Phoenix, Maple Ribbon.|Used in Hon-bana. Possibly has mekurifuda origins, and is a goroawase pun for 5-6-10. Same as Tan no Gorōjū except the Peony Ribbon card has been replaced with the Phoenix card due to usage of Nagoya month sequence.|
 |Ura Hasshikiri</br>裏ハッシキリ|-|Sword 8-4-12 *or* Lesser 8-4-12|Full Moon, Cuckoo, Bush Warbler.|Used in Tensho. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
 |Ura Ichinisan</br>裏一二三|-|Club 1-2-3 *or* Greater 1-2-3|Crane, Swallow, Deer|Used in Tensho as a variant of Shimozan where the Rainman is replaced with Swallow. The Ura term refers to the blunt edge of a blade, alluding to its composition of Club cards.|
