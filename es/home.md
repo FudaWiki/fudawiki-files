@@ -2,7 +2,7 @@
 title: Fuda Wiki
 description: Una wiki para todo tipo de juegos de cartas tradicionales japoneses.
 published: true
-date: 2026-06-29T04:43:29.736Z
+date: 2026-06-29T14:55:39.494Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T04:43:29.736Z
@@ -32,3 +32,4 @@ Esta wiki se ha creado como un lugar para hablar sobre varios juegos de cartas j
 - [Otros juegos de Karuta](/es/karuta/games)
 
 La mayor parte de la comunicación se produce en el [servidor de Discord de Hanafuda (#wikifuda)](https://discord.gg/N4mBquRJTt).
+
