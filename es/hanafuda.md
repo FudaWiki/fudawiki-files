@@ -1,8 +1,8 @@
 ---
 title: Hanafuda
-description: 花札 (lit. cartas flores)
+description: 花札 (lit. cartas de flores)
 published: true
-date: 2026-06-29T07:42:59.501Z
+date: 2026-06-29T09:56:54.818Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T07:41:59.812Z
