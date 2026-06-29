@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-02-16T13:35:29.217Z
+date: 2026-06-29T12:32:31.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -72,7 +72,7 @@ Typically, there are 4 card ranks:
 
 [^4]: According to a few Japanese sources, the five Bright cards represent five types of light. The Crane card represents sunlight [日光, *nikkō*], the Moon card represents moonlight [月光, *gekkō*], the Phoenix card represents starlight [星光, *seikō*], the Rain Man card represents lighting [雷光, *raikō*], and the Curtain card represents springtime light [春光, *shunkō*] (from a Chinese phrase meaning "radiance of springtime" or "spring scenery", in Japanese also "spring sunlight").
 
-## Poems [古歌, *waka*]
+## Poems [和歌, *waka*]
 In old Hanafuda decks and some regional Hanafuda patterns, some of the Chaff cards contain poems written on them. These poems are only decorative, and have no purpose in any traditional game played with hanafuda known to date. 
 
 They are thought to have been devised as a way to attract people into buying them, as people at the time were fascinated with poetry, and as soon as poetry fell out of fashion among hanafuda players, manufacturers started removing the poems from the hanafuda designs. 
