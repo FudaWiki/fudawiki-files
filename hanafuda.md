@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2026-06-29T12:32:31.960Z
+date: 2026-06-29T12:51:55.434Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T17:55:22.099Z
@@ -81,7 +81,7 @@ They are thought to have been devised as a way to attract people into buying the
 {.is-warning}
 
 ## Wild Cards [鬼札 *onifuda*, lit. “demon card”]
-Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 cards; In games where wild cards are required, at least one of the cards **within** the 48 cards of the deck are used. For example, in [Mushi], the Chaff of [Willow](/en/hanafuda/suits/willow) is used as a **wild card**.
+Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 cards; In games where wild cards are required, at least one of the cards **within** the 48 cards of the deck are used. For example, in [Mushi](/en/hanafuda/games/mushi), the Chaff of [Willow](/en/hanafuda/suits/willow) is used as a **wild card**.
 
 However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
 
