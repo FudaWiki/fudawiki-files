@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. cartas de flores)
 published: true
-date: 2026-06-29T14:52:54.889Z
+date: 2026-06-29T14:53:34.006Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T07:41:59.812Z
@@ -70,7 +70,7 @@ Normalmente, hay 4 rangos de cartas:
 
 - **Animales** [たね, *tane*, lit. ‘semillas’] - También llamada Diez [十, tō ]. Representadas visualmente por un **animal** u **objeto** en el anverso de las cartas. Suelen ser las segundas cartas con mayor puntuación en la baraja, generalmente con un valor de **10 puntos** por carta.
 
-- **Brillantes** [光, *hikari*, lit. ‘luces’] - También llamada Especiales. Se caracterizan por ser las **cartas de mayor puntuación** en la baraja, generalmente con un valor de **20 puntos** por carta. Son visualmente indistinguibles de los Animales y varían entre los diferentes juegos. La asignación estándar de brillantes es la que se usa en [Hachi-hachi](/es/hanafuda/games/hachi-hachi), y hay 5 de ellas: La  ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Grulla**](/es/hanafuda/suits/pine#crane), la ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Cortina**](/es/hanafuda/suits/cherry-blossom#curtain), la ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Luna Llena**](/es/hanafuda/suits/susuki-grass#moon), el ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Hombre de la Lluvia**](/es/hanafuda/suits/willow#rain-man), y la ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Fénix**](/en/hanafuda/suits/paulownia#phoenix).[^4]
+- **Brillantes** [光, *hikari*, lit. ‘luces’] - También llamada Especiales. Se caracterizan por ser las **cartas de mayor puntuación** en la baraja, generalmente con un valor de **20 puntos** por carta. Son visualmente indistinguibles de los Animales y varían entre los diferentes juegos. La asignación estándar de brillantes es la que se usa en [Hachi-hachi](/es/hanafuda/games/hachi-hachi), y hay 5 de ellas: La  ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Grulla**](/es/hanafuda/suits/pine#crane), la ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Cortina**](/es/hanafuda/suits/cherry-blossom#curtain), la ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Luna Llena**](/es/hanafuda/suits/susuki-grass#moon), el ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Hombre de la Lluvia**](/es/hanafuda/suits/willow#rain-man), y la ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Fénix**](/es/hanafuda/suits/paulownia#phoenix).[^4]
 
 [^4]: Según algunas fuentes japonesas, las cinco cartas Brillantes representan cinco tipos de luz. La carta de la Grulla representa la luz del sol [日光, *nikkō*], la carta de la Luna Llena representa la luz de la luna [月光, *gekkō*], la carta de la Fénix representa la luz de estrella [星光, *seikō*], la carta del Hombre de la Lluvia representa la luz de relámpago [雷光, *raikō*], y la carta de la Cortina representa la luz de la primavera [春光, *shunkō*] (de una frase china que significa "resplandor de la primavera" o "paisaje primaveral", en japonés también "luz del sol de primavera").
 
