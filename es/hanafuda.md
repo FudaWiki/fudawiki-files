@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. cartas flores)
 published: true
-date: 2026-06-29T07:42:20.298Z
+date: 2026-06-29T07:42:35.863Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T07:41:59.812Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-29T07:41:59.812Z
 
 ![hanafuda_deck.jpg](/suryongfiles/hanafuda_deck.jpg =500x)
 
-**Hanafuda** [花札] o Hana-karuta [花かるた], literalmente “cartas de flores”, son cartas de [karuta](/en/karuta) japonesas que se utilizan para jugar a una gran variedad de juegos, de forma similar al formato estándar de las [naipes occidentales](/es/trump) [トランプ, 'trump']. Sin embargo, a diferencia de las **naipes occidentales**, que constan de **4 palos de 13 cartas cada uno**, la baraja estándar de hanafuda consta de **12 palos de 4 cartas cada uno**.
+**Hanafuda** [花札] o Hana-karuta [花かるた], literalmente “cartas de flores”, son cartas de [karuta](/es/karuta) japonesas que se utilizan para jugar a una gran variedad de juegos, de forma similar al formato estándar de las [naipes occidentales](/es/trump) [トランプ, 'trump']. Sin embargo, a diferencia de las **naipes occidentales**, que constan de **4 palos de 13 cartas cada uno**, la baraja estándar de hanafuda consta de **12 palos de 4 cartas cada uno**.
 
 **Cada [palo](/es/hanafuda/suits) individual, que se dice que representa un mes del año[^1],  tiene como tema una planta en particular y posee su propia distribución de [rangos de cartas](/es/hanafuda/types)**. Por ejemplo, el palo [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pino](/es/hanafuda/suits/pine) tiene una carta Brillante, una Cinta Poética y dos Básicas, mientras que el [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Sauce](/es/hanafuda/suits/willow) tiene una Brillante, una Cinta Sencilla, un Animal y una Básica. Esta estructura asimétrica de palos se aprovecha en muchos juegos, cuyas estrategias giran en torno a la captura de [*yaku*](/es/hanafuda/yaku) específicos de cartas dentro y entre rangos y palos.
 
