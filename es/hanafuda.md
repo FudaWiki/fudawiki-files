@@ -1,0 +1,141 @@
+---
+title: Hanafuda
+description: 花札 (lit. cartas flores)
+published: true
+date: 2026-06-29T07:41:59.812Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-29T07:41:59.812Z
+---
+
+![hanafuda_deck.jpg](/suryongfiles/hanafuda_deck.jpg =500x)
+
+**Hanafuda** [花札] o Hana-karuta [花かるた], literalmente “cartas de flores”, son cartas de [karuta](/en/karuta) japonesas que se utilizan para jugar a una gran variedad de juegos, de forma similar al formato estándar de las [naipes occidentales](/es/trump) [トランプ, 'trump']. Sin embargo, a diferencia de las **naipes occidentales**, que constan de **4 palos de 13 cartas cada uno**, la baraja estándar de hanafuda consta de **12 palos de 4 cartas cada uno**.
+
+**Cada [palo](/es/hanafuda/suits) individual, que se dice que representa un mes del año[^1],  tiene como tema una planta en particular y posee su propia distribución de [rangos de cartas](/en/hanafuda/types)**. Por ejemplo, el palo [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pino](/es/hanafuda/suits/pine) tiene una carta Brillante, una Cinta Poética y dos Básicas, mientras que el [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Sauce](/es/hanafuda/suits/willow) tiene una Brillante, una Cinta Sencilla, un Animal y una Básica. Esta estructura asimétrica de palos se aprovecha en muchos juegos, cuyas estrategias giran en torno a la captura de [*yaku*](/es/hanafuda/yaku) específicos de cartas dentro y entre rangos y palos.
+
+>Para obtener una lista de las diferentes variaciones de hanafuda y cómo difieren del patrón estándar, consulte [Variaciones de Hanafuda](/es/hanafuda/patterns). 
+{.is-info}
+
+>Para la versión Coreana de hanafuda, consulte [Hwatu](/es/hanafuda/hwatu).
+{.is-info}
+
+>Para ver una lista de juegos que se pueden jugar con hanafuda, consulte [Juegos de Hanafuda](/es/hanafuda/games).
+{.is-info}
+
+>Para obtener una lista de yaku utilizados en los juegos de hanafuda, consulte [Yaku](/es/hanafuda/yaku).
+{.is-info}
+
+# Historia
+*Ver [Los orígenes de Hanafuda](/en/mekurifuda/history#the-origins-of-hanafuda)*
+
+# Composición
+La siguiente tabla muestra las cartas en su orden y categorización estándar; sin embargo, tenga en cuenta que existen otras [disposiciones de palos](/es/hanafuda/suits#arrangement-of-suits) y categorizaciones de cartas, dependiendo del juego en cuestión.
+
+|#|Mes[^1]|Icono|Planta|Brillante|Animal[^3]|Cinta|Básica|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|Enero|![Icon for month 1](/hanafuda/icons/monthicon_1.png =50x)|[Pino](/es/hanafuda/suits/pine)|![10.svg](/sheldonchen-cards/10.svg#hanafuda-card =80x)|-|![11.svg](/sheldonchen-cards/11.svg#hanafuda-card =80x)|![12.svg](/sheldonchen-cards/12.svg#hanafuda-card =80x)![13.svg](/sheldonchen-cards/13.svg#hanafuda-card =80x)|
+|2|Febrero|![Icon for month 2](/hanafuda/icons/monthicon_2.png =50x)|[Ciruelo en flor](/es/hanafuda/suits/plum-blossom)|-|![20.svg](/sheldonchen-cards/20.svg#hanafuda-card =80x)|![21.svg](/sheldonchen-cards/21.svg#hanafuda-card =80x)|![22.svg](/sheldonchen-cards/22.svg#hanafuda-card =80x)![23.svg](/sheldonchen-cards/23.svg#hanafuda-card =80x)|
+|3|Marzo|![Icon for month 3](/hanafuda/icons/monthicon_3.png =50x)|[Cerezo en flor](/es/hanafuda/suits/cherry-blossom)|![30.svg](/sheldonchen-cards/30.svg#hanafuda-card =80x)|-|![31.svg](/sheldonchen-cards/31.svg#hanafuda-card =80x)|![32.svg](/sheldonchen-cards/32.svg#hanafuda-card =80x)![33.svg](/sheldonchen-cards/33.svg#hanafuda-card =80x)|
+|4|Abril|![Icon for month 4](/hanafuda/icons/monthicon_4.png =50x)|[Glicina](/es/hanafuda/suits/wisteria)|-|![40.svg](/sheldonchen-cards/40.svg#hanafuda-card =80x)|![41.svg](/sheldonchen-cards/41.svg#hanafuda-card =80x)|![42.svg](/sheldonchen-cards/42.svg#hanafuda-card =80x)![43.svg](/sheldonchen-cards/43.svg#hanafuda-card =80x)|
+|5|Mayo|![Icon for month 5](/hanafuda/icons/monthicon_5.png =50x)|[Iris](/es/hanafuda/suits/iris)|-|![50.svg](/sheldonchen-cards/50.svg#hanafuda-card =80x)|![51.svg](/sheldonchen-cards/51.svg#hanafuda-card =80x)|![52.svg](/sheldonchen-cards/52.svg#hanafuda-card =80x)![53.svg](/sheldonchen-cards/53.svg#hanafuda-card =80x)|
+|6|Junio|![Icon for month 6](/hanafuda/icons/monthicon_6.png =50x)|[Peonia](/es/hanafuda/suits/peony)|-|![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =80x)|![61.svg](/sheldonchen-cards/61.svg#hanafuda-card =80x)|![62.svg](/sheldonchen-cards/62.svg#hanafuda-card =80x)![63.svg](/sheldonchen-cards/63.svg#hanafuda-card =80x)|
+|7|Julio|![Icon for month 7](/hanafuda/icons/monthicon_7.png =50x)|[Lespedeza](/es/hanafuda/suits/bush-clover)|-|![70.svg](/sheldonchen-cards/70.svg#hanafuda-card =80x)|![71.svg](/sheldonchen-cards/71.svg#hanafuda-card =80x)|![72.svg](/sheldonchen-cards/72.svg#hanafuda-card =80x)![73.svg](/sheldonchen-cards/73.svg#hanafuda-card =80x)|
+|8|Agosto|![Icon for month 8](/hanafuda/icons/monthicon_8.png =50x)|[Eulalia Japonesa](/es/hanafuda/suits/susuki-grass)|![80.svg](/sheldonchen-cards/80.svg#hanafuda-card =80x)|![81.svg](/sheldonchen-cards/81.svg#hanafuda-card =80x)|-|![82.svg](/sheldonchen-cards/82.svg#hanafuda-card =80x)![83.svg](/sheldonchen-cards/83.svg#hanafuda-card =80x)|
+|9|Septiembre|![Icon for month 9](/hanafuda/icons/monthicon_9.png =50x)|[Crisantemo](/es/hanafuda/suits/chrysanthemum)|-|![90.svg](/sheldonchen-cards/90.svg#hanafuda-card =80x)|![91.svg](/sheldonchen-cards/91.svg#hanafuda-card =80x)|![92.svg](/sheldonchen-cards/92.svg#hanafuda-card =80x)![93.svg](/sheldonchen-cards/93.svg#hanafuda-card =80x)|
+|10|Octubre|![Icon for month 10](/hanafuda/icons/monthicon_10.png =50x)|[Arce](/es/hanafuda/suits/maple)|-|![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =80x)|![101.svg](/sheldonchen-cards/101.svg#hanafuda-card =80x)|![102.svg](/sheldonchen-cards/102.svg#hanafuda-card =80x)![103.svg](/sheldonchen-cards/103.svg#hanafuda-card =80x)|
+|11|Noviembre|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Sauce](/es/hanafuda/suits/willow)|![110.svg](/sheldonchen-cards/110.svg#hanafuda-card =80x)|![111.svg](/sheldonchen-cards/111.svg#hanafuda-card =80x)|![112.svg](/sheldonchen-cards/112.svg#hanafuda-card =80x)|![113.svg](/sheldonchen-cards/113.svg#hanafuda-card =80x)|
+|12|Diciembre|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/es/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
+
+## Suits
+As described above, there are usually 12 [**suits**](/en/hanafuda/suits) in a hanafuda deck, each visually represented by **a plant or flower** on the face of the card *(see composition chart above)*.
+
+These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially required when playing Sequence and Showdown games.
+
+Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
+
+## Card ranks
+In addition to the suits, hanafuda decks are categorized by their [**ranks**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
+
+Typically, there are 4 card ranks:
+- **Chaff** [カス, *kasu*, lit. ‘dregs, junk’] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
+
+> An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, commonly called the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Lightning**](/en/hanafuda/suits/willow#lightning) card in English, is used as a **wild card** in some games.
+{.is-info}
+
+- **Ribbons** [短冊, *tanzaku*, ‘paper slips’] - Also known as Scrolls, Slips, Strips, Poetry Slips, Poetry Ribbons, or simply Tanzaku. Visually represented by a **strip of paper called tanzaku**[^2] on the face of the cards, which come in 3 variants: Red with writing on them, Red without writing on them, and Blue (which is usually colored purple or black). They are typically the second least scoring cards in the deck, usually worth **5 points** per card.
+
+[^2]: Historically, *tanzaku* [短冊] were small slips of paper that people used to write short notes or poetry on. Nowadays it almost exclusively refers to slips of paper on which people write their wishes to hang in bamboo branches during the [Tanabata festival](https://en.wikipedia.org/wiki/Tanabata).
+
+- **Animals** [たね, *tane*, lit. ‘seeds’] - Also called Seeds or Tens [十, *tō*]. Visually represented by an **animal, or object** on the face of the cards. They are typically the second highest scoring cards in the deck, usually worth **10 points** per card.
+
+- **Brights** [光, *hikari*, lit. ‘lights’] - Also called Lights. Characterized by being the **highest scoring cards** in the deck, usually worth **20 points** per card. They are visually indistinguishable from Animals, and they vary between different games. The standard assignment of brights are the ones used in [Hachi-hachi](/en/hanafuda/games/hachi-hachi), and there are 5 of them: The ![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)[**Crane**](/en/hanafuda/suits/pine#crane), the ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)[**Curtain**](/en/hanafuda/suits/cherry-blossom#curtain), the ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)[**Full Moon**](/en/hanafuda/suits/susuki-grass#moon), the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Rainman**](/en/hanafuda/suits/willow#rain-man), and the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[**Phoenix**](/en/hanafuda/suits/paulownia#phoenix).[^4]
+
+[^4]: According to a few Japanese sources, the five Bright cards represent five types of light. The Crane card represents sunlight [日光, *nikkō*], the Moon card represents moonlight [月光, *gekkō*], the Phoenix card represents starlight [星光, *seikō*], the Rain Man card represents lighting [雷光, *raikō*], and the Curtain card represents springtime light [春光, *shunkō*] (from a Chinese phrase meaning "radiance of springtime" or "spring scenery", in Japanese also "spring sunlight").
+
+## Poems [古歌, *waka*]
+In old Hanafuda decks and some regional Hanafuda patterns, some of the Chaff cards contain poems written on them. These poems are only decorative, and have no purpose in any traditional game played with hanafuda known to date. 
+
+They are thought to have been devised as a way to attract people into buying them, as people at the time were fascinated with poetry, and as soon as poetry fell out of fashion among hanafuda players, manufacturers started removing the poems from the hanafuda designs. 
+
+> The standard hanafuda pattern does not have these poems.
+{.is-warning}
+
+## Wild Cards [鬼札 *onifuda*, lit. “demon card”]
+Usually, there are no included Wild Cards in a Hanafuda deck outside of the 48 cards; In games where wild cards are required, at least one of the cards **within** the 48 cards of the deck are used. For example, in [Mushi], the Chaff of [Willow](/en/hanafuda/suits/willow) is used as a **wild card**.
+
+However, certain regional hanafuda patterns included a Wild Card outside of the 48 cards. In Echigobana and Echigokobana, the Wild Card is depicted by a monster thought to be a *namahage* [生剥]. In Awabana, the Wild Card is depicted by Kintaro [金太郎].
+
+In addition, typically most modern hanafuda decks include a blank card called *shirofuda* [白札], which is used for various purposes, but can be used as a Wild Card in games that require one outside of the 48-card deck.
+
+# Using Hanafuda as a Substitute for Other Decks
+
+## As a Kabufuda Substitute
+Since most [Kabufuda](/en/kabufuda) games use only the numbers on the cards, A hanafuda deck can be used to play Kabufuda games, since each flower represents a **month** of the year, which corresponds to a **number** in a kabufuda deck. In games where special cards are used, Bright cards are typically used as their substitute.
+
+## As a Mekurifuda Substitute
+Hanafuda decks can and have been used to play Mekuri-kei fishing games. This is why the theory was created that hanafuda were used as a substitute for [Mekurifuda](/en/mekurifuda) after they were banned by the government.
+
+> However, historical evidence suggests that games using Hanafuda and games using Mekurifuda decks coexisted in the Kamigata region of Japan. There is also another theory that Mekurifuda were used as a substitute for playing hanafuda games, not the other way around. 
+{.is-warning}
+
+Each flower represents a **month** of the year, which **corresponds to a number** in a mekurifuda deck.
+
+The [standard month sequence](/en/hanafuda/suits#arrangement-of-suits) can be used in games where card ranks rarely matter, such as Yomi-type, Kabu-type, and Kingo-type games. However, in games where the *exact* structure of a mekurifuda deck is required, the [**Nagoya** month sequence](/en/hanafuda/suits#arrangement-of-suits) is used, as described below.
+
+|Mekurifuda</br>Number|Hanafuda</br>Month|Flower</br>Icon|Flower</br>Name|
+|:---:|:---:|:---:|:---:|
+|**1 (Dragon)**|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)|[Pine](/en/hanafuda/suits/pine)|
+|**2**|February|![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)|[Willow](/en/hanafuda/suits/willow)|
+|**3**|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|
+|**4**|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)|[Wisteria](/en/hanafuda/suits/wisteria)|
+|**5**|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)|[Iris](/en/hanafuda/suits/iris)|
+|**6**|June|![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)|[Paulownia](/en/hanafuda/suits/paulownia)|
+|**7**|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|
+|**8**|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|
+|**9**|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|
+|**10 (Maid**)|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)|[Maple](/en/hanafuda/suits/maple)|
+|**11 (Horse)**|November|![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)|[Peony](/en/hanafuda/suits/peony)|
+|**12 (King)**|December|![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|
+
+In the Nagoya month sequence, four of the months were shuffled about. The purpose seems to be so that the **Willow suit**, which has three scoring cards, takes the role of the **number 2** in a mekurifuda deck, which also has three scoring cards (*it is also worth mentioning that it is impossible to play certain mekuri games with a hanafuda deck if the standard month sequence is used, unless one junk of each month is marked to distinguish it from the other*), and that the **Phoenix card** takes the role of the **6 of Clubs** in a mekurifuda deck, which is usually overprinted with a gold 壽 (*kotobuki*, 'longevity').
+
+The **highest scoring** card of each month (except for Willow; it's the Swallow card) correspond to the **Clubs** suit of mekurifuda.
+
+The **ribbons**, as well as the Geese card and the yellow Paulownia chaff, correspond to the **Swords** suit of mekurifuda.
+
+The **Rainman** corresponds to the **2 of Coins**.
+
+**Other cards** correspond to the **Junks** of mekurifuda.
+
+# See Also
+- [Kabufuda](/en/kabufuda)
+- [Mekurifuda](/en/mekurifuda)
+- [Karuta](/en/karuta)
+
+# Bibliography
+- https://japanplayingcardmuseum.com/3-4-1-3-anothertenshocarta-game-modernjapan/
+
+# Footnotes
+[^1]: **Historical note:** While in modern times hanafuda suits are associated with months from the modern Gregorian calendar, hanafuda and its month sequence predate the introduction of the modern calendar in Japan. Hanafuda suits originally corresponded to the months of the pre-modern [Japanese lunar calendar,](https://en.wikipedia.org/wiki/Japanese_calendar#Months) which are 3 to 7 weeks later in the year than their Gregorian equivalents.<br>　The influence of the traditional calendar is especially clear with the 8th month, August. Its cards feature susuki grass and a full moon, symbols of the [Moon Viewing festival (*Tsukimi*).](https://en.wikipedia.org/wiki/Tsukimi) The festival takes place in the middle of the 8th month of the traditional calendar, which is not in August but usually in September or October.<br>　Similarly, autumn leaves represent October, while in most of Japan the peak of the autumn leaf season is around November.
+[^3]: ‘Animals’ seems to originally be an English term. The common Japanese term *tane* [種] literally translates to ‘seeds’.<br/>When pronounced differently, the character 種 can also mean ‘kinds, types, classes, variety’ (which is where the [Yakuza series](/en/hanafuda/video-games/steam/yakuza-series) got its rather unique translation ‘variety’ from).<!--Previously "subject" was mentioned as a possible meaning in this article, but that seems rather unlikely to be the origin. "Tane" only means subject as in the subject of a conversation, material for an article, etc, and in that case the word's true meaning is closer to "the materials or ingredients from which something is made".-->
