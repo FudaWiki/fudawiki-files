@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. cartas flores)
 published: true
-date: 2026-06-29T07:42:35.863Z
+date: 2026-06-29T07:42:59.501Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T07:41:59.812Z
@@ -27,7 +27,7 @@ dateCreated: 2026-06-29T07:41:59.812Z
 {.is-info}
 
 # Historia
-*Ver [Los orígenes de Hanafuda](/en/mekurifuda/history#the-origins-of-hanafuda)*
+*Ver [Los orígenes de Hanafuda](/es/mekurifuda/history#the-origins-of-hanafuda)*
 
 # Composición
 La siguiente tabla muestra las cartas en su orden y categorización estándar; sin embargo, tenga en cuenta que existen otras [disposiciones de palos](/es/hanafuda/suits#arrangement-of-suits) y categorizaciones de cartas, dependiendo del juego en cuestión.
