@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. cartas de flores)
 published: true
-date: 2026-06-29T09:56:54.818Z
+date: 2026-06-29T10:07:53.399Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T07:41:59.812Z
@@ -47,17 +47,18 @@ La siguiente tabla muestra las cartas en su orden y categorización estándar; s
 |11|Noviembre|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Sauce](/es/hanafuda/suits/willow)|![110.svg](/sheldonchen-cards/110.svg#hanafuda-card =80x)|![111.svg](/sheldonchen-cards/111.svg#hanafuda-card =80x)|![112.svg](/sheldonchen-cards/112.svg#hanafuda-card =80x)|![113.svg](/sheldonchen-cards/113.svg#hanafuda-card =80x)|
 |12|Diciembre|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/es/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
 
-## Suits
-As described above, there are usually 12 [**suits**](/en/hanafuda/suits) in a hanafuda deck, each visually represented by **a plant or flower** on the face of the card *(see composition chart above)*.
+## Palos
+Como se describió anteriormente, generalmente hay 12 [palos](/es/hanafuda/suits) en una baraja hanafuda, cada uno representado visualmente por una **planta o flor** en el anverso de la carta *(ver tabla de composición arriba)*.
 
-These suits represent the 12 months of the year; more specifically, the 12 **month numbers**. This means that by remembering which plant represents which month, a hanafuda deck could be used as if there were numbers on the cards. This is especially required when playing Sequence and Showdown games.
+Estos palos representan los 12 meses del año; más concretamente, **los 12 números de meses**. Esto significa que, recordando qué planta representa cada mes, una baraja de hanafuda puede usarse como si las cartas tuvieran números. Esto es especialmente importante al jugar a Secuencia y Showdown.
 
-Depending on the type of game used, and the region the game was played in, the [sequence of the months](/en/hanafuda/suits#arrangement-of-suits) could differ.
+Dependiendo del tipo de juego utilizado y de la región en la que se jugó, la [secuencia de los meses](/es/hanafuda/suits#arrangement-of-suits) podría variar.
 
-## Card ranks
-In addition to the suits, hanafuda decks are categorized by their [**ranks**](/en/hanafuda/types), which are denoted by various animals and objects on the card that are not a plant/flower.
 
-Typically, there are 4 card ranks:
+## Rango de cartas
+Además de los palos, las barajas de hanafuda se clasifican por sus [**rangos**](/es/hanafuda/types), que se indican mediante diversos animales y objetos en la carta que no son plantas ni flores.
+
+Normalmente, hay 4 rangos de cartas:
 - **Chaff** [カス, *kasu*, lit. ‘dregs, junk’] - Also known as Junks, Dregs, Plains, Basics, etc. They are so named because they are typically the **lowest scoring cards** in the deck, usually worth only **1 point** per card, or even none. They are visually characterized by having **no other things** on the face of the cards **except for the plant/flower**. 
 
 > An exception to this is the Chaff of [Willow](/en/hanafuda/suits/willow), which depicts a thunderstorm instead of willows, and is colored red and black. This card, commonly called the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)[**Lightning**](/en/hanafuda/suits/willow#lightning) card in English, is used as a **wild card** in some games.
