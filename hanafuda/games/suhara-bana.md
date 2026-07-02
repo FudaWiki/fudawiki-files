@@ -2,7 +2,7 @@
 title: Suhara-bana
 description: hanafuda game played in Suhara district of Okuwa village, Kiso district, Nagano Prefecture.
 published: true
-date: 2023-04-03T08:38:11.360Z
+date: 2026-07-02T12:28:07.688Z
 tags: hanafuda games
 editor: markdown
 dateCreated: 2022-07-10T10:58:02.736Z
@@ -340,7 +340,7 @@ Players who have borrowed plates must **deduct a full plate** worth of stones (1
 Players then count their stones, exchange them for bills, and determine the final score in bills.
 
 ## Exchange rate between Stones and Bills
-Each ichi-moto (11 white stones + 5 black stones) is worth a **'100'** bill.
+Each hito-moto (11 white stones + 6 black stones) is worth a **'100'** bill.
 If there are stones left, each “1 white stone + 1 black stone” is worth a **'10'** bill.
 If there are still white stones left, each remaining white stone is worth a **'5'** bill. 
 On the other hand, if there are still black stones left, each remaining 2 black stones is worth a **'5'** bill.
