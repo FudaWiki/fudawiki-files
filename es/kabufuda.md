@@ -2,7 +2,7 @@
 title: Kabufuda
 description: Cartas Japonesas de un solo palo
 published: true
-date: 2026-07-02T13:00:14.553Z
+date: 2026-07-03T06:26:19.198Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-02T13:00:14.553Z
@@ -34,7 +34,7 @@ Para ver una lista de juegos que se juegan con estas cartas, consulte [Juegos de
 |9|Kyu/Ku|![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png) ![9.png](/kabufuda/9.png)|
 |10 (Sota)|Juu/Tou*|![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png) ![j.png](/kabufuda/j.png)|
 
-- La '1' rojo se llama *Aza-pin* (赤ピン, 'uno rojo'). La pronunciación de *Aza* proviene del Portugués *As*, pero el carácter Japonés 赤 significa 'rojo'.
+- La '1' roja se llama *Aza-pin* (赤ピン, 'uno rojo'). La pronunciación de *Aza* proviene del Portugués *As*, pero el carácter Japonés 赤 significa 'rojo'.
 - La '4' especial se llama *Tama-shi* (玉四, 'cuatro redondo') o *Kin-shi* (金四, 'cuatro dorado').
 - La carta '10' también recibe el apodo de *Otou-san* (お父さん, 'padre'), un juego de palabras Japonés que hace referencia a su valor de 10 (十, *tou*) y también al Sota representado en la carta.
 
