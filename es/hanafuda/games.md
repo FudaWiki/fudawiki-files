@@ -2,7 +2,7 @@
 title: Lista de juegos de Hanafuda
 description: Una lista de juegos de hanafuda conocidos, tanto tradicionales como modernos.
 published: true
-date: 2026-07-04T12:11:10.826Z
+date: 2026-07-04T14:27:55.220Z
 tags: juegos de hanafuda, listas
 editor: markdown
 dateCreated: 2026-07-04T12:01:34.800Z
@@ -14,7 +14,7 @@ dateCreated: 2026-07-04T12:01:34.800Z
 > Para obtener la lista de **juegos Coreanos de Hwatu** en particular, consulte [**Lista de juegos Coreanos de Hwatu**](/es/hanafuda/hwatu#list-of-korean-hwatu-games).
 {.is-info}
 
-> Para obtener información sobre la **adivinación** mediante cartas hanafuda, consulte [**Adivinación con hanafuda**](/en/hanafuda/divination).
+> Para obtener información sobre la **adivinación** mediante cartas hanafuda, consulte [**Adivinación con hanafuda**](/es/hanafuda/divination).
 {.is-info}
 
 Existen muchos juegos que se pueden jugar con [hanafuda](/es/hanafuda), tanto tradicionales como de reciente invención.
