@@ -2,7 +2,7 @@
 title: Lista de juegos de Hanafuda
 description: Una lista de juegos de hanafuda conocidos, tanto tradicionales como modernos.
 published: true
-date: 2026-07-04T12:01:34.800Z
+date: 2026-07-04T12:11:10.826Z
 tags: juegos de hanafuda, listas
 editor: markdown
 dateCreated: 2026-07-04T12:01:34.800Z
@@ -39,14 +39,14 @@ Asimismo, en un juego al estilo Hana-Awase, si solo dos jugadores participan en 
 Estos juegos son relativamente conocidos y aparecen con bastante frecuencia en manuales de reglas y videojuegos.
 |Juego|Jugadores|Familia|Estilo|Origen|
 |:---|:---:|:---:|:---:|---:|
-|[Go-Stop](/en/hanafuda/games/go-stop), también conocido como Godori o Matgo|2-3 por ronda, máximo 7 por juego.|Pesca|Hana-Awase|Corea|
-|[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), también conocido como Yokohama-Bana|2-3 por ronda, máximo 7 por juego.|Pesca|Hana-Awase|Yokohama, Japón|
-|[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Pesca|Hana-Awase|Japón|
+|[Go-Stop](/en/hanafuda/games/go-stop) ("Pasa-Para"), también conocido como Godori o Matgo|2-3 por ronda, máximo 7 por juego.|Pesca|Hana-Awase|Corea|
+|[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) (“Ochenta y ocho”), también conocido como Yokohama-Bana|2-3 por ronda, máximo 7 por juego.|Pesca|Hana-Awase|Yokohama, Japón|
+|[Hana-Awase](/en/hanafuda/games/hana-awase) ("Emparejamiento de flores")|2-4|Pesca|Hana-Awase|Japón|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|normalmente 2|Pesca|Hana-Awase|Cuestionado|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-6|Pesca|Hana-Awase|Corea|
 |[Mushi](/en/hanafuda/games/mushi), también conocido como Ochi o Osaka Mushi|2 por ronda, máximo 4 por juego.|Pesca|Hana-Awase|Osaka, Japón|
 |[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), también conocido como Kabu, Kaho o Katori|2-10|Banca|Kabu-kei, Honbiki-kei|Japón|
-|[Roppyakken](/en/hanafuda/games/roppyakken), también conocido como Roppyakuken o Roppyakuten|2-3|Pesca|Hana-Awase|Japón|
+|[Roppyakken](/en/hanafuda/games/roppyakken) ("Seiscientos *ken*"), también conocido como Roppyakuken o Roppyakuten ("Seiscientos puntos")|2-3|Pesca|Hana-Awase|Japón|
 |[Sakura](/en/hanafuda/games/sakura), también conocido como Higo-Bana, Kumamoto-Bana, o Hawaiian Hanafuda (Hanafuda hawaiana)|2-7|Pesca|Hana-Awase|Provincia de Higo, Japón|
 |[Seotda](/en/hanafuda/games/seotda), también conocido como Sutda|2-20|Showdown|Kabu-kei|Corea|
 ## Other Traditional Games
