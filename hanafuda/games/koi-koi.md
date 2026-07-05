@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2026-07-05T13:08:11.721Z
+date: 2026-07-05T13:13:30.281Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -22,7 +22,7 @@ As such, don't be surprised if the version here differs from what you may be use
 There are several theories as to the origin of Koi-Koi.
 - According to Hidemasa Ide's book *Yakuza Jiten* (Yakuza Encyclopedia), Koi-Koi started to become popular in Tokyo in 1925.
 - According to Torakichi Hanzawa's book *Tobaku: Hanafuda, Saikoro, Ikasama teguchi* (Gambling: Hanafuda, Dice, and Cheating Techniques), Koi-koi originated in the Aizu region of Fukushima Prefecture, and it spread toward the Tokyo area in 1928, several decades after the game was invented.
-- According to Takashi Ebashi's book "A Cultural History of Things and People 167: Hanafuda" ([Link](https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/)), A hanafuda game emerged in Korea called [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic, and that game spread to Japan and became "Koi-Koi".
+- According to Takashi Ebashi's book "A Cultural History of Things and People 167: Hanafuda" ([Link](https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/)), A [hwatu](/en/hanafuda/hwatu) game emerged in Korea called [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic, and that game spread to Japan and became "Koi-Koi".
 However, Korean scholars usually consider Go-stop as a derivative of Koi-Koi. According to them, Go-Stop was brought to Korea around the 1960's under the name "Godori", after the normalization of diplomatic relations between Korea and Japan ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12)).
 
 # Setup
