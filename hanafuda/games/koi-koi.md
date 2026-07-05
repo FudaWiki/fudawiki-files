@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2025-09-23T01:39:34.083Z
+date: 2026-07-05T13:08:11.721Z
 tags: hanafuda games, fishing games, mekuri-kei
 editor: markdown
 dateCreated: 2022-04-01T18:01:26.612Z
@@ -14,12 +14,16 @@ Its name comes from its gameplay element that allows players to decide whether t
 
 Koi-Koi is among the best-known [hanafuda games](/en/hanafuda/games) outside of Japan, courtesy of its representation in numerous anime and video games.
 
-This game may have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic. ([Link](https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/))
-However, Korean scholars usually consider Go-stop as a derivative of Koi-Koi. ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12))
-
 A word of caution: As one of the most popular hanafuda games, Koi-Koi exists in a truly *huge* range of variations, above and beyond most of the other games on this site. Indeed, it may be no exaggeration to say that there are as many house rules as there are houses!
 
 As such, don't be surprised if the version here differs from what you may be used to. Many of these variations are collected at the end of the page.
+
+# Origin
+There are several theories as to the origin of Koi-Koi.
+- According to Hidemasa Ide's book *Yakuza Jiten* (Yakuza Encyclopedia), Koi-Koi started to become popular in Tokyo in 1925.
+- According to Torakichi Hanzawa's book *Tobaku: Hanafuda, Saikoro, Ikasama teguchi* (Gambling: Hanafuda, Dice, and Cheating Techniques), Koi-koi originated in the Aizu region of Fukushima Prefecture, and it spread toward the Tokyo area in 1928, several decades after the game was invented.
+- According to Takashi Ebashi's book "A Cultural History of Things and People 167: Hanafuda" ([Link](https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/)), A hanafuda game emerged in Korea called [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic, and that game spread to Japan and became "Koi-Koi".
+However, Korean scholars usually consider Go-stop as a derivative of Koi-Koi. According to them, Go-Stop was brought to Korea around the 1960's under the name "Godori", after the normalization of diplomatic relations between Korea and Japan ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12)).
 
 # Setup
 Game setup involves choosing a dealer - 親 [おや, *oya*], shuffling the deck, and distributing the initial cards.
@@ -246,8 +250,9 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
 - https://web.archive.org/web/20051125014910/http://hana.kirisame.org/koikoi.html
 - https://en.wikipedia.org/wiki/Koi-Koi
+- https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%84%E3%81%93%E3%81%84
 - Nintendo's Koi-Koi rules leaflets (both the current one and the blue 1960's one)
 - Innumerable threads on the [Hanafuda Reddit](https://www.reddit.com/r/Hanafuda/) where people have discussed their own house rules!
-- https://japanplayingcardmuseum.com/005-hanacarta-korea-hwatu/
+- https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/
 - https://www.joongang.co.kr/article/2893044
 - http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12
