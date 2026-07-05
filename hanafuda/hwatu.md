@@ -2,7 +2,7 @@
 title: Hwatu
 description: Korean flower cards
 published: true
-date: 2026-02-06T21:05:44.003Z
+date: 2026-07-05T14:16:19.606Z
 tags: hanafuda patterns, hwatu
 editor: markdown
 dateCreated: 2022-04-01T17:56:12.690Z
@@ -14,6 +14,8 @@ dateCreated: 2022-04-01T17:56:12.690Z
 
 The *Hwatu* deck structure is generally very similar to its Japanese counterpart, but with a few notable tendencies. First, these cards are generally made of thick plastic rather than the backpapered board. In addition, the Bright cards usually feature a circled *Hikari/Gwang* symbol to help distinguish them from the Animals, and the Willow and Paulownia suits are considered to be reversed in order from the Japanese standard month arrangement. Hwatu decks also typically come with around 6 jokers.
 
+Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling (*Hwatujeom*). However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
+
 # History of Hwatu
 In 1876, A treaty was made between the Empire of Japan and the Kingdom of Joseon (Korea), which opened Korea to Japanese Trade.
 
@@ -21,13 +23,13 @@ It is said that around that time, Hanafuda from Japan was introduced to the Kore
 
 Then in 1910, Japan colonized Korea. During that time, *Hwatu* was already widely spread to the common people, and a handful of [karuta](/en/karuta) manufacturers in Japan were exporting to Korea at the time. Early Japanese records during that time show that demand for *Hwatu* in Korea was higher than that in Japan. Folk songs based on the months of Hwatu called "*Hwatutaryeong*" were made during the colonial period.
 
-After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "*Waesaek*" ('Japanese aesthetic')- the remnants of Japanese colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, *Hwatu* definitely belongs in this category, and it fell out of use for a brief period of time before it gradually started being played again.
+After World War II ended in 1945, Korea became liberated from Japanese rule, and a strong anti-Japanese sentiment among the people caused a desire to erase "*Waesaek*" ('Japanese aesthetic')- the remnants of Japanese colonialism in Korea- from the lifestyle of Korean people. Due to its Japanese origins, *Hwatu* definitely belongs in this category, and it was banned and fell out of use during the early years after Korean liberation.
 
-In South Korea, the government banned *Hwatu* due to its Japanese aesthetic. Because of this, attempts to change the design of *Hwatu* into a fully Korean design were proposed (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
+In South Korea, attempts were made to change the design of *Hwatu* into a fully Korean design to get around the *Hwatu* ban (there is an example in a 1956 newspaper advertisement), but these attempts were unsuccessful.
 
-The year of change of material of *Hwatu* from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by war, South Korea during the 1950's had a petrochemical company capable of producing only the main needs of the country, and that the change in material of Hwatu instead happened sometime in the 1970's, when South Korea was experiencing a period of rapid economic growth. The plastic *Hwatu* proved to be more practical than paper *Hwatu*, and the popularity of the cards in South Korea rose again. 
+In 1965, the Treaty on Basic Relations Between Japan and the Republic of Korea was signed, establishing diplomatic relations between Japan and South Korea. Because of this, *Hwatu* gradually became used again. It is believed that Japan brought the game *Godori* to Korea after the establishment of diplomatic relations, and Koreans gave it the Korean-English name, [Go-Stop](/en/hanafuda/games/ds/go-stop). The game gained popularity during the 1970's, and by the 1980's, it was considered as a national pastime.
 
-Nowadays, Hwatu is considered a Korean folk pastime, being used to play traditional games and also for fortune telling (*Hwatujeom*). However, like its Japanese counterpart, it has a bad reputation of being an instrument for gambling.
+The year of change of material of *Hwatu* from paper to plastic is disputed. It is said that Hwatu made of plastic was first introduced during the 1950's after attempts to change the design of the illustrations failed. There is also a theory that argues against this, saying that as a country ravaged by war, South Korea during the 1950's had a petrochemical company capable of producing only the main needs of the country, and that the change in material of Hwatu instead happened sometime in the 1970's, when South Korea was experiencing a period of rapid economic growth. The plastic *Hwatu* proved to be more practical than paper *Hwatu*, and paper-made *Hwatu* fell out of fashion.
 
 It is also interesting to note that there were times when Korean-made *Hwatu* was exported to Japan, and also times when Japanese companies outsourced their hanafuda to Korean manufacturers. In the 2010's, Daiso, a budget store in Japan, sold plastic hanafuda. While these hanafuda contained designs resembling the Japanese hanafuda rather than Korean *Hwatu*, they were made in South Korea.
 
@@ -176,3 +178,4 @@ These cards are optional, and are typically used sparingly in fishing games such
 - https://www.segye.com/newsView/20190911508729
 - https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.khan.co.kr/local/Gyeonggnam/article/202211031005001&ved=2ahUKEwiaguWg7Y78AhX_plYBHZhDD-44ChAWegQIBhAB&usg=AOvVaw2jBNLyiMF0lSA5OKHg0xnh
 - https://japanplayingcardmuseum.com/005-4-hanacarta-hwatu-postworldwar/
+- https://en.wikipedia.org/wiki/Treaty_on_Basic_Relations_Between_Japan_and_the_Republic_of_Korea
