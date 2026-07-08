@@ -2,7 +2,7 @@
 title: Yaku
 description: Scoring combinations of cards in many hanafuda games
 published: true
-date: 2026-06-27T08:29:32.585Z
+date: 2026-07-08T11:33:14.349Z
 tags: lists
 editor: markdown
 dateCreated: 2022-04-01T17:57:01.139Z
@@ -266,7 +266,7 @@ For a list of all Hanafuda Yaku Names, see [Glossary of Hanafuda Yaku Names](/en
 |Tan no Gundari</br>短のグンダリ|-|Gundari Ribbons|Plum Blossom Ribbon, Maple Ribbon, Yellow Paulownia Chaff|Possibly has mekurifuda origins. Etymology unknown.|
 |Tan no Gundari</br>短のグンダリ|-|Gundari Ribbons|Plum Blossom Ribbon, Wisteria Ribbon, Yellow Paulownia Chaff|As mentioned in 1921 *Teikei Aru Hanzai No Chōsa* Kekoro rules. Same as above but Maple is replaced with Wisteria, for some reason.|
 |Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons *or* Lesser 12-4-11|Yellow Paulownia Chaff, Wisteria Ribbon, Willow Ribbon|Used only in the game Hachi. Possibly has mekurifuda origins, and is possibly a pun of the word for Paulownia, *kiri* (which is also 12 (king) in mekurifuda), mixed with the goroawase for 4. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
-|Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons|Yellow Paulownia Chaff, Plum Blossom Ribbon, Willow Ribbon|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except Willow is replaced with Plum Blossom for some reason.|
+|Tan no Kirishima</br>短の霧島|-|Mist Island Ribbons|Yellow Paulownia Chaff, Wisteria Ribbon, Plum Blossom Ribbon|Used only in the game Kekoro. Same as the Yaku of the same name mentioned above, except Willow is replaced with Plum Blossom for some reason.|
 |Tan no Kumanosan</br>短の熊野サン|-|Kumano Mountains' Ribbons *or* Lesser 9-11-3|Ribbons of Chrysanthemum, Willow, and Cherry Blossom.|Possibly has mekurifuda origins, and is a goroawase pun for 9 and 3. The '*ma*' part refers to *uma* (11 (horse) in mekurifuda).|
 |Tan no Nakazō</br>短の仲蔵|**Akazō** [赤蔵] (in Mekuri), **Aka** [赤] (in Tenshu), **Omote Nakazō** [表仲蔵] (in Tensho)|Swords 7-8-9 or Lesser 7-8-9|Bush Clover Ribbon, Geese, Chrysanthemum Ribbon.|Originally a Yaku in Mekuri called Akazō, which is possibly a combination of the nickname of the Swords suit, *Aka*, and the name of a Kabuki actor, *Nakazō*. The Omote term refers to the front edge of a blade, alluding to its composition of Sword cards.|
 |Tan no Sangoro</br>短の三五六|-|3-5-6 Ribbons *or* Lesser 3-5-6|Ribbons of Cherry Blossom, Iris, and Peony.|Possibly has mekurifuda origins.|
